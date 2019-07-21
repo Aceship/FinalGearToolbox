@@ -1,2 +1,2 @@
 # FinalGearToolbox
-Probably gonna make one 
+Gonna try basic stuff first for first few day
