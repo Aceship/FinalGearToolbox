@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "NotoSansHans Light";
+    src: url("fonts/NotoSansHans-Light-Alphabetic.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "Novecentosanswide Bold";
+    src: url("fonts/Novecentosanswide-Bold-webfont.eot");
+    src: 
+    url("fonts/Novecentosanswide-Bold-webfont.woff") format("woff"),
+    url("fonts/Novecentosanswide-Bold-webfont.otf") format("opentype"),
+    url("fonts/Novecentosanswide-Bold-webfont.svg#filename") format("svg");
+}
+
+@font-face {
+    font-family: "Novecentosanswide Normal";
+    src: url("fonts/Novecentosanswide-Normal-webfont.eot");
+    src: 
+    url("fonts/Novecentosanswide-Normal-webfont.woff") format("woff"),
+    url("fonts/Novecentosanswide-Normal-webfont.otf") format("opentype"),
+    url("fonts/Novecentosanswide-Normal-webfont.svg#filename") format("svg");
+}
+
+.rarity-0{
+    border:1px solid #7fda56
+}
+
+.rarity-1{
+    border:1px solid #0079fd
+}
+
+.rarity-2{
+    border:1px solid #a136b2
+}
+
+.rarity-3{
+    border:1px solid #ff6d02;
+}
