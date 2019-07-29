@@ -294,20 +294,24 @@
         "SuitName": "流浪武士",
         "SuitType": 2,
         "SuitWeaponID": [
-            2402414,
-            2302414
+            230241401,
+            2302414,
+            230241402
         ],
         "SuitChestID": [
-            2402423,
-            2302423
+            230242301,
+            2302423,
+            230242302
         ],
         "SuitLegID": [
-            2402433,
-            2302433
+            230243301,
+            2302433,
+            230243302
         ],
         "SuitBackpackID": [
-            2402443,
-            2302443
+            230244301,
+            2302443,
+            230244301
         ],
         "SuitGirlID": [
             24
@@ -665,7 +669,7 @@
         "Name": "套装数据"
     },
     {
-        "SuitName": "α-16",
+        "SuitName": "RN特战型",
         "SuitType": 2,
         "SuitWeaponID": [
             2303916
@@ -713,15 +717,15 @@
         },
         "Suit5Desc": "机甲伤害提高10%\n激活专属机甲模型",
         "MachineArmorID": 3901,
-        "WidgetCamp": 5,
-        "Designer": "苏茉拉",
-        "Manufacturer": "执作者家族",
-        "Disc": "麦西奥拉的部分动力来源于薇欧蕾特的手脚，这是只有娜可朵莉丝才能做到的技术。",
-        "HpRate": 8,
-        "AtkRate": 9,
-        "DodgeRate": 9,
-        "HitRate": 10,
-        "ArmorRate": 9,
+        "WidgetCamp": 7,
+        "Designer": "林贝儿",
+        "Manufacturer": "奥斯菲尔德工会",
+        "Disc": "这是由林贝儿亲自监督制作的新一代战争兵器。\nRN特战型轻便、快速、贴身，在此基础上还有着不输于一般机甲的火力。\nRN特战型的完成标志着AG计划的正式启动。\nα-16是首个成为RN特战型装甲的使用者。",
+        "HpRate": 6,
+        "AtkRate": 8,
+        "DodgeRate": 10,
+        "HitRate": 8,
+        "ArmorRate": 7,
         "ID": 303901,
         "Name": "套装数据"
     }

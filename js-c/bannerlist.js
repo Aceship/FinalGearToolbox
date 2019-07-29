@@ -62,14 +62,14 @@ function ListBanner() {
             
             htmlcontent.push(`<div class='tenpull-container shadow-thin'>
             <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
-            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png">
+            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}'>
             x${recruitData.detail[i].TenRecruitNeed[1]} `)
             if(recruitData.detail[i].Award){
                 var awardSplit = recruitData.detail[i].Award.split(",")
                 var currReward = db.itemData.find(search=>search.ID == awardSplit[0])
                 htmlcontent.push(`<br>
                 Reward<br>
-                <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currReward.Icon}.png">
+                <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currReward.Icon}.png" title='${currReward.Name}'>
                 x${awardSplit[1]}
                 `)
             }
@@ -98,7 +98,7 @@ function ListBanner() {
                 ${element.girl.Name}<br>
                 ${element.girl.EnglishName}<br>
                 
-                    <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
+                    <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${element.girl.Name} ${element.girl.EnglishName}'><br>
                     <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                 </div>
                 `)
@@ -124,7 +124,7 @@ function ListBanner() {
         
         girlListArray.forEach(element => {
             
-            htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png"> `)
+            htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
         });
         
         htmlcontent.push(`</div><hr style="height:10px;background:#555555">`)
@@ -145,7 +145,7 @@ function ListBanner() {
             var currItem = db.itemData.find(search=>search.ID == element[0])
             // console.log(currItem)
             htmlcontent.push(`<div>
-            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png">
+            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
             x${element[1]}
             </div> `)
         });
@@ -160,7 +160,12 @@ function ListBanner() {
 
                 console.log(filterRandomNormal)
                 console.log(filterRandomFull)
-
+                htmlcontent.push(`Rate Per Rarity :<br>`)
+                var probability = currRec.ProbabilityPrew.split(";")
+                probability.forEach(element => {
+                    var raritydrop = element.replace('机师','').split(',')
+                    htmlcontent.push(`<img style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> ${raritydrop[1]}<br>`)
+                });
                 if(currRec.UpGirl){
                     var upGirlList = []
                     var currUpGirlList = currRec.UpGirl.split(";")
@@ -177,7 +182,7 @@ function ListBanner() {
                         ${element.girl.Name}<br>
                         ${element.girl.EnglishName}<br>
                         
-                            <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
+                            <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${element.girl.Name} ${element.girl.EnglishName}'><br>
                             <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                         </div>
                         `)
@@ -207,7 +212,7 @@ function ListBanner() {
                 
                 girlListArray.forEach(element => {
                     
-                    htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png"> `)
+                    htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
                 });
 
                 if(filterRandomFull.length>0){
@@ -228,7 +233,7 @@ function ListBanner() {
                     
                     girlListArray.forEach(element => {
                         
-                        htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png"> `)
+                        htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
                     });
                     
                 }
@@ -240,6 +245,14 @@ function ListBanner() {
 
                 // console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
+                htmlcontent.push(`Rate Per Rarity :<br>`)
+                var probability = currRec.ProbabilityPrew.split(";")
+                probability.forEach(element => {
+                    var raritydrop = element.replace(/\n/g, "<br />");
+                    raritydrop=raritydrop.replace(/,/g,"<br>").replace("111111","<br>").replace("1111111率率率","<br>")
+                    console.log(raritydrop)
+                    htmlcontent.push(`${raritydrop}<br>`)
+                });
                 if(currRec.GirlList){
                     var suitList = currRec.GirlList.split(",")
                     suitList.forEach(element => {
@@ -249,8 +262,10 @@ function ListBanner() {
                         // console.log(currskin.MachineArmorModel1)
                         if(currskin&&currskin.MachineArmorModel1[1]){
                             var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
+                            var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
+                            console.log(currSuit)
                             console.log(currSuitData.preview1)
-                            htmlcontent.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png">`)
+                            htmlcontent.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
                         }
                     });
                 }
@@ -258,7 +273,7 @@ function ListBanner() {
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                    htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png"> `)
+                    htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                 });
                 // console.log(filterRandomFull)
                 if(filterRandomFull.length>0){
@@ -266,7 +281,7 @@ function ListBanner() {
                     filterRandomFull.forEach(element => {
                         var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                        htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png"> `)
+                        htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                     });
                 }
 
