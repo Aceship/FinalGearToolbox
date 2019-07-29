@@ -53,7 +53,7 @@ function ListBanner() {
             </br>
             10x Pull: </br>
         `)
-
+        
         console.log(recruitData)
         htmlcontent.push(`<div style='display:inline-block;padding:2px'>`)
         for(i=0;i<recruitData.total;i++){
@@ -75,7 +75,13 @@ function ListBanner() {
             }
             htmlcontent.push('</div> ')
         }
-        htmlcontent.push(`</div>`)
+        htmlcontent.push(`</div><br>`)
+        htmlcontent.push(`Rate Per Rarity :<br>`)
+        var probability = recruitData.detail[0].ProbabilityPrew.split(";")
+        probability.forEach(element => {
+            var raritydrop = element.replace('机师','').split(',')
+            htmlcontent.push(`<img style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> ${raritydrop[1]}<br>`)
+        });
         if(recruitData.detail[0].UpGirl){
             var upGirlList = []
             var currUpGirlList = recruitData.detail[0].UpGirl.split(";")
@@ -91,12 +97,14 @@ function ListBanner() {
                 <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
                 ${element.girl.Name}<br>
                 ${element.girl.EnglishName}<br>
+                
                     <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
                     <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                 </div>
                 `)
             });
 
+            // <hr class='rarity-back-${element.girl.GirlQualityType}' style="height:10px;margin-bottom:2px;margin-top:2px">
             htmlcontent.push(`</br>`)
         }   
         htmlcontent.push(`</br>Random List </br>`)
@@ -168,6 +176,7 @@ function ListBanner() {
                         <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
                         ${element.girl.Name}<br>
                         ${element.girl.EnglishName}<br>
+                        
                             <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
                             <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                         </div>
@@ -280,6 +289,13 @@ function EquipType(n){
         default: return n 
     }
 }
+
+// function RarityImg(n){
+//     switch(n){
+//         case 0 :
+//         case "N" : return `<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png"> `
+//     }
+// }
 
 function LoadAllJsonObjects(obj) {
     var result = {}
