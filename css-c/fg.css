@@ -21,6 +21,10 @@
     url("fonts/Novecentosanswide-Normal-webfont.svg#filename") format("svg");
 }
 
+body{
+    background: #666666
+}
+
 .rarity-0{
     border:1px solid #7fda56
 }
@@ -35,4 +39,43 @@
 
 .rarity-3{
     border:1px solid #ff6d02;
+}
+
+.rarity-back-0{
+    background:#7fda56;
+    color:#000000;
+}
+
+.rarity-back-1{
+    background:#0079fd;
+    color:#000000;
+}
+
+.rarity-back-2{
+    background:#a136b2;
+    color:#000000;
+}
+
+.rarity-back-3{
+    background:#ff6d02;
+    color:#000001;
+    
+}
+
+.shadow-thin{
+    box-shadow: 1px 1px 10px #001144AA
+}
+
+.tenpull-container{
+    display:inline-block;
+    border:1px solid #ffffff;
+    text-align: center;
+    vertical-align:top;
+    height:180px;
+    width:100px
+}
+.tenpull-number{
+    display:inline-block;
+    font-size: 30px;
+    font-weight: bold;
 }

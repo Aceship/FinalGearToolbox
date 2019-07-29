@@ -24,6 +24,104 @@ $(document).ready(function(){
 
 function ListBanner() {
     var htmlcontent =[]
+    var tenBanner=[]
+    for(i=0;i<db.tenRecruitData.length;i++){
+        var currRec= db.tenRecruitData[i]
+        var girlListArray = []
+        var filterRandomTen = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.TenRandomLibraryID)
+        var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.RandomLibraryID)
+        // console.log(filterRandomTen)
+        console.log(currRec.TenRecruitID)
+        if(!tenBanner[currRec.TenRecruitID]){
+            tenBanner[currRec.TenRecruitID]={}
+            tenBanner[currRec.TenRecruitID].list=[]
+            tenBanner[currRec.TenRecruitID].detail=[]
+            tenBanner[currRec.TenRecruitID].total = 0
+        }
+
+        tenBanner[currRec.TenRecruitID].list.push(filterRandomTen)
+        tenBanner[currRec.TenRecruitID].detail.push(currRec)
+        tenBanner[currRec.TenRecruitID].total++
+    }
+    // console.log(tenBanner)
+
+    tenBanner.forEach(recruitData => {
+        htmlcontent.push(`
+        <div>
+             </br>
+            Limited Pilot Recruit</br>
+            </br>
+            10x Pull: </br>
+        `)
+
+        console.log(recruitData)
+        htmlcontent.push(`<div style='display:inline-block;padding:2px'>`)
+        for(i=0;i<recruitData.total;i++){
+            
+            var currItem = db.itemData.find(search=>search.ID == recruitData.detail[i].TenRecruitNeed[0])
+            
+            htmlcontent.push(`<div class='tenpull-container shadow-thin'>
+            <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
+            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png">
+            x${recruitData.detail[i].TenRecruitNeed[1]} `)
+            if(recruitData.detail[i].Award){
+                var awardSplit = recruitData.detail[i].Award.split(",")
+                var currReward = db.itemData.find(search=>search.ID == awardSplit[0])
+                htmlcontent.push(`<br>
+                Reward<br>
+                <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currReward.Icon}.png">
+                x${awardSplit[1]}
+                `)
+            }
+            htmlcontent.push('</div> ')
+        }
+        htmlcontent.push(`</div>`)
+        if(recruitData.detail[0].UpGirl){
+            var upGirlList = []
+            var currUpGirlList = recruitData.detail[0].UpGirl.split(";")
+            htmlcontent.push(`</br>Rate Up : </br>`)
+            currUpGirlList.forEach(UpGirl => {
+                var currgirl = db.girlData.find(search=>search.ID == UpGirl.split(",")[0])
+                var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+                upGirlList.push({girl:currgirl,skin:currskin,rate:UpGirl.split(",")[1]})
+            });
+
+            upGirlList.forEach(element => {
+                htmlcontent.push(`
+                <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
+                ${element.girl.Name}<br>
+                ${element.girl.EnglishName}<br>
+                    <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
+                    <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
+                </div>
+                `)
+            });
+
+            htmlcontent.push(`</br>`)
+        }   
+        htmlcontent.push(`</br>Random List </br>`)
+        var girlListArray = []
+        recruitData.list[0].forEach(element => {
+            var currgirl = db.girlData.find(search=>search.ItemID == element.StuffID)
+            if(currgirl){
+                var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+                if(currgirl.ID<1000){
+                    girlListArray.push({girl:currgirl,skin:currskin})
+                }
+            }
+        });
+        girlListArray.sort((a,b)=>{
+            return b.girl.GirlQualityType - a.girl.GirlQualityType
+        })
+        
+        girlListArray.forEach(element => {
+            
+            htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png"> `)
+        });
+        
+        htmlcontent.push(`</div><hr style="height:10px;background:#555555">`)
+    });
+    
     for(i=0;i<db.recruitData.length;i++){
         console.log(db.recruitData[i])
         var currRec= db.recruitData[i]
@@ -66,7 +164,14 @@ function ListBanner() {
                     });
 
                     upGirlList.forEach(element => {
-                        htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:120px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"> ${element.rate}`)
+                        htmlcontent.push(`
+                        <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
+                        ${element.girl.Name}<br>
+                        ${element.girl.EnglishName}<br>
+                            <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png"><br>
+                            <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
+                        </div>
+                        `)
                     });
 
                     htmlcontent.push(`</br>`)
