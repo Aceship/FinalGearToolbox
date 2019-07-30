@@ -26,18 +26,22 @@ body{
 }
 
 .rarity-0{
+    background: #00000044;
     border:1px solid #7fda56
 }
 
 .rarity-1{
+    background: #00000044;
     border:1px solid #0079fd
 }
 
 .rarity-2{
+    background: #00000044;
     border:1px solid #a136b2
 }
 
 .rarity-3{
+    background: #00000044;
     border:1px solid #ff6d02;
 }
 
@@ -58,7 +62,7 @@ body{
 
 .rarity-back-3{
     background:#ff6d02;
-    color:#000001;
+    color:#000000;
     
 }
 
@@ -67,15 +71,31 @@ body{
 }
 
 .tenpull-container{
+    background: #000000;
     display:inline-block;
     border:1px solid #ffffff;
     text-align: center;
     vertical-align:top;
     height:180px;
-    width:100px
+    width:100px;
+    margin:3px;
 }
 .tenpull-number{
     display:inline-block;
     font-size: 30px;
     font-weight: bold;
+}
+
+.container{
+    background: #000000AA;
+    color:#DDDDDD;
+}
+.nav-tabs .nav-link{
+    border-radius: 0px
+}
+.nav-link a{
+    color:#DDDDDD
+}
+.nav-item{
+    
 }

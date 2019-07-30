@@ -127,31 +127,34 @@ function ListBanner() {
             htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
         });
         
-        htmlcontent.push(`</div><hr style="height:10px;background:#555555">`)
+        htmlcontent.push(`</div><hr style="height:10px;background:#333333">`)
     });
     
+    $("#tenpull").html(htmlcontent.join(""))
+    var htmlcontent=[]
+    var htmlcontent2 = []
     for(i=0;i<db.recruitData.length;i++){
         console.log(db.recruitData[i])
         var currRec= db.recruitData[i]
         
-        htmlcontent.push(`
-        <div>
-            ${currRec.RecruitName} </br>
-            ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
-            </br>
-            Item Required : </br>
-        `)
-        currRec.RecruitNeed.forEach(element => {
-            var currItem = db.itemData.find(search=>search.ID == element[0])
-            // console.log(currItem)
-            htmlcontent.push(`<div>
-            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
-            x${element[1]}
-            </div> `)
-        });
-        htmlcontent.push(`</div>`)
         switch (currRec.RecruitType) {
             case 0:
+                htmlcontent.push(`
+                <div>
+                    ${currRec.RecruitName} </br>
+                    ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
+                    </br>
+                    Item Required : </br>
+                `)
+                currRec.RecruitNeed.forEach(element => {
+                    var currItem = db.itemData.find(search=>search.ID == element[0])
+                    // console.log(currItem)
+                    htmlcontent.push(`<div>
+                    <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
+                    x${element[1]}
+                    </div> `)
+                });
+                htmlcontent.push(`</div>`)
                 var girlListNumber = currRec.GirlList.split(",")
                 // console.log(girlListNumber)
                 var girlListArray = []
@@ -237,21 +240,37 @@ function ListBanner() {
                     });
                     
                 }
-                
+                htmlcontent.push(`</div><hr style="height:10px;background:#333333">`)
                 break;
             case 1:
+                htmlcontent2.push(`
+                <div>
+                    ${currRec.RecruitName} </br>
+                    ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
+                    </br>
+                    Item Required : </br>
+                `)
+                currRec.RecruitNeed.forEach(element => {
+                    var currItem = db.itemData.find(search=>search.ID == element[0])
+                    // console.log(currItem)
+                    htmlcontent2.push(`<div>
+                    <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
+                    x${element[1]}
+                    </div> `)
+                });
+                htmlcontent2.push(`</div>`)
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
 
                 // console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
-                htmlcontent.push(`Rate Per Rarity :<br>`)
+                htmlcontent2.push(`Rate Per Rarity :<br>`)
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace(/\n/g, "<br />");
-                    raritydrop=raritydrop.replace(/,/g,"<br>").replace("111111","<br>").replace("1111111率率率","<br>")
+                    raritydrop=raritydrop.replace("111111","").replace("1111111率率率","")
                     console.log(raritydrop)
-                    htmlcontent.push(`${raritydrop}<br>`)
+                    htmlcontent2.push(`${raritydrop}<br>`)
                 });
                 if(currRec.GirlList){
                     var suitList = currRec.GirlList.split(",")
@@ -265,34 +284,35 @@ function ListBanner() {
                             var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
                             console.log(currSuit)
                             console.log(currSuitData.preview1)
-                            htmlcontent.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
+                            htmlcontent2.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
                         }
                     });
                 }
-                htmlcontent.push(`</br>Random Normal </br>`)
+                htmlcontent2.push(`</br>Random Normal </br>`)
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                    htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                    htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                 });
                 // console.log(filterRandomFull)
                 if(filterRandomFull.length>0){
-                    htmlcontent.push(`</br></br>Random Full Bar </br>`)
+                    htmlcontent2.push(`</br></br>Random Full Bar </br>`)
                     filterRandomFull.forEach(element => {
                         var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                        htmlcontent.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                        htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                     });
                 }
-
+                htmlcontent2.push(`</div><hr style="height:10px;background:#333333">`)
                 break;
             default:
                 break;
         }
-        htmlcontent.push(`</div><hr style="height:10px;background:#555555">`)
+       
     }
 
-    $("#bannerlist-content").html(htmlcontent.join(""))
+    $("#recruitpull").html(htmlcontent.join(""))
+    $("#developpull").html(htmlcontent2.join(""))
 }
 function EquipType(n){
     switch(n){
