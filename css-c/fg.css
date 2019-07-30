@@ -67,16 +67,16 @@ body{
 }
 
 .shadow-thin{
-    box-shadow: 1px 1px 10px #001144AA
+    box-shadow: 1px 1px 5px #001144AA
 }
 
 .tenpull-container{
     background: #000000;
     display:inline-block;
-    border:1px solid #ffffff;
+    /* border:1px solid #ffffff; */
     text-align: center;
     vertical-align:top;
-    height:180px;
+    height:230px;
     width:100px;
     margin:3px;
 }
@@ -98,4 +98,41 @@ body{
 }
 .nav-item{
     
+}
+
+
+.fg-border{
+    border-image: url('../img/extra/resource/edge-border.png') 50 round;
+    border-image-slice: 20%;
+    border-image-width: 20px 20px;
+    
+}
+.fg-corner{
+    border-image: url('../img/extra/resource/edge-corner.png') 50 round;
+    border-image-slice: 20%;
+    border-image-width: 20px 20px;
+    border-image-outset: 1px;
+}
+
+.fg-thinfill{
+    background-image: url("../img/extra/resource/smallstripefill.png");
+    background-repeat: repeat;
+}
+
+.fg-itemcontainer{
+    width:128px;
+    height:128px;
+}
+
+.fg-itemQuantityfont{
+    color:#ffffff;
+    font-weight: 900;
+    text-shadow: 1px 1px 4px #000000;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.fg-subtitlefont{
+    font-weight: 600;
+    color:#ffffff;
 }

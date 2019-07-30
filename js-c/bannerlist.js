@@ -59,21 +59,35 @@ function ListBanner() {
         for(i=0;i<recruitData.total;i++){
             
             var currItem = db.itemData.find(search=>search.ID == recruitData.detail[i].TenRecruitNeed[0])
+            // htmlcontent.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType))
+
             
-            htmlcontent.push(`<div class='tenpull-container shadow-thin'>
+            htmlcontent.push(`<div class='tenpull-container shadow-thin fg-border fg-thinfill' >
             <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
-            <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}'>
-            x${recruitData.detail[i].TenRecruitNeed[1]} `)
+            <div style="display: inline-block;margin:auto">
+            ${ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType)}
+            </div>`)
+
+            // htmlcontent.push(`<div class='tenpull-container shadow-thin fg-border fg-thinfill'>
+            // <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
+            // <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}'>
+            // x${recruitData.detail[i].TenRecruitNeed[1]} `)
             if(recruitData.detail[i].Award){
                 var awardSplit = recruitData.detail[i].Award.split(",")
                 var currReward = db.itemData.find(search=>search.ID == awardSplit[0])
-                htmlcontent.push(`<br>
-                Reward<br>
-                <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currReward.Icon}.png" title='${currReward.Name}'>
-                x${awardSplit[1]}
+                htmlcontent.push(`
+                Rewards<br>
+                <div style="display: inline-block;margin:auto">
+                ${ItemBoxMaker(currReward.Name,`./img/equippartsicon/item/${currReward.Icon}.png`,awardSplit[1],currReward.ItemQualityType)}
+                </div>
                 `)
+                // htmlcontent.push(`<br>
+                // Reward<br>
+                // <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currReward.Icon}.png" title='${currReward.Name}'>
+                // x${awardSplit[1]}
+                // `)
             }
-            htmlcontent.push('</div> ')
+            htmlcontent.push('</div>')
         }
         htmlcontent.push(`</div><br>`)
         htmlcontent.push(`Rate Per Rarity :<br>`)
@@ -149,10 +163,7 @@ function ListBanner() {
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
-                    htmlcontent.push(`<div>
-                    <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
-                    x${element[1]}
-                    </div> `)
+                    htmlcontent.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
                 htmlcontent.push(`</div>`)
                 var girlListNumber = currRec.GirlList.split(",")
@@ -253,10 +264,12 @@ function ListBanner() {
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
-                    htmlcontent2.push(`<div>
-                    <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
-                    x${element[1]}
-                    </div> `)
+                    htmlcontent2.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
+                    
+                    // htmlcontent2.push(`<div>
+                    // <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
+                    // x${element[1]}
+                    // </div> `)
                 });
                 htmlcontent2.push(`</div>`)
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
@@ -331,6 +344,39 @@ function EquipType(n){
 //         case "N" : return `<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png"> `
 //     }
 // }
+
+function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
+    var height = 128/100*scale;
+    var width = 128/100*scale;
+    var header = 26/100*scale;
+    var rare = QualityToRarity(rarity)
+    console.log(rare)
+    var boxhtml = `
+    <div style="position:relative;height:${height}px;width:${width}px;margin:4px">
+        <div class='rarity-back-${rarity}' style='height:${header}px;width:${width}px;position:absolute'>
+        <div class='fg-subtitlefont' style="float:right;font-size:${header}px;margin-right:2px;margin-top:-4px">${rare}</div>
+        </div>
+        <div class='rarity-${rarity}'style='height:${height}px;width:${width}px;position:absolute'><img style="height:${height}px;padding:0px" src="${imagelink}" title='${titlename}' ></div>
+        <div class='fg-itemQuantityfont' style='position:absolute;text-align:right;bottom:0px;right:2px;margin:auto;display:inline-block'>${quantity?`x${quantity}`:``}</div>
+        <div class='fg-corner' style="pointer-events: none;position:relative;height:${height}px;width:${width}px;"></div>
+    </div>
+
+    `
+
+
+    
+    return boxhtml
+}
+
+function QualityToRarity(n){
+    switch(n){
+        case 0 : return "N"
+        case 1 : return "R"
+        case 2 : return "SR"
+        case 3 : return "SSR"
+    }
+    return ""
+}
 
 function LoadAllJsonObjects(obj) {
     var result = {}
