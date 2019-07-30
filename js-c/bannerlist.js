@@ -31,7 +31,7 @@ function ListBanner() {
         var filterRandomTen = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.TenRandomLibraryID)
         var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.RandomLibraryID)
         // console.log(filterRandomTen)
-        console.log(currRec.TenRecruitID)
+        // console.log(currRec.TenRecruitID)
         if(!tenBanner[currRec.TenRecruitID]){
             tenBanner[currRec.TenRecruitID]={}
             tenBanner[currRec.TenRecruitID].list=[]
@@ -54,7 +54,7 @@ function ListBanner() {
             10x Pull: </br>
         `)
         
-        console.log(recruitData)
+        // console.log(recruitData)
         htmlcontent.push(`<div style='display:inline-block;padding:2px'>`)
         for(i=0;i<recruitData.total;i++){
             
@@ -148,7 +148,7 @@ function ListBanner() {
     var htmlcontent=[]
     var htmlcontent2 = []
     for(i=0;i<db.recruitData.length;i++){
-        console.log(db.recruitData[i])
+        // console.log(db.recruitData[i])
         var currRec= db.recruitData[i]
         
         switch (currRec.RecruitType) {
@@ -172,8 +172,8 @@ function ListBanner() {
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.NormalRandom)
 
-                console.log(filterRandomNormal)
-                console.log(filterRandomFull)
+                // console.log(filterRandomNormal)
+                // console.log(filterRandomFull)
                 htmlcontent.push(`Rate Per Rarity :<br>`)
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
@@ -275,14 +275,14 @@ function ListBanner() {
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
 
-                // console.log(filterRandomNormal)
+                console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
                 htmlcontent2.push(`Rate Per Rarity :<br>`)
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace(/\n/g, "<br />");
                     raritydrop=raritydrop.replace("111111","").replace("1111111率率率","")
-                    console.log(raritydrop)
+                    // console.log(raritydrop)
                     htmlcontent2.push(`${raritydrop}<br>`)
                 });
                 if(currRec.GirlList){
@@ -295,8 +295,8 @@ function ListBanner() {
                         if(currskin&&currskin.MachineArmorModel1[1]){
                             var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
                             var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
-                            console.log(currSuit)
-                            console.log(currSuitData.preview1)
+                            // console.log(currSuit)
+                            // console.log(currSuitData.preview1)
                             htmlcontent2.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
                         }
                     });
@@ -304,7 +304,7 @@ function ListBanner() {
                 htmlcontent2.push(`</br>Random Normal </br>`)
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
-
+                    console.log(currwidget)
                     htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                 });
                 // console.log(filterRandomFull)
@@ -333,7 +333,7 @@ function EquipType(n){
         case 1 : return "body"
         case 2 : return "leg"
         case 3 : return "bag"
-        case 4 : return "chip"
+        case 4 : return "item"
         default: return n 
     }
 }
@@ -350,7 +350,7 @@ function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
     var width = 128/100*scale;
     var header = 26/100*scale;
     var rare = QualityToRarity(rarity)
-    console.log(rare)
+    // console.log(rare)
     var boxhtml = `
     <div style="position:relative;height:${height}px;width:${width}px;margin:4px;display:inline-block">
         <div class='rarity-back-${rarity}' style='height:${header}px;width:${width}px;position:absolute'>
