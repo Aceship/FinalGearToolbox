@@ -352,7 +352,7 @@ function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
     var rare = QualityToRarity(rarity)
     console.log(rare)
     var boxhtml = `
-    <div style="position:relative;height:${height}px;width:${width}px;margin:4px">
+    <div style="position:relative;height:${height}px;width:${width}px;margin:4px;display:inline-block">
         <div class='rarity-back-${rarity}' style='height:${header}px;width:${width}px;position:absolute'>
         <div class='fg-subtitlefont' style="float:right;font-size:${header}px;margin-right:2px;margin-top:-4px">${rare}</div>
         </div>

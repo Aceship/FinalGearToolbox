@@ -93,13 +93,6 @@ body{
 .nav-tabs .nav-link{
     border-radius: 0px
 }
-.nav-link a{
-    color:#DDDDDD
-}
-.nav-item{
-    
-}
-
 
 .fg-border{
     border-image: url('../img/extra/resource/edge-border.png') 50 round;
@@ -135,4 +128,8 @@ body{
 .fg-subtitlefont{
     font-weight: 600;
     color:#ffffff;
+}
+
+.nav-link a{
+    color: #dddddd !important;
 }
