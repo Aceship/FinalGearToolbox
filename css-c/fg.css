@@ -112,6 +112,11 @@ body{
     background-repeat: repeat;
 }
 
+.fg-bluefill{
+    background-image: url("../img/extra/resource/bluefill.png");
+    background-repeat: repeat;
+}
+
 .fg-itemcontainer{
     width:128px;
     height:128px;
@@ -130,6 +135,10 @@ body{
     color:#ffffff;
 }
 
-.nav-link a{
+.nav-link .active{
+    color: #000000 !important;
+}
+
+.navbar-nav > a{
     color: #dddddd !important;
 }

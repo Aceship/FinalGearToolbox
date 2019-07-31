@@ -47,8 +47,7 @@ function ListBanner() {
 
     tenBanner.forEach(recruitData => {
         htmlcontent.push(`
-        <div>
-             </br>
+        <div class='fg-border fg-bluefill' style="padding:10px">
             Limited Pilot Recruit</br>
             </br>
             10x Pull: </br>
@@ -154,10 +153,8 @@ function ListBanner() {
         switch (currRec.RecruitType) {
             case 0:
                 htmlcontent.push(`
-                <div>
+                <div class='fg-border fg-bluefill' style="padding:10px">
                     ${currRec.RecruitName} </br>
-                    ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
-                    </br>
                     Item Required : </br>
                 `)
                 currRec.RecruitNeed.forEach(element => {
@@ -165,7 +162,7 @@ function ListBanner() {
                     // console.log(currItem)
                     htmlcontent.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
-                htmlcontent.push(`</div>`)
+                // htmlcontent.push(`</div>`)
                 var girlListNumber = currRec.GirlList.split(",")
                 // console.log(girlListNumber)
                 var girlListArray = []
@@ -174,7 +171,7 @@ function ListBanner() {
 
                 // console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
-                htmlcontent.push(`Rate Per Rarity :<br>`)
+                htmlcontent.push(`<br>Rate Per Rarity :<br>`)
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace('机师','').split(',')
@@ -251,11 +248,11 @@ function ListBanner() {
                     });
                     
                 }
-                htmlcontent.push(`</div><hr style="height:10px;background:#333333">`)
+                htmlcontent.push(`</div></div><br>`)
                 break;
             case 1:
                 htmlcontent2.push(`
-                <div>
+                <div class='fg-border fg-bluefill' style="padding:10px">
                     ${currRec.RecruitName} </br>
                     ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
                     </br>
@@ -271,13 +268,13 @@ function ListBanner() {
                     // x${element[1]}
                     // </div> `)
                 });
-                htmlcontent2.push(`</div>`)
+                // htmlcontent2.push(`</div>`)
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
 
                 console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
-                htmlcontent2.push(`Rate Per Rarity :<br>`)
+                htmlcontent2.push(`<br>Rate Per Rarity :<br>`)
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace(/\n/g, "<br />");
@@ -316,7 +313,7 @@ function ListBanner() {
                         htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                     });
                 }
-                htmlcontent2.push(`</div><hr style="height:10px;background:#333333">`)
+                htmlcontent2.push(`</div></div><br>`)
                 break;
             default:
                 break;
