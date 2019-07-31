@@ -108,9 +108,9 @@ function ListBanner() {
         <div class='fg-inline fg-raritybox'>${probhtml[2]}</div><div class='fg-inline fg-raritybox'>${probhtml[3]}</div>
         `))
         htmlcontent.push(`</div>`)
-        if(currRec.UpGirl){
+        if(recruitData.detail[0].UpGirl){
             var upGirlList = []
-            var currUpGirlList = currRec.UpGirl.split(";")
+            var currUpGirlList = recruitData.detail[0].UpGirl.split(";")
             // htmlcontent.push(`</br>Rate Up : </br>`)
             currUpGirlList.forEach(UpGirl => {
                 var currgirl = db.girlData.find(search=>search.ID == UpGirl.split(",")[0])
@@ -327,7 +327,7 @@ function ListBanner() {
                 htmlcontent2.push(`</br>Random Normal </br>`)
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
-                    console.log(currwidget)
+                    // console.log(currwidget)
                     htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                 });
                 // console.log(filterRandomFull)
