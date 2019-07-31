@@ -50,18 +50,17 @@ function ListBanner() {
         <div class='fg-border fg-bluefill' style="padding:10px">
             Limited Pilot Recruit</br>
             </br>
-            10x Pull: </br>
         `)
-        
+        var tenpullrewards = []
         // console.log(recruitData)
-        htmlcontent.push(`<div style='display:inline-block;padding:2px'>`)
+        tenpullrewards.push(`<div style='display:inline-block;padding:2px'>`)
         for(i=0;i<recruitData.total;i++){
             
             var currItem = db.itemData.find(search=>search.ID == recruitData.detail[i].TenRecruitNeed[0])
             // htmlcontent.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType))
 
             
-            htmlcontent.push(`<div class='tenpull-container shadow-thin fg-border fg-thinfill' >
+            tenpullrewards.push(`<div class='tenpull-container shadow-thin fg-border fg-thinfill' >
             <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
             <div style="display: inline-block;margin:auto">
             ${ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType)}
@@ -74,7 +73,7 @@ function ListBanner() {
             if(recruitData.detail[i].Award){
                 var awardSplit = recruitData.detail[i].Award.split(",")
                 var currReward = db.itemData.find(search=>search.ID == awardSplit[0])
-                htmlcontent.push(`
+                tenpullrewards.push(`
                 Rewards<br>
                 <div style="display: inline-block;margin:auto">
                 ${ItemBoxMaker(currReward.Name,`./img/equippartsicon/item/${currReward.Icon}.png`,awardSplit[1],currReward.ItemQualityType)}
@@ -86,27 +85,42 @@ function ListBanner() {
                 // x${awardSplit[1]}
                 // `)
             }
-            htmlcontent.push('</div>')
+            tenpullrewards.push('</div>')
         }
-        htmlcontent.push(`</div><br>`)
-        htmlcontent.push(`Rate Per Rarity :<br>`)
-        var probability = recruitData.detail[0].ProbabilityPrew.split(";")
+        htmlcontent.push(`
+        <div style='text-align:center'>
+            ${CreateBox(`10x Pull`,tenpullrewards.join(''),true,false)}
+        </div>
+        `)
+        htmlcontent.push(`</div>`)
+        var probability = currRec.ProbabilityPrew.split(";")
+        var probhtml = []
         probability.forEach(element => {
             var raritydrop = element.replace('机师','').split(',')
-            htmlcontent.push(`<img style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> ${raritydrop[1]}<br>`)
+            probhtml.push(`<img class='fg-raritysubbox'style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> <div class='fg-inline fg-raritysubbox'>${raritydrop[1]}</div>`)
         });
-        if(recruitData.detail[0].UpGirl){
+
+        htmlcontent.push(`<br>`)
+        htmlcontent.push(`<div style='text-align:center'>`)
+        htmlcontent.push(CreateBox('Rate Per Rarity',`
+        <div class='fg-inline fg-raritybox'>${probhtml[0]}</div><div class='fg-inline fg-raritybox'>${probhtml[1]}</div>
+        <br>
+        <div class='fg-inline fg-raritybox'>${probhtml[2]}</div><div class='fg-inline fg-raritybox'>${probhtml[3]}</div>
+        `))
+        htmlcontent.push(`</div>`)
+        if(currRec.UpGirl){
             var upGirlList = []
-            var currUpGirlList = recruitData.detail[0].UpGirl.split(";")
-            htmlcontent.push(`</br>Rate Up : </br>`)
+            var currUpGirlList = currRec.UpGirl.split(";")
+            // htmlcontent.push(`</br>Rate Up : </br>`)
             currUpGirlList.forEach(UpGirl => {
                 var currgirl = db.girlData.find(search=>search.ID == UpGirl.split(",")[0])
                 var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
                 upGirlList.push({girl:currgirl,skin:currskin,rate:UpGirl.split(",")[1]})
             });
 
+            var upgirlhtml=[]
             upGirlList.forEach(element => {
-                htmlcontent.push(`
+                upgirlhtml.push(`
                 <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
                 ${element.girl.Name}<br>
                 ${element.girl.EnglishName}<br>
@@ -116,10 +130,11 @@ function ListBanner() {
                 </div>
                 `)
             });
-
-            // <hr class='rarity-back-${element.girl.GirlQualityType}' style="height:10px;margin-bottom:2px;margin-top:2px">
             htmlcontent.push(`</br>`)
-        }   
+            htmlcontent.push(`<div style='text-align:center'>`)
+            htmlcontent.push(CreateBox(`Rate Up`,upgirlhtml.join('')))
+            htmlcontent.push(`</div>`)
+        }
         htmlcontent.push(`</br>Random List </br>`)
         var girlListArray = []
         recruitData.list[0].forEach(element => {
@@ -140,7 +155,7 @@ function ListBanner() {
             htmlcontent.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
         });
         
-        htmlcontent.push(`</div><hr style="height:10px;background:#333333">`)
+        htmlcontent.push(`</div><br>`)
     });
     
     $("#tenpull").html(htmlcontent.join(""))
@@ -155,40 +170,52 @@ function ListBanner() {
                 htmlcontent.push(`
                 <div class='fg-border fg-bluefill' style="padding:10px">
                     ${currRec.RecruitName} </br>
-                    Item Required : </br>
+                   
                 `)
+
+                var itemlisthtml = []
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
-                    htmlcontent.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
+                    itemlisthtml.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
-                // htmlcontent.push(`</div>`)
-                var girlListNumber = currRec.GirlList.split(",")
-                // console.log(girlListNumber)
+                htmlcontent.push(`<div class='fg-inline'>`)
+                htmlcontent.push(CreateBox(`Item Required`,itemlisthtml.join(''),false))
+                // htmlcontent.push(`<br>`)
                 var girlListArray = []
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==0 && search.RandomLibraryID==currRec.NormalRandom)
 
                 // console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
-                htmlcontent.push(`<br>Rate Per Rarity :<br>`)
+                
                 var probability = currRec.ProbabilityPrew.split(";")
+                var probhtml = []
                 probability.forEach(element => {
                     var raritydrop = element.replace('机师','').split(',')
-                    htmlcontent.push(`<img style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> ${raritydrop[1]}<br>`)
+                    probhtml.push(`<img class='fg-raritysubbox'style="height:30px;padding:1px" src="./img/extra/rarity/${raritydrop[0]}.png"> <div class='fg-inline fg-raritysubbox'>${raritydrop[1]}</div>`)
                 });
+
+                htmlcontent.push(`<br>`)
+                htmlcontent.push(CreateBox('Rate Per Rarity',`
+                <div class='fg-inline fg-raritybox'>${probhtml[0]}</div><div class='fg-inline fg-raritybox'>${probhtml[1]}</div>
+                <br>
+                <div class='fg-inline fg-raritybox'>${probhtml[2]}</div><div class='fg-inline fg-raritybox'>${probhtml[3]}</div>
+                `,false))
+                htmlcontent.push(`</div>`)
                 if(currRec.UpGirl){
                     var upGirlList = []
                     var currUpGirlList = currRec.UpGirl.split(";")
-                    htmlcontent.push(`</br>Rate Up : </br>`)
+                    // htmlcontent.push(`</br>Rate Up : </br>`)
                     currUpGirlList.forEach(UpGirl => {
                         var currgirl = db.girlData.find(search=>search.ID == UpGirl.split(",")[0])
                         var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
                         upGirlList.push({girl:currgirl,skin:currskin,rate:UpGirl.split(",")[1]})
                     });
 
+                    var upgirlhtml=[]
                     upGirlList.forEach(element => {
-                        htmlcontent.push(`
+                        upgirlhtml.push(`
                         <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
                         ${element.girl.Name}<br>
                         ${element.girl.EnglishName}<br>
@@ -198,7 +225,8 @@ function ListBanner() {
                         </div>
                         `)
                     });
-
+                    
+                    htmlcontent.push(CreateBox(`Rate Up`,upgirlhtml.join('')))
                     htmlcontent.push(`</br>`)
                 }
                 htmlcontent.push(`</br>Random Normal </br>`)
@@ -255,19 +283,17 @@ function ListBanner() {
                 <div class='fg-border fg-bluefill' style="padding:10px">
                     ${currRec.RecruitName} </br>
                     ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
-                    </br>
-                    Item Required : </br>
+                    
                 `)
+                var itemlisthtml = []
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
-                    htmlcontent2.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
-                    
-                    // htmlcontent2.push(`<div>
-                    // <img style="height:40px;padding:1px" src="./img/equippartsicon/item/${currItem.Icon}.png" title='${currItem.Name}' >
-                    // x${element[1]}
-                    // </div> `)
+                    itemlisthtml.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
+                htmlcontent2.push(`<div class='fg-inline'>`)
+                htmlcontent2.push(CreateBox(`Item Required`,itemlisthtml.join('')))
+                
                 // htmlcontent2.push(`</div>`)
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
@@ -363,6 +389,19 @@ function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
 
     
     return boxhtml
+}
+
+function CreateBox(header,content,inline=true,thinfill=true){
+    return `
+    <div class='${inline?'fg-inline':''}'>
+        <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox fg-header'>
+            ${header}
+        </div>
+        <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox'>
+            ${content}
+        </div>
+    </div>
+    `
 }
 
 function QualityToRarity(n){

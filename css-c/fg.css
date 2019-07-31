@@ -134,6 +134,35 @@ body{
     font-weight: 600;
     color:#ffffff;
 }
+.fg-inline{
+    display: inline-block;
+}
+.fg-header{
+    text-align: center;
+    font-size: 20px;
+}
+
+.fg-mainbox{
+    padding:10px;
+    /* margin:10px */
+}
+
+.fg-raritybox{
+    width: 150px;
+    height: 40px;
+    padding: 2px;
+    text-align: center;
+}
+
+.fg-raritysubbox{
+    width: 40%;
+    object-fit: scale-down;
+    padding:0px;
+    margin:0px;
+    font-size: 20px;
+    vertical-align:middle;
+    text-align: center;
+}
 
 .nav-link .active{
     color: #000000 !important;
