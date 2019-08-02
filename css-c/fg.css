@@ -95,6 +95,7 @@ body{
 }
 
 .fg-border{
+    border: 1px solid transparent;
     border-image: url('../img/extra/resource/edge-border.png') 50 round;
     border-image-slice: 20%;
     border-image-width: 20px 20px;
@@ -194,7 +195,7 @@ body{
     display: inline-grid;
     width: auto;
     grid-template-columns: auto 480px;
-    grid-template-rows: auto 40px 100%  100%;
+    grid-template-rows: auto 40px auto auto;
 
     grid-template-areas: 
     "name rate"
@@ -265,7 +266,7 @@ body{
     display: inline-grid;
     width: 100%;
     grid-template-columns: auto auto;
-    grid-template-rows: auto auto 30px 100%;
+    grid-template-rows: auto auto auto auto;
     margin-bottom:20px;
 
     grid-template-areas: 
