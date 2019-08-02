@@ -187,3 +187,68 @@ body{
     /* bor */
 }
 /* .nav-link */
+
+/* Table For BannerList */
+
+.fg-tenbanner-container{
+    display: inline-grid;
+    width: auto;
+    grid-template-columns: auto 480px;
+    grid-template-rows: auto 40px 100%  100%;
+
+    grid-template-areas: 
+    "name rate"
+    "rateupH randomH"
+    "rateup random"
+    "tenpull tenpull"
+}
+.fg-tenbanner-name{
+    text-align: center;
+    grid-area: name;
+    
+    font-size: 26px
+}
+.fg-tenbanner-time{
+    text-align: center;
+    grid-area: time;
+    
+    font-size: 26px
+}
+.fg-tenbanner-rate{
+    text-align: center;
+    grid-area:rate;
+    padding:5px 2px 5px 2px;
+}
+.fg-tenbanner-a{
+    text-align: center;
+    vertical-align: center;
+    font-size: 20px;
+    grid-area: rateupH
+}
+.fg-tenbanner-b{
+    padding:8px 12px 8px 12px;
+    grid-area: rateup;
+}
+.fg-tenbanner-c{
+    text-align: center;
+    vertical-align: center;
+    font-size: 20px;
+    grid-area: randomH;
+}
+.fg-tenbanner-d{
+    padding:8px 12px 8px 12px;
+    grid-area: random;
+}
+.fg-tenbanner-tenpullhead{
+    font-size: 20px;
+    vertical-align: center;
+    text-align: center;
+    padding:8px 12px 8px 12px;
+    grid-area: tenpullh;
+}
+.fg-tenbanner-tenpull{
+    padding:8px 12px 8px 12px;
+    grid-area: tenpull;
+}
+
+
