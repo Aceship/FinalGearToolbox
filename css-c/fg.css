@@ -164,10 +164,26 @@ body{
     text-align: center;
 }
 
-.nav-link .active{
-    color: #000000 !important;
+.nav-link {
+    color: #dddddd ;
+    /* margin: 2px; */
+    outline: 0;
+    border-width: 0px 2px 0px 2px !important;
+    border-color:#aaaaaa !important;
+}
+.nav-link:hover {
+    color: #aaaaaa ;
+    background-color: #0079fd55 !important;
+
+}
+.nav-link.active{
+    font-weight: 600;
+    color: #ffffff !important;
+    background-color: #2369b5 !important;
+    border : 1px solid #0057b5 !important;
 }
 
-.navbar-nav > a{
-    color: #dddddd !important;
+.nav-link:focus{
+    /* bor */
 }
+/* .nav-link */
