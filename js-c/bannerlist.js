@@ -582,7 +582,7 @@ function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
         <div class='rarity-back-${rarity}' style='height:${header}px;width:${width}px;position:absolute'>
         <div class='fg-subtitlefont' style="float:right;font-size:${header}px;margin-right:2px;margin-top:-4px">${rare}</div>
         </div>
-        <div class='rarity-${rarity}'style='height:${height}px;width:${width}px;position:absolute'><img style="height:${height}px;padding:0px" src="${imagelink}" title='${titlename}' ></div>
+        <div class='rarity-${rarity}'style='height:${height}px;width:${width}px;position:absolute'><img style="width:${width}px;height:${height}px;padding:0px" src="${imagelink}" title='${titlename}' ></div>
         <div class='fg-itemQuantityfont' style='position:absolute;text-align:right;bottom:0px;right:2px;margin:auto;display:inline-block'>${quantity?`x${quantity}`:``}</div>
         <div class='fg-corner' style="pointer-events: none;position:relative;height:${height}px;width:${width}px;"></div>
     </div>
