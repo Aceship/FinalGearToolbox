@@ -129,98 +129,124 @@ function ListBanner() {
                 }
 
                 htmlcontent.push(`
-                    
                         <div style='text-align:center'>
-                            <div class='fg-recruitBanner-container' style='background:#00225533'>
-                                <div class='fg-recruitBanner-name fg-border  fg-thinfill'>
+                            <div class='fg-recruitBanner-container fg-border' style='background:#00225533'>
+                                <div class='fg-recruitBanner-name fg-thinborder fg-darkfill'>
                                 ${currRec.RecruitName}
                                 </div>
-                                <div class='fg-recruitBanner-item fg-border'> ${itemlisthtml.join('')}</div>
-                                <div class='fg-recruitBanner-rate fg-border'> 
+                                <div class='fg-recruitBanner-item fg-thinborder'> ${itemlisthtml.join('')}</div>
+                                <div class='fg-recruitBanner-rate fg-thinborder'> 
                                     <div class='fg-inline fg-raritybox'>${probhtml[0]}</div><div class='fg-inline fg-raritybox'>${probhtml[1]}</div>
                                     <br>
                                     <div class='fg-inline fg-raritybox'>${probhtml[2]}</div><div class='fg-inline fg-raritybox'>${probhtml[3]}</div>
                                 </div>
 
-                                <div class='fg-recruitBanner-rateuph fg-border fg-thinfill'> Rate Up Girl </div>
-                                <div class='fg-recruitBanner-rateup fg-border'> ${rateUpGirl}</div>
-
-                                <div class='fg-recruitBanner-random fg-border'> 
-                                Random Normal<br>
-                                ${randomNormal.join('')}
-                                <br>
-                                <br>
-
-                                Random Full Bar<br>
-                                ${randomFull.join('')}
-                                </div>
+                                <div class='fg-recruitBanner-rateuph fg-thinborder fg-darkfill'> Rate Up Girl </div>
+                                <div class='fg-recruitBanner-rateup fg-thinborder'> ${rateUpGirl}</div>
+                                <div class='fg-recruitBanner-randomnh fg-thinborder fg-darkfill'>Random Normal</div>
+                                <div class='fg-recruitBanner-randomn fg-thinborder'>${randomNormal.join('')}</div>
+                                <div class='fg-recruitBanner-randomfh fg-thinborder fg-darkfill'>Random Full Bar</div>
+                                <div class='fg-recruitBanner-randomf fg-thinborder'>${randomFull.join('')}</div>
                             </div>
                         </div>
-                   
                 `)
                 break;
             case 1:
-                htmlcontent2.push(`
-                <div class='fg-border fg-bluefill' style="padding:10px">
-                    ${currRec.RecruitName} </br>
-                    ${currRec.RecruitType==0?"Pilot Recruit":"Mech Parts Develop"}</br>
-                    
-                `)
+                var islimited=0;
+                var mechPartsHtml= []
                 var itemlisthtml = []
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
+                    islimited+=1
+                    if(element[1]==20){
+                        islimited=0
+                    }
+                    
                     itemlisthtml.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
-                htmlcontent2.push(`<div class='fg-inline'>`)
-                htmlcontent2.push(CreateBox(`Item Required`,itemlisthtml.join('')))
-                
-                // htmlcontent2.push(`</div>`)
+
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
 
-                console.log(filterRandomNormal)
-                // console.log(filterRandomFull)
-                htmlcontent2.push(`<br>Rate Per Rarity :<br>`)
+                var probhtml=[]
                 var probability = currRec.ProbabilityPrew.split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace(/\n/g, "<br />");
                     raritydrop=raritydrop.replace("111111","").replace("1111111率率率","")
-                    // console.log(raritydrop)
-                    htmlcontent2.push(`${raritydrop}<br>`)
+
+                    probhtml.push(`${raritydrop}<br>`)
                 });
+                var suitListArray = []
                 if(currRec.GirlList){
                     var suitList = currRec.GirlList.split(",")
                     suitList.forEach(element => {
                         var currgirl = db.girlData.find(search=>search.SuitID == element)
                         var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
-                        // console.log(currgirl.EnglishName)
-                        // console.log(currskin.MachineArmorModel1)
                         if(currskin&&currskin.MachineArmorModel1[1]){
                             var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
                             var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
                             // console.log(currSuit)
-                            // console.log(currSuitData.preview1)
-                            htmlcontent2.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
+                            suitListArray.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
                         }
                     });
                 }
-                htmlcontent2.push(`</br>Random Normal </br>`)
+
+                var randomNormal= []
+                var randomFull = []
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
-                    // console.log(currwidget)
-                    htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                    randomNormal.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                 });
-                // console.log(filterRandomFull)
                 if(filterRandomFull.length>0){
-                    htmlcontent2.push(`</br></br>Random Full Bar </br>`)
                     filterRandomFull.forEach(element => {
                         var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                        htmlcontent2.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                        randomFull.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
                     });
                 }
-                htmlcontent2.push(`</div></div><br>`)
+
+                var checkTime = db.tenRecruitTimeData.find(search=>search.LibraryID==currRec.ID)
+                
+                
+                console.log(checkTime)
+                mechPartsHtml.push(`
+                <div style='text-align:center'>
+                    <div class='fg-mechDevBanner-container fg-border' style='background:#00225533'>
+                        <div class='fg-mechDevBanner-name fg-thinborder fg-darkfill'>${currRec.RecruitName}</div>
+                        <div class='fg-mechDevBanner-item'> <div class='fg-centered'>${itemlisthtml.join('')}</div></div>
+                        <div class='fg-mechDevBanner-rate'>  ${probhtml.join('')}</div>
+                        <div class='fg-mechDevBanner-random'>  
+                            
+                `)
+                if(checkTime){
+                    var openTime = new Date(checkTime.AndOpenTime)
+                    var closeTime = new Date(checkTime.AndCloseTime)
+                    mechPartsHtml.push(`<div class='fg-mechDevBanner-time fg-darkfill fg-thinborder'>${formatDate(openTime)} - ${formatDate(closeTime)}</div>`)
+                }
+
+                if(randomFull.length>0){
+                    mechPartsHtml.push(`
+                            <div class='fg-mechDevBanner-split-container' >
+                                <div class='fg-mechDevBanner-split-randomnh fg-thinborder fg-darkfill'> Random Normal</div>
+                                <div class='fg-mechDevBanner-split-randomn fg-thinborder'> ${randomNormal.join('')}</div>
+                                <div class='fg-mechDevBanner-split-randomfh fg-thinborder fg-darkfill'> Random Full Bar</div>
+                                <div class='fg-mechDevBanner-split-randomf fg-thinborder'> ${randomFull.join('')}</div>
+                            </div>
+                    `)
+                }else{
+                    mechPartsHtml.push(`
+                                <div class='fg-mechDevBanner-special fg-thinborder'> ${suitListArray.join('')}</div>
+                                <div class='fg-mechDevBanner-random fg-thinborder fg-mechDevBanner-extrapadding'> ${randomNormal.join('')}</div>
+                    `)
+                }
+                mechPartsHtml.push(`     
+                        </div>
+                    </div>
+                </div>
+                `)
+                
+                htmlcontent2.push({ID:currRec.ID,limited:islimited,html:mechPartsHtml})
                 break;
             default:
                 break;
@@ -230,7 +256,74 @@ function ListBanner() {
     }
     htmlcontent.push(`</div>`)
     $("#recruitpull").html(htmlcontent.join(""))
-    $("#developpull").html(htmlcontent2.join(""))
+
+    var sortedTime = []
+
+    // console.log(htmlcontent2)
+    htmlcontent2 = htmlcontent2.sort((a,b)=>{
+        var sorter = 0
+        if(a.limited>b.limited) sorter= 1
+        if(a.limited<b.limited) sorter= -1
+
+        return sorter
+    } )
+    // console.log(htmlcontent2)
+    db.tenRecruitTimeData.forEach(timedata => {
+        var openTime = new Date(timedata.AndOpenTime)
+        var closeTime = new Date(timedata.AndCloseTime)
+        var timeState = openTime<= Date.now()? closeTime> Date.now()?'Ongoing':'Finished' :'Upcoming'
+
+        console.log(`Schedule: ${openTime.toLocaleDateString()} - ${closeTime.toLocaleDateString()} ` +timeState)
+        sortedTime.push({openTime:openTime,closeTime:closeTime,timeState:timeState,detail:timedata})
+    });
+
+    sortedTime = sortedTime.sort((a,b)=> b.openTime-a.openTime)
+    // console.log(sortedTime)
+
+    var usedUpHtml = []
+    var htmlFinished =[]
+    var htmlOngoing =[]
+    var htmlUpcoming = []
+    sortedTime.forEach(timeEvent => {
+        // var htmlcontent =[]
+        var timedata = timeEvent.detail
+        if(timedata.RecruitActivityType==2){
+            var recruitsData = htmlcontent2.find(search=>search.ID==timedata.LibraryID)
+            console.log(recruitsData)
+            switch (timeEvent.timeState) {
+                case 'Ongoing': htmlOngoing.push(recruitsData.html.join(''));break;
+                case 'Finished': htmlFinished.push(recruitsData.html.join(''));break;
+                case 'Upcoming': htmlUpcoming.push(recruitsData.html.join(''));break;
+                default:
+                    break;
+            }
+            usedUpHtml.push(recruitsData.ID)
+        }
+    })
+
+    // console.log(usedUpHtml)
+    var nonTimedBanner =[]
+    htmlcontent2.forEach(element => {
+        if(!usedUpHtml.includes(element.ID)){
+            nonTimedBanner.push(element.html.join(''))
+        }
+    });
+    
+
+
+    var htmlCompiled = []
+    htmlCompiled.push(`<div class='fg-header fg-border' style='background:#22AA55;color:#000000;padding:10px'>Ongoing Banner</div>`)
+    htmlCompiled.push(`<div class='fg-header fg-bluefill fg-border' style='padding:10px;margin-bottom:10px'>`)
+    htmlCompiled.push(htmlOngoing.join(""))
+    htmlCompiled.push(nonTimedBanner.join(""))
+    htmlCompiled.push(`</div>`)
+    if(htmlUpcoming!=''){
+        htmlCompiled.push(`<div class='fg-header fg-border' style='background:#2255AA;color:#000000;padding:10px'>Upcoming Banner</div>`)
+    htmlCompiled.push(htmlUpcoming.join(""))
+    }
+    htmlCompiled.push(`<div class='fg-header fg-border' style='background:#AA2255;color:#000000;padding:10px'>Previous Banner</div>`)
+    htmlCompiled.push(htmlFinished.join(""))
+    $("#developpull").html(htmlCompiled.join(""))
 }
 
 function CreateTenBanner2(){
@@ -371,23 +464,23 @@ function CreateTenBanner2(){
                     htmlcontent.push(`
                     <div class='fg-border fg-bluefill' style="padding:30px">
                         <div style='text-align:center'>
-                            <div class='fg-tenbanner-container'  style="background:#00225533">
-                                <div class='fg-tenbanner-name fg-border'>
+                            <div class='fg-tenbanner-container fg-border'  style="background:#00225533">
+                                <div class='fg-tenbanner-name fg-darkfill fg-thinborder'>
                                 [ ${mainRateUp} ] Rate UP
                                 <br>
                                 ${formatDate(openTime)} - ${formatDate(closeTime)}
                                 </div>
-                                <div class='fg-tenbanner-rate fg-border'>
+                                <div class='fg-tenbanner-rate fg-thinborder fg-darkfill'>
                                     <div class='fg-inline fg-raritybox'>${probhtml[0]}</div><div class='fg-inline fg-raritybox'>${probhtml[1]}</div>
                                     <br>
                                     <div class='fg-inline fg-raritybox'>${probhtml[2]}</div><div class='fg-inline fg-raritybox'>${probhtml[3]}</div>
                                 </div>
-                                <div class='fg-tenbanner-a fg-border'>Rate Up Girls</div>
-                                <div class='fg-tenbanner-b fg-border'>${upGirlHtml}</div>
-                                <div class='fg-tenbanner-c fg-border'>Random List</div>
-                                <div class='fg-tenbanner-d fg-border'>${girlListHtml.join('')}</div>
+                                <div class='fg-tenbanner-a fg-thinborder fg-darkfill'>Rate Up Girls</div>
+                                <div class='fg-tenbanner-b fg-thinborder'>${upGirlHtml}</div>
+                                <div class='fg-tenbanner-c fg-thinborder fg-darkfill'>Random List</div>
+                                <div class='fg-tenbanner-d fg-thinborder'>${girlListHtml.join('')}</div>
                                 
-                                <div class='fg-tenbanner-tenpull fg-border'>${tenpullrewards.join('')}</div>
+                                <div class='fg-tenbanner-tenpull fg-thinborder'>${tenpullrewards.join('')}</div>
                             </div>
                         </div>
                     </div>

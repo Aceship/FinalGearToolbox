@@ -94,12 +94,16 @@ body{
     border-radius: 0px
 }
 
+
 .fg-border{
     border: 1px solid transparent;
     border-image: url('../img/extra/resource/edge-border.png') 50 round;
     border-image-slice: 20%;
     border-image-width: 20px 20px;
     
+}
+.fg-thinborder{
+    border: 1px solid #aaaaaa22;
 }
 .fg-corner{
     border-image: url('../img/extra/resource/edge-corner.png') 50 round;
@@ -108,6 +112,9 @@ body{
     border-image-outset: 1px;
 }
 
+.fg-darkfill{
+    background: #00000033
+}
 .fg-thinfill{
     background-image: url("../img/extra/resource/smallstripefill.png");
     background-repeat: repeat;
@@ -184,12 +191,7 @@ body{
     border : 1px solid #0057b5 !important;
 }
 
-.nav-link:focus{
-    /* bor */
-}
-/* .nav-link */
-
-/* Table For BannerList */
+/* Grid For BannerList */
 
 .fg-tenbanner-container{
     display: inline-grid;
@@ -222,7 +224,7 @@ body{
     padding:5px 2px 5px 2px;
 }
 .fg-tenbanner-a{
-    grid-area: rateupH
+    grid-area: rateupH;
 
     text-align: center;
     vertical-align: center;
@@ -258,22 +260,21 @@ body{
 
     padding:8px 12px 8px 12px;
 }
-
-
-/* Table For RateUp on recruit */
+/* Grid For RateUp on recruit */
 
 .fg-recruitBanner-container{
     display: inline-grid;
     width: 100%;
     grid-template-columns: auto auto;
-    grid-template-rows: auto auto auto auto;
     margin-bottom:20px;
 
     grid-template-areas: 
     "name name"
     "item rate"
-    "rateuph random"
-    "rateup random"
+    "rateuph randomnh"
+    "rateup randomn"
+    "rateup randomfh"
+    "rateup randomf"
 }
 
 .fg-recruitBanner-name{
@@ -286,18 +287,118 @@ body{
 }
 .fg-recruitBanner-rateuph{
     grid-area:rateuph;
+    padding:8px 12px 8px 12px;
+    font-size: 20px;
 }
 .fg-recruitBanner-rateup{
     grid-area:rateup;
 
     padding:8px 12px 8px 12px;
 }
-.fg-recruitBanner-randomh{
-    grid-area:randomh;
-}
-.fg-recruitBanner-random{
-    grid-area:random;
-    
+.fg-recruitBanner-randomnh{
+    grid-area:randomnh;
     padding:8px 12px 8px 12px;
     font-size: 20px;
+}
+.fg-recruitBanner-randomfh{
+    grid-area:randomfh;
+    padding:8px 12px 8px 12px;
+    font-size: 20px;
+}
+.fg-recruitBanner-randomn{
+    grid-area:randomn;
+    
+    padding:8px 12px 8px 12px;
+}
+.fg-recruitBanner-randomf{
+    grid-area:randomf;
+    
+    padding:8px 12px 8px 12px;
+}
+
+
+/* Grid For Mech parts */
+
+.fg-mechDevBanner-container{
+    display: inline-grid;
+    width: 100%;
+    grid-template-columns: 50% 50%;
+    /* grid-template-rows: auto auto auto auto; */
+    margin-bottom:20px;
+
+    grid-template-areas: 
+    "name name"
+    "item rate"
+    "time time"
+    "special special"
+    "random random"
+}
+
+.fg-mechDevBanner-name{
+    grid-area:name;
+
+    font-size: 30px;
+}
+.fg-mechDevBanner-item{
+    grid-area:item;
+
+    padding:10px;
+   
+    margin: auto;
+}
+.fg-mechDevBanner-rate{
+    grid-area:rate;
+
+    padding:10px;
+   
+    margin: auto;
+}
+
+.fg-mechDevBanner-time{
+    grid-area:time;
+    font-size: 20px;
+    vertical-align: center;
+    text-align: center;
+    padding:8px 12px 8px 12px;
+}
+.fg-mechDevBanner-special{
+    grid-area:special;
+
+    padding:8px 12px 8px 12px;
+    margin: auto;
+}
+.fg-mechDevBanner-random{
+    grid-area:random;
+}
+.fg-mechDevBanner-extrapadding{
+    padding:8px 12px 8px 12px;
+}
+
+.fg-mechDevBanner-split-container{
+    display: inline-grid;
+    width: 100%;
+    grid-template-columns: 50% 50%;
+
+    grid-template-areas: 
+    "randomnh randomfh"
+    "randomn randomf"
+}
+
+.fg-mechDevBanner-split-randomnh{
+    grid-area:randomnh;
+
+    font-size: 20px;
+}
+.fg-mechDevBanner-split-randomfh{
+    grid-area:randomfh;
+
+    font-size: 20px;
+}
+.fg-mechDevBanner-split-randomn{
+    grid-area:randomn;
+    padding:8px 12px 8px 12px;
+}
+.fg-mechDevBanner-split-randomf{
+    grid-area:randomf;
+    padding:8px 12px 8px 12px;
 }
