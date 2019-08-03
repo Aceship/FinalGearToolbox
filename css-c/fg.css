@@ -196,11 +196,12 @@ body{
 .fg-tenbanner-container{
     display: inline-grid;
     width: auto;
-    grid-template-columns: auto 480px;
-    grid-template-rows: auto 40px auto auto;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto 40px auto auto;
 
     grid-template-areas: 
     "name rate"
+    "time rate"
     "rateupH randomH"
     "rateup random"
     "tenpull tenpull"

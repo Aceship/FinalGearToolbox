@@ -465,11 +465,8 @@ function CreateTenBanner2(){
                     <div class='fg-border fg-bluefill' style="padding:30px">
                         <div style='text-align:center'>
                             <div class='fg-tenbanner-container fg-border'  style="background:#00225533">
-                                <div class='fg-tenbanner-name fg-darkfill fg-thinborder'>
-                                [ ${mainRateUp} ] Rate UP
-                                <br>
-                                ${formatDate(openTime)} - ${formatDate(closeTime)}
-                                </div>
+                                <div class='fg-tenbanner-name fg-darkfill fg-thinborder'>[ ${mainRateUp} ] Rate UP</div>
+                                <div class='fg-tenbanner-time fg-darkfill fg-thinborder'>${formatDate(openTime)} - ${formatDate(closeTime)}</div>
                                 <div class='fg-tenbanner-rate fg-thinborder fg-darkfill'>
                                     <div class='fg-inline fg-raritybox'>${probhtml[0]}</div><div class='fg-inline fg-raritybox'>${probhtml[1]}</div>
                                     <br>
