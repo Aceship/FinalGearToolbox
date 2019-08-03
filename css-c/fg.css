@@ -94,6 +94,14 @@ body{
     border-radius: 0px
 }
 
+.navbar{
+    padding:0px 8px 0px 8px;
+}
+
+.fg-navbar-active{
+    border: 1px solid #333333ff !important;
+    background-image:linear-gradient(#222222Fe 95%,#00a2ff 3%,#0fa7ffDD , #00d9ff 3%,#0fa7ffDD ) !important;
+}
 
 .fg-border{
     border: 1px solid transparent;

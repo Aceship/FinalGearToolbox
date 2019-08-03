@@ -680,18 +680,18 @@ function ItemBoxMaker(titlename,imagelink,quantity = "",rarity = "",scale=50) {
     return boxhtml
 }
 
-function CreateBox(header,content,inline=true,thinfill=true){
-    return `
-    <div class='${inline?'fg-inline':''}'>
-        <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox fg-header'>
-            ${header}
-        </div>
-        <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox'>
-            ${content}
-        </div>
-    </div>
-    `
-}
+// function CreateBox(header,content,inline=true,thinfill=true){
+//     return `
+//     <div class='${inline?'fg-inline':''}'>
+//         <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox fg-header'>
+//             ${header}
+//         </div>
+//         <div class='${thinfill?'fg-thinfill':''} fg-border fg-mainbox'>
+//             ${content}
+//         </div>
+//     </div>
+//     `
+// }
 
 function QualityToRarity(n){
     switch(n){
