@@ -4,6 +4,7 @@ $(document).ready(function(){
     let dropdown = []
     dropdown.push({name:"Home",content:"index.html"})
     dropdown.push({name:"Pilot Recruit & Mech Parts Banner",content:"bannerlist.html"})
+    dropdown.push({name:"Pilot Info (WIP)",content:"charalist.html"})
     // dropdown.push({
     //     name:"Calculator",
     //     content:[

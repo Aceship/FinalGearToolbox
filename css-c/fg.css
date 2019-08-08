@@ -106,10 +106,11 @@ body{
 .fg-border{
     border: 1px solid transparent;
     border-image: url('../img/extra/resource/edge-border.png') 50 round;
-    border-image-slice: 20%;
+    border-image-slice: 24%;
     border-image-width: 20px 20px;
     
 }
+
 .fg-thinborder{
     border: 1px solid #aaaaaa22;
 }
@@ -120,6 +121,9 @@ body{
     border-image-outset: 1px;
 }
 
+.fg-blackfill{
+    background: #000000ff
+}
 .fg-darkfill{
     background: #00000033
 }
@@ -197,6 +201,18 @@ body{
     color: #ffffff !important;
     background-color: #2369b5 !important;
     border : 1px solid #0057b5 !important;
+}
+
+/* Modal Thing */
+@media (min-width: 1024px) {
+    .modal-lg {
+      min-width: 1024px;
+      max-width: 1800px;
+    }
+  }
+.fg-modal {
+    background:#222222;
+    color:#ffffff
 }
 
 /* Grid For BannerList */
