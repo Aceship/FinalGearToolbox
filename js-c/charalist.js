@@ -10,6 +10,8 @@ const jsonList = {
     suitData            :"json/gamedata/SuitData.json",
     equipLegData        :"json/gamedata/EquipLegData.json",
     itemData            :"json/gamedata/ItemData.json",
+
+    translation         :"json/tl/Common.json"
 };
 
 var db = {}
@@ -33,16 +35,34 @@ function CreatePilotList(){
                 // if(currgirl.ID<1000){
                 //     girlListArray.push({girl:currgirl,skin:currskin})
                 // }
-                // <img class='fg-blackfill' style="position:absolute;height:20px;left:20px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
+                // <img class='fg-blackfill' style="position:absolute;height:20px;left:20px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'>   
+
+
+                // <button class='fg-border fg-inline rarity-back-${girl.GirlQualityType}' style="padding:0px;margin:3px;text-align:center">
+                // <div class='fg-blackfill' style='height:80px'>
+                //     <img class='fg-blackfill' style="height:80px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
+                //     <div style='position:absolute'>
+                //         <img class='fg-blackfill' style="position:absolute;top:-80px;height:30px" src="./img/class/${db.translation.class[girl.ProfessionType]}.png" title='${db.translation.class[girl.ProfessionType]}'> 
+                //     </div>
+                // </div>
+                // <div style=''>${girl.Name}</div>
+                // <div style='text-align:center'>${girl.EnglishName}</div>
+                // </button>
+
                 hmtlList.push(`
-                <div class='fg-border fg-inline rarity-back-${girl.GirlQualityType}' style="padding:0px;margin:3px;text-align:center">
-                <div style='height:80px;width:80px'>
-                    <img class='fg-blackfill' style="height:80px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
-                    
-                </div>
-                <div style=''>${girl.Name}</div>
-                <div style='text-align:center'>${girl.EnglishName}</div>
-                </div>
+                <button class='fg-clearbutton'>
+                    <div class='fg-chara-lg-container fg-darkfill fg-border'>
+                        <div class='fg-chara-lg-rarity rarity-back-${girl.GirlQualityType}'></div>
+                        <div class='fg-chara-lg-potrait fg-bluefill fg-thinborder'>
+                            <img class='' style="height:100px" src="./img/equippartsicon/pilot/stagehead/${currskin.StageHeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
+                        </div>
+                        <div class='fg-chara-lg-class fg-darkfill fg-thinborder'>
+                            <img class='fg-blackfill' style="height:30px" src="./img/class/${db.translation.class[girl.ProfessionType]}.png" title='${db.translation.class[girl.ProfessionType]}'>  
+                        </div>
+                        <div class='fg-chara-lg-name'>${girl.Name}</div>
+                        <div class='fg-chara-lg-englishname fg-thinborder'>${girl.EnglishName}</div>
+                    </div>
+                </button>
                 `)
             }
         }

@@ -1,0 +1,10 @@
+{
+    "class":{
+        "0":"Guardian",
+        "1":"Striker",
+        "2":"Gunner",
+        "3":"Blaster",
+        "4":"Sniper",
+        "5":"Bomber"
+    }
+}
