@@ -22,22 +22,39 @@ LoadAllJsonObjects(jsonList).then(function(result) {
 
 $(document).ready(function(){
     console.log(db)
+    $('#pilotname').bind("enterKey",function(e){
+        // console.log()
+        CreatePilotList($('#pilotname').val(),true)
+        $('#PilotBrowse').modal('hide')
+     });
+     $('#pilotname').keyup(function(e){
+         if(e.keyCode == 13)
+         {
+             $(this).trigger("enterKey");
+         }
+     });
     CreatePilotList()
 });
 
 
-function CreatePilotList(input=''){
+function CreatePilotList(input='',isenter=false){
     var hmtlList = []
     var currgirlList = db.girlData.sort((a,b)=>b.GirlQualityType - a.GirlQualityType||(b.EnglishName > a.EnglishName?-1:b.EnglishName<a.EnglishName?+1:0))
     if(input.value){
         currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.value.toLowerCase()))
+    }else if(input !=""){
+        console.log(input)
+        currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.toLowerCase()))
+        if(currgirlList[0]&&isenter){
+            SelectPilot(currgirlList[0].ID)
+        }
     }
     currgirlList.forEach(girl => {
         if(girl.ID<7000){
             var currgirl = girl
             if(currgirl){
                 var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
-
+                
                 hmtlList.push(`
                 <button class='fg-clearbutton' style=' display:inline-block;' data-dismiss="modal" onclick="SelectPilot('${girl.ID}')">
                     <div class='fg-chara-lg-container fg-darkfill  fg-thinborder'>
