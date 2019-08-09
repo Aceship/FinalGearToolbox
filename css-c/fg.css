@@ -207,12 +207,77 @@ body{
 @media (min-width: 1024px) {
     .modal-lg {
       min-width: 1024px;
-      max-width: 1800px;
+      max-width: 1400px;
     }
   }
 .fg-modal {
     background:#222222;
     color:#ffffff
+}
+
+.fg-clearbutton{
+    display: inline-block;
+    border: none;
+    padding: 0;
+    margin: 2px;
+    text-decoration: none;
+    background: initial;
+    color: #ffffff;
+    /* font-family: sans-serif;
+    font-size: 1rem; */
+    cursor: pointer;
+    /* text-align: center; */
+    transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.fg-clearbutton:focus{
+    outline: 0px solid #fff;
+}
+
+/* Grid For CharaList */
+
+.fg-chara-lg-container:hover{
+    /* transform: scale(1.01); */
+    border: 1px solid #ffffff;
+}
+
+.fg-chara-lg-container{
+    display: inline-grid;
+    width: 115px;
+    grid-template-columns: 30px auto;
+    grid-template-rows: 3px auto;
+    transition: transform 150ms ease;
+    /* margin-bottom:20px; */
+    padding-top:0px;
+    margin: 0px;
+    grid-template-areas: 
+    "rarity rarity"
+    "potrait potrait"
+    "class name"
+    "englishname englishname"
+}
+
+.fg-chara-lg-potrait{
+    grid-area: potrait;
+}
+.fg-chara-lg-class{
+    grid-area: class;
+}
+.fg-chara-lg-name{
+    grid-area: name;
+    font-size: 12px;
+    text-align: right;
+    margin: auto
+}
+.fg-chara-lg-englishname{
+    grid-area: englishname;
+    font-size: 12px;
+    text-align: center;
+}
+.fg-chara-lg-rarity{
+    grid-area: rarity;
 }
 
 /* Grid For BannerList */
@@ -341,63 +406,7 @@ body{
     padding:8px 12px 8px 12px;
 }
 
-.fg-clearbutton{
-    display: inline-block;
-    border: none;
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    background: initial;
-    color: #ffffff;
-    font-family: sans-serif;
-    font-size: 1rem;
-    cursor: pointer;
-    /* text-align: center; */
-    transition: background 250ms ease-in-out, 
-                transform 150ms ease;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-}
-.fg-clearbutton:focus{
-    outline: 1px solid #fff;
-}
 
-/* Grid For CharaList */
-.fg-chara-lg-container{
-    display: inline-grid;
-    width: 115px;
-    grid-template-columns: 30px auto;
-    grid-template-rows: 3px auto;
-    /* margin-bottom:20px; */
-    padding-top:0px;
-    margin: 0px;
-    grid-template-areas: 
-    "rarity rarity"
-    "potrait potrait"
-    "class name"
-    "englishname englishname"
-}
-
-.fg-chara-lg-potrait{
-    grid-area: potrait;
-}
-.fg-chara-lg-class{
-    grid-area: class;
-}
-.fg-chara-lg-name{
-    grid-area: name;
-    font-size: 12px;
-    text-align: right;
-    margin: auto
-}
-.fg-chara-lg-englishname{
-    grid-area: englishname;
-    font-size: 12px;
-    text-align: center;
-}
-.fg-chara-lg-rarity{
-    grid-area: rarity;
-}
 /* Grid For Mech parts */
 
 .fg-mechDevBanner-container{

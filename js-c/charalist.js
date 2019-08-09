@@ -24,50 +24,43 @@ $(document).ready(function(){
     console.log(db)
     CreatePilotList()
 });
-function CreatePilotList(){
+
+
+function CreatePilotList(input=''){
     var hmtlList = []
     var currgirlList = db.girlData.sort((a,b)=>b.GirlQualityType - a.GirlQualityType||(b.EnglishName > a.EnglishName?-1:b.EnglishName<a.EnglishName?+1:0))
-    db.girlData.forEach(girl => {
+    if(input.value){
+        currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.value.toLowerCase()))
+    }
+    currgirlList.forEach(girl => {
         if(girl.ID<7000){
             var currgirl = girl
             if(currgirl){
                 var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
-                // if(currgirl.ID<1000){
-                //     girlListArray.push({girl:currgirl,skin:currskin})
-                // }
-                // <img class='fg-blackfill' style="position:absolute;height:20px;left:20px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'>   
-
-
-                // <button class='fg-border fg-inline rarity-back-${girl.GirlQualityType}' style="padding:0px;margin:3px;text-align:center">
-                // <div class='fg-blackfill' style='height:80px'>
-                //     <img class='fg-blackfill' style="height:80px" src="./img/equippartsicon/pilot/head/${currskin.HeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
-                //     <div style='position:absolute'>
-                //         <img class='fg-blackfill' style="position:absolute;top:-80px;height:30px" src="./img/class/${db.translation.class[girl.ProfessionType]}.png" title='${db.translation.class[girl.ProfessionType]}'> 
-                //     </div>
-                // </div>
-                // <div style=''>${girl.Name}</div>
-                // <div style='text-align:center'>${girl.EnglishName}</div>
-                // </button>
 
                 hmtlList.push(`
-                <button class='fg-clearbutton'>
-                    <div class='fg-chara-lg-container fg-darkfill fg-border'>
+                <button class='fg-clearbutton' style=' display:inline-block;' data-dismiss="modal" onclick="SelectPilot('${girl.ID}')">
+                    <div class='fg-chara-lg-container fg-darkfill  fg-thinborder'>
                         <div class='fg-chara-lg-rarity rarity-back-${girl.GirlQualityType}'></div>
                         <div class='fg-chara-lg-potrait fg-bluefill fg-thinborder'>
-                            <img class='' style="height:100px" src="./img/equippartsicon/pilot/stagehead/${currskin.StageHeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
+                            <img class='' style="height:80px" src="./img/equippartsicon/pilot/stagehead/${currskin.StageHeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
                         </div>
-                        <div class='fg-chara-lg-class fg-darkfill fg-thinborder'>
+                        <div class='fg-chara-lg-class fg-darkfill '>
                             <img class='fg-blackfill' style="height:30px" src="./img/class/${db.translation.class[girl.ProfessionType]}.png" title='${db.translation.class[girl.ProfessionType]}'>  
                         </div>
                         <div class='fg-chara-lg-name'>${girl.Name}</div>
                         <div class='fg-chara-lg-englishname fg-thinborder'>${girl.EnglishName}</div>
                     </div>
-                </button>
-                `)
+                </button>`)
             }
         }
     });
     $("#PilotList").html(hmtlList.join(''))
+}
+
+function SelectPilot(ID){
+    var currgirl = db.girlData.find(search=> search.ID == ID)
+    console.log(currgirl)
 }
 function LoadAllJsonObjects(obj) {
     var result = {}
