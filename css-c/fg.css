@@ -204,6 +204,20 @@ body{
 }
 
 /* Modal Thing */
+@media (max-width: 576px) {
+    .modal-lg {
+      width:100%;
+      padding: 0px;
+      margin:0px;
+    }
+  }
+@media (min-width: 576px) {
+    .modal-lg {
+        min-width:576px;
+        margin:auto;
+        padding:0px;
+    }
+  }
 @media (min-width: 1024px) {
     .modal-lg {
       min-width: 1024px;
