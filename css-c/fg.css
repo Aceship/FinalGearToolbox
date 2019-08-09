@@ -280,6 +280,55 @@ body{
     grid-area: rarity;
 }
 
+
+.fg-charadetail-container{
+    display: inline-grid;
+    grid-template-columns: 180px 180px auto ;
+    /* grid-template-rows: 3px auto; */
+    grid-row-gap: 4px;
+    grid-column-gap: 120px auto;
+    grid-template-areas:
+    "potrait name class"
+    "potrait rarity rarity"
+    "potrait speciality speciality"
+}
+
+.fg-charadetail-portrait{
+    grid-area: potrait;
+    margin:auto;
+}
+
+.fg-charadetail-name{
+    grid-area: name;
+    margin:auto;
+    font-size: 20px;  
+}
+
+.fg-charadetail-englishname{
+    grid-area: englishname;
+    /* font-size: 12px; */
+    margin: auto
+}
+
+.fg-charadetail-class{
+    grid-area: class;
+    /* font-size: 12px; */
+    text-align: center;
+}
+
+.fg-charadetail-rarity{
+    grid-area: rarity;
+    /* font-size: 12px; */
+    text-align: center;
+}
+
+.fg-charadetail-speciality{
+    grid-area: speciality;
+    /* font-size: 12px; */
+    text-align: center;
+}
+
+
 /* Grid For BannerList */
 
 .fg-tenbanner-container{

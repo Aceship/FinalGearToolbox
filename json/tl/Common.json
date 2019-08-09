@@ -1,4 +1,10 @@
 {
+    "rarity":{
+        "0":"N",
+        "1":"R",
+        "2":"SR",
+        "3":"SSR"
+    },
     "class":{
         "0":"Guardian",
         "1":"Striker",
@@ -6,5 +12,33 @@
         "3":"Blaster",
         "4":"Sniper",
         "5":"Bomber"
+    },
+    "speciality":{
+       "0" : "Heavy Shield",
+       "1" : "Light Shield",
+       "2" : "Light Melee",
+       "3" : "Heavy Melee",
+       "4" : "Heavy Firearm",
+       "5" : "Light Firearm",
+       "6" : "Sniper",
+       "7" : "Cannon",
+       "8" : "Artillery",
+       "9" : "Light Body Armor",
+       "10" :"Medium Body Armor",
+       "11" :"Heavy Body Armor",
+       "12" :"Medium Body Armor",
+       "13" :"Heavy Body Armor",
+       "14" :"Light Leg Armor",
+       "15" :"Medium Leg Armor",
+       "16" :"Heavy Leg Armor",
+       "17" :"Medium Leg Armor",
+       "18" :"Heavy Leg Armor",
+       "19" :"Light Mount",
+       "20" :"Medium Mount",
+       "21" :"Heavy Mount",
+       "22" :"Medium Mount",
+       "23" :"Heavy Mount",
+       "24" :"Survival Chip",
+       "25" :"Output Chip"
     }
 }

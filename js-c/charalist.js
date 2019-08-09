@@ -60,8 +60,45 @@ function CreatePilotList(input=''){
 
 function SelectPilot(ID){
     var currgirl = db.girlData.find(search=> search.ID == ID)
+    var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+
+    PilotHtml({
+        girl:currgirl,
+        skin:currskin
+    })
     console.log(currgirl)
 }
+
+
+function PilotHtml(json){
+    $("#PilotInfo").html(`
+    <div class='fg-charadetail-container'>
+        <div class='fg-charadetail-portrait fg-darkfill fg-border'>
+            <img class='' style="height:300px" src="./img/equippartsicon/pilot/squarehead/${json.skin.HeadIcon_square}.png" title='${json.girl.Name} ${json.girl.EnglishName}'> 
+        </div>
+        <div class='fg-charadetail-name'>${json.girl.Name}<br>${json.girl.EnglishName}</div>
+        <div class='fg-charadetail-class'>
+            <img class='fg-blackfill' style="height:60px;padding:2px" src="./img/class/${db.translation.class[json.girl.ProfessionType]}.png" title='${db.translation.class[json.girl.ProfessionType]}'>  
+            <br><div style='border-radius:5px;background:#333;display:inline-block;padding:2px;min-width:90px'>${db.translation.class[json.girl.ProfessionType]}</div>
+        </div>
+        <div class='fg-charadetail-rarity'><img class='fg-raritysubbox'style="height:30px;padding:1px" src="./img/extra/rarity/${db.translation.rarity[json.girl.GirlQualityType]}.png"> </div>
+        <div class='fg-charadetail-speciality'>
+        <div style='display:inline-block;background:#333;width:170px;border-radius:5px'>
+            Speciality
+        </div><br>
+        <div style='display:inline-block;background:#444;width:160px;border-radius:0px 0px 2px 2px'>
+            ${db.translation.speciality[json.girl.WeaponRecommend]}<br>
+            ${db.translation.speciality[json.girl.ChestRecommend]}<br>
+            ${db.translation.speciality[json.girl.LegRecommend]}<br>
+            ${db.translation.speciality[json.girl.BagRecommend]}
+        </div>
+        </div>
+        
+    </div>
+    `)
+}
+
+
 function LoadAllJsonObjects(obj) {
     var result = {}
     
