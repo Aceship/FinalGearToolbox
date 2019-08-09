@@ -40,6 +40,7 @@ $(document).ready(function(){
 function CreatePilotList(input='',isenter=false){
     var hmtlList = []
     var currgirlList = db.girlData.sort((a,b)=>b.GirlQualityType - a.GirlQualityType||(b.EnglishName > a.EnglishName?-1:b.EnglishName<a.EnglishName?+1:0))
+    currgirlList= currgirlList.filter(search=>search.ID <7000)
     if(input.value){
         currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.value.toLowerCase()))
     }else if(input !=""){
@@ -50,7 +51,6 @@ function CreatePilotList(input='',isenter=false){
         }
     }
     currgirlList.forEach(girl => {
-        if(girl.ID<7000){
             var currgirl = girl
             if(currgirl){
                 var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
@@ -70,7 +70,7 @@ function CreatePilotList(input='',isenter=false){
                     </div>
                 </button>`)
             }
-        }
+
     });
     $("#PilotList").html(hmtlList.join(''))
 }
