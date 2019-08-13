@@ -487,6 +487,7 @@ function CreateTenBanner2(){
                 });
             }
         }
+        // console.log(timeEvent.timeState)
         switch (timeEvent.timeState) {
             case 'Ongoing': htmlOngoing.push(htmlcontent.join(""));break;
             case 'Finished': htmlFinished.push(htmlcontent.join(""));break;
@@ -496,11 +497,14 @@ function CreateTenBanner2(){
         }
     });
     var htmlCompiled = []
-    htmlCompiled.push(`<div class='fg-header fg-border' style='background:#22AA55;color:#000000;padding:10px'>Ongoing Banner</div>`)
-    htmlCompiled.push(htmlOngoing.join(""))
+    if (htmlOngoing!=""){
+        htmlCompiled.push(`<div class='fg-header fg-border' style='background:#22AA55;color:#000000;padding:10px'>Ongoing Banner</div>`)
+        htmlCompiled.push(htmlOngoing.join(""))
+    }
+    console.log(htmlUpcoming)
     if(htmlUpcoming!=''){
         htmlCompiled.push(`<div class='fg-header fg-border' style='background:#2255AA;color:#000000;padding:10px'>Upcoming Banner</div>`)
-    htmlCompiled.push(htmlUpcoming.join(""))
+        htmlCompiled.push(htmlUpcoming.join(""))
     }
     htmlCompiled.push(`<div class='fg-header fg-border' style='background:#AA2255;color:#000000;padding:10px'>Previous Banner</div>`)
     htmlCompiled.push(htmlFinished.join(""))
