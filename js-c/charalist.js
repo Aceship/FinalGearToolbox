@@ -10,6 +10,9 @@ const jsonList = {
     suitData            :"json/gamedata/SuitData.json",
     equipLegData        :"json/gamedata/EquipLegData.json",
     itemData            :"json/gamedata/ItemData.json",
+    skillArrayData      :"json/gamedata/SkillArrayData.json",
+    trunkSkillData      :"json/gamedata/TrunkSkillData.json",
+    skillEffectData     :"json/gamedata/SkillEffectData.json",
 
     translation         :"json/tl/Common.json"
 };
@@ -78,41 +81,99 @@ function CreatePilotList(input='',isenter=false){
 function SelectPilot(ID){
     var currgirl = db.girlData.find(search=> search.ID == ID)
     var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+    var skillcontent = []
 
+    var currskill = []
+    var skillnum = 0
+    currskin.SkillArray.forEach(eachskill => {
+        var currskilljson = []
+        var skillRankReq = eachskill[1]
+        var currSkillContent =  db.skillArrayData.filter(search=> search.ArrayID == eachskill[0])
+        // console.log(currSkillContent.length)
+        currSkillContent.forEach(skillLevel => {
+            var currLevelSkillContent = db.trunkSkillData.find(search=>search.ID == skillLevel.SkillID)
+            var currLevelSkillDetail = db.skillEffectData.find(search=>search.ID == currLevelSkillContent.SkillActionEffect)
+            // console.log(`${currLevelSkillContent.TrunkSkillName} - ${skillLevel.SkillLevel}`)
+            // console.log(currLevelSkillContent.PowerNeed)
+            // console.log(currLevelSkillContent.TrunkSkillDesc)
+
+            currskilljson.push({skill:currLevelSkillContent,effect:currLevelSkillDetail})
+        });
+        currskilljson.unlock = eachskill[1]
+        skillnum++
+        currskill.push(currskilljson)
+    });
+
+    console.log(currskill)
     PilotHtml({
         girl:currgirl,
-        skin:currskin
+        skin:currskin,
+        skill: currskill
     })
     console.log(currgirl)
 }
 
 
 function PilotHtml(json){
-    $("#PilotInfo").html(`
-    <div class='fg-charadetail-container'>
-        <div class='fg-charadetail-portrait fg-darkfill fg-border'>
-            <img class='' style="height:300px" src="./img/equippartsicon/pilot/squarehead/${json.skin.HeadIcon_square}.png" title='${json.girl.Name} ${json.girl.EnglishName}'> 
-        </div>
-        <div class='fg-charadetail-name'>${json.girl.Name}<br>${json.girl.EnglishName}</div>
-        <div class='fg-charadetail-class'>
-            <img class='fg-blackfill' style="height:60px;padding:2px" src="./img/class/${db.translation.class[json.girl.ProfessionType]}.png" title='${db.translation.class[json.girl.ProfessionType]}'>  
-            <br><div style='border-radius:5px;background:#333;display:inline-block;padding:2px;min-width:90px'>${db.translation.class[json.girl.ProfessionType]}</div>
-        </div>
-        <div class='fg-charadetail-rarity'><img class='fg-raritysubbox'style="height:30px;padding:1px" src="./img/extra/rarity/${db.translation.rarity[json.girl.GirlQualityType]}.png"> </div>
-        <div class='fg-charadetail-speciality'>
-        <div style='display:inline-block;background:#333;width:170px;border-radius:5px'>
-            Speciality
-        </div><br>
-        <div style='display:inline-block;background:#444;width:160px;border-radius:0px 0px 2px 2px'>
-            ${db.translation.speciality[json.girl.WeaponRecommend]}<br>
-            ${db.translation.speciality[json.girl.ChestRecommend]}<br>
-            ${db.translation.speciality[json.girl.LegRecommend]}<br>
-            ${db.translation.speciality[json.girl.BagRecommend]}
-        </div>
-        </div>
+    $('#charadetail-portrait').attr("src",`./img/equippartsicon/pilot/squarehead/${json.skin.HeadIcon_square}.png`)
+    $('#charadetail-portrait').attr("title",`${json.girl.Name} ${json.girl.EnglishName}`)
+
+    $('#charadetail-name').html(`${json.girl.Name}<br>${json.girl.EnglishName}`)
+
+    $('#charadetail-class-image').attr('src',`./img/class/${db.translation.class[json.girl.ProfessionType]}.png`)
+    $('#charadetail-class-image').attr('title',`${db.translation.class[json.girl.ProfessionType]}`)
+    $('#charadetail-class-name').html(`${db.translation.class[json.girl.ProfessionType]}`)
+
+    $('#charadetail-rarity-image').attr('src',`./img/extra/rarity/${db.translation.rarity[json.girl.GirlQualityType]}.png`)
+    $('#charadetail-rank').html((`<i class='fa fa-star'></i>`).repeat(json.girl.BasicStarLevel)+(`<i class='fa fa-star rank-blank'></i>`).repeat(6-json.girl.BasicStarLevel))
+
+    $('#charadetail-speciality').html(`
+    ${db.translation.speciality[json.girl.WeaponRecommend]}<br>
+    ${db.translation.speciality[json.girl.ChestRecommend]}<br>
+    ${db.translation.speciality[json.girl.LegRecommend]}<br>
+    ${db.translation.speciality[json.girl.BagRecommend]}
+                `)
+
+    var skillhtml=[]
+    json.skill.forEach(skill => {
+        console.log(skill)
+        var currskillhtml =[]
+
+        currskillhtml.push(`
+        Name : ${skill[0].skill.TrunkSkillName}<br>
+        Desc :
+        `)
+        skill.forEach(eachlevel => {
+            currskillhtml.push(`${eachlevel.skill.TrunkSkillDesc}`)
+        });
+        skillhtml.push(currskillhtml.join('<br>'))
+    });
+    $('#charadetail-skillcontent').html(skillhtml.join('<Br><br><br>'))
+    // $("#PilotInfo").html(`
+    // <div class='fg-charadetail-container'>
+    //     <div class='fg-charadetail-portrait fg-darkfill fg-border'>
+    //         <img class='' style="height:300px" src="./img/equippartsicon/pilot/squarehead/${json.skin.HeadIcon_square}.png" title='${json.girl.Name} ${json.girl.EnglishName}'> 
+    //     </div>
+    //     <div class='fg-charadetail-name'>${json.girl.Name}<br>${json.girl.EnglishName}</div>
+    //     <div class='fg-charadetail-class'>
+    //         <img class='fg-blackfill' style="height:60px;padding:2px" src="./img/class/${db.translation.class[json.girl.ProfessionType]}.png" title='${db.translation.class[json.girl.ProfessionType]}'>  
+    //         <br><div style='border-radius:5px;background:#333;display:inline-block;padding:2px;min-width:90px'>${db.translation.class[json.girl.ProfessionType]}</div>
+    //     </div>
+    //     <div class='fg-charadetail-rarity'><img class='fg-raritysubbox'style="height:30px;padding:1px" src="./img/extra/rarity/${db.translation.rarity[json.girl.GirlQualityType]}.png"> </div>
+    //     <div class='fg-charadetail-speciality'>
+    //     <div style='display:inline-block;background:#333;width:170px;border-radius:5px'>
+    //         Speciality
+    //     </div><br>
+    //     <div style='display:inline-block;background:#444;width:160px;border-radius:0px 0px 2px 2px'>
+    //         ${db.translation.speciality[json.girl.WeaponRecommend]}<br>
+    //         ${db.translation.speciality[json.girl.ChestRecommend]}<br>
+    //         ${db.translation.speciality[json.girl.LegRecommend]}<br>
+    //         ${db.translation.speciality[json.girl.BagRecommend]}
+    //     </div>
+    //     </div>
         
-    </div>
-    `)
+    // </div>
+    // `)
 }
 
 

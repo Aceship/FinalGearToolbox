@@ -65,6 +65,9 @@ body{
     color:#000000;
     
 }
+.rank-blank{
+    color:#444444   
+}
 
 .shadow-thin{
     box-shadow: 1px 1px 5px #001144AA
@@ -304,6 +307,7 @@ body{
     grid-template-areas:
     "potrait name class"
     "potrait rarity rarity"
+    "potrait rank rank"
     "potrait speciality speciality"
 }
 
@@ -335,6 +339,11 @@ body{
     /* font-size: 12px; */
     text-align: center;
 }
+.fg-charadetail-rank{
+    grid-area: rank;
+    /* font-size: 12px; */
+    text-align: center;
+}
 
 .fg-charadetail-speciality{
     grid-area: speciality;
@@ -342,6 +351,17 @@ body{
     text-align: center;
 }
 
+/* .fg-charadetail-skill-container{
+    display: inline-grid;
+    grid-template-columns: 180px 180px auto ;
+
+    grid-row-gap: 4px;
+    grid-column-gap: 120px auto;
+    grid-template-areas:
+    "icon name"
+    "unlock unlock"
+    "description description"
+} */
 
 /* Grid For BannerList */
 
