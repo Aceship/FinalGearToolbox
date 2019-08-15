@@ -147,7 +147,7 @@ function PilotHtml(json){
             var currtl = db.tlSkill[skill[0].skill.ID]
             if(currtl.isUp=="True"&& currtl.name){
                 skillname = currtl.name
-            }else skillname = currtl.gname
+            }else if (currtl.gname)skillname = currtl.gname
         }
 
        
@@ -189,7 +189,7 @@ function PilotHtml(json){
                 var currtl = db.tlSkill[eachlevel.skill.ID]
                 if(currtl.isUp=="True"&& currtl.desc){
                     skilldesc = currtl.desc
-                }else skilldesc = currtl.gdesc
+                }else if(currtl.gdesc) skilldesc = currtl.gdesc
             }
             currskillhtml.push(`
                 <div class="tab-pane fade show ${levelcount==1?"active":""}" id="skill-${skillnum}-${levelcount}" role="tabpanel" aria-labelledby="skill-${skillnum}-tab-${levelcount}">${skilldesc}</div>
