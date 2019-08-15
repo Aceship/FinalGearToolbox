@@ -305,10 +305,10 @@ body{
     grid-row-gap: 4px;
     grid-column-gap: 120px auto;
     grid-template-areas:
-    "potrait name class"
-    "potrait rarity rarity"
-    "potrait rank rank"
-    "potrait speciality speciality"
+    "potrait name class mech"
+    "potrait rarity rarity mech"
+    "potrait rank rank mech"
+    "potrait speciality speciality mech"
 }
 
 .fg-charadetail-portrait{
@@ -350,19 +350,45 @@ body{
     /* font-size: 12px; */
     text-align: center;
 }
+.fg-charadetail-mech{
+    grid-area: mech;
+    /* font-size: 12px; */
+}
 
-/* .fg-charadetail-skill-container{
+.fg-charadetail-skill-container{
     display: inline-grid;
-    grid-template-columns: 180px 180px auto ;
-
+    grid-template-columns: 128px auto ;
     grid-row-gap: 4px;
-    grid-column-gap: 120px auto;
+    grid-column-gap: 20px auto;
+    width: 100%;
     grid-template-areas:
     "icon name"
-    "unlock unlock"
-    "description description"
-} */
+    "icon unlock"
+    "icon description"
 
+    
+}
+.fg-charadetail-skill-icon{
+    grid-area: icon;
+    /* font-size: 12px; */
+    text-align: center;
+    margin:auto;
+}
+.fg-charadetail-skill-name{
+    grid-area: name ;
+    font-size: 20px;
+    background: #44444499;
+    padding:4px;
+}
+.fg-charadetail-skill-unlock{
+    grid-area: unlock;
+    /* font-size: 12px; */
+}
+.fg-charadetail-skill-description{
+    grid-area: description;
+    
+    /* font-size: 12px; */
+}
 /* Grid For BannerList */
 
 .fg-tenbanner-container{
@@ -380,7 +406,6 @@ body{
 }
 .fg-tenbanner-name{
     grid-area: name;
-
     text-align: center;
     font-size: 26px
 }

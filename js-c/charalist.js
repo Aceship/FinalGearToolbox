@@ -14,7 +14,8 @@ const jsonList = {
     trunkSkillData      :"json/gamedata/TrunkSkillData.json",
     skillEffectData     :"json/gamedata/SkillEffectData.json",
 
-    translation         :"json/tl/Common.json"
+    translation         :"json/tl/Common.json",
+    tlSkill             :"json/tl/tl-skill.json"
 };
 
 var db = {}
@@ -37,6 +38,7 @@ $(document).ready(function(){
          }
      });
     CreatePilotList()
+    SelectPilot(1)
 });
 
 
@@ -135,20 +137,77 @@ function PilotHtml(json){
                 `)
 
     var skillhtml=[]
+    var skillnum = 0
     json.skill.forEach(skill => {
         console.log(skill)
         var currskillhtml =[]
 
+        var skillname = skill[0].skill.TrunkSkillName
+        if(db.tlSkill[skill[0].skill.ID]){
+            var currtl = db.tlSkill[skill[0].skill.ID]
+            if(currtl.isUp=="True"&& currtl.name){
+                skillname = currtl.name
+            }else skillname = currtl.gname
+        }
+
+       
+
         currskillhtml.push(`
-        Name : ${skill[0].skill.TrunkSkillName}<br>
-        Desc :
-        `)
+        <div class='fg-charadetail-skill-container fg-corner fg-bluefill'>
+            <div class='fg-charadetail-skill-icon fg-border'><img id='charadetail-class-image'class='fg-blackfill' style="height:100px;padding:2px" src="./img/equippartsicon/skill/${skill[0].skill.TrunkSkillIcon}.png" title='none'></div>
+            <div class='fg-charadetail-skill-name'>${skillname}</div>
+            <div class='fg-charadetail-skill-unlock'>Unlock at Rank : ${skill.unlock}</div>
+            <div class='fg-charadetail-skill-description' style='margin:4px'>
+                <ul class="nav nav-tabs fg-border" style='margin-bottom:5px'id="myTab" role="tablist" >
+                    <li class="nav-item">
+                        <a class="nav-link active" id="skill-${skillnum}-tab-1" data-toggle="tab" href="#skill-${skillnum}-1" role="tab" aria-controls="home" aria-selected="true">Level 1</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " id="skill-${skillnum}-tab-2" data-toggle="tab" href="#skill-${skillnum}-2" role="tab" aria-controls="home" aria-selected="true">Level 2</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " id="skill-${skillnum}-tab-3" data-toggle="tab" href="#skill-${skillnum}-3" role="tab" aria-controls="home" aria-selected="true">Level 3</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " id="skill-${skillnum}-tab-4" data-toggle="tab" href="#skill-${skillnum}-4" role="tab" aria-controls="home" aria-selected="true">Level 4</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " id="skill-${skillnum}-tab-5" data-toggle="tab" href="#skill-${skillnum}-5" role="tab" aria-controls="home" aria-selected="true">Level 5</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " id="skill-${skillnum}-tab-list" data-toggle="tab" href="#skill-${skillnum}-list" role="tab" aria-controls="home" aria-selected="true">List All</a>
+                    </li>
+                </ul>
+                <div class="tab-content fg-border" style="padding:4px" id="Content">
+       `)
+        var levelcount=1
+        var skillList = []
         skill.forEach(eachlevel => {
-            currskillhtml.push(`${eachlevel.skill.TrunkSkillDesc}`)
+            console.log(eachlevel.s)
+            var skilldesc = eachlevel.skill.TrunkSkillDesc
+            if(db.tlSkill[eachlevel.skill.ID]){
+                var currtl = db.tlSkill[eachlevel.skill.ID]
+                if(currtl.isUp=="True"&& currtl.desc){
+                    skilldesc = currtl.desc
+                }else skilldesc = currtl.gdesc
+            }
+            currskillhtml.push(`
+                <div class="tab-pane fade show ${levelcount==1?"active":""}" id="skill-${skillnum}-${levelcount}" role="tabpanel" aria-labelledby="skill-${skillnum}-tab-${levelcount}">${skilldesc}</div>
+            `)
+            skillList.push(`Level ${levelcount} - ${skilldesc}<br>`)
+            levelcount++
         });
-        skillhtml.push(currskillhtml.join('<br>'))
+        currskillhtml.push(`
+                <div class="tab-pane fade show" id="skill-${skillnum}-list" role="tabpanel" aria-labelledby="skill-${skillnum}-tab-list">${skillList.join('')}</div>
+            `)
+        currskillhtml.push('</div></div></div>')
+        console.log(currskillhtml)
+        skillhtml.push(currskillhtml.join(''))
+        skillnum++
     });
-    $('#charadetail-skillcontent').html(skillhtml.join('<Br><br><br>'))
+
+    
+    $('#charadetail-skillcontent').html(skillhtml.join('<Br><br>'))
     // $("#PilotInfo").html(`
     // <div class='fg-charadetail-container'>
     //     <div class='fg-charadetail-portrait fg-darkfill fg-border'>
