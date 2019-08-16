@@ -8,6 +8,7 @@ const jsonList = {
     girlSkinData        :"json/gamedata/GirlSkinData.json",
     widgetData          :"json/gamedata/WidgetData.json",
     suitData            :"json/gamedata/SuitData.json",
+    machineArmorData    :"json/gamedata/MachineArmorData.json",
     equipLegData        :"json/gamedata/EquipLegData.json",
     itemData            :"json/gamedata/ItemData.json",
     skillArrayData      :"json/gamedata/SkillArrayData.json",
@@ -26,6 +27,9 @@ LoadAllJsonObjects(jsonList).then(function(result) {
 
 $(document).ready(function(){
     console.log(db)
+    $('#PilotBrowse').on('shown.bs.modal', function () {
+        $('#pilotname').focus();
+    })  
     $('#pilotname').bind("enterKey",function(e){
         // console.log()
         CreatePilotList($('#pilotname').val(),true)
@@ -49,8 +53,10 @@ function CreatePilotList(input='',isenter=false){
     if(input.value){
         currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.value.toLowerCase()))
     }else if(input !=""){
-        console.log(input)
-        currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.toLowerCase()))
+        // console.log(input)
+        // console.log(input.value)
+        if(input.value!="")currgirlList = currgirlList.filter(search=> (search.Name + " " + search.EnglishName).toLowerCase().includes(input.toLowerCase()))
+        
         if(currgirlList[0]&&isenter){
             SelectPilot(currgirlList[0].ID)
         }
@@ -83,6 +89,9 @@ function CreatePilotList(input='',isenter=false){
 function SelectPilot(ID){
     var currgirl = db.girlData.find(search=> search.ID == ID)
     var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+    var suit = db.suitData.find(search=> search.ID == currgirl.SuitID )
+    var armorData = suit?db.machineArmorData.find(search=>search.ID == suit.MachineArmorID):undefined
+    var currSuitData = suit?db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1]):undefined
     var skillcontent = []
 
     var currskill = []
@@ -106,11 +115,12 @@ function SelectPilot(ID){
         currskill.push(currskilljson)
     });
 
-    console.log(currskill)
+    // console.log(currskill)
     PilotHtml({
         girl:currgirl,
         skin:currskin,
-        skill: currskill
+        skill: currskill,
+        suit : {info:suit,details:armorData,data:currSuitData}
     })
     console.log(currgirl)
 }
@@ -136,10 +146,16 @@ function PilotHtml(json){
     ${db.translation.speciality[json.girl.BagRecommend]}
                 `)
 
+
+    if(json.suit.info&&json.suit.details){
+        $(`#charadetail-mech`).html(`
+        <img id='charadetail-class-image'class='' style="width:256px;padding:2px" src="./img/equippartsicon/preview/leg/${json.suit.data.preview1}.png" title='${json.suit.info.SuitName}'>
+        `)
+    }else $(`#charadetail-mech`).html(``)
     var skillhtml=[]
     var skillnum = 0
     json.skill.forEach(skill => {
-        console.log(skill)
+        // console.log(skill)
         var currskillhtml =[]
 
         var skillname = skill[0].skill.TrunkSkillName
@@ -183,7 +199,7 @@ function PilotHtml(json){
         var levelcount=1
         var skillList = []
         skill.forEach(eachlevel => {
-            console.log(eachlevel.s)
+            // console.log(eachlevel.s)
             var skilldesc = eachlevel.skill.TrunkSkillDesc
             if(db.tlSkill[eachlevel.skill.ID]){
                 var currtl = db.tlSkill[eachlevel.skill.ID]
@@ -201,7 +217,7 @@ function PilotHtml(json){
                 <div class="tab-pane fade show" id="skill-${skillnum}-list" role="tabpanel" aria-labelledby="skill-${skillnum}-tab-list">${skillList.join('')}</div>
             `)
         currskillhtml.push('</div></div></div>')
-        console.log(currskillhtml)
+        // console.log(currskillhtml)
         skillhtml.push(currskillhtml.join(''))
         skillnum++
     });
