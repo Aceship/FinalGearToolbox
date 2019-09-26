@@ -165,9 +165,9 @@ function PilotHtml(json){
         var skillname = skill[0].skill.TrunkSkillName
         if(db.tlSkill[skill[0].skill.ID]){
             var currtl = db.tlSkill[skill[0].skill.ID]
-            if(currtl.isUp=="True"&& currtl.name){
+            if(currtl.isUp=="True"&& currtl.name&&currtl.oname==skillname){
                 skillname = currtl.name
-            }else if (currtl.gname)skillname = currtl.gname
+            }else if (currtl.gname&&currtl.oname==skillname)skillname = currtl.gname
         }
 
        
@@ -207,9 +207,9 @@ function PilotHtml(json){
             var skilldesc = eachlevel.skill.TrunkSkillDesc
             if(db.tlSkill[eachlevel.skill.ID]){
                 var currtl = db.tlSkill[eachlevel.skill.ID]
-                if(currtl.isUp=="True"&& currtl.desc){
+                if(currtl.isUp=="True"&& currtl.desc&&currtl.odesc==skilldesc){
                     skilldesc = currtl.desc
-                }else if(currtl.gdesc) skilldesc = currtl.gdesc
+                }else if(currtl.gdesc&&currtl.odesc==skilldesc) skilldesc = currtl.gdesc
             }
             currskillhtml.push(`
                 <div class="tab-pane fade show ${levelcount==1?"active":""}" id="skill-${skillnum}-${levelcount}" role="tabpanel" aria-labelledby="skill-${skillnum}-tab-${levelcount}">${skilldesc}</div>
