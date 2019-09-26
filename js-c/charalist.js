@@ -101,14 +101,18 @@ function SelectPilot(ID){
         var skillRankReq = eachskill[1]
         var currSkillContent =  db.skillArrayData.filter(search=> search.ArrayID == eachskill[0])
         // console.log(currSkillContent.length)
+        console.log(currSkillContent)
         currSkillContent.forEach(skillLevel => {
             var currLevelSkillContent = db.trunkSkillData.find(search=>search.ID == skillLevel.SkillID)
-            var currLevelSkillDetail = db.skillEffectData.find(search=>search.ID == currLevelSkillContent.SkillActionEffect)
-            // console.log(`${currLevelSkillContent.TrunkSkillName} - ${skillLevel.SkillLevel}`)
-            // console.log(currLevelSkillContent.PowerNeed)
-            // console.log(currLevelSkillContent.TrunkSkillDesc)
+            console.log(currLevelSkillContent)
+            if(currLevelSkillContent){
+                var currLevelSkillDetail = db.skillEffectData.find(search=>search.ID == currLevelSkillContent.SkillActionEffect)
+                // console.log(`${currLevelSkillContent.TrunkSkillName} - ${skillLevel.SkillLevel}`)
+                // console.log(currLevelSkillContent.PowerNeed)
+                // console.log(currLevelSkillContent.TrunkSkillDesc)
 
-            currskilljson.push({skill:currLevelSkillContent,effect:currLevelSkillDetail})
+                currskilljson.push({skill:currLevelSkillContent,effect:currLevelSkillDetail})
+            }
         });
         currskilljson.unlock = eachskill[1]
         skillnum++

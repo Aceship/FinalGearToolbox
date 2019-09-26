@@ -180,14 +180,20 @@ function ListBanner() {
                 var suitListArray = []
                 if(currRec.GirlList){
                     var suitList = currRec.GirlList.split(",")
+                    console.log(suitList)
                     suitList.forEach(element => {
-                        var currgirl = db.girlData.find(search=>search.SuitID == element)
-                        var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
-                        if(currskin&&currskin.MachineArmorModel1[1]){
-                            var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
-                            var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
-                            // console.log(currSuit)
-                            suitListArray.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
+                        var suitCheck = element.split(";")
+                        console.log(suitCheck)
+                        var suitCheck2 = suitCheck[1]?suitCheck[1]:suitCheck[0]
+                        var currgirl = db.girlData.find(search=>search.SuitID == suitCheck2)
+                        if(currgirl){
+                            var currskin = db.girlSkinData.find(search=>search.ID == currgirl.BasicSkin)
+                            if(currskin&&currskin.MachineArmorModel1[1]){
+                                var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
+                                var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
+                                // console.log(currSuit)
+                                suitListArray.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
+                            }
                         }
                     });
                 }
