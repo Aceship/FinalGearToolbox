@@ -7130,7 +7130,7 @@
         "LimitTime": -1,
         "GetLimitType": 0,
         "GetLimitPara": "",
-        "PreScene": 903205,
+        "PreScene": 903253,
         "NextScene": 0,
         "FollowScene": [
             0
@@ -7194,11 +7194,11 @@
         "SceneFunctionType": 0,
         "SceneFunctionPara": "",
         "UnlockMission": 0,
-        "Image": "ActivityIconEvelynn_1",
+        "Image": "stageIcon3_1_4",
         "LimitTime": -1,
         "GetLimitType": 0,
         "GetLimitPara": "",
-        "PreScene": 903205,
+        "PreScene": 903253,
         "NextScene": 0,
         "FollowScene": [
             903208,
@@ -7213,9 +7213,9 @@
         "StarRequest2": 2,
         "StarRequestCount2": "0",
         "StarRequest2Disc": "无机甲死亡",
-        "StarRequest3": 3,
-        "StarRequestCount3": "480",
-        "StarRequest3Disc": "在8分钟内通关",
+        "StarRequest3": 4,
+        "StarRequestCount3": "3",
+        "StarRequest3Disc": "剩余耐久高于30%",
         "MapID": 903207,
         "BattleID": [
             90320701,
@@ -7270,7 +7270,7 @@
         "SceneFunctionType": 0,
         "SceneFunctionPara": "",
         "UnlockMission": 0,
-        "Image": "ActivityIconEvelynn_1",
+        "Image": "ActivityIconMargaret_4",
         "LimitTime": -1,
         "GetLimitType": 0,
         "GetLimitPara": "",
@@ -29964,7 +29964,6 @@
         ],
         "AwardProview": [
             13200012,
-            11502032,
             11410002,
             11410003,
             11410004,
@@ -30036,8 +30035,6 @@
         ],
         "AwardProview": [
             13200012,
-            11502023,
-            11502032,
             11410001,
             11410002,
             11410003,
@@ -30110,9 +30107,6 @@
         ],
         "AwardProview": [
             13200012,
-            11502023,
-            11502026,
-            11502032,
             11410001,
             11410002,
             11410003,
@@ -30185,9 +30179,6 @@
         ],
         "AwardProview": [
             13200012,
-            11502023,
-            11502026,
-            11502032,
             11410001,
             11410002,
             11410003,
