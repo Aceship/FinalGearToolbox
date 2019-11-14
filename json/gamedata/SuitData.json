@@ -961,7 +961,7 @@
             ],
             "propertys": null
         },
-        "Suit5Desc": "·激活后妮娅技能强化\n·武器弹量额外增加\n·一体机激活后，子弹穿透能力增加\n·可激活专属机甲模型",
+        "Suit5Desc": "·激活后妮娅技能强化\n·战斗中武器弹量额外增加2发\n·一体机激活后，武器弹量额外增加1发\n·一体机激活后，子弹穿透能力增加\n·可激活专属机甲模型",
         "MachineArmorID": 4301,
         "WidgetCamp": 5,
         "Designer": "？？？",
@@ -1296,19 +1296,19 @@
         "SuitName": "谜之机体",
         "SuitType": 2,
         "SuitWeaponID": [
-            2304514
+            230451401
         ],
         "SuitChestID": [
-            2304523
+            230452301
         ],
         "SuitLegID": [
-            2304533
+            230453301
         ],
         "SuitBackpackID": [
-            2304543
+            230454301
         ],
         "SuitGirlID": [
-            24
+            45
         ],
         "Suit2Add": {
             "keys": [
@@ -1340,7 +1340,7 @@
             "propertys": null
         },
         "Suit5Desc": "·机甲伤害提高10%\n·激活专属机甲模型",
-        "MachineArmorID": 2401,
+        "MachineArmorID": 4501,
         "WidgetCamp": 8,
         "Designer": "？？？",
         "Manufacturer": "？？？",
