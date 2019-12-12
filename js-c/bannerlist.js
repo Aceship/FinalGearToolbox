@@ -10,6 +10,7 @@ const jsonList = {
     suitData            :"json/gamedata/SuitData.json",
     equipLegData        :"json/gamedata/EquipLegData.json",
     itemData            :"json/gamedata/ItemData.json",
+    cnLang              :"json/lang/sc/LanguageData.json",
 };
 
 var db = {}
@@ -41,7 +42,7 @@ function ListBanner() {
                 currRec.RecruitNeed.forEach(element => {
                     var currItem = db.itemData.find(search=>search.ID == element[0])
                     // console.log(currItem)
-                    itemlisthtml.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
+                    itemlisthtml.push(ItemBoxMaker(db.cnLang[currItem.Name],`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
                 // htmlcontent.push(`<div class='fg-inline'>`)
                 // htmlcontent.push(CreateBox(`Item Required`,itemlisthtml.join(''),false))
@@ -53,7 +54,7 @@ function ListBanner() {
                 // console.log(filterRandomNormal)
                 // console.log(filterRandomFull)
                 
-                var probability = currRec.ProbabilityPrew.split(";")
+                var probability = db.cnLang[currRec.ProbabilityPrew].split(";")
                 var probhtml = []
                 probability.forEach(element => {
                     var raritydrop = element.replace('机师','').split(',')
@@ -75,10 +76,10 @@ function ListBanner() {
                     upGirlList.forEach(element => {
                         upGirlArray.push(`
                         <div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
-                        ${element.girl.Name}<br>
+                        ${db.cnLang[element.girl.Name]}<br>
                         ${element.girl.EnglishName}<br>
                         
-                            <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${element.girl.Name} ${element.girl.EnglishName}'><br>
+                            <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}'><br>
                             <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                         </div>
                         `)
@@ -103,7 +104,7 @@ function ListBanner() {
                 
                 girlListArray.forEach(element => {
                     
-                    randomNormal.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
+                    randomNormal.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}'> `)
                 });
 
                 if(filterRandomFull.length>0){
@@ -123,7 +124,7 @@ function ListBanner() {
                     
                     girlListArray.forEach(element => {
                         
-                        randomFull.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
+                        randomFull.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}'> `)
                     });
                     
                 }
@@ -132,7 +133,7 @@ function ListBanner() {
                         <div style='text-align:center'>
                             <div class='fg-recruitBanner-container fg-border' style='background:#00225533'>
                                 <div class='fg-recruitBanner-name fg-thinborder fg-darkfill'>
-                                ${currRec.RecruitName}
+                                ${db.cnLang[currRec.RecruitName]}
                                 </div>
                                 <div class='fg-recruitBanner-item fg-thinborder'> ${itemlisthtml.join('')}</div>
                                 <div class='fg-recruitBanner-rate fg-thinborder'> 
@@ -163,14 +164,14 @@ function ListBanner() {
                         islimited=0
                     }
                     
-                    itemlisthtml.push(ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
+                    itemlisthtml.push(ItemBoxMaker(db.cnLang[currItem.Name],`./img/equippartsicon/item/${currItem.Icon}.png`,element[1],currItem.ItemQualityType))
                 });
 
                 var filterRandomFull = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.FullValueRandom)
                 var filterRandomNormal = db.recruitLibraryData.filter(search=> search.StuffType==1 && search.RandomLibraryID==currRec.NormalRandom)
 
                 var probhtml=[]
-                var probability = currRec.ProbabilityPrew.split(";")
+                var probability = db.cnLang[currRec.ProbabilityPrew].split(";")
                 probability.forEach(element => {
                     var raritydrop = element.replace(/\n/g, "<br />");
                     raritydrop=raritydrop.replace("111111","").replace("1111111率率率","")
@@ -192,7 +193,7 @@ function ListBanner() {
                                 var currSuitData = db.equipLegData.find(search=>search.ID ==currskin.MachineArmorModel1[1])
                                 var currSuit = db.suitData.find(search=>search.ID ==currgirl.SuitID)
                                 // console.log(currSuit)
-                                suitListArray.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${currSuit.SuitName}'>`)
+                                suitListArray.push(`<img style="height:120px;padding:1px" src="./img/equippartsicon/preview/leg/${currSuitData.preview1}.png" title='${db.cnLang[currSuit.SuitName]}'>`)
                             }
                         }
                     });
@@ -202,13 +203,13 @@ function ListBanner() {
                 var randomFull = []
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
-                    randomNormal.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                    randomNormal.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
                 });
                 if(filterRandomFull.length>0){
                     filterRandomFull.forEach(element => {
                         var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                        randomFull.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${currwidget.Name}'> `)
+                        randomFull.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
                     });
                 }
 
@@ -219,7 +220,7 @@ function ListBanner() {
                 mechPartsHtml.push(`
                 <div style='text-align:center'>
                     <div class='fg-mechDevBanner-container fg-border' style='background:#00225533'>
-                        <div class='fg-mechDevBanner-name fg-thinborder fg-darkfill'>${currRec.RecruitName}</div>
+                        <div class='fg-mechDevBanner-name fg-thinborder fg-darkfill'>${db.cnLang[currRec.RecruitName]}</div>
                         <div class='fg-mechDevBanner-item'> <div class='fg-centered'>${itemlisthtml.join('')}</div></div>
                         <div class='fg-mechDevBanner-rate'>  ${probhtml.join('')}</div>
                         <div class='fg-mechDevBanner-random'>  
@@ -403,13 +404,13 @@ function CreateTenBanner2(){
                         
                         upGirlList.forEach(element => {
                             if(mainRateUp==''){
-                                mainRateUp = `${element.girl.Name} ${element.girl.EnglishName}`
+                                mainRateUp = `${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}`
                             }
                             upGirlArray.push(`<div class='rarity-${element.girl.GirlQualityType}' style='display:inline-block;text-align:center'>
-                            ${element.girl.Name}<br>
+                            ${db.cnLang[element.girl.Name]}<br>
                             ${element.girl.EnglishName}<br>
                             
-                                <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${element.girl.Name} ${element.girl.EnglishName}'><br>
+                                <img style="height:180px;padding:1px" src="./img/equippartsicon/pilot/squarehead/${element.skin.HeadIcon_square}.png" title='${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}'><br>
                                 <div class='rarity-back-${element.girl.GirlQualityType}'>${element.rate}</div>
                             </div>
                             `)
@@ -432,10 +433,10 @@ function CreateTenBanner2(){
                     })
                     
                     girlListArray.forEach(element => {
-                        girlListHtml.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${element.girl.Name} ${element.girl.EnglishName}'> `)
+                        girlListHtml.push(`<img class='rarity-${element.girl.GirlQualityType}' style="height:40px;padding:1px" src="./img/equippartsicon/pilot/head/${element.skin.HeadIcon}.png" title='${db.cnLang[element.girl.Name]} ${element.girl.EnglishName}'> `)
                     });
 
-                    var probability = currRec.ProbabilityPrew.split(";")
+                    var probability = db.cnLang[currRec.ProbabilityPrew].split(";")
                     var probhtml = []
                     probability.forEach(element => {
                         var raritydrop = element.replace('机师','').split(',')
@@ -452,7 +453,7 @@ function CreateTenBanner2(){
                         tenpullrewards.push(`<div class='tenpull-container shadow-thin fg-border fg-thinfill' >
                         <div>Pull <div class="tenpull-number">${recruitData.total==i+1?(i+1)+"+":i+1}</div></div>
                         <div style="display: inline-block;margin:auto">
-                        ${ItemBoxMaker(currItem.Name,`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType)}
+                        ${ItemBoxMaker(db.cnLang[currItem.Name],`./img/equippartsicon/item/${currItem.Icon}.png`,recruitData.detail[i].TenRecruitNeed[1],currItem.ItemQualityType)}
                         </div>`)
                         if(recruitData.detail[i].Award){
                             var awardSplit = recruitData.detail[i].Award.split(",")
@@ -460,7 +461,7 @@ function CreateTenBanner2(){
                             tenpullrewards.push(`
                             Rewards<br>
                             <div style="display: inline-block;margin:auto">
-                            ${ItemBoxMaker(currReward.Name,`./img/equippartsicon/item/${currReward.Icon}.png`,awardSplit[1],currReward.ItemQualityType)}
+                            ${ItemBoxMaker(db.cnLang[currReward.Name],`./img/equippartsicon/item/${currReward.Icon}.png`,awardSplit[1],currReward.ItemQualityType)}
                             </div>
                             `)
                         }

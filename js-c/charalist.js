@@ -15,6 +15,7 @@ const jsonList = {
     trunkSkillData      :"json/gamedata/TrunkSkillData.json",
     skillEffectData     :"json/gamedata/SkillEffectData.json",
 
+    cnLang              :"json/lang/sc/LanguageData.json",
     translation         :"json/tl/Common.json",
     tlSkill             :"json/tl/tl-skill.json"
 };
@@ -71,12 +72,12 @@ function CreatePilotList(input='',isenter=false){
                     <div class='fg-chara-lg-container fg-darkfill  fg-thinborder'>
                         <div class='fg-chara-lg-rarity rarity-back-${girl.GirlQualityType}'></div>
                         <div class='fg-chara-lg-potrait fg-bluefill fg-thinborder'>
-                            <img class='' style="height:80px" src="./img/equippartsicon/pilot/stagehead/${currskin.StageHeadIcon}.png" title='${girl.Name} ${girl.EnglishName}'> 
+                            <img class='' style="height:80px" src="./img/equippartsicon/pilot/stagehead/${currskin.StageHeadIcon}.png" title='${db.cnLang[girl.Name]} ${girl.EnglishName}'> 
                         </div>
                         <div class='fg-chara-lg-class fg-darkfill '>
                             <img class='fg-blackfill' style="height:30px" src="./img/class/${db.translation.class[girl.ProfessionType]}.png" title='${db.translation.class[girl.ProfessionType]}'>  
                         </div>
-                        <div class='fg-chara-lg-name'>${girl.Name}</div>
+                        <div class='fg-chara-lg-name'>${db.cnLang[girl.Name]}</div>
                         <div class='fg-chara-lg-englishname fg-thinborder'>${girl.EnglishName}</div>
                     </div>
                 </button>`)
@@ -132,9 +133,9 @@ function SelectPilot(ID){
 
 function PilotHtml(json){
     $('#charadetail-portrait').attr("src",`./img/equippartsicon/pilot/squarehead/${json.skin.HeadIcon_square}.png`)
-    $('#charadetail-portrait').attr("title",`${json.girl.Name} ${json.girl.EnglishName}`)
+    $('#charadetail-portrait').attr("title",`${db.cnLang[json.girl.Name]} ${json.girl.EnglishName}`)
 
-    $('#charadetail-name').html(`${json.girl.Name}<br>${json.girl.EnglishName}`)
+    $('#charadetail-name').html(`${db.cnLang[json.girl.Name]}<br>${json.girl.EnglishName}`)
 
     $('#charadetail-class-image').attr('src',`./img/class/${db.translation.class[json.girl.ProfessionType]}.png`)
     $('#charadetail-class-image').attr('title',`${db.translation.class[json.girl.ProfessionType]}`)
@@ -153,7 +154,7 @@ function PilotHtml(json){
 
     if(json.suit.info&&json.suit.details){
         $(`#charadetail-mech`).html(`
-        <img id='charadetail-class-image'class='' style="width:256px;padding:2px" src="./img/equippartsicon/preview/leg/${json.suit.data.preview1}.png" title='${json.suit.info.SuitName}'>
+        <img id='charadetail-class-image'class='' style="width:256px;padding:2px" src="./img/equippartsicon/preview/leg/${json.suit.data.preview1}.png" title='${db.cnLang[json.suit.info.SuitName]}'>
         `)
     }else $(`#charadetail-mech`).html(``)
     var skillhtml=[]
@@ -162,7 +163,7 @@ function PilotHtml(json){
         // console.log(skill)
         var currskillhtml =[]
 
-        var skillname = skill[0].skill.TrunkSkillName
+        var skillname = db.cnLang[skill[0].skill.TrunkSkillName]
         if(db.tlSkill[skill[0].skill.ID]){
             var currtl = db.tlSkill[skill[0].skill.ID]
             if(currtl.isUp=="True"&& currtl.name&&currtl.oname==skillname){
@@ -204,7 +205,7 @@ function PilotHtml(json){
         var skillList = []
         skill.forEach(eachlevel => {
             // console.log(eachlevel.s)
-            var skilldesc = eachlevel.skill.TrunkSkillDesc
+            var skilldesc = db.cnLang[eachlevel.skill.TrunkSkillDesc]
             if(db.tlSkill[eachlevel.skill.ID]){
                 var currtl = db.tlSkill[eachlevel.skill.ID]
                 if(currtl.isUp=="True"&& currtl.desc&&currtl.odesc==skilldesc){
