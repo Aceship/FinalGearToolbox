@@ -30,7 +30,7 @@
         "WidgetCamp": 4,
         "WidgetCampCn": "1427",
         "IfScreenWidget": false,
-        "IfScreenSuit": true,
+        "IfScreenSuit": false,
         "IfScreenGirl": true,
         "WidgetArray": 5,
         "SuitArray": 5,

@@ -1,7 +1,7 @@
 [
     {
         "prefabCheckerName": "_测试章节数据1",
-        "strategyMapType": 1,
+        "strategyMapType": 0,
         "beforeBattleDialog": 0,
         "beforeDeployDialog": 0,
         "afterDeployDialog": 0,
