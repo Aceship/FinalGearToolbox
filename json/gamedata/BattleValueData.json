@@ -57190,5 +57190,725 @@
         "AwardProview": [],
         "ID": 2453,
         "Name": null
+    },
+    {
+        "ValueClassify": 751801,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.4875,
+            0.0104,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 49763,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2454,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751802,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.5676,
+            0.0104,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 51639,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2455,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751803,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.6566,
+            0.0104,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 53515,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2456,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751804,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.8654,
+            0.0104,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 55392,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2457,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751805,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.88,
+            0.0131,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 60000,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2458,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751806,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            0.9851,
+            0.0115,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 57269,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2459,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751807,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.1162,
+            0.0115,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 61021,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2460,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751808,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.2592,
+            0.0115,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 62898,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2461,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751809,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.4149,
+            0.0127,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 64774,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2462,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751810,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.52,
+            0.0216,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 72593,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2463,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751811,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.5839,
+            0.0138,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 66651,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2464,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751812,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.7669,
+            0.0138,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 68527,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2465,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751813,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            1.9645,
+            0.015,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 70404,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2466,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751814,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            2.1773,
+            0.015,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 72280,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2467,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751815,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            2.3,
+            0.0308,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 92674,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2468,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751816,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            2.409,
+            0.016,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 74157,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2469,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751817,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            2.6517,
+            0.0161,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 76033,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2470,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751818,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            2.9146,
+            0.0173,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 79786,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2471,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751819,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            3.1956,
+            0.0173,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 81663,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2472,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751820,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            3.2,
+            0.0407,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 112965,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2473,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751821,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            3.4955,
+            0.0184,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 83539,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2474,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751822,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            3.7993,
+            0.0184,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 85416,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2475,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751823,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            4.1548,
+            0.0196,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 87292,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2476,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751824,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            4.5156,
+            0.0196,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 89169,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2477,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751825,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            4.6,
+            0.1505,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 140765,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2478,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751826,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            4.8983,
+            0.0207,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 91045,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2479,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751827,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            5.3037,
+            0.0207,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 92922,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2480,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751828,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            5.7115,
+            0.0219,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 94798,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2481,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751829,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            6.1412,
+            0.0219,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 100000,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2482,
+        "Name": null
+    },
+    {
+        "ValueClassify": 751830,
+        "ValueLevel": 0,
+        "MonsterPara": [
+            6.8,
+            0.1878,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "RecommendAbility": 186404,
+        "UserEXP": 0,
+        "GirlEXP": 0,
+        "GoldReward": 0,
+        "BattleDeadline": 0,
+        "Drop": 0,
+        "FirstDrop": 0,
+        "AwardProview": [
+            10100032,
+            10100033
+        ],
+        "ID": 2483,
+        "Name": null
     }
 ]
