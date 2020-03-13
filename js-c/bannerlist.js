@@ -1,15 +1,15 @@
 $.holdReady(true);
 const jsonList = {
-    recruitData         :"json/gamedata/RecruitData.json",
-    recruitLibraryData  :"json/gamedata/RecruitLibraryData.json",
-    tenRecruitData      :"json/gamedata/TenRecruitData.json",
-    tenRecruitTimeData  :"json/gamedata/TenRecruitTimeData.json",
-    girlData            :"json/gamedata/GirlData.json",
-    girlSkinData        :"json/gamedata/GirlSkinData.json",
-    widgetData          :"json/gamedata/WidgetData.json",
-    suitData            :"json/gamedata/SuitData.json",
-    equipLegData        :"json/gamedata/EquipLegData.json",
-    itemData            :"json/gamedata/ItemData.json",
+    recruitData         :"json/gamedata/sc/RecruitData.json",
+    recruitLibraryData  :"json/gamedata/sc/RecruitLibraryData.json",
+    tenRecruitData      :"json/gamedata/sc/TenRecruitData.json",
+    tenRecruitTimeData  :"json/gamedata/sc/TenRecruitTimeData.json",
+    girlData            :"json/gamedata/sc/GirlData.json",
+    girlSkinData        :"json/gamedata/sc/GirlSkinData.json",
+    widgetData          :"json/gamedata/sc/WidgetData.json",
+    suitData            :"json/gamedata/sc/SuitData.json",
+    equipLegData        :"json/gamedata/sc/EquipLegData.json",
+    itemData            :"json/gamedata/sc/ItemData.json",
     cnLang              :"json/lang/sc/LanguageData.json",
 };
 
