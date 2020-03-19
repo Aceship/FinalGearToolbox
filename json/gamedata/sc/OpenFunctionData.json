@@ -169,8 +169,8 @@
     },
     {
         "Remarks": "好友",
-        "OpenCondition": 0,
-        "Value": 0,
+        "OpenCondition": 1,
+        "Value": 15,
         "ID": 25,
         "Name": null
     },
@@ -347,6 +347,13 @@
         "OpenCondition": 1,
         "Value": 10,
         "ID": 50,
+        "Name": null
+    },
+    {
+        "Remarks": "能力测验",
+        "OpenCondition": 1,
+        "Value": 10,
+        "ID": 51,
         "Name": null
     }
 ]

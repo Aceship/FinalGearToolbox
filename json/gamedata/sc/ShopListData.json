@@ -61,5 +61,12 @@
         "ShopOpenPara": "",
         "ID": 9,
         "Name": null
+    },
+    {
+        "ShopID": 8,
+        "ShopOpenType": 0,
+        "ShopOpenPara": "",
+        "ID": 10,
+        "Name": null
     }
 ]

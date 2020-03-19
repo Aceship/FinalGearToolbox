@@ -6825,6 +6825,72 @@
         "Name": "10941"
     },
     {
+        "Icon": "",
+        "Disc": "4123",
+        "ModelID": 43000014,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3068110
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9915,
+        "Name": "14897"
+    },
+    {
+        "Icon": "",
+        "Disc": "4123",
+        "ModelID": 43000006,
+        "MonsterType": 2,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42
+            ],
+            "values": [
+                10000.0,
+                10000.0,
+                1000.0,
+                1000.0,
+                1000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3105211
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "00 特殊",
+        "BodySize": 10,
+        "ID": 9916,
+        "Name": "14901"
+    },
+    {
         "Icon": "B_Head_Pilot_000290",
         "Disc": "4102",
         "ModelID": 44000070,
@@ -10040,5 +10106,377 @@
         "BodySize": 30,
         "ID": 60219,
         "Name": "1127"
+    },
+    {
+        "Icon": "B_Head_Pilot_100010",
+        "Disc": "4102",
+        "ModelID": 42000070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3149100,
+            3149110,
+            3149120,
+            3149130,
+            3149140,
+            3149150,
+            3149160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90001,
+        "Name": "14898"
+    },
+    {
+        "Icon": "B_Head_Pilot_100010",
+        "Disc": "4102",
+        "ModelID": 42000070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                15000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3149100,
+            3149110,
+            3149120,
+            3149130,
+            3149140,
+            3149150,
+            3149160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90002,
+        "Name": "14898"
+    },
+    {
+        "Icon": "B_Head_Pilot_100010",
+        "Disc": "4102",
+        "ModelID": 42000070,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                20000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3149100,
+            3149110,
+            3149120,
+            3149130,
+            3149140,
+            3149150,
+            3149160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90003,
+        "Name": "14898"
+    },
+    {
+        "Icon": "B_Head_Pilot_100009",
+        "Disc": "4102",
+        "ModelID": 42000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3148100,
+            3148110,
+            3148120,
+            3148130,
+            3148140,
+            3148150,
+            3148160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90011,
+        "Name": "14899"
+    },
+    {
+        "Icon": "B_Head_Pilot_100009",
+        "Disc": "4102",
+        "ModelID": 42000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                15000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3148100,
+            3148110,
+            3148120,
+            3148130,
+            3148140,
+            3148150,
+            3148160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90012,
+        "Name": "14899"
+    },
+    {
+        "Icon": "B_Head_Pilot_100009",
+        "Disc": "4102",
+        "ModelID": 42000060,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                20000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3148100,
+            3148110,
+            3148120,
+            3148130,
+            3148140,
+            3148150,
+            3148160
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90013,
+        "Name": "14899"
+    },
+    {
+        "Icon": "B_Head_Pilot_000200",
+        "Disc": "4102",
+        "ModelID": 44000020,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                10000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3150110,
+            3150120,
+            3150130,
+            3150140,
+            3150150,
+            3150160,
+            3000100,
+            3000112
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90021,
+        "Name": "3940"
+    },
+    {
+        "Icon": "B_Head_Pilot_000200",
+        "Disc": "4102",
+        "ModelID": 44000020,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                15000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3150110,
+            3150120,
+            3150130,
+            3150140,
+            3150150,
+            3150160,
+            3000100,
+            3000112
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90022,
+        "Name": "3940"
+    },
+    {
+        "Icon": "B_Head_Pilot_000200",
+        "Disc": "4102",
+        "ModelID": 44000020,
+        "MonsterType": 4,
+        "MonsterProperty": {
+            "keys": [
+                22,
+                26,
+                30,
+                38,
+                42,
+                34
+            ],
+            "values": [
+                10000000.0,
+                20000.0,
+                1000.0,
+                3000.0,
+                1000.0,
+                4000.0
+            ],
+            "propertys": null
+        },
+        "MonsterSkillID": [
+            3150110,
+            3150120,
+            3150130,
+            3150140,
+            3150150,
+            3150160,
+            3000100,
+            3000112
+        ],
+        "ImmuneState": [
+            0
+        ],
+        "GroupTag": "01_能力测验",
+        "BodySize": 20,
+        "ID": 90023,
+        "Name": "3940"
     }
 ]

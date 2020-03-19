@@ -5620,7 +5620,7 @@
         "Cartoon": "spine_Pilot_000791",
         "CgCartoon": "",
         "FeaturePath": "Skill_Pilot_000791",
-        "GirlVoice": "Paula",
+        "GirlVoice": "Paula_b",
         "RoleVoice": 1000791,
         "StandbyTime": 2,
         "MachineArmorModel1": [
@@ -5999,6 +5999,337 @@
             0
         ],
         "ID": 8203,
+        "Name": null
+    },
+    {
+        "GirlId": 88,
+        "Skin": 1,
+        "SkinName": "14426",
+        "SkillArray": [
+            [
+                880101,
+                1
+            ],
+            [
+                880102,
+                3
+            ],
+            [
+                880103,
+                4
+            ],
+            [
+                880104,
+                5
+            ]
+        ],
+        "ModelID": 25000880,
+        "MapHeadIcon": "MapHead_Pilot_000880",
+        "StageHeadIcon": "StageHead_Pilot_000880",
+        "HeadIcon": "Head_Pilot_000880",
+        "HeadIcon_square": "SquareHead_Pilot_000880",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000880",
+        "Image": "Image_Pilot_000880",
+        "Cartoon": "spine_Pilot_000880",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000880",
+        "GirlVoice": "Aurora",
+        "RoleVoice": 1000880,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8801,
+        "Name": null
+    },
+    {
+        "GirlId": 89,
+        "Skin": 1,
+        "SkinName": "14427",
+        "SkillArray": [
+            [
+                890101,
+                1
+            ],
+            [
+                890102,
+                3
+            ],
+            [
+                890103,
+                4
+            ],
+            [
+                890104,
+                5
+            ]
+        ],
+        "ModelID": 25000890,
+        "MapHeadIcon": "MapHead_Pilot_000890",
+        "StageHeadIcon": "StageHead_Pilot_000890",
+        "HeadIcon": "Head_Pilot_000890",
+        "HeadIcon_square": "SquareHead_Pilot_000890",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000890",
+        "Image": "Image_Pilot_000890",
+        "Cartoon": "spine_Pilot_000890",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000890",
+        "GirlVoice": "Sweety",
+        "RoleVoice": 1000890,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 8901,
+        "Name": null
+    },
+    {
+        "GirlId": 106,
+        "Skin": 1,
+        "SkinName": "14428",
+        "SkillArray": [
+            [
+                1060101,
+                1
+            ],
+            [
+                1060102,
+                3
+            ],
+            [
+                1060103,
+                4
+            ],
+            [
+                1060104,
+                5
+            ]
+        ],
+        "ModelID": 25001060,
+        "MapHeadIcon": "MapHead_Pilot_001060",
+        "StageHeadIcon": "StageHead_Pilot_001060",
+        "HeadIcon": "Head_Pilot_001060",
+        "HeadIcon_square": "SquareHead_Pilot_001060",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001060",
+        "Image": "Image_Pilot_001060",
+        "Cartoon": "spine_Pilot_001060",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001060",
+        "GirlVoice": "Solveig",
+        "RoleVoice": 1001060,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 10601,
+        "Name": null
+    },
+    {
+        "GirlId": 107,
+        "Skin": 1,
+        "SkinName": "14429",
+        "SkillArray": [
+            [
+                1070101,
+                1
+            ],
+            [
+                1070102,
+                3
+            ],
+            [
+                1070103,
+                4
+            ],
+            [
+                1070104,
+                5
+            ]
+        ],
+        "ModelID": 25001070,
+        "MapHeadIcon": "MapHead_Pilot_001070",
+        "StageHeadIcon": "StageHead_Pilot_001070",
+        "HeadIcon": "Head_Pilot_001070",
+        "HeadIcon_square": "SquareHead_Pilot_001070",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001070",
+        "Image": "Image_Pilot_001070",
+        "Cartoon": "spine_Pilot_001070",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001070",
+        "GirlVoice": "Serenity",
+        "RoleVoice": 1001070,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010380,
+            23010380
+        ],
+        "ID": 10701,
+        "Name": null
+    },
+    {
+        "GirlId": 108,
+        "Skin": 1,
+        "SkinName": "14430",
+        "SkillArray": [
+            [
+                1080101,
+                1
+            ],
+            [
+                1080102,
+                3
+            ],
+            [
+                1080103,
+                4
+            ],
+            [
+                1080104,
+                5
+            ]
+        ],
+        "ModelID": 25001080,
+        "MapHeadIcon": "MapHead_Pilot_001080",
+        "StageHeadIcon": "StageHead_Pilot_001080",
+        "HeadIcon": "Head_Pilot_001080",
+        "HeadIcon_square": "SquareHead_Pilot_001080",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001080",
+        "Image": "Image_Pilot_001080",
+        "Cartoon": "spine_Pilot_001080",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001080",
+        "GirlVoice": "Pandora",
+        "RoleVoice": 1001080,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010390,
+            23010390
+        ],
+        "ID": 10801,
+        "Name": null
+    },
+    {
+        "GirlId": 59,
+        "Skin": 3,
+        "SkinName": "14470",
+        "SkillArray": [
+            [
+                590301,
+                1
+            ],
+            [
+                590302,
+                3
+            ],
+            [
+                590303,
+                4
+            ],
+            [
+                590304,
+                5
+            ]
+        ],
+        "ModelID": 25000592,
+        "MapHeadIcon": "MapHead_Pilot_000592",
+        "StageHeadIcon": "StageHead_Pilot_000592",
+        "HeadIcon": "Head_Pilot_000592",
+        "HeadIcon_square": "SquareHead_Pilot_000592",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000592",
+        "Image": "Image_Pilot_000592",
+        "Cartoon": "spine_Pilot_000592",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000592",
+        "GirlVoice": "Alexa_b",
+        "RoleVoice": 1000592,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 5903,
+        "Name": null
+    },
+    {
+        "GirlId": 108,
+        "Skin": 2,
+        "SkinName": "14471",
+        "SkillArray": [
+            [
+                1080201,
+                1
+            ],
+            [
+                1080202,
+                3
+            ],
+            [
+                1080203,
+                4
+            ],
+            [
+                1080204,
+                5
+            ]
+        ],
+        "ModelID": 25001081,
+        "MapHeadIcon": "MapHead_Pilot_001081",
+        "StageHeadIcon": "StageHead_Pilot_001081",
+        "HeadIcon": "Head_Pilot_001081",
+        "HeadIcon_square": "SquareHead_Pilot_001081",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001081",
+        "Image": "Image_Pilot_001081",
+        "Cartoon": "spine_Pilot_001081",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001081",
+        "GirlVoice": "Pandora",
+        "RoleVoice": 1001081,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010391,
+            23010391
+        ],
+        "ID": 10802,
+        "Name": null
+    },
+    {
+        "GirlId": 9999,
+        "Skin": 1,
+        "SkinName": "15079",
+        "SkillArray": [
+            [
+                1080201,
+                1
+            ],
+            [
+                1080202,
+                3
+            ],
+            [
+                1080203,
+                4
+            ],
+            [
+                1080204,
+                5
+            ]
+        ],
+        "ModelID": 25000000,
+        "MapHeadIcon": "MapHead_Pilot_001080",
+        "StageHeadIcon": "StageHead_Pilot_001080",
+        "HeadIcon": "Head_Pilot_001080",
+        "HeadIcon_square": "SquareHead_Pilot_001080",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001080",
+        "Image": "Image_Pilot_001080",
+        "Cartoon": "spine_Pilot_001080",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001080",
+        "GirlVoice": "Pandora",
+        "RoleVoice": 1001080,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            0
+        ],
+        "ID": 999901,
         "Name": null
     }
 ]

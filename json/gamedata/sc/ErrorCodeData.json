@@ -1924,5 +1924,230 @@
         "Memo": "刷新次数已达上限",
         "ID": 797,
         "Name": null
+    },
+    {
+        "Disc": "14921",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATConfigNotFound",
+        "Memo": "协力作战配置不存在",
+        "ID": 798,
+        "Name": null
+    },
+    {
+        "Disc": "14922",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATChallengeNotOpen",
+        "Memo": "当前协力作战挑战未开启",
+        "ID": 799,
+        "Name": null
+    },
+    {
+        "Disc": "14923",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATCannotInitiateAssistBattle",
+        "Memo": "当前boss不能发起协力战",
+        "ID": 800,
+        "Name": null
+    },
+    {
+        "Disc": "14924",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATAssistBossIsOccupy",
+        "Memo": "BOSS正在战斗中",
+        "ID": 801,
+        "Name": null
+    },
+    {
+        "Disc": "14925",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATAssistBossNotExist",
+        "Memo": "BOSS已经过期不存在了",
+        "ID": 802,
+        "Name": null
+    },
+    {
+        "Disc": "14926",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATAssistBossExpire",
+        "Memo": "boss已失效",
+        "ID": 803,
+        "Name": null
+    },
+    {
+        "Disc": "14927",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATAssistBossOverdue",
+        "Memo": "超出BOSS最大战斗时长",
+        "ID": 804,
+        "Name": null
+    },
+    {
+        "Disc": "14928",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATAssistNumLimit",
+        "Memo": "已经协力过该BOSS了",
+        "ID": 805,
+        "Name": null
+    },
+    {
+        "Disc": "14929",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATChallengeNumIsLeak",
+        "Memo": "挑战次数不足",
+        "ID": 806,
+        "Name": null
+    },
+    {
+        "Disc": "14930",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ATChallengeModeDescLeak",
+        "Memo": "挑战模式配置缺失",
+        "ID": 807,
+        "Name": null
+    },
+    {
+        "Disc": "14931",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotAssistSelf",
+        "Memo": "不能协力自己的boss",
+        "ID": 814,
+        "Name": null
+    },
+    {
+        "Disc": "14932",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotRefreshRandomLst",
+        "Memo": "刷新随机列表太频繁",
+        "ID": 815,
+        "Name": null
+    },
+    {
+        "Disc": "14933",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "BossIsNotKilled",
+        "Memo": "BOSS未被击杀",
+        "ID": 816,
+        "Name": null
+    },
+    {
+        "Disc": "14937",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "DailyAlreadyGiveGift",
+        "Memo": "今日已经赠送过礼物",
+        "ID": 817,
+        "Name": null
+    },
+    {
+        "Disc": "14938",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "FriendMaxCount",
+        "Memo": "好友数上限",
+        "ID": 808,
+        "Name": null
+    },
+    {
+        "Disc": "14939",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "FriendBlackMaxCount",
+        "Memo": "好友黑名单上限",
+        "ID": 810,
+        "Name": null
+    },
+    {
+        "Disc": "14940",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GiveFriendGiftMaxCount",
+        "Memo": "赠送好友礼物次数上限",
+        "ID": 811,
+        "Name": null
+    },
+    {
+        "Disc": "14941",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GetFriendGiftMaxCount",
+        "Memo": "收取好友礼物次数上限",
+        "ID": 812,
+        "Name": null
+    },
+    {
+        "Disc": "14942",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "FirendGiftNotGet",
+        "Memo": "好友礼物不可以领取",
+        "ID": 813,
+        "Name": null
+    },
+    {
+        "Disc": "14949",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "RecommandFriendListDown",
+        "Memo": "推荐好友列表冷却中",
+        "ID": 818,
+        "Name": null
+    },
+    {
+        "Disc": "14950",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "PlayerShield",
+        "Memo": "玩家被屏蔽",
+        "ID": 819,
+        "Name": null
+    },
+    {
+        "Disc": "14951",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotFoundFriend",
+        "Memo": "未找到符合条件的机师",
+        "ID": 820,
+        "Name": null
+    },
+    {
+        "Disc": "15074",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TargetFriendRequestMax",
+        "Memo": "对方申请列表满了",
+        "ID": 822,
+        "Name": null
+    },
+    {
+        "Disc": "15075",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TargetFriendMax",
+        "Memo": "对方好友满了",
+        "ID": 823,
+        "Name": null
+    },
+    {
+        "Disc": "14947",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NotSearchSelf",
+        "Memo": "无法搜索自己",
+        "ID": 824,
+        "Name": null
     }
 ]

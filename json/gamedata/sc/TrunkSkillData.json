@@ -71365,6 +71365,531 @@
         "Name": null
     },
     {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 30000592,
+        "TrunkSkillName": "5270",
+        "TrunkSkillIcon": "71000590",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "6351",
+        "PowerNeed": 6200,
+        "SkillAggRatio": [
+            0.88
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10591110,
+            10591111
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1059311,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 30000592,
+        "TrunkSkillName": "5270",
+        "TrunkSkillIcon": "71000590",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "6352",
+        "PowerNeed": 6200,
+        "SkillAggRatio": [
+            1.05
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10591120,
+            10591121
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1059312,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 30000592,
+        "TrunkSkillName": "5270",
+        "TrunkSkillIcon": "71000590",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "6353",
+        "PowerNeed": 6200,
+        "SkillAggRatio": [
+            1.22
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10591130,
+            10591131
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1059313,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 30000592,
+        "TrunkSkillName": "5270",
+        "TrunkSkillIcon": "71000590",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "6354",
+        "PowerNeed": 6200,
+        "SkillAggRatio": [
+            1.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10591140,
+            10591141
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1059314,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 30000592,
+        "TrunkSkillName": "5270",
+        "TrunkSkillIcon": "71000590",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "6355",
+        "PowerNeed": 6200,
+        "SkillAggRatio": [
+            1.74
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10591150,
+            10591151
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1059315,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5271",
+        "TrunkSkillIcon": "71000591",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5633",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.125
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059321,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5271",
+        "TrunkSkillIcon": "71000591",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5938",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.15
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059322,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5271",
+        "TrunkSkillIcon": "71000591",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5939",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.175
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059323,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5271",
+        "TrunkSkillIcon": "71000591",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5940",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059324,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5271",
+        "TrunkSkillIcon": "71000591",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5941",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.25
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059325,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5272",
+        "TrunkSkillIcon": "71000592",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6356",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.125
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059331,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5272",
+        "TrunkSkillIcon": "71000592",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6357",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.15
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059332,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5272",
+        "TrunkSkillIcon": "71000592",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6358",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.175
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059333,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5272",
+        "TrunkSkillIcon": "71000592",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6359",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059334,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5272",
+        "TrunkSkillIcon": "71000592",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6360",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                72
+            ],
+            "values": [
+                0.25
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059335,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5273",
+        "TrunkSkillIcon": "71000593",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5613",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059341,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5273",
+        "TrunkSkillIcon": "71000593",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "5822",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.12
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059342,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5273",
+        "TrunkSkillIcon": "71000593",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6124",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.14
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059343,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5273",
+        "TrunkSkillIcon": "71000593",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6125",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.16
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059344,
+        "Name": null
+    },
+    {
+        "CharacterName": "小小恶魔 艾莉克萨",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5273",
+        "TrunkSkillIcon": "71000593",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6126",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.2
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1059345,
+        "Name": null
+    },
+    {
         "CharacterName": "布莉兹塔洛",
         "SkillActionEffect": 30000610,
         "TrunkSkillName": "5274",
@@ -104635,6 +105160,4526 @@
         "Name": null
     },
     {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 30000880,
+        "TrunkSkillName": "14709",
+        "TrunkSkillIcon": "71000880",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14713",
+        "PowerNeed": 6000,
+        "SkillAggRatio": [
+            0.002
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                116,
+                110
+            ],
+            "values": [
+                1.0,
+                1.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1088111,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 30000880,
+        "TrunkSkillName": "14709",
+        "TrunkSkillIcon": "71000880",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14714",
+        "PowerNeed": 6000,
+        "SkillAggRatio": [
+            0.0024
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                116,
+                110
+            ],
+            "values": [
+                1.0,
+                1.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1088112,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 30000880,
+        "TrunkSkillName": "14709",
+        "TrunkSkillIcon": "71000880",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14715",
+        "PowerNeed": 6000,
+        "SkillAggRatio": [
+            0.0028
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                116,
+                110
+            ],
+            "values": [
+                1.0,
+                1.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1088113,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 30000880,
+        "TrunkSkillName": "14709",
+        "TrunkSkillIcon": "71000880",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14716",
+        "PowerNeed": 6000,
+        "SkillAggRatio": [
+            0.0032
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                116,
+                110
+            ],
+            "values": [
+                1.0,
+                1.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1088114,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 30000880,
+        "TrunkSkillName": "14709",
+        "TrunkSkillIcon": "71000880",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14717",
+        "PowerNeed": 6000,
+        "SkillAggRatio": [
+            0.004
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                116,
+                110
+            ],
+            "values": [
+                1.0,
+                1.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1088115,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14710",
+        "TrunkSkillIcon": "71000881",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14718",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088121,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14710",
+        "TrunkSkillIcon": "71000881",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14719",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088122,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14710",
+        "TrunkSkillIcon": "71000881",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14720",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088123,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14710",
+        "TrunkSkillIcon": "71000881",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14721",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088124,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14710",
+        "TrunkSkillIcon": "71000881",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14722",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088125,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14711",
+        "TrunkSkillIcon": "71000882",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14723",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088131,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14711",
+        "TrunkSkillIcon": "71000882",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14724",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088132,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14711",
+        "TrunkSkillIcon": "71000882",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14725",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088133,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14711",
+        "TrunkSkillIcon": "71000882",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14726",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088134,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14711",
+        "TrunkSkillIcon": "71000882",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14727",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088135,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14712",
+        "TrunkSkillIcon": "71000883",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14728",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881410
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088141,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14712",
+        "TrunkSkillIcon": "71000883",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14729",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881420
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088142,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14712",
+        "TrunkSkillIcon": "71000883",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14730",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881430
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088143,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14712",
+        "TrunkSkillIcon": "71000883",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14731",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881440
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088144,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14712",
+        "TrunkSkillIcon": "71000883",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "12091",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10881450
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1088145,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 30000890,
+        "TrunkSkillName": "14733",
+        "TrunkSkillIcon": "71000890",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14737",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.12
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1089111,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 30000890,
+        "TrunkSkillName": "14733",
+        "TrunkSkillIcon": "71000890",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14738",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1089112,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 30000890,
+        "TrunkSkillName": "14733",
+        "TrunkSkillIcon": "71000890",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14739",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.89
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1089113,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 30000890,
+        "TrunkSkillName": "14733",
+        "TrunkSkillIcon": "71000890",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14740",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            3.28
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1089114,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 30000890,
+        "TrunkSkillName": "14733",
+        "TrunkSkillIcon": "71000890",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14741",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            4.06
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1089115,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14734",
+        "TrunkSkillIcon": "71000891",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14742",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089121,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14734",
+        "TrunkSkillIcon": "71000891",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14743",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089122,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14734",
+        "TrunkSkillIcon": "71000891",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14744",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089123,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14734",
+        "TrunkSkillIcon": "71000891",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14745",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089124,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14734",
+        "TrunkSkillIcon": "71000891",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14746",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089125,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14735",
+        "TrunkSkillIcon": "71000892",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14747",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089131,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14735",
+        "TrunkSkillIcon": "71000892",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14748",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089132,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14735",
+        "TrunkSkillIcon": "71000892",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14749",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089133,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14735",
+        "TrunkSkillIcon": "71000892",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14750",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089134,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14735",
+        "TrunkSkillIcon": "71000892",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14751",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089135,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14736",
+        "TrunkSkillIcon": "71000893",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14752",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891410
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089141,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14736",
+        "TrunkSkillIcon": "71000893",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14753",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891420
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089142,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14736",
+        "TrunkSkillIcon": "71000893",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14754",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891430
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089143,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14736",
+        "TrunkSkillIcon": "71000893",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14755",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891440
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089144,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14736",
+        "TrunkSkillIcon": "71000893",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14756",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            10891450
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1089145,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 30001060,
+        "TrunkSkillName": "14757",
+        "TrunkSkillIcon": "71001060",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14761",
+        "PowerNeed": 5100,
+        "SkillAggRatio": [
+            0.15
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1106111,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 30001060,
+        "TrunkSkillName": "14757",
+        "TrunkSkillIcon": "71001060",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14762",
+        "PowerNeed": 5100,
+        "SkillAggRatio": [
+            0.2
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1106112,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 30001060,
+        "TrunkSkillName": "14757",
+        "TrunkSkillIcon": "71001060",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14763",
+        "PowerNeed": 5100,
+        "SkillAggRatio": [
+            0.25
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1106113,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 30001060,
+        "TrunkSkillName": "14757",
+        "TrunkSkillIcon": "71001060",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14764",
+        "PowerNeed": 5100,
+        "SkillAggRatio": [
+            0.3
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1106114,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 30001060,
+        "TrunkSkillName": "14757",
+        "TrunkSkillIcon": "71001060",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14765",
+        "PowerNeed": 5100,
+        "SkillAggRatio": [
+            0.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1106115,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14758",
+        "TrunkSkillIcon": "71001061",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14766",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            0.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106121,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14758",
+        "TrunkSkillIcon": "71001061",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14767",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            0.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106122,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14758",
+        "TrunkSkillIcon": "71001061",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14768",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            0.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106123,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14758",
+        "TrunkSkillIcon": "71001061",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14769",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            0.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106124,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14758",
+        "TrunkSkillIcon": "71001061",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14770",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            0.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106125,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14759",
+        "TrunkSkillIcon": "71001062",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14771",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106131,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14759",
+        "TrunkSkillIcon": "71001062",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14772",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106132,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14759",
+        "TrunkSkillIcon": "71001062",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14773",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106133,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14759",
+        "TrunkSkillIcon": "71001062",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14774",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106134,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14759",
+        "TrunkSkillIcon": "71001062",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14775",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106135,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14760",
+        "TrunkSkillIcon": "71001063",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14776",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061410
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106141,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14760",
+        "TrunkSkillIcon": "71001063",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14777",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061420
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106142,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14760",
+        "TrunkSkillIcon": "71001063",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14778",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061430
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106143,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14760",
+        "TrunkSkillIcon": "71001063",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14779",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061440
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106144,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14760",
+        "TrunkSkillIcon": "71001063",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14780",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11061450
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1106145,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 30001070,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14785",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1107111,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 30001070,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14786",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.97
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1107112,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 30001070,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14787",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            3.44
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1107113,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 30001070,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14788",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            3.9
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1107114,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 30001070,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14789",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            4.84
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1107115,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14790",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107121,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14791",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107122,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14792",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107123,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14793",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107124,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14794",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107125,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14795",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107131,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14796",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107132,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14797",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107133,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14798",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107134,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14799",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107135,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14800",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071410,
+            11071411,
+            11071412
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107141,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14801",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071420,
+            11071421,
+            11071422
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107142,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14802",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071430,
+            11071431,
+            11071432
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107143,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14803",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071440,
+            11071441,
+            11071442
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107144,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14804",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11071450,
+            11071451,
+            11071452
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1107145,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 35000380,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14805",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071110,
+            91071111
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9107111,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 35000380,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14806",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            2.97
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071120,
+            91071121
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9107112,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 35000380,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14807",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            3.44
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071130,
+            91071131
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9107113,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 35000380,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14808",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            3.9
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071140,
+            91071141
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9107114,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 35000380,
+        "TrunkSkillName": "14781",
+        "TrunkSkillIcon": "71001070",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14809",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            4.84
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071150,
+            91071151
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9107115,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14810",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107121,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14811",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107122,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14812",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107123,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14813",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107124,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14782",
+        "TrunkSkillIcon": "71001071",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14814",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107125,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14815",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107131,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14816",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107132,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14817",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107133,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14818",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107134,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14783",
+        "TrunkSkillIcon": "71001072",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14819",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107135,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14820",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071410,
+            91071411,
+            91071412,
+            91071413
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107141,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14821",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071420,
+            91071421,
+            91071422,
+            91071423
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107142,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14822",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071430,
+            91071431,
+            91071432,
+            91071433
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107143,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14823",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071440,
+            91071441,
+            91071442,
+            91071443
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107144,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14784",
+        "TrunkSkillIcon": "71001073",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14824",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91071450,
+            91071451,
+            91071452,
+            91071453
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9107145,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 30001080,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14829",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            13.15
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108111,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 30001080,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14830",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            14.6
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108112,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 30001080,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14831",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            16.05
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108113,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 30001080,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14832",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            17.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108114,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 30001080,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14833",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            20.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108115,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14834",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108121,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14835",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108122,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14836",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108123,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14837",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108124,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14838",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108125,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14839",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108131,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14840",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108132,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14841",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108133,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14842",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108134,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14843",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108135,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14844",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081410,
+            11081411,
+            11081412
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108141,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14845",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081420,
+            11081421,
+            11081422
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108142,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14846",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081430,
+            11081431,
+            11081432
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108143,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14847",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081440,
+            11081441,
+            11081442
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108144,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14848",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081450,
+            11081451,
+            11081452
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108145,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 35000390,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14849",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            13.15
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108111,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 35000390,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14850",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            14.6
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108112,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 35000390,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14851",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            16.05
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108113,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 35000390,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14852",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            17.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108114,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 35000390,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14853",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            20.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108115,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14854",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108121,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14855",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108122,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14856",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108123,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14857",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108124,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14858",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108125,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14859",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108131,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14860",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108132,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14861",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108133,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14862",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108134,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14863",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108135,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14864",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081410,
+            91081411,
+            91081412
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108141,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14865",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081420,
+            91081421,
+            91081422
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108142,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14866",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081430,
+            91081431,
+            91081432
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108143,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14867",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081440,
+            91081441,
+            91081442
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108144,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14868",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081450,
+            91081451,
+            91081452
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108145,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 30001081,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14829",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            13.15
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108211,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 30001081,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14830",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            14.6
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108212,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 30001081,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14831",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            16.05
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108213,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 30001081,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14832",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            17.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108214,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 30001081,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14833",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            20.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1108215,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14834",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108221,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14835",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108222,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14836",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108223,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14837",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108224,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14838",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108225,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14839",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108231,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14840",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108232,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14841",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108233,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14842",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108234,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14843",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108235,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14844",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081410,
+            11081411,
+            11081412
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108241,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14845",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081420,
+            11081421,
+            11081422
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108242,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14846",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081430,
+            11081431,
+            11081432
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108243,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14847",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081440,
+            11081441,
+            11081442
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108244,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14848",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11081450,
+            11081451,
+            11081452
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1108245,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 35000391,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14849",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            13.15
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108211,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 35000391,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14850",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            14.6
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108212,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 35000391,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14851",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            16.05
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108213,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 35000391,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14852",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            17.5
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108214,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 35000391,
+        "TrunkSkillName": "14825",
+        "TrunkSkillIcon": "71001080",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "14853",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            20.4
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9108215,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14854",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108221,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14855",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108222,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14856",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108223,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14857",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108224,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14826",
+        "TrunkSkillIcon": "71001081",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14858",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108225,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14859",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108231,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14860",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108232,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14861",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108233,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14862",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108234,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14827",
+        "TrunkSkillIcon": "71001082",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14863",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108235,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14864",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081410,
+            91081411,
+            91081412
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108241,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14865",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081420,
+            91081421,
+            91081422
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108242,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14866",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081430,
+            91081431,
+            91081432
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108243,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14867",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081440,
+            91081441,
+            91081442
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108244,
+        "Name": null
+    },
+    {
+        "CharacterName": "财团继承人 潘多拉一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "14828",
+        "TrunkSkillIcon": "71001083",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "14868",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91081450,
+            91081451,
+            91081452
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9108245,
+        "Name": null
+    },
+    {
         "CharacterName": "伊芙琳",
         "SkillActionEffect": 0,
         "TrunkSkillName": "5336",
@@ -108952,6 +113997,246 @@
         },
         "IfForbidden": false,
         "ID": 2105020,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5345",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6803",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2078010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2088010,
+        "Name": null
+    },
+    {
+        "CharacterName": "欧若拉",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5342",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6800",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2078020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2088020,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5344",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6802",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2084010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2089010,
+        "Name": null
+    },
+    {
+        "CharacterName": "丝薇蒂",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5337",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6795",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2084020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2089020,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5338",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6796",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2103010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2106010,
+        "Name": null
+    },
+    {
+        "CharacterName": "莎薇琪",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5339",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6797",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2103020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2106020,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5346",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6804",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2076010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2107010,
+        "Name": null
+    },
+    {
+        "CharacterName": "塞润妮缇",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5339",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6797",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2076020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2107020,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉·维拉米尔",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5347",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6805",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2077010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2108010,
+        "Name": null
+    },
+    {
+        "CharacterName": "潘多拉·维拉米尔",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5342",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6800",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2077020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2108020,
         "Name": null
     },
     {
@@ -118687,6 +123972,36 @@
         "Name": null
     },
     {
+        "CharacterName": "召唤_欧若拉",
+        "SkillActionEffect": 34000010,
+        "TrunkSkillName": "11209",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "11209",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            31052110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3105211,
+        "Name": null
+    },
+    {
         "CharacterName": "德洛丽丝Boss_赫普妮格",
         "SkillActionEffect": 32000060,
         "TrunkSkillName": "12096",
@@ -119384,6 +124699,588 @@
         },
         "IfForbidden": false,
         "ID": 3147120,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000090,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            8.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001302
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148100,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000091,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            20.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148110,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000092,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            4.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001300
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148120,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000093,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            6.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001301,
+            30001302
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148130,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000094,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            15.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001307
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148140,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000095,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            10.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148150,
+        "Name": null
+    },
+    {
+        "CharacterName": "索拉尔-赤色天灾",
+        "SkillActionEffect": 32000096,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3148160,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000097,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            4.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001304
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149100,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000098,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            5.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149110,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000099,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            6.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149120,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000100,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            3.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001305
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149130,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000101,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            12.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001308
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149140,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000102,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            18.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149150,
+        "Name": null
+    },
+    {
+        "CharacterName": "小林汤圆-圆流极意",
+        "SkillActionEffect": 32000103,
+        "TrunkSkillName": "12102",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "12102",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            1.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001306,
+            30001309
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3149160,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000000,
+        "TrunkSkillName": "5374",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5374",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            6.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150110,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000001,
+        "TrunkSkillName": "5375",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5375",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            15.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150120,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000002,
+        "TrunkSkillName": "5376",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5376",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            8.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150130,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000023,
+        "TrunkSkillName": "5374",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5374",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            10.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150140,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000024,
+        "TrunkSkillName": "5375",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5375",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            9.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001190
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150150,
+        "Name": null
+    },
+    {
+        "CharacterName": "刻耳柏洛斯Boss_贝尔娜黛特",
+        "SkillActionEffect": 37000025,
+        "TrunkSkillName": "5376",
+        "TrunkSkillIcon": "70000001",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "5376",
+        "PowerNeed": 0,
+        "SkillAggRatio": [
+            3.0
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            30001160
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": [
+                78
+            ],
+            "values": [
+                100.0
+            ],
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 3150160,
         "Name": null
     },
     {

@@ -1219,14 +1219,14 @@
     },
     {
         "Key": "部件数量上限",
-        "Value": "400",
+        "Value": "408",
         "Desc": "",
         "ID": 175,
         "Name": null
     },
     {
         "Key": "机师数量上限",
-        "Value": "87",
+        "Value": "92",
         "Desc": "",
         "ID": 176,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200017,200018",
+        "Value": "200022,200023",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,7 +1730,7 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100031",
+        "Value": "10100036",
         "Desc": "",
         "ID": 248,
         "Name": null
@@ -2472,7 +2472,7 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_13,SkinActive_14",
+        "Value": "SkinActive_19,SkinActive_20",
         "Desc": "",
         "ID": 354,
         "Name": null
@@ -2524,6 +2524,160 @@
         "Value": "10100002,50",
         "Desc": "",
         "ID": 361,
+        "Name": null
+    },
+    {
+        "Key": "FindBossMAX",
+        "Value": "10",
+        "Desc": "随机搜寻总体BOSS上限=10",
+        "ID": 362,
+        "Name": null
+    },
+    {
+        "Key": "FindBossMIN",
+        "Value": "5",
+        "Desc": "随机搜寻好友BOSS上限=5",
+        "ID": 363,
+        "Name": null
+    },
+    {
+        "Key": "PhysicalMAX",
+        "Value": "10",
+        "Desc": "协力体力值上限=10",
+        "ID": 364,
+        "Name": null
+    },
+    {
+        "Key": "SameBossNumMAX",
+        "Value": "1",
+        "Desc": "协力同一BOSS的次数上限=1",
+        "ID": 365,
+        "Name": null
+    },
+    {
+        "Key": "SsameBossRecord",
+        "Value": "15",
+        "Desc": "查看协力日志上限=50",
+        "ID": 366,
+        "Name": null
+    },
+    {
+        "Key": "FriendMaxNum",
+        "Value": "30",
+        "Desc": "好友数量上限",
+        "ID": 367,
+        "Name": null
+    },
+    {
+        "Key": "FriendRequestMaxNum",
+        "Value": "10",
+        "Desc": "好友申请数量上限",
+        "ID": 368,
+        "Name": null
+    },
+    {
+        "Key": "BlockMaxNum",
+        "Value": "20",
+        "Desc": "好友屏蔽数量上限",
+        "ID": 369,
+        "Name": null
+    },
+    {
+        "Key": "GiftSendMaxTimes",
+        "Value": "10",
+        "Desc": "每天给好友送礼物的最大次数",
+        "ID": 370,
+        "Name": null
+    },
+    {
+        "Key": "GiftReceiveMaxTimes",
+        "Value": "10",
+        "Desc": "每天接受礼物的最大次数",
+        "ID": 371,
+        "Name": null
+    },
+    {
+        "Key": "GiftSendExp",
+        "Value": "5",
+        "Desc": "给好友送礼物时可以获得的羁绊经验值（闲置）",
+        "ID": 372,
+        "Name": null
+    },
+    {
+        "Key": "GiftReceiveExp",
+        "Value": "5",
+        "Desc": "收到礼物时可以获得的羁绊经验值（闲置）",
+        "ID": 373,
+        "Name": null
+    },
+    {
+        "Key": "GiftMaxExp",
+        "Value": "50",
+        "Desc": "每天可以获得的羁绊经验值上限（任何途径，且保底防止bug）",
+        "ID": 374,
+        "Name": null
+    },
+    {
+        "Key": "FriendMaxExp",
+        "Value": "500",
+        "Desc": "每天可以获得的友情点数量上限（任何途径，且保底防止bug）",
+        "ID": 375,
+        "Name": null
+    },
+    {
+        "Key": "FriendPointItem",
+        "Value": "10100035,10",
+        "Desc": "收取礼物时可以获得的友情点道具ID和数量",
+        "ID": 376,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestShopCoin",
+        "Value": "13200243",
+        "Desc": "能力测验副本兑换货币",
+        "ID": 377,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestPhysicalRecover",
+        "Value": "13200242",
+        "Desc": "协力点数恢复道具",
+        "ID": 378,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestRecover",
+        "Value": "1,120",
+        "Desc": "协力点数恢复量(分钟)",
+        "ID": 379,
+        "Name": null
+    },
+    {
+        "Key": "FriendCountdown",
+        "Value": "30",
+        "Desc": "点击推荐好友的刷新按钮所需的倒计时（秒）",
+        "ID": 380,
+        "Name": null
+    },
+    {
+        "Key": "友情点道具",
+        "Value": "10100035",
+        "Desc": "友情点道具ID",
+        "ID": 381,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginBegin",
+        "Value": "2010/3/5 0:00:00",
+        "Desc": "用回流活动改的7日登陆-开始时间",
+        "ID": 382,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginEnd",
+        "Value": "2010/3/19 11:00:00",
+        "Desc": "用回流活动改的7日登陆-结束时间",
+        "ID": 383,
         "Name": null
     }
 ]

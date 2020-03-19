@@ -1,0 +1,62 @@
+[
+    {
+        "StageName": "小林汤圆的假期",
+        "StageDesc": "周一周二周日限定",
+        "EasyMode": 7801,
+        "NormalMode": 7802,
+        "HardMode": 7803,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            1,
+            2,
+            0
+        ],
+        "StageDesc2": "获取超级珍惜能源箱",
+        "ShopID": 3004,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "StageName": "索拉尔的挑战",
+        "StageDesc": "周三周四周日限定",
+        "EasyMode": 7811,
+        "NormalMode": 7812,
+        "HardMode": 7813,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            3,
+            4,
+            0
+        ],
+        "StageDesc2": "获取超级珍惜能源箱",
+        "ShopID": 3004,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "StageName": "教团的威慑",
+        "StageDesc": "周五周六周日限定",
+        "EasyMode": 7821,
+        "NormalMode": 7822,
+        "HardMode": 7823,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            5,
+            6,
+            0
+        ],
+        "StageDesc2": "获取超级珍惜能源箱",
+        "ShopID": 3004,
+        "ID": 3,
+        "Name": null
+    }
+]

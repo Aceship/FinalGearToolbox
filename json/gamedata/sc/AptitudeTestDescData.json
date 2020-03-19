@@ -1,0 +1,218 @@
+[
+    {
+        "BossDesc": "小林汤圆<color=#e5e1e5>EASY</color>",
+        "StageID": 7801,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90001,
+            46000000
+        ],
+        "IsOpen": true,
+        "ID": 7801,
+        "Name": null
+    },
+    {
+        "BossDesc": "小林汤圆<color=#5ecdfb>NORMAL</color>",
+        "StageID": 7802,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200230,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90002,
+            62000000
+        ],
+        "IsOpen": true,
+        "ID": 7802,
+        "Name": null
+    },
+    {
+        "BossDesc": "小林汤圆<color=#ed06f6>HARD</color>",
+        "StageID": 7803,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200231,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90003,
+            80000000
+        ],
+        "IsOpen": true,
+        "ID": 7803,
+        "Name": null
+    },
+    {
+        "BossDesc": "索拉尔<color=#e5e1e5>EASY</color>",
+        "StageID": 7811,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90011,
+            46000000
+        ],
+        "IsOpen": true,
+        "ID": 7811,
+        "Name": null
+    },
+    {
+        "BossDesc": "索拉尔<color=#5ecdfb>NORMAL</color>",
+        "StageID": 7812,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200240,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90012,
+            62000000
+        ],
+        "IsOpen": true,
+        "ID": 7812,
+        "Name": null
+    },
+    {
+        "BossDesc": "索拉尔<color=#ed06f6>HARD</color>",
+        "StageID": 7813,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200241,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90013,
+            80000000
+        ],
+        "IsOpen": true,
+        "ID": 7813,
+        "Name": null
+    },
+    {
+        "BossDesc": "贝尔娜黛特<color=#e5e1e5>EASY</color>",
+        "StageID": 7821,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90021,
+            46000000
+        ],
+        "IsOpen": true,
+        "ID": 7821,
+        "Name": null
+    },
+    {
+        "BossDesc": "贝尔娜黛特<color=#5ecdfb>NORMAL</color>",
+        "StageID": 7822,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200250,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90022,
+            62000000
+        ],
+        "IsOpen": true,
+        "ID": 7822,
+        "Name": null
+    },
+    {
+        "BossDesc": "贝尔娜黛特<color=#ed06f6>HARD</color>",
+        "StageID": 7823,
+        "CombineNum": 3,
+        "LimitConditionType": 0,
+        "LimitConditionNum": [
+            13200251,
+            1
+        ],
+        "KillReward": [
+            13200237,
+            1
+        ],
+        "LastKillReward": [
+            13200237,
+            1
+        ],
+        "BossHP": [
+            90023,
+            80000000
+        ],
+        "IsOpen": true,
+        "ID": 7823,
+        "Name": null
+    }
+]
