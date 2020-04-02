@@ -6331,5 +6331,86 @@
         ],
         "ID": 999901,
         "Name": null
+    },
+    {
+        "GirlId": 33,
+        "Skin": 5,
+        "SkinName": "15150",
+        "SkillArray": [
+            [
+                330201,
+                1
+            ],
+            [
+                330202,
+                3
+            ],
+            [
+                330203,
+                4
+            ],
+            [
+                330204,
+                5
+            ]
+        ],
+        "ModelID": 25000334,
+        "MapHeadIcon": "MapHead_Pilot_000334",
+        "StageHeadIcon": "StageHead_Pilot_000334",
+        "HeadIcon": "Head_Pilot_000334",
+        "HeadIcon_square": "SquareHead_Pilot_000334",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000334",
+        "Image": "Image_Pilot_000334",
+        "Cartoon": "spine_Pilot_000334",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000334",
+        "GirlVoice": "Favia",
+        "RoleVoice": 1000331,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010244,
+            23010244
+        ],
+        "ID": 20001,
+        "Name": null
+    },
+    {
+        "GirlId": 82,
+        "Skin": 4,
+        "SkinName": "15151",
+        "SkillArray": [
+            [
+                820301,
+                1
+            ],
+            [
+                820302,
+                3
+            ],
+            [
+                820303,
+                4
+            ],
+            [
+                820304,
+                5
+            ]
+        ],
+        "ModelID": 25000823,
+        "MapHeadIcon": "MapHead_Pilot_000823",
+        "StageHeadIcon": "StageHead_Pilot_000823",
+        "HeadIcon": "Head_Pilot_000823",
+        "HeadIcon_square": "SquareHead_Pilot_000823",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_000823",
+        "Image": "Image_Pilot_000823",
+        "Cartoon": "spine_Pilot_000823",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_000823",
+        "GirlVoice": "Viola",
+        "RoleVoice": 1000822,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [],
+        "ID": 20002,
+        "Name": null
     }
 ]

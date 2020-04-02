@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200022,200023",
+        "Value": "200025,200024",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,14 +1730,14 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100036",
+        "Value": "10100037",
         "Desc": "",
         "ID": 248,
         "Name": null
     },
     {
         "Key": "部件兑换商店2代币id",
-        "Value": "10100030",
+        "Value": "10100038",
         "Desc": "",
         "ID": 249,
         "Name": null
@@ -1786,7 +1786,7 @@
     },
     {
         "Key": "部件兑换商店标签",
-        "Value": "3001",
+        "Value": "3001,3003",
         "Desc": "",
         "ID": 256,
         "Name": null
@@ -2472,7 +2472,7 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_19,SkinActive_20",
+        "Value": "SkinActive_21,SkinActive_22",
         "Desc": "",
         "ID": 354,
         "Name": null
@@ -2584,7 +2584,7 @@
     },
     {
         "Key": "GiftSendMaxTimes",
-        "Value": "10",
+        "Value": "30",
         "Desc": "每天给好友送礼物的最大次数",
         "ID": 370,
         "Name": null
@@ -2678,6 +2678,13 @@
         "Value": "2010/3/19 11:00:00",
         "Desc": "用回流活动改的7日登陆-结束时间",
         "ID": 383,
+        "Name": null
+    },
+    {
+        "Key": "改名道具",
+        "Value": "10100002,100",
+        "Desc": "改名需要消耗的道具",
+        "ID": 384,
         "Name": null
     }
 ]

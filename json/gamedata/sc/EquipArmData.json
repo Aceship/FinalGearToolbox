@@ -30603,7 +30603,7 @@
         "bulletResistance": 1.4,
         "showBulletBar": true,
         "rangeData": {
-            "rangeX": 10.0,
+            "rangeX": 6.0,
             "rangeZ": 2.0,
             "minRangeX": 0.0,
             "avoidDistanceMin": 1.0,
@@ -30664,7 +30664,7 @@
         "components": [
             {
                 "expressionType": 1,
-                "PowerLevel": 250,
+                "PowerLevel": 300,
                 "AntitankPower": 1,
                 "BulletRandomY": 0.0,
                 "RandomRotate": 0.0,
@@ -43093,6 +43093,220 @@
         "components": [
             {
                 "expressionType": 1,
+                "PowerLevel": 350,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": false,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 20000415,
+                            "isFake": false,
+                            "range": 0.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": true,
+                            "effectFollowBone": false,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 0,
+                            "fireEffectIDs": []
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000240",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_暗星花普攻1",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000240",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_暗星花普攻2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent3",
+                "boneName": "a_Armor_000240",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_暗星花普攻3",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent4",
+                "boneName": "a_Armor_000240",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_暗星花普攻4",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010244,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 10.0,
+            "rangeZ": 3.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 1.0,
+            "avoidDistanceMax": 1.5,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_突击",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
                 "PowerLevel": 250,
                 "AntitankPower": 1,
                 "BulletRandomY": 0.0,
@@ -46487,7 +46701,7 @@
         "components": [
             {
                 "expressionType": 1,
-                "PowerLevel": 300,
+                "PowerLevel": 350,
                 "AntitankPower": 1,
                 "BulletRandomY": 0.0,
                 "RandomRotate": 0.0,
@@ -46529,12 +46743,7 @@
                             "effectFollowBone": false,
                             "effectFollowBoneRotation": false,
                             "extraSortingOrder": 30,
-                            "fireEffectIDs": [
-                                {
-                                    "asset": "01枪口_异端审判者速度线",
-                                    "scale": 1.0
-                                }
-                            ]
+                            "fireEffectIDs": []
                         }
                     ],
                     "FirstBulletID": 0

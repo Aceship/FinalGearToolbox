@@ -29174,7 +29174,7 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             59.0,
-            0.1
+            0.01
         ],
         "ID": 90601410,
         "Name": null
@@ -29192,7 +29192,7 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             59.0,
-            0.12
+            0.012
         ],
         "ID": 90601420,
         "Name": null
@@ -29210,7 +29210,7 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             59.0,
-            0.14
+            0.014
         ],
         "ID": 90601430,
         "Name": null
@@ -29228,7 +29228,7 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             59.0,
-            0.16
+            0.016
         ],
         "ID": 90601440,
         "Name": null
@@ -29246,7 +29246,7 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             59.0,
-            0.2
+            0.02
         ],
         "ID": 90601450,
         "Name": null
@@ -34381,7 +34381,8 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2100.0
+            2.0,
+            100.0
         ],
         "ID": 91071413,
         "Name": null
@@ -34401,7 +34402,8 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2100.0
+            2.0,
+            100.0
         ],
         "ID": 91071423,
         "Name": null
@@ -34421,7 +34423,8 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2100.0
+            2.0,
+            100.0
         ],
         "ID": 91071433,
         "Name": null
@@ -34441,7 +34444,8 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2100.0
+            2.0,
+            100.0
         ],
         "ID": 91071443,
         "Name": null
@@ -34461,7 +34465,8 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2100.0
+            2.0,
+            100.0
         ],
         "ID": 91071453,
         "Name": null
@@ -39507,15 +39512,9 @@
         "AddEffectType": 21,
         "AddEffectPara": [
             1.0,
-            595.0,
-            2.0,
-            250.0,
+            7.0,
             3.0,
-            100.0,
-            5.0,
-            50.0,
-            999.0,
-            5.0
+            3.0
         ],
         "ID": 30001308,
         "Name": null

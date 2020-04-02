@@ -33911,7 +33911,12 @@
                     }
                 ],
                 "screenShakeIDs": null,
-                "soundID": null
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 400300021
+                }
             },
             {
                 "eventName": "actionEvent7",

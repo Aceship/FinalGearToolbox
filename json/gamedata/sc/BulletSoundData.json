@@ -2323,6 +2323,61 @@
     {
         "Create": 0,
         "Duration": 0,
+        "Hit": 300060000,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 200030200,
+        "ID": 40000267,
+        "Name": null
+    },
+    {
+        "Create": 200030100,
+        "Duration": 0,
+        "Hit": 300190000,
+        "HitMeat": 300200000,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 0,
+        "ID": 40000268,
+        "Name": null
+    },
+    {
+        "Create": 400500065,
+        "Duration": 0,
+        "Hit": 300170000,
+        "HitMeat": 300200000,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 0,
+        "ID": 40000269,
+        "Name": null
+    },
+    {
+        "Create": 0,
+        "Duration": 0,
+        "Hit": 300170000,
+        "HitMeat": 300200000,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 0,
+        "ID": 40000270,
+        "Name": null
+    },
+    {
+        "Create": 400500065,
+        "Duration": 0,
+        "Hit": 300190000,
+        "HitMeat": 300200000,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 0,
+        "ID": 40000271,
+        "Name": null
+    },
+    {
+        "Create": 0,
+        "Duration": 0,
         "Hit": 300120000,
         "HitMeat": 300150000,
         "HitBlock": 0,

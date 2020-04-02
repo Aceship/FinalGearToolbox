@@ -124711,7 +124711,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            8.0
+            5.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -124741,7 +124741,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            20.0
+            10.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -124769,7 +124769,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            4.0
+            3.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -124799,7 +124799,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            6.0
+            4.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -124830,7 +124830,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            15.0
+            8.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -124860,7 +124860,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            10.0
+            8.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -124916,7 +124916,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            4.0
+            2.5
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -124946,7 +124946,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            5.0
+            1.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -124974,7 +124974,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            6.0
+            2.5
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125002,7 +125002,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            3.0
+            2.5
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -125032,7 +125032,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            12.0
+            10.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -125062,7 +125062,7 @@
         "TrunkSkillDesc": "12102",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            18.0
+            10.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125121,7 +125121,7 @@
         "TrunkSkillDesc": "5374",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            6.0
+            2.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125149,7 +125149,7 @@
         "TrunkSkillDesc": "5375",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            15.0
+            6.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125177,7 +125177,7 @@
         "TrunkSkillDesc": "5376",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            8.0
+            6.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125205,7 +125205,7 @@
         "TrunkSkillDesc": "5374",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            10.0
+            7.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [],
@@ -125233,7 +125233,7 @@
         "TrunkSkillDesc": "5375",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            9.0
+            7.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [
@@ -125263,7 +125263,7 @@
         "TrunkSkillDesc": "5376",
         "PowerNeed": 0,
         "SkillAggRatio": [
-            3.0
+            4.0
         ],
         "SkillAggValue": 0,
         "SkillSpecialEffectID": [

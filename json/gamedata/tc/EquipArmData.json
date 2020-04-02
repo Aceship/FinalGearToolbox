@@ -30933,6 +30933,173 @@
         "bulletResistance": 0.0,
         "showBulletBar": true,
         "rangeData": {
+            "rangeX": 24.0,
+            "rangeZ": 3.5,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 12.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 0,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_火炮",
+        "preview1": "Preview_Arm_000570_OutArm",
+        "previewBounds1": {
+            "x": 4.055257,
+            "y": -1.252407,
+            "z": 12.7572,
+            "w": 5.789711
+        },
+        "preview2": "Preview_Arm_000570_InArm",
+        "previewBounds2": {
+            "x": 0.8665357,
+            "y": -0.8737552,
+            "z": 3.46142,
+            "w": 4.670763
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Arm_000570",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100007,
+            890100006
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 200,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 19000005,
+                            "isFake": false,
+                            "range": 24.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "01枪口_HSMA·慕原阿炮",
+                                    "scale": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "clip",
+                    "boneName": "clip",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 10,
+                    "resourceIDs": [
+                        {
+                            "asset": "02弹壳_炮弹壳",
+                            "scale": 1.4
+                        }
+                    ],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "clip2",
+                    "boneName": "clip2",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 10,
+                    "resourceIDs": [
+                        {
+                            "asset": "01弹夹_散件HSMA·慕原",
+                            "scale": 1.0
+                        }
+                    ],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [],
+        "skills": [
+            33000012
+        ],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21000570,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 1.0,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
             "rangeX": 5.0,
             "rangeZ": 1.0,
             "minRangeX": -2.0,
@@ -46662,6 +46829,206 @@
         "passiveSkillIDs": [],
         "type": 0,
         "ID": 21010360,
+        "Name": null
+    },
+    {
+        "reloadTimeRatio": 0.5,
+        "dumbFireTime": 0.0,
+        "bulletResistance": 0.0,
+        "showBulletBar": true,
+        "rangeData": {
+            "rangeX": 30.0,
+            "rangeZ": 3.0,
+            "minRangeX": 0.0,
+            "avoidDistanceMin": 12.0,
+            "avoidDistanceMax": 3.0,
+            "borderX": 0.5,
+            "borderZ": -0.5,
+            "doubleSize": false,
+            "selectUnitType": 0,
+            "attackType": 3,
+            "bombX": 0.0,
+            "bombZ": 0.0,
+            "circle": false,
+            "bombMode": false,
+            "duration": 0.0
+        },
+        "autoAim": false,
+        "dontLockAimAngle": false,
+        "releaseToAttack": false,
+        "stopFireTime": 0.0,
+        "weaponAI": "AI 角色_火炮",
+        "preview1": null,
+        "previewBounds1": {
+            "x": 0.04023552,
+            "y": 6.870013,
+            "z": 12.13695,
+            "w": 12.28905
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "sheildPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "",
+        "movieChannel": 2,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "expressionType": 1,
+                "PowerLevel": 250,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": [],
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [
+                        {
+                            "ID": 19000006,
+                            "isFake": false,
+                            "range": 30.0,
+                            "segmentNumber": 0,
+                            "attackInterval": 0.0,
+                            "attackDuration": 0.0,
+                            "explodeOnGroundData": null,
+                            "followBone": false,
+                            "effectFollowBone": true,
+                            "effectFollowBoneRotation": false,
+                            "extraSortingOrder": 30,
+                            "fireEffectIDs": [
+                                {
+                                    "asset": "01枪口_HSMA·慕原阿炮",
+                                    "scale": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "clip",
+                    "boneName": "clip",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 10,
+                    "resourceIDs": [
+                        {
+                            "asset": "02弹壳_炮弹壳",
+                            "scale": 1.4
+                        }
+                    ],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": "clip2",
+                    "boneName": "clip2",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 10,
+                    "resourceIDs": [
+                        {
+                            "asset": "01弹夹_散件HSMA·慕原",
+                            "scale": 1.0
+                        }
+                    ],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 2,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "foot_out2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440020000
+                                    }
+                                ]
+                            },
+                            {
+                                "positionBone": "foot_in2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 21010400,
         "Name": null
     }
 ]

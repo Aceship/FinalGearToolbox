@@ -4522,5 +4522,57 @@
         "type": 0,
         "ID": 24000540,
         "Name": null
+    },
+    {
+        "bulletResistance": 1.0,
+        "preview1": "Preview_Body_000570_Body",
+        "previewBounds1": {
+            "x": -0.1104333,
+            "y": 0.918327,
+            "z": 4.026382,
+            "w": 2.782001
+        },
+        "preview2": "Preview_Body_000570_BodyBack",
+        "previewBounds2": {
+            "x": -0.1572827,
+            "y": 1.158686,
+            "z": 3.360075,
+            "w": 2.590103
+        },
+        "armPosition1": {
+            "x": 0.9698548,
+            "y": 1.901225
+        },
+        "armPosition2": {
+            "x": -1.471927,
+            "y": 1.86141
+        },
+        "bagPosition": {
+            "x": -0.5195521,
+            "y": 2.051009
+        },
+        "pilotPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Body_000570",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003,
+            890100008
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 24000570,
+        "Name": null
     }
 ]

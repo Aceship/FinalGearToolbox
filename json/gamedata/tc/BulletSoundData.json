@@ -7027,5 +7027,71 @@
         "Explode": 0,
         "ID": 19000003,
         "Name": null
+    },
+    {
+        "Create": 200060200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 20000489,
+        "Name": null
+    },
+    {
+        "Create": 200061200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 20000490,
+        "Name": null
+    },
+    {
+        "Create": 200060200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 19000005,
+        "Name": null
+    },
+    {
+        "Create": 200060200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 19000006,
+        "Name": null
+    },
+    {
+        "Create": 200060200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 19000007,
+        "Name": null
+    },
+    {
+        "Create": 200061200,
+        "Duration": 0,
+        "Hit": 0,
+        "HitMeat": 0,
+        "HitBlock": 0,
+        "HitGround": 0,
+        "Explode": 300280000,
+        "ID": 19000008,
+        "Name": null
     }
 ]

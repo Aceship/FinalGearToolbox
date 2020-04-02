@@ -40826,7 +40826,7 @@
         "BuffPropertySource": 2,
         "BuffEffectPara": [
             31.0,
-            0.08
+            0.1
         ],
         "SameBuffType": 2,
         "OverlayLimit": 99,
@@ -40978,7 +40978,7 @@
         "BuffPropertySource": 2,
         "BuffEffectPara": [
             31.0,
-            3.0
+            4.0
         ],
         "SameBuffType": 0,
         "OverlayLimit": 0,

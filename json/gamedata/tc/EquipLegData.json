@@ -11929,6 +11929,150 @@
     {
         "UseSpineArea": false,
         "hurtProtectData": {
+            "stableValuePerHit": 80,
+            "duration": 1.0,
+            "attenuationTime": 1.0,
+            "attenuationSpeed": 40.0
+        },
+        "preview1": "Preview_Leg_000570_InLeg",
+        "previewBounds1": {
+            "x": 0.3884125,
+            "y": 2.115493,
+            "z": 4.800036,
+            "w": 4.259863
+        },
+        "preview2": "Preview_Leg_000570_OutLeg",
+        "previewBounds2": {
+            "x": -1.297264,
+            "y": 1.800329,
+            "z": 2.349941,
+            "w": 4.070159
+        },
+        "bodyPosition": {
+            "x": 0.5257241,
+            "y": 3.394094
+        },
+        "reflectOffestTex": null,
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Leg_000570",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100001,
+            890100002
+        ],
+        "components": [
+            {
+                "MoveSpeed": 8.0,
+                "RunSpeed": 17.0,
+                "MoveBackSpeed": 5.0,
+                "BeatTime": 0.0,
+                "HitGradeResist": 240,
+                "HitBackResist": 0.35,
+                "bulletResistance": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {
+                        "run": [
+                            {
+                                "positionBone": "foot_out2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": [
+                                    {
+                                        "delayTime": 0.0,
+                                        "delayStopTime": 0.0,
+                                        "removeWhenAnimationEnd": true,
+                                        "soundID": 440020000
+                                    }
+                                ]
+                            },
+                            {
+                                "positionBone": "foot_in2",
+                                "extraSotingOrder": 10,
+                                "followBoneRotation": false,
+                                "followDirection": false,
+                                "resourceIDs": [
+                                    {
+                                        "asset": "01其他_滑行火花",
+                                        "scale": 1.0
+                                    }
+                                ],
+                                "soundIDs": null
+                            }
+                        ]
+                    }
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 440000000
+                }
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 440000000
+                }
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 23000570,
+        "Name": null
+    },
+    {
+        "UseSpineArea": false,
+        "hurtProtectData": {
             "stableValuePerHit": 50,
             "duration": 5.0,
             "attenuationTime": 1.0,
@@ -18819,6 +18963,113 @@
         "passiveSkillIDs": [],
         "type": 0,
         "ID": 23010360,
+        "Name": null
+    },
+    {
+        "UseSpineArea": true,
+        "hurtProtectData": {
+            "stableValuePerHit": 50,
+            "duration": 1.0,
+            "attenuationTime": 1.0,
+            "attenuationSpeed": 25.0
+        },
+        "preview1": "Preview_Armor_000400_Armor_000400",
+        "previewBounds1": {
+            "x": 2.26124,
+            "y": 4.832126,
+            "z": 15.01727,
+            "w": 10.67083
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bodyPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "reflectOffestTex": null,
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": true,
+        "prefab": "Armor_000400",
+        "movieChannel": 1,
+        "shieldBoomEff": null,
+        "clips": [
+            890100003
+        ],
+        "components": [
+            {
+                "MoveSpeed": 12.0,
+                "RunSpeed": 16.0,
+                "MoveBackSpeed": 12.0,
+                "BeatTime": 0.0,
+                "HitGradeResist": 290,
+                "HitBackResist": 0.45,
+                "bulletResistance": 1.5,
+                "active": true,
+                "movieChannel": 1,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_out2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 440000000
+                }
+            },
+            {
+                "eventName": "actionEvent",
+                "boneName": "foot_in2",
+                "followBone": true,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/01其他_踩地（前进）",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 440000000
+                }
+            }
+        ],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 23010400,
         "Name": null
     }
 ]

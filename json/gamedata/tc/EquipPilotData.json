@@ -17900,5 +17900,96 @@
         "type": 0,
         "ID": 25001050,
         "Name": null
+    },
+    {
+        "garageOffestZ": 5.0,
+        "preview": "Preview_Pilot_001090_Pilot",
+        "previewBounds": {
+            "x": -0.05866045,
+            "y": 1.516855,
+            "z": 1.820103,
+            "w": 3.150206
+        },
+        "EquipName": "默认名称",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Pilot_001090",
+        "movieChannel": 0,
+        "shieldBoomEff": null,
+        "clips": [
+            890100009
+        ],
+        "components": [
+            {
+                "expressionType": 0,
+                "PowerLevel": 1,
+                "AntitankPower": 1,
+                "BulletRandomY": 0.0,
+                "RandomRotate": 0.0,
+                "BulletFollowBoneRotate": true,
+                "BulletNum": 2147483647,
+                "powerRatioList": null,
+                "StateLengths": [],
+                "attackperforms": null,
+                "fireData": {
+                    "randomBullet": false,
+                    "bulletDatas": [],
+                    "FirstBulletID": 0
+                },
+                "Recoil": {
+                    "BackSpeed": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Damping": 0,
+                    "confuseTime": 0.0,
+                    "bombMode": false,
+                    "dragMode": false,
+                    "freezingDurationSelf": 0.0,
+                    "freezingDurationEnemy": 0.0
+                },
+                "ShellData": {
+                    "eventName": "",
+                    "boneName": "",
+                    "followBone": false,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": [],
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "ClipData": {
+                    "eventName": null,
+                    "boneName": null,
+                    "followBone": true,
+                    "followBoneRotation": false,
+                    "followDirection": false,
+                    "extraSortingOrder": 0,
+                    "resourceIDs": null,
+                    "screenShakeIDs": null,
+                    "soundID": null
+                },
+                "subEquipAI": null,
+                "getPowerRatio": 1.0,
+                "active": true,
+                "movieChannel": 0,
+                "animationEffectData": {
+                    "monopoly": false,
+                    "effectDatas": {}
+                },
+                "scriptType": null,
+                "type": 0
+            }
+        ],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": 0,
+        "ID": 25001090,
+        "Name": null
     }
 ]
