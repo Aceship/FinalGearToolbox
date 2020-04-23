@@ -1583,11 +1583,11 @@
     {
         "SpecialContdition": 2,
         "SpecialContditionPara": [
-            1
+            3
         ],
         "PassivePropertyAdd": {
             "keys": [
-                52
+                23
             ],
             "values": [
                 0.1

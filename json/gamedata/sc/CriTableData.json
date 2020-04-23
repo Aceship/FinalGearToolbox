@@ -4400,6 +4400,17 @@
         "Name": "act_000240_3"
     },
     {
+        "Description": "拔刀斩-斩月",
+        "GroupTag": "角色/24九条绫",
+        "CueSheet": "SK",
+        "CueName": "act_000240_2",
+        "Loop": false,
+        "Volume": 0.2,
+        "Pitch": 0,
+        "ID": 550002403,
+        "Name": "支配者闪光"
+    },
+    {
         "Description": "施法",
         "GroupTag": "角色/25洛克仙妮",
         "CueSheet": "SK",

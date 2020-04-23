@@ -8530,5 +8530,29 @@
         ],
         "ID": 9091,
         "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9345",
+        "SkillName": "15641",
+        "SkillIcon": "86000013",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10071
+        ],
+        "ID": 9092,
+        "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9525",
+        "SkillName": "15642",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10431
+        ],
+        "ID": 9093,
+        "Name": "基地车机师技能数据"
     }
 ]

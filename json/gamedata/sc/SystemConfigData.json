@@ -71,7 +71,7 @@
     },
     {
         "Key": "WidgetBagBuyPrice",
-        "Value": "100",
+        "Value": "10100002,150",
         "Desc": "部件背包购买价格",
         "ID": 11,
         "Name": null
@@ -1226,7 +1226,7 @@
     },
     {
         "Key": "机师数量上限",
-        "Value": "92",
+        "Value": "94",
         "Desc": "",
         "ID": 176,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200025,200024",
+        "Value": "200026,200027",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,7 +1730,7 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100037",
+        "Value": "10100039",
         "Desc": "",
         "ID": 248,
         "Name": null
@@ -1786,7 +1786,7 @@
     },
     {
         "Key": "部件兑换商店标签",
-        "Value": "3001,3003",
+        "Value": "3001",
         "Desc": "",
         "ID": 256,
         "Name": null
@@ -2472,7 +2472,7 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_21,SkinActive_22",
+        "Value": "SkinActive_23,SkinActive_24",
         "Desc": "",
         "ID": 354,
         "Name": null
@@ -2681,10 +2681,24 @@
         "Name": null
     },
     {
-        "Key": "改名道具",
-        "Value": "10100002,100",
-        "Desc": "改名需要消耗的道具",
+        "Key": "周常副本二期交换所参数ID",
+        "Value": "3005,360",
+        "Desc": "",
         "ID": 384,
+        "Name": null
+    },
+    {
+        "Key": "周常副本二期交换所货币ID",
+        "Value": "13200015",
+        "Desc": "",
+        "ID": 385,
+        "Name": null
+    },
+    {
+        "Key": "改名道具",
+        "Value": "13200316,1",
+        "Desc": "改名卡",
+        "ID": 386,
         "Name": null
     }
 ]

@@ -107,12 +107,31 @@
         ],
         "OpenNeedStage": 40205,
         "PreRegion": 4,
-        "NextRegion": 0,
+        "NextRegion": 6,
         "ExpeditionQueue": 4,
         "BlockNum": 6,
         "ChapterScene": "Cab2_1平原农场",
         "CampIcon": "帝国",
         "ID": 5,
         "Name": "12541"
+    },
+    {
+        "Desc": "15552",
+        "RegionMap": "AERA_006",
+        "BlockID": [
+            6001,
+            6002,
+            6003,
+            6004
+        ],
+        "OpenNeedStage": 50102,
+        "PreRegion": 5,
+        "NextRegion": 0,
+        "ExpeditionQueue": 4,
+        "BlockNum": 4,
+        "ChapterScene": "Cab2_1平原农场",
+        "CampIcon": "帝国",
+        "ID": 6,
+        "Name": "15552"
     }
 ]

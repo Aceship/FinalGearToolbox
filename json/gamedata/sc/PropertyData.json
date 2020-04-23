@@ -766,5 +766,11 @@
         "UiDesc": "",
         "ID": 128,
         "Name": "致命一击伤害倍率"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 129,
+        "Name": "持续伤害抵抗"
     }
 ]

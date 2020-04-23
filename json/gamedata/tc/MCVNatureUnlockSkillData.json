@@ -20998,5 +20998,205 @@
         "SkillID": 502215,
         "ID": 2625,
         "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 503191,
+        "ID": 2626,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 503192,
+        "ID": 2627,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 503193,
+        "ID": 2628,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 503194,
+        "ID": 2629,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 503195,
+        "ID": 2630,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 403141,
+        "ID": 2631,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 403142,
+        "ID": 2632,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 403143,
+        "ID": 2633,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 403144,
+        "ID": 2634,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 403145,
+        "ID": 2635,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403101,
+        "ID": 2636,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403102,
+        "ID": 2637,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403103,
+        "ID": 2638,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403104,
+        "ID": 2639,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403105,
+        "ID": 2640,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 201021,
+        "ID": 2641,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 201022,
+        "ID": 2642,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 201023,
+        "ID": 2643,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 201024,
+        "ID": 2644,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 201025,
+        "ID": 2645,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 503211,
+        "ID": 2646,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 503212,
+        "ID": 2647,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 503213,
+        "ID": 2648,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 503214,
+        "ID": 2649,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 503215,
+        "ID": 2650,
+        "Name": null
     }
 ]

@@ -120,6 +120,12 @@
         "Name": null
     },
     {
+        "WidgetQualityType": 1,
+        "EquipSubType": 27,
+        "ID": 21,
+        "Name": null
+    },
+    {
         "WidgetQualityType": 2,
         "EquipSubType": 2,
         "ID": 22,
@@ -240,123 +246,135 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 3,
-        "EquipSubType": 2,
+        "WidgetQualityType": 2,
+        "EquipSubType": 27,
         "ID": 42,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 4,
+        "EquipSubType": 2,
         "ID": 43,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 8,
+        "EquipSubType": 4,
         "ID": 44,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 0,
+        "EquipSubType": 8,
         "ID": 45,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 1,
+        "EquipSubType": 0,
         "ID": 46,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 3,
+        "EquipSubType": 1,
         "ID": 47,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 5,
+        "EquipSubType": 3,
         "ID": 48,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 6,
+        "EquipSubType": 5,
         "ID": 49,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 7,
+        "EquipSubType": 6,
         "ID": 50,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 9,
+        "EquipSubType": 7,
         "ID": 51,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 10,
+        "EquipSubType": 9,
         "ID": 52,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 11,
+        "EquipSubType": 10,
         "ID": 53,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 14,
+        "EquipSubType": 11,
         "ID": 54,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 15,
+        "EquipSubType": 14,
         "ID": 55,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 16,
+        "EquipSubType": 15,
         "ID": 56,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 19,
+        "EquipSubType": 16,
         "ID": 57,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 20,
+        "EquipSubType": 19,
         "ID": 58,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 21,
+        "EquipSubType": 20,
         "ID": 59,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 24,
+        "EquipSubType": 21,
         "ID": 60,
         "Name": null
     },
     {
         "WidgetQualityType": 3,
-        "EquipSubType": 25,
+        "EquipSubType": 24,
         "ID": 61,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 3,
+        "EquipSubType": 25,
+        "ID": 62,
+        "Name": null
+    },
+    {
+        "WidgetQualityType": 3,
+        "EquipSubType": 27,
+        "ID": 63,
         "Name": null
     }
 ]

@@ -3378,7 +3378,7 @@
         "Cartoon": "spine_Pilot_000980",
         "CgCartoon": "",
         "FeaturePath": "Skill_Pilot_000980",
-        "GirlVoice": "",
+        "GirlVoice": "linmoniang",
         "RoleVoice": 1000980,
         "StandbyTime": 2,
         "MachineArmorModel1": [
@@ -6083,6 +6083,48 @@
             0
         ],
         "ID": 8203,
+        "Name": null
+    },
+    {
+        "GirlId": 109,
+        "Skin": 1,
+        "SkinName": "100335",
+        "SkillArray": [
+            [
+                1090101,
+                1
+            ],
+            [
+                1090102,
+                3
+            ],
+            [
+                1090103,
+                4
+            ],
+            [
+                1090104,
+                5
+            ]
+        ],
+        "ModelID": 25001090,
+        "MapHeadIcon": "MapHead_Pilot_001090",
+        "StageHeadIcon": "StageHead_Pilot_001090",
+        "HeadIcon": "Head_Pilot_001090",
+        "HeadIcon_square": "SquareHead_Pilot_001090",
+        "HeadIcon_SixAngle": "SixAngleHead_Pilot_001090",
+        "Image": "Image_Pilot_001090",
+        "Cartoon": "spine_Pilot_001090",
+        "CgCartoon": "",
+        "FeaturePath": "Skill_Pilot_001090",
+        "GirlVoice": "",
+        "RoleVoice": 1001090,
+        "StandbyTime": 2,
+        "MachineArmorModel1": [
+            21010400,
+            23010400
+        ],
+        "ID": 10901,
         "Name": null
     }
 ]

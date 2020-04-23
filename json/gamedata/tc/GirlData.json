@@ -9336,7 +9336,7 @@
         "ItemID": 10500098,
         "Age": 20,
         "Gender": "2690",
-        "CV": "100044",
+        "CV": "100471",
         "Autobiography": "100045",
         "ID": 98,
         "Name": "100036"
@@ -9435,5 +9435,100 @@
         "Autobiography": "100173",
         "ID": 99,
         "Name": "100165"
+    },
+    {
+        "BasicSkin": 10901,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 3,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 310901,
+        "BaseEquip1": [
+            2100118,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.7179,
+        "FiveDimenBL": 0.6814,
+        "FiveDimenRN": 0.6145,
+        "FiveDimenFY": 0.6911,
+        "FiveDimenXY": 0.8284,
+        "Birthday": "4.12",
+        "Constellation": "14435",
+        "BloodType": "100336",
+        "Hobby": "100337",
+        "BirthLocal": "100338",
+        "OwnStory": "100339",
+        "EnglishName": "Yun",
+        "GirlCamp": 6,
+        "GirlCampIcon": "NoGenera",
+        "GirlHeight": "166cm",
+        "LikeThing": "100340",
+        "GirlHate": "100341",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 7,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2109010,
+        "ExpertSkillEquip": 2109020,
+        "GirlGood": "火炮武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                2.3711,
+                1.6505,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "100342",
+        "ItemID": 10500109,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "100343",
+        "Autobiography": "100344",
+        "ID": 109,
+        "Name": "100335"
     }
 ]

@@ -49733,5 +49733,3477 @@
         "WidgetQualityType": "SR",
         "ID": 7161,
         "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7162,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7163,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7164,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7165,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7166,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7167,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7168,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7169,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7170,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7171,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7172,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7173,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7174,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7175,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7176,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7177,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7178,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7179,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7180,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7181,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7182,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7183,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7184,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7185,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7186,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7187,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7188,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7189,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7190,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7191,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7192,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7193,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7194,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7195,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7196,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7197,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7198,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7199,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7200,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7201,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7202,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7203,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7204,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7205,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7206,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7207,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7208,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7209,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7210,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7211,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7212,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7213,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7214,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7215,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7216,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7217,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7218,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7219,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7220,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7221,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7222,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7223,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7224,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7225,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7226,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7227,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7228,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 20,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7229,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7230,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7231,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7232,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 30,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7233,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7234,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7235,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7236,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 40,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7237,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7238,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7239,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7240,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7241,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7242,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7243,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7244,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7245,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7246,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7247,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7248,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 50,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7249,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7250,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7251,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7252,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7253,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7254,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7255,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7256,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7257,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7258,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7259,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7260,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7261,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7262,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7263,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7264,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7265,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7266,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7267,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7268,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7269,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7270,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7271,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7272,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7273,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7274,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7275,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7276,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7277,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7278,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7279,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7280,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7281,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7282,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7283,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7284,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7285,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7286,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7287,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7288,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7289,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7290,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7291,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7292,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7293,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7294,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7295,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7296,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7297,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7298,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7299,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7300,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7301,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7302,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7303,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7304,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7305,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7306,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7307,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7308,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7309,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7310,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7311,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7312,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7313,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7314,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7315,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7316,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7317,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7318,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7319,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7320,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7321,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7322,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7323,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7324,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7325,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7326,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7327,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7328,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7329,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7330,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7331,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7332,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7333,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7334,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7335,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7336,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7337,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7338,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7339,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7340,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7341,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7342,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7343,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7344,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7345,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7346,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7347,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7348,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7349,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7350,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7351,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7352,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7353,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7354,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7355,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7356,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7357,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7358,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7359,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7360,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7361,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7362,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7363,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7364,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7365,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7366,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7367,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7368,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7369,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7370,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7371,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7372,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7373,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7374,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7375,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7376,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7377,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7378,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7379,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7380,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7381,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7382,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7383,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7384,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7385,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7386,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7387,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7388,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7389,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7390,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7391,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7392,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7393,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7394,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7395,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7396,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7397,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7398,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7399,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7400,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7401,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7402,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7403,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7404,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7405,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7406,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7407,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7408,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7409,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7410,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7411,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7412,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7413,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7414,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7415,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7416,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7417,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7418,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7419,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7420,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7421,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7422,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7423,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7424,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7425,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7426,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7427,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7428,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7429,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7430,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7431,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7432,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7433,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7434,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7435,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7436,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7437,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7438,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7439,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7440,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7441,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7442,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7443,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7444,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7445,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7446,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7447,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7448,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7449,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7450,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7451,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7452,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7453,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7454,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7455,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7456,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7457,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7458,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7459,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7460,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7461,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7462,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7463,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7464,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7465,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7466,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7467,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7468,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7469,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7470,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7471,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7472,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7473,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7474,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7475,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7476,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7477,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7478,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7479,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7480,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7481,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7482,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7483,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7484,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7485,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7486,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7487,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7488,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7489,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7490,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7491,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7492,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7493,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7494,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7495,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7496,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7497,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7498,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7499,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7500,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7501,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7502,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7503,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7504,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7505,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7506,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7507,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7508,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7509,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7510,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7511,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7512,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7513,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7514,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7515,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7516,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7517,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7518,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7519,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7520,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7521,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7522,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7523,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7524,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7525,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7526,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7527,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7528,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7529,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7530,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7531,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7532,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7533,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7534,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7535,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7536,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7537,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7538,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7539,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7540,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7541,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7542,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7543,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7544,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7545,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7546,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7547,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7548,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7549,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7550,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7551,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7552,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7553,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7554,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7555,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7556,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7557,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7558,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7559,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7560,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7561,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7562,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7563,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7564,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7565,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7566,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7567,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7568,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7569,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7570,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7571,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7572,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7573,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7574,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7575,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7576,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7577,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7578,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7579,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7580,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7581,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7582,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7583,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7584,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7585,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7586,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7587,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7588,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7589,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7590,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7591,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7592,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7593,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7594,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7595,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7596,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7597,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7598,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7599,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7600,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7601,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7602,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7603,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7604,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7605,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7606,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7607,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7608,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7609,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7610,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7611,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7612,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7613,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7614,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7615,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7616,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7617,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7618,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7619,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7620,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7621,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7622,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7623,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7624,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7625,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7626,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7627,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7628,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7629,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7630,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7631,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7632,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 7633,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7634,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7635,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7636,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7637,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7638,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7639,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7640,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7641,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7642,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7643,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7644,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7645,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7646,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7647,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7648,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7649,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7650,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7651,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7652,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7653,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7654,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7655,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7656,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 7657,
+        "Name": null
     }
 ]

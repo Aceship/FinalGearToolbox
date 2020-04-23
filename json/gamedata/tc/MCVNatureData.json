@@ -3113,5 +3113,40 @@
         "MaxLevel": 12,
         "ID": 445,
         "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 446,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 447,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 448,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 449,
+        "Name": null
+    },
+    {
+        "GirlID": 109,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 450,
+        "Name": null
     }
 ]

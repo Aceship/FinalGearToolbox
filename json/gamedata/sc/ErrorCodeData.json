@@ -2149,5 +2149,41 @@
         "Memo": "无法搜索自己",
         "ID": 824,
         "Name": null
+    },
+    {
+        "Disc": "15228",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetBagExpandLimit",
+        "Memo": "已达到装备背包可扩容上限",
+        "ID": 825,
+        "Name": null
+    },
+    {
+        "Disc": "15229",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveRecievedLoginAward",
+        "Memo": "已经领取过这个登陆奖励",
+        "ID": 826,
+        "Name": null
+    },
+    {
+        "Disc": "15230",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NoCurDayAwardConf",
+        "Memo": "当前天没有奖励可以领取",
+        "ID": 827,
+        "Name": null
+    },
+    {
+        "Disc": "15231",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChangeNameItemNotEnough",
+        "Memo": "改名道具不足",
+        "ID": 828,
+        "Name": null
     }
 ]

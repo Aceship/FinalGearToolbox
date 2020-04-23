@@ -336,6 +336,20 @@
         "Name": null
     },
     {
+        "BackGroundName": "1033",
+        "BackGroundType": 2,
+        "BackGroundDesc": "1061",
+        "Image": "C21",
+        "GetWay": "1072",
+        "PublishTime": "2020.1",
+        "BackGroundRes": "cg_Pilot_000782",
+        "Array": 26,
+        "GirlID": 78,
+        "CgGirlSkinID": 7803,
+        "ID": 20078,
+        "Name": null
+    },
+    {
         "BackGroundName": "1015",
         "BackGroundType": 2,
         "BackGroundDesc": "1043",
@@ -375,6 +389,20 @@
         "GirlID": 20,
         "CgGirlSkinID": 2002,
         "ID": 20020,
+        "Name": null
+    },
+    {
+        "BackGroundName": "12581",
+        "BackGroundType": 2,
+        "BackGroundDesc": "12620",
+        "Image": "C32",
+        "GetWay": "12583",
+        "PublishTime": "2020.2",
+        "BackGroundRes": "cg_Pilot_000470",
+        "Array": 30,
+        "GirlID": 47,
+        "CgGirlSkinID": 4701,
+        "ID": 20047,
         "Name": null
     },
     {
@@ -543,6 +571,34 @@
         "GirlID": 0,
         "CgGirlSkinID": 0,
         "ID": 30004,
+        "Name": null
+    },
+    {
+        "BackGroundName": "13202",
+        "BackGroundType": 2,
+        "BackGroundDesc": "13767",
+        "Image": "C35",
+        "GetWay": "4457",
+        "PublishTime": "2020.1",
+        "BackGroundRes": "cg_Pilot_000381",
+        "Array": 34,
+        "GirlID": 38,
+        "CgGirlSkinID": 3802,
+        "ID": 21038,
+        "Name": null
+    },
+    {
+        "BackGroundName": "13203",
+        "BackGroundType": 2,
+        "BackGroundDesc": "13768",
+        "Image": "C36",
+        "GetWay": "4457",
+        "PublishTime": "2020.4",
+        "BackGroundRes": "cg_Pilot_000451",
+        "Array": 35,
+        "GirlID": 45,
+        "CgGirlSkinID": 4502,
+        "ID": 21045,
         "Name": null
     }
 ]

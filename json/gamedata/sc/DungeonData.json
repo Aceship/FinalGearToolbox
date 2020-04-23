@@ -106,5 +106,23 @@
         "SuitsResID": "Armor_000310",
         "ID": 35,
         "Name": null
+    },
+    {
+        "DungeonStageGroup": [
+            8063001,
+            8063002,
+            8063003,
+            8063004,
+            8063005
+        ],
+        "Title": "1510",
+        "DungeonName": "15466",
+        "Disc": "15467",
+        "DungeonShopID": 1063,
+        "UnlockStageID": 60112,
+        "BossID": 63,
+        "SuitsResID": "Armor_000310",
+        "ID": 63,
+        "Name": null
     }
 ]

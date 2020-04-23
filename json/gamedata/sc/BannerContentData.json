@@ -380,6 +380,46 @@
         "Name": null
     },
     {
+        "BannerName": "16670",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity78",
+        "LinkPage": 3,
+        "ID": 87,
+        "Name": null
+    },
+    {
+        "BannerName": "16671",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity79",
+        "LinkPage": 4,
+        "ID": 88,
+        "Name": null
+    },
+    {
+        "BannerName": "16672",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity80",
+        "LinkPage": 1,
+        "ID": 79,
+        "Name": null
+    },
+    {
+        "BannerName": "16673",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity81",
+        "LinkPage": 1,
+        "ID": 80,
+        "Name": null
+    },
+    {
         "BannerName": "1073",
         "OpenTime": "",
         "CloseTime": "",
@@ -757,6 +797,46 @@
         "PictureName": "gameActivity59",
         "LinkPage": 3,
         "ID": 78,
+        "Name": null
+    },
+    {
+        "BannerName": "16670",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity78",
+        "LinkPage": 3,
+        "ID": 83,
+        "Name": null
+    },
+    {
+        "BannerName": "16671",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity79",
+        "LinkPage": 4,
+        "ID": 84,
+        "Name": null
+    },
+    {
+        "BannerName": "16672",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity80",
+        "LinkPage": 1,
+        "ID": 85,
+        "Name": null
+    },
+    {
+        "BannerName": "16673",
+        "OpenTime": "2020/4/23 11:30:00",
+        "CloseTime": "2020/5/7 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity81",
+        "LinkPage": 1,
+        "ID": 86,
         "Name": null
     }
 ]

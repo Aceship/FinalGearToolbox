@@ -175,7 +175,8 @@
         "Asset": "city07",
         "RegionMapLocation": [
             200501,
-            200500
+            200500,
+            210001
         ],
         "ID": 2005,
         "Name": null
@@ -635,6 +636,71 @@
             500400
         ],
         "ID": 5004,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 6,
+        "OpenNeedStage": 60211,
+        "MissionPoints": 2,
+        "MissinGroup": 601,
+        "MissionNum": 16,
+        "Asset": "city01",
+        "RegionMapLocation": [
+            600101,
+            600102,
+            600110,
+            600111,
+            600100
+        ],
+        "ID": 6001,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 6,
+        "OpenNeedStage": 60212,
+        "MissionPoints": 2,
+        "MissinGroup": 602,
+        "MissionNum": 16,
+        "Asset": "city02",
+        "RegionMapLocation": [
+            600201,
+            600202,
+            600200
+        ],
+        "ID": 6002,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 6,
+        "OpenNeedStage": 60213,
+        "MissionPoints": 2,
+        "MissinGroup": 603,
+        "MissionNum": 16,
+        "Asset": "city03",
+        "RegionMapLocation": [
+            600301,
+            600302,
+            600300
+        ],
+        "ID": 6003,
+        "Name": null
+    },
+    {
+        "Desc": "aklala",
+        "BlockID": 6,
+        "OpenNeedStage": 60214,
+        "MissionPoints": 2,
+        "MissinGroup": 604,
+        "MissionNum": 16,
+        "Asset": "city04",
+        "RegionMapLocation": [
+            600401,
+            600400
+        ],
+        "ID": 6004,
         "Name": null
     }
 ]

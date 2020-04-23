@@ -154,5 +154,11 @@
         "Count": 1.0,
         "ID": 26,
         "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "Count": 1.0,
+        "ID": 27,
+        "Name": null
     }
 ]

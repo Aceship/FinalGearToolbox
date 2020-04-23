@@ -1,0 +1,302 @@
+[
+    {
+        "WeeklyStageID": 1000107,
+        "BossLevel": 1,
+        "KillReward": [
+            13200300,
+            1
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000107,
+        "BossLevel": 10,
+        "KillReward": [
+            11600130,
+            1
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000107,
+        "BossLevel": 20,
+        "KillReward": [
+            13200301,
+            1
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000107,
+        "BossLevel": 30,
+        "KillReward": [
+            13200302,
+            1
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000107,
+        "BossLevel": 50,
+        "KillReward": [
+            13200303,
+            1
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "BossLevel": 1,
+        "KillReward": [
+            13200304,
+            1
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "BossLevel": 10,
+        "KillReward": [
+            11600130,
+            1
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "BossLevel": 20,
+        "KillReward": [
+            13200305,
+            1
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "BossLevel": 30,
+        "KillReward": [
+            13200306,
+            1
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "BossLevel": 50,
+        "KillReward": [
+            13200307,
+            1
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "BossLevel": 1,
+        "KillReward": [
+            13200308,
+            1
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "BossLevel": 10,
+        "KillReward": [
+            11600130,
+            1
+        ],
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "BossLevel": 20,
+        "KillReward": [
+            13200309,
+            1
+        ],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "BossLevel": 30,
+        "KillReward": [
+            13200310,
+            1
+        ],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "BossLevel": 50,
+        "KillReward": [
+            13200311,
+            1
+        ],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "BossLevel": 1,
+        "KillReward": [
+            13200400,
+            1
+        ],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "BossLevel": 10,
+        "KillReward": [
+            11600131,
+            1
+        ],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "BossLevel": 20,
+        "KillReward": [
+            13200401,
+            1
+        ],
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "BossLevel": 30,
+        "KillReward": [
+            13200402,
+            1
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "BossLevel": 50,
+        "KillReward": [
+            13200403,
+            1
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "BossLevel": 1,
+        "KillReward": [
+            13200404,
+            1
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "BossLevel": 10,
+        "KillReward": [
+            11600131,
+            1
+        ],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "BossLevel": 20,
+        "KillReward": [
+            13200405,
+            1
+        ],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "BossLevel": 30,
+        "KillReward": [
+            13200406,
+            1
+        ],
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "BossLevel": 50,
+        "KillReward": [
+            13200407,
+            1
+        ],
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "BossLevel": 1,
+        "KillReward": [
+            13200408,
+            1
+        ],
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "BossLevel": 10,
+        "KillReward": [
+            11600131,
+            1
+        ],
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "BossLevel": 20,
+        "KillReward": [
+            13200409,
+            1
+        ],
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "BossLevel": 30,
+        "KillReward": [
+            13200410,
+            1
+        ],
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "BossLevel": 50,
+        "KillReward": [
+            13200411,
+            1
+        ],
+        "ID": 30,
+        "Name": null
+    }
+]

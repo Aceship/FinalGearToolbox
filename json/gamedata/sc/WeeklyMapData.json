@@ -16,7 +16,10 @@
             1000103,
             1000104,
             1000105,
-            1000106
+            1000106,
+            1000107,
+            1000108,
+            1000109
         ],
         "WeeklyRefresh": 360,
         "WeeklyDrop": [
@@ -41,6 +44,59 @@
         "WeeklyShopID": 3000,
         "WeeklyHighShopID": 3002,
         "ID": 1,
+        "Name": null
+    },
+    {
+        "WeeklyMapID": 10002,
+        "WeeklyStageName": "15226",
+        "WeeklyStageDisc": "15227",
+        "WeeklyStageIcon": "stageIcon_weekly2",
+        "UnlockType": [],
+        "AreaID": 2,
+        "AreaBlockID": 2005,
+        "StageResources": "TB_03",
+        "RegionMapLocation": 210001,
+        "OpenTime": "2020/3/25 00:00:00",
+        "BattleStageID": [
+            1000201,
+            1000202,
+            1000203,
+            1000204,
+            1000205,
+            1000206,
+            1000207,
+            1000208,
+            1000209
+        ],
+        "WeeklyRefresh": 360,
+        "WeeklyDrop": [
+            13200015,
+            13200226,
+            11410001,
+            11410002,
+            11410003,
+            11410004,
+            10800003,
+            10800006,
+            10800005,
+            10800004,
+            13200120,
+            13200119,
+            11502023,
+            11502030,
+            11502007,
+            11500028,
+            11501026,
+            11502022,
+            11502027,
+            11502029,
+            10800001,
+            10800002,
+            10400000
+        ],
+        "WeeklyShopID": 3005,
+        "WeeklyHighShopID": 3006,
+        "ID": 2,
         "Name": null
     }
 ]

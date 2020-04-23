@@ -41006,5 +41006,1469 @@
         "UpgradeItem": [],
         "ID": 3360,
         "Name": null
+    },
+    {
+        "ArrayID": 200401,
+        "SkillLevel": 1,
+        "SkillID": 1020411,
+        "ExclusiveSkillID": 9020411,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3361,
+        "Name": null
+    },
+    {
+        "ArrayID": 200401,
+        "SkillLevel": 2,
+        "SkillID": 1020412,
+        "ExclusiveSkillID": 9020412,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3362,
+        "Name": null
+    },
+    {
+        "ArrayID": 200401,
+        "SkillLevel": 3,
+        "SkillID": 1020413,
+        "ExclusiveSkillID": 9020413,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3363,
+        "Name": null
+    },
+    {
+        "ArrayID": 200401,
+        "SkillLevel": 4,
+        "SkillID": 1020414,
+        "ExclusiveSkillID": 9020414,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3364,
+        "Name": null
+    },
+    {
+        "ArrayID": 200401,
+        "SkillLevel": 5,
+        "SkillID": 1020415,
+        "ExclusiveSkillID": 9020415,
+        "UpgradeItem": [],
+        "ID": 3365,
+        "Name": null
+    },
+    {
+        "ArrayID": 200402,
+        "SkillLevel": 1,
+        "SkillID": 1020421,
+        "ExclusiveSkillID": 9020421,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3366,
+        "Name": null
+    },
+    {
+        "ArrayID": 200402,
+        "SkillLevel": 2,
+        "SkillID": 1020422,
+        "ExclusiveSkillID": 9020422,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3367,
+        "Name": null
+    },
+    {
+        "ArrayID": 200402,
+        "SkillLevel": 3,
+        "SkillID": 1020423,
+        "ExclusiveSkillID": 9020423,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3368,
+        "Name": null
+    },
+    {
+        "ArrayID": 200402,
+        "SkillLevel": 4,
+        "SkillID": 1020424,
+        "ExclusiveSkillID": 9020424,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3369,
+        "Name": null
+    },
+    {
+        "ArrayID": 200402,
+        "SkillLevel": 5,
+        "SkillID": 1020425,
+        "ExclusiveSkillID": 9020425,
+        "UpgradeItem": [],
+        "ID": 3370,
+        "Name": null
+    },
+    {
+        "ArrayID": 200403,
+        "SkillLevel": 1,
+        "SkillID": 1020431,
+        "ExclusiveSkillID": 9020431,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3371,
+        "Name": null
+    },
+    {
+        "ArrayID": 200403,
+        "SkillLevel": 2,
+        "SkillID": 1020432,
+        "ExclusiveSkillID": 9020432,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3372,
+        "Name": null
+    },
+    {
+        "ArrayID": 200403,
+        "SkillLevel": 3,
+        "SkillID": 1020433,
+        "ExclusiveSkillID": 9020433,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3373,
+        "Name": null
+    },
+    {
+        "ArrayID": 200403,
+        "SkillLevel": 4,
+        "SkillID": 1020434,
+        "ExclusiveSkillID": 9020434,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3374,
+        "Name": null
+    },
+    {
+        "ArrayID": 200403,
+        "SkillLevel": 5,
+        "SkillID": 1020435,
+        "ExclusiveSkillID": 9020435,
+        "UpgradeItem": [],
+        "ID": 3375,
+        "Name": null
+    },
+    {
+        "ArrayID": 200404,
+        "SkillLevel": 1,
+        "SkillID": 1020441,
+        "ExclusiveSkillID": 9020441,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3376,
+        "Name": null
+    },
+    {
+        "ArrayID": 200404,
+        "SkillLevel": 2,
+        "SkillID": 1020442,
+        "ExclusiveSkillID": 9020442,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3377,
+        "Name": null
+    },
+    {
+        "ArrayID": 200404,
+        "SkillLevel": 3,
+        "SkillID": 1020443,
+        "ExclusiveSkillID": 9020443,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3378,
+        "Name": null
+    },
+    {
+        "ArrayID": 200404,
+        "SkillLevel": 4,
+        "SkillID": 1020444,
+        "ExclusiveSkillID": 9020444,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3379,
+        "Name": null
+    },
+    {
+        "ArrayID": 200404,
+        "SkillLevel": 5,
+        "SkillID": 1020445,
+        "ExclusiveSkillID": 9020445,
+        "UpgradeItem": [],
+        "ID": 3380,
+        "Name": null
+    },
+    {
+        "ArrayID": 460201,
+        "SkillLevel": 1,
+        "SkillID": 1046211,
+        "ExclusiveSkillID": 9046211,
+        "UpgradeItem": [
+            11300005,
+            5
+        ],
+        "ID": 3381,
+        "Name": null
+    },
+    {
+        "ArrayID": 460201,
+        "SkillLevel": 2,
+        "SkillID": 1046212,
+        "ExclusiveSkillID": 9046212,
+        "UpgradeItem": [
+            11300005,
+            10
+        ],
+        "ID": 3382,
+        "Name": null
+    },
+    {
+        "ArrayID": 460201,
+        "SkillLevel": 3,
+        "SkillID": 1046213,
+        "ExclusiveSkillID": 9046213,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300005,
+            20
+        ],
+        "ID": 3383,
+        "Name": null
+    },
+    {
+        "ArrayID": 460201,
+        "SkillLevel": 4,
+        "SkillID": 1046214,
+        "ExclusiveSkillID": 9046214,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300005,
+            40
+        ],
+        "ID": 3384,
+        "Name": null
+    },
+    {
+        "ArrayID": 460201,
+        "SkillLevel": 5,
+        "SkillID": 1046215,
+        "ExclusiveSkillID": 9046215,
+        "UpgradeItem": [],
+        "ID": 3385,
+        "Name": null
+    },
+    {
+        "ArrayID": 460202,
+        "SkillLevel": 1,
+        "SkillID": 1046221,
+        "ExclusiveSkillID": 9046221,
+        "UpgradeItem": [
+            11300005,
+            5
+        ],
+        "ID": 3386,
+        "Name": null
+    },
+    {
+        "ArrayID": 460202,
+        "SkillLevel": 2,
+        "SkillID": 1046222,
+        "ExclusiveSkillID": 9046222,
+        "UpgradeItem": [
+            11300005,
+            10
+        ],
+        "ID": 3387,
+        "Name": null
+    },
+    {
+        "ArrayID": 460202,
+        "SkillLevel": 3,
+        "SkillID": 1046223,
+        "ExclusiveSkillID": 9046223,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300005,
+            20
+        ],
+        "ID": 3388,
+        "Name": null
+    },
+    {
+        "ArrayID": 460202,
+        "SkillLevel": 4,
+        "SkillID": 1046224,
+        "ExclusiveSkillID": 9046224,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300005,
+            40
+        ],
+        "ID": 3389,
+        "Name": null
+    },
+    {
+        "ArrayID": 460202,
+        "SkillLevel": 5,
+        "SkillID": 1046225,
+        "ExclusiveSkillID": 9046225,
+        "UpgradeItem": [],
+        "ID": 3390,
+        "Name": null
+    },
+    {
+        "ArrayID": 460203,
+        "SkillLevel": 1,
+        "SkillID": 1046231,
+        "ExclusiveSkillID": 9046231,
+        "UpgradeItem": [
+            11300005,
+            5
+        ],
+        "ID": 3391,
+        "Name": null
+    },
+    {
+        "ArrayID": 460203,
+        "SkillLevel": 2,
+        "SkillID": 1046232,
+        "ExclusiveSkillID": 9046232,
+        "UpgradeItem": [
+            11300005,
+            10
+        ],
+        "ID": 3392,
+        "Name": null
+    },
+    {
+        "ArrayID": 460203,
+        "SkillLevel": 3,
+        "SkillID": 1046233,
+        "ExclusiveSkillID": 9046233,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300005,
+            20
+        ],
+        "ID": 3393,
+        "Name": null
+    },
+    {
+        "ArrayID": 460203,
+        "SkillLevel": 4,
+        "SkillID": 1046234,
+        "ExclusiveSkillID": 9046234,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300005,
+            40
+        ],
+        "ID": 3394,
+        "Name": null
+    },
+    {
+        "ArrayID": 460203,
+        "SkillLevel": 5,
+        "SkillID": 1046235,
+        "ExclusiveSkillID": 9046235,
+        "UpgradeItem": [],
+        "ID": 3395,
+        "Name": null
+    },
+    {
+        "ArrayID": 460204,
+        "SkillLevel": 1,
+        "SkillID": 1046241,
+        "ExclusiveSkillID": 9046241,
+        "UpgradeItem": [
+            11300005,
+            5
+        ],
+        "ID": 3396,
+        "Name": null
+    },
+    {
+        "ArrayID": 460204,
+        "SkillLevel": 2,
+        "SkillID": 1046242,
+        "ExclusiveSkillID": 9046242,
+        "UpgradeItem": [
+            11300005,
+            10
+        ],
+        "ID": 3397,
+        "Name": null
+    },
+    {
+        "ArrayID": 460204,
+        "SkillLevel": 3,
+        "SkillID": 1046243,
+        "ExclusiveSkillID": 9046243,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300005,
+            20
+        ],
+        "ID": 3398,
+        "Name": null
+    },
+    {
+        "ArrayID": 460204,
+        "SkillLevel": 4,
+        "SkillID": 1046244,
+        "ExclusiveSkillID": 9046244,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300005,
+            40
+        ],
+        "ID": 3399,
+        "Name": null
+    },
+    {
+        "ArrayID": 460204,
+        "SkillLevel": 5,
+        "SkillID": 1046245,
+        "ExclusiveSkillID": 9046245,
+        "UpgradeItem": [],
+        "ID": 3400,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030201,
+        "SkillLevel": 1,
+        "SkillID": 1103211,
+        "ExclusiveSkillID": 9103211,
+        "UpgradeItem": [
+            11300001,
+            5
+        ],
+        "ID": 3401,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030201,
+        "SkillLevel": 2,
+        "SkillID": 1103212,
+        "ExclusiveSkillID": 9103212,
+        "UpgradeItem": [
+            11300001,
+            10
+        ],
+        "ID": 3402,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030201,
+        "SkillLevel": 3,
+        "SkillID": 1103213,
+        "ExclusiveSkillID": 9103213,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300001,
+            20
+        ],
+        "ID": 3403,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030201,
+        "SkillLevel": 4,
+        "SkillID": 1103214,
+        "ExclusiveSkillID": 9103214,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300001,
+            40
+        ],
+        "ID": 3404,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030201,
+        "SkillLevel": 5,
+        "SkillID": 1103215,
+        "ExclusiveSkillID": 9103215,
+        "UpgradeItem": [],
+        "ID": 3405,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030202,
+        "SkillLevel": 1,
+        "SkillID": 1103221,
+        "ExclusiveSkillID": 9103221,
+        "UpgradeItem": [
+            11300001,
+            5
+        ],
+        "ID": 3406,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030202,
+        "SkillLevel": 2,
+        "SkillID": 1103222,
+        "ExclusiveSkillID": 9103222,
+        "UpgradeItem": [
+            11300001,
+            10
+        ],
+        "ID": 3407,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030202,
+        "SkillLevel": 3,
+        "SkillID": 1103223,
+        "ExclusiveSkillID": 9103223,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300001,
+            20
+        ],
+        "ID": 3408,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030202,
+        "SkillLevel": 4,
+        "SkillID": 1103224,
+        "ExclusiveSkillID": 9103224,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300001,
+            40
+        ],
+        "ID": 3409,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030202,
+        "SkillLevel": 5,
+        "SkillID": 1103225,
+        "ExclusiveSkillID": 9103225,
+        "UpgradeItem": [],
+        "ID": 3410,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030203,
+        "SkillLevel": 1,
+        "SkillID": 1103231,
+        "ExclusiveSkillID": 9103231,
+        "UpgradeItem": [
+            11300001,
+            5
+        ],
+        "ID": 3411,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030203,
+        "SkillLevel": 2,
+        "SkillID": 1103232,
+        "ExclusiveSkillID": 9103232,
+        "UpgradeItem": [
+            11300001,
+            10
+        ],
+        "ID": 3412,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030203,
+        "SkillLevel": 3,
+        "SkillID": 1103233,
+        "ExclusiveSkillID": 9103233,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300001,
+            20
+        ],
+        "ID": 3413,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030203,
+        "SkillLevel": 4,
+        "SkillID": 1103234,
+        "ExclusiveSkillID": 9103234,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300001,
+            40
+        ],
+        "ID": 3414,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030203,
+        "SkillLevel": 5,
+        "SkillID": 1103235,
+        "ExclusiveSkillID": 9103235,
+        "UpgradeItem": [],
+        "ID": 3415,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030204,
+        "SkillLevel": 1,
+        "SkillID": 1103241,
+        "ExclusiveSkillID": 9103241,
+        "UpgradeItem": [
+            11300001,
+            5
+        ],
+        "ID": 3416,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030204,
+        "SkillLevel": 2,
+        "SkillID": 1103242,
+        "ExclusiveSkillID": 9103242,
+        "UpgradeItem": [
+            11300001,
+            10
+        ],
+        "ID": 3417,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030204,
+        "SkillLevel": 3,
+        "SkillID": 1103243,
+        "ExclusiveSkillID": 9103243,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300001,
+            20
+        ],
+        "ID": 3418,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030204,
+        "SkillLevel": 4,
+        "SkillID": 1103244,
+        "ExclusiveSkillID": 9103244,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300001,
+            40
+        ],
+        "ID": 3419,
+        "Name": null
+    },
+    {
+        "ArrayID": 1030204,
+        "SkillLevel": 5,
+        "SkillID": 1103245,
+        "ExclusiveSkillID": 9103245,
+        "UpgradeItem": [],
+        "ID": 3420,
+        "Name": null
+    },
+    {
+        "ArrayID": 700201,
+        "SkillLevel": 1,
+        "SkillID": 1070211,
+        "ExclusiveSkillID": 9070211,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3421,
+        "Name": null
+    },
+    {
+        "ArrayID": 700201,
+        "SkillLevel": 2,
+        "SkillID": 1070212,
+        "ExclusiveSkillID": 9070212,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3422,
+        "Name": null
+    },
+    {
+        "ArrayID": 700201,
+        "SkillLevel": 3,
+        "SkillID": 1070213,
+        "ExclusiveSkillID": 9070213,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3423,
+        "Name": null
+    },
+    {
+        "ArrayID": 700201,
+        "SkillLevel": 4,
+        "SkillID": 1070214,
+        "ExclusiveSkillID": 9070214,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3424,
+        "Name": null
+    },
+    {
+        "ArrayID": 700201,
+        "SkillLevel": 5,
+        "SkillID": 1070215,
+        "ExclusiveSkillID": 9070215,
+        "UpgradeItem": [],
+        "ID": 3425,
+        "Name": null
+    },
+    {
+        "ArrayID": 700202,
+        "SkillLevel": 1,
+        "SkillID": 1070221,
+        "ExclusiveSkillID": 9070221,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3426,
+        "Name": null
+    },
+    {
+        "ArrayID": 700202,
+        "SkillLevel": 2,
+        "SkillID": 1070222,
+        "ExclusiveSkillID": 9070222,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3427,
+        "Name": null
+    },
+    {
+        "ArrayID": 700202,
+        "SkillLevel": 3,
+        "SkillID": 1070223,
+        "ExclusiveSkillID": 9070223,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3428,
+        "Name": null
+    },
+    {
+        "ArrayID": 700202,
+        "SkillLevel": 4,
+        "SkillID": 1070224,
+        "ExclusiveSkillID": 9070224,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3429,
+        "Name": null
+    },
+    {
+        "ArrayID": 700202,
+        "SkillLevel": 5,
+        "SkillID": 1070225,
+        "ExclusiveSkillID": 9070225,
+        "UpgradeItem": [],
+        "ID": 3430,
+        "Name": null
+    },
+    {
+        "ArrayID": 700203,
+        "SkillLevel": 1,
+        "SkillID": 1070231,
+        "ExclusiveSkillID": 9070231,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3431,
+        "Name": null
+    },
+    {
+        "ArrayID": 700203,
+        "SkillLevel": 2,
+        "SkillID": 1070232,
+        "ExclusiveSkillID": 9070232,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3432,
+        "Name": null
+    },
+    {
+        "ArrayID": 700203,
+        "SkillLevel": 3,
+        "SkillID": 1070233,
+        "ExclusiveSkillID": 9070233,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3433,
+        "Name": null
+    },
+    {
+        "ArrayID": 700203,
+        "SkillLevel": 4,
+        "SkillID": 1070234,
+        "ExclusiveSkillID": 9070234,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3434,
+        "Name": null
+    },
+    {
+        "ArrayID": 700203,
+        "SkillLevel": 5,
+        "SkillID": 1070235,
+        "ExclusiveSkillID": 9070235,
+        "UpgradeItem": [],
+        "ID": 3435,
+        "Name": null
+    },
+    {
+        "ArrayID": 700204,
+        "SkillLevel": 1,
+        "SkillID": 1070241,
+        "ExclusiveSkillID": 9070241,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3436,
+        "Name": null
+    },
+    {
+        "ArrayID": 700204,
+        "SkillLevel": 2,
+        "SkillID": 1070242,
+        "ExclusiveSkillID": 9070242,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3437,
+        "Name": null
+    },
+    {
+        "ArrayID": 700204,
+        "SkillLevel": 3,
+        "SkillID": 1070243,
+        "ExclusiveSkillID": 9070243,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3438,
+        "Name": null
+    },
+    {
+        "ArrayID": 700204,
+        "SkillLevel": 4,
+        "SkillID": 1070244,
+        "ExclusiveSkillID": 9070244,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3439,
+        "Name": null
+    },
+    {
+        "ArrayID": 700204,
+        "SkillLevel": 5,
+        "SkillID": 1070245,
+        "ExclusiveSkillID": 9070245,
+        "UpgradeItem": [],
+        "ID": 3440,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160101,
+        "SkillLevel": 1,
+        "SkillID": 1116111,
+        "ExclusiveSkillID": 9116111,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3441,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160101,
+        "SkillLevel": 2,
+        "SkillID": 1116112,
+        "ExclusiveSkillID": 9116112,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3442,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160101,
+        "SkillLevel": 3,
+        "SkillID": 1116113,
+        "ExclusiveSkillID": 9116113,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3443,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160101,
+        "SkillLevel": 4,
+        "SkillID": 1116114,
+        "ExclusiveSkillID": 9116114,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3444,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160101,
+        "SkillLevel": 5,
+        "SkillID": 1116115,
+        "ExclusiveSkillID": 9116115,
+        "UpgradeItem": [],
+        "ID": 3445,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160102,
+        "SkillLevel": 1,
+        "SkillID": 1116121,
+        "ExclusiveSkillID": 9116121,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3446,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160102,
+        "SkillLevel": 2,
+        "SkillID": 1116122,
+        "ExclusiveSkillID": 9116122,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3447,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160102,
+        "SkillLevel": 3,
+        "SkillID": 1116123,
+        "ExclusiveSkillID": 9116123,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3448,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160102,
+        "SkillLevel": 4,
+        "SkillID": 1116124,
+        "ExclusiveSkillID": 9116124,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3449,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160102,
+        "SkillLevel": 5,
+        "SkillID": 1116125,
+        "ExclusiveSkillID": 9116125,
+        "UpgradeItem": [],
+        "ID": 3450,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160103,
+        "SkillLevel": 1,
+        "SkillID": 1116131,
+        "ExclusiveSkillID": 9116131,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3451,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160103,
+        "SkillLevel": 2,
+        "SkillID": 1116132,
+        "ExclusiveSkillID": 9116132,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3452,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160103,
+        "SkillLevel": 3,
+        "SkillID": 1116133,
+        "ExclusiveSkillID": 9116133,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3453,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160103,
+        "SkillLevel": 4,
+        "SkillID": 1116134,
+        "ExclusiveSkillID": 9116134,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3454,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160103,
+        "SkillLevel": 5,
+        "SkillID": 1116135,
+        "ExclusiveSkillID": 9116135,
+        "UpgradeItem": [],
+        "ID": 3455,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160104,
+        "SkillLevel": 1,
+        "SkillID": 1116141,
+        "ExclusiveSkillID": 9116141,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3456,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160104,
+        "SkillLevel": 2,
+        "SkillID": 1116142,
+        "ExclusiveSkillID": 9116142,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3457,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160104,
+        "SkillLevel": 3,
+        "SkillID": 1116143,
+        "ExclusiveSkillID": 9116143,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3458,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160104,
+        "SkillLevel": 4,
+        "SkillID": 1116144,
+        "ExclusiveSkillID": 9116144,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3459,
+        "Name": null
+    },
+    {
+        "ArrayID": 1160104,
+        "SkillLevel": 5,
+        "SkillID": 1116145,
+        "ExclusiveSkillID": 9116145,
+        "UpgradeItem": [],
+        "ID": 3460,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170101,
+        "SkillLevel": 1,
+        "SkillID": 1117111,
+        "ExclusiveSkillID": 9117111,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3461,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170101,
+        "SkillLevel": 2,
+        "SkillID": 1117112,
+        "ExclusiveSkillID": 9117112,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3462,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170101,
+        "SkillLevel": 3,
+        "SkillID": 1117113,
+        "ExclusiveSkillID": 9117113,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3463,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170101,
+        "SkillLevel": 4,
+        "SkillID": 1117114,
+        "ExclusiveSkillID": 9117114,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3464,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170101,
+        "SkillLevel": 5,
+        "SkillID": 1117115,
+        "ExclusiveSkillID": 9117115,
+        "UpgradeItem": [],
+        "ID": 3465,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170102,
+        "SkillLevel": 1,
+        "SkillID": 1117121,
+        "ExclusiveSkillID": 9117121,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3466,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170102,
+        "SkillLevel": 2,
+        "SkillID": 1117122,
+        "ExclusiveSkillID": 9117122,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3467,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170102,
+        "SkillLevel": 3,
+        "SkillID": 1117123,
+        "ExclusiveSkillID": 9117123,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3468,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170102,
+        "SkillLevel": 4,
+        "SkillID": 1117124,
+        "ExclusiveSkillID": 9117124,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3469,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170102,
+        "SkillLevel": 5,
+        "SkillID": 1117125,
+        "ExclusiveSkillID": 9117125,
+        "UpgradeItem": [],
+        "ID": 3470,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170103,
+        "SkillLevel": 1,
+        "SkillID": 1117131,
+        "ExclusiveSkillID": 9117131,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3471,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170103,
+        "SkillLevel": 2,
+        "SkillID": 1117132,
+        "ExclusiveSkillID": 9117132,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3472,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170103,
+        "SkillLevel": 3,
+        "SkillID": 1117133,
+        "ExclusiveSkillID": 9117133,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3473,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170103,
+        "SkillLevel": 4,
+        "SkillID": 1117134,
+        "ExclusiveSkillID": 9117134,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3474,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170103,
+        "SkillLevel": 5,
+        "SkillID": 1117135,
+        "ExclusiveSkillID": 9117135,
+        "UpgradeItem": [],
+        "ID": 3475,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170104,
+        "SkillLevel": 1,
+        "SkillID": 1117141,
+        "ExclusiveSkillID": 9117141,
+        "UpgradeItem": [
+            11300004,
+            5
+        ],
+        "ID": 3476,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170104,
+        "SkillLevel": 2,
+        "SkillID": 1117142,
+        "ExclusiveSkillID": 9117142,
+        "UpgradeItem": [
+            11300004,
+            10
+        ],
+        "ID": 3477,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170104,
+        "SkillLevel": 3,
+        "SkillID": 1117143,
+        "ExclusiveSkillID": 9117143,
+        "UpgradeItem": [
+            11300007,
+            1,
+            11300004,
+            20
+        ],
+        "ID": 3478,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170104,
+        "SkillLevel": 4,
+        "SkillID": 1117144,
+        "ExclusiveSkillID": 9117144,
+        "UpgradeItem": [
+            11300007,
+            3,
+            11300004,
+            40
+        ],
+        "ID": 3479,
+        "Name": null
+    },
+    {
+        "ArrayID": 1170104,
+        "SkillLevel": 5,
+        "SkillID": 1117145,
+        "ExclusiveSkillID": 9117145,
+        "UpgradeItem": [],
+        "ID": 3480,
+        "Name": null
     }
 ]

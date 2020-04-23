@@ -106640,6 +106640,996 @@
         "Name": null
     },
     {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 30001090,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100409",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            4.63
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1109111,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 30001090,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100410",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            5.35
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091120
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1109112,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 30001090,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100411",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            6.08
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091130
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1109113,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 30001090,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100412",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            6.8
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091140
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1109114,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 30001090,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100413",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            8.25
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091150
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 1109115,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100414",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109121,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100415",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109122,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100416",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109123,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100417",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109124,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100418",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109125,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100419",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091310
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109131,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100420",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091320
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109132,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100421",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091330
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109133,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100422",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091340
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109134,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100423",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091350
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109135,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100424",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091410
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109141,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100425",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091420
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109142,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100426",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091430
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109143,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100427",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091440
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109144,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100428",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            11091450
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 1109145,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 35000400,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100429",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            4.63
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9109111,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 35000400,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100430",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            5.35
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9109112,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 35000400,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100431",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            6.08
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9109113,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 35000400,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100432",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            6.8
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9109114,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 35000400,
+        "TrunkSkillName": "100405",
+        "TrunkSkillIcon": "71001090",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 1,
+        "TrunkSkillDesc": "100433",
+        "PowerNeed": 5800,
+        "SkillAggRatio": [
+            8.25
+        ],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091110
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": true,
+        "ID": 9109115,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100434",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091210
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109121,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100435",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091220
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109122,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100436",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091230
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109123,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100437",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091240
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109124,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100406",
+        "TrunkSkillIcon": "71001091",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100438",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091250
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109125,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100439",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091310,
+            91091311
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109131,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100440",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091320,
+            91091321
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109132,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100441",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091330,
+            91091331
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109133,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100442",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091340,
+            91091341
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109134,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100407",
+        "TrunkSkillIcon": "71001092",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100443",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091350,
+            91091351
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109135,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100444",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091410,
+            91091411
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109141,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 2,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100445",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091420,
+            91091421
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109142,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 3,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100446",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091430,
+            91091431
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109143,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 4,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100447",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091440,
+            91091441
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109144,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "100408",
+        "TrunkSkillIcon": "71001093",
+        "TrunkSkillLevel": 5,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "100448",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            91091450,
+            91091451
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 9109145,
+        "Name": null
+    },
+    {
         "CharacterName": "伊芙琳",
         "SkillActionEffect": 0,
         "TrunkSkillName": "5336",
@@ -111056,6 +112046,54 @@
         "Name": null
     },
     {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5341",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6799",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2097010
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2109010,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "5342",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 3,
+        "TrunkSkillDesc": "6800",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [],
+        "PanelSkillEffectID": [
+            2097020
+        ],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 2109020,
+        "Name": null
+    },
+    {
         "CharacterName": "菲比亚一体机",
         "SkillActionEffect": 0,
         "TrunkSkillName": "5348",
@@ -111153,6 +112191,30 @@
         },
         "IfForbidden": false,
         "ID": 804501,
+        "Name": null
+    },
+    {
+        "CharacterName": "芸媚一体机",
+        "SkillActionEffect": 0,
+        "TrunkSkillName": "",
+        "TrunkSkillIcon": "",
+        "TrunkSkillLevel": 1,
+        "TrunkSkillType": 2,
+        "TrunkSkillDesc": "6806",
+        "PowerNeed": 0,
+        "SkillAggRatio": [],
+        "SkillAggValue": 0,
+        "SkillSpecialEffectID": [
+            8109010
+        ],
+        "PanelSkillEffectID": [],
+        "TrunkSkillPower": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "IfForbidden": false,
+        "ID": 810901,
         "Name": null
     },
     {

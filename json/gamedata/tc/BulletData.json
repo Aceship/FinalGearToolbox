@@ -23977,7 +23977,7 @@
             "confuseTime": 0.0,
             "bombMode": false,
             "dragMode": false,
-            "freezingDurationSelf": 0.05,
+            "freezingDurationSelf": 0.0,
             "freezingDurationEnemy": 0.05
         },
         "followBulletDirection": true,

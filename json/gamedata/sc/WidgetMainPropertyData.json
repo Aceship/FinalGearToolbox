@@ -81598,5 +81598,4085 @@
         "IntensifyMax": 60,
         "ID": 4800,
         "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 1,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                29.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4801,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 2,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                58.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4802,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 3,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                87.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4803,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 4,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                116.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4804,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 5,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                145.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4805,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 6,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                174.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4806,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 7,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                203.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4807,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 8,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                231.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4808,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 9,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                260.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4809,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 10,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                289.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4810,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 11,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                318.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4811,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 12,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                347.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4812,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 13,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                376.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4813,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 14,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                405.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4814,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 15,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                434.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4815,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 16,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                463.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4816,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 17,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                492.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4817,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 18,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                521.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4818,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 19,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                550.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4819,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 20,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                579.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4820,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 21,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                608.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4821,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 22,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                637.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4822,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 23,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                666.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4823,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 24,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                694.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4824,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 25,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                723.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4825,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 26,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                752.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4826,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 27,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                781.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4827,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 28,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                810.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4828,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 29,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                839.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4829,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 30,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                868.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4830,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 31,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                897.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4831,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 32,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                926.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4832,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 33,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                955.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4833,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 34,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                984.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4834,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 35,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1013.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4835,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 36,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1042.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4836,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 37,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1071.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4837,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 38,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1100.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4838,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 39,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1128.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4839,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 40,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1157.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4840,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 41,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1186.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4841,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 42,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1215.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4842,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 43,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1244.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4843,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 44,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1273.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4844,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 45,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1302.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4845,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 46,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1331.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4846,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 47,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1360.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4847,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 48,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1389.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4848,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 49,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1418.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4849,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 50,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1447.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4850,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 51,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1476.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4851,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 52,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1505.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4852,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 53,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1534.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4853,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 54,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1563.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4854,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 55,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1591.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4855,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 56,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1620.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4856,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 57,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1649.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4857,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 58,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1678.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4858,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 59,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1707.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4859,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 0,
+        "WidgetLevel": 60,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1736.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 60,
+        "ID": 4860,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 1,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                35.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4861,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 2,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                71.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4862,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 3,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                106.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4863,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 4,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                141.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4864,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 5,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                177.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4865,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 6,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                212.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4866,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 7,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                248.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4867,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 8,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                283.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4868,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 9,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                318.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4869,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 10,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                354.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4870,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 11,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                389.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4871,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 12,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                424.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4872,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 13,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                460.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4873,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 14,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                495.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4874,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 15,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                530.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4875,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 16,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                566.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4876,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 17,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                601.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4877,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 18,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                637.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4878,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 19,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                672.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4879,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 20,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                707.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4880,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 21,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                743.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4881,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 22,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                778.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4882,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 23,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                813.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4883,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 24,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                849.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4884,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 25,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                884.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4885,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 26,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                919.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4886,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 27,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                955.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4887,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 28,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                990.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4888,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 29,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1026.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4889,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 30,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1061.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4890,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 31,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1096.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4891,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 32,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1132.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4892,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 33,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1167.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4893,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 34,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1202.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4894,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 35,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1238.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4895,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 36,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1273.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4896,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 37,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1309.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4897,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 38,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1344.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4898,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 39,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1379.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4899,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 40,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1415.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4900,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 41,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1450.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4901,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 42,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1485.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4902,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 43,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1521.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4903,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 44,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1556.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4904,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 45,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1591.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4905,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 46,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1627.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4906,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 47,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1662.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4907,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 48,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1698.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4908,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 49,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1733.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4909,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 50,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1768.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4910,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 51,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1804.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4911,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 52,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1839.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4912,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 53,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1874.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4913,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 54,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1910.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4914,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 55,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1945.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4915,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 56,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1980.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4916,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 57,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2016.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4917,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 58,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2051.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4918,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 59,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2087.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4919,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 1,
+        "WidgetLevel": 60,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2122.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 60,
+        "ID": 4920,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 1,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                45.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4921,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 2,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                90.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4922,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 3,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                135.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4923,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 4,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                180.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4924,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 5,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                225.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4925,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 6,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                270.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4926,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 7,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                315.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4927,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 8,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                360.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4928,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 9,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                405.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4929,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 10,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                450.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4930,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 11,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                495.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4931,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 12,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                540.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4932,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 13,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                585.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4933,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 14,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                630.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4934,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 15,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                675.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4935,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 16,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                720.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4936,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 17,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                765.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4937,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 18,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                810.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4938,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 19,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                855.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4939,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 20,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                900.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4940,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 21,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                945.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4941,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 22,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                990.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4942,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 23,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1035.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4943,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 24,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1080.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4944,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 25,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1125.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4945,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 26,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1170.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4946,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 27,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1215.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4947,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 28,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1260.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4948,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 29,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1305.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4949,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 30,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1350.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4950,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 31,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1395.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4951,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 32,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1440.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4952,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 33,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1485.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4953,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 34,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1530.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4954,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 35,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1575.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4955,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 36,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1620.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4956,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 37,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1665.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4957,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 38,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1710.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4958,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 39,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1755.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 4959,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 40,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1800.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4960,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 41,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1845.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4961,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 42,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1890.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4962,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 43,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1935.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4963,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 44,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1980.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4964,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 45,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2025.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4965,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 46,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2070.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4966,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 47,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2115.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4967,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 48,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2160.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4968,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 49,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2206.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 4969,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 50,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2251.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4970,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 51,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2296.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4971,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 52,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2341.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4972,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 53,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2386.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4973,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 54,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2431.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4974,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 55,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2476.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4975,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 56,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2521.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4976,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 57,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2566.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4977,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 58,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2611.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4978,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 59,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2656.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 4979,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 2,
+        "WidgetLevel": 60,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2701.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 60,
+        "ID": 4980,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 1,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                58.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4981,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 2,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                116.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4982,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 3,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                174.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4983,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 4,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                231.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4984,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 5,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                289.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4985,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 6,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                347.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4986,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 7,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                405.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4987,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 8,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                463.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4988,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 9,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                521.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4989,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 10,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                579.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4990,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 11,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                637.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4991,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 12,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                694.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4992,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 13,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                752.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4993,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 14,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                810.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4994,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 15,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                868.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4995,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 16,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                926.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4996,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 17,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                984.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4997,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 18,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1042.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4998,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 19,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1100.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 4999,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 20,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1157.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5000,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 21,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1215.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5001,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 22,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1273.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5002,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 23,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1331.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5003,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 24,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1389.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5004,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 25,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1447.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5005,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 26,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1505.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5006,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 27,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1563.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5007,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 28,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1620.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5008,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 29,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1678.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 20,
+        "ID": 5009,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 30,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1736.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5010,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 31,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1794.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5011,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 32,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1852.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5012,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 33,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1910.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5013,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 34,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                1968.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5014,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 35,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2025.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5015,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 36,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2083.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5016,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 37,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2141.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5017,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 38,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2199.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5018,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 39,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2257.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 30,
+        "ID": 5019,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 40,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2315.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5020,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 41,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2373.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5021,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 42,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2431.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5022,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 43,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2488.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5023,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 44,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2546.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5024,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 45,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2604.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5025,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 46,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2662.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5026,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 47,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2720.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5027,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 48,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2778.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5028,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 49,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2836.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 40,
+        "ID": 5029,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 50,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2894.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5030,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 51,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                2951.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5031,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 52,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3009.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5032,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 53,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3067.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5033,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 54,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3125.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5034,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 55,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3183.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5035,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 56,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3241.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5036,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 57,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3299.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5037,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 58,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3356.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5038,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 59,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3414.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 50,
+        "ID": 5039,
+        "Name": null
+    },
+    {
+        "EquipSubType": 27,
+        "WidgetQualityType": 3,
+        "WidgetLevel": 60,
+        "WidgetBasicProperty": {
+            "keys": [
+                22
+            ],
+            "values": [
+                3472.0
+            ],
+            "propertys": null
+        },
+        "IntensifyMax": 60,
+        "ID": 5040,
+        "Name": null
     }
 ]

@@ -152638,5 +152638,2885 @@
         },
         "ID": 6420,
         "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 1,
+        "UpgradeExp": 24,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                9.0,
+                8.0,
+                8.0,
+                7.0,
+                8.0
+            ],
+            "propertys": null
+        },
+        "ID": 6421,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 2,
+        "UpgradeExp": 45,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                17.0,
+                17.0,
+                16.0,
+                14.0,
+                16.0
+            ],
+            "propertys": null
+        },
+        "ID": 6422,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 3,
+        "UpgradeExp": 79,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                26.0,
+                25.0,
+                24.0,
+                21.0,
+                24.0
+            ],
+            "propertys": null
+        },
+        "ID": 6423,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 4,
+        "UpgradeExp": 131,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                34.0,
+                33.0,
+                32.0,
+                28.0,
+                32.0
+            ],
+            "propertys": null
+        },
+        "ID": 6424,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 5,
+        "UpgradeExp": 201,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                43.0,
+                42.0,
+                40.0,
+                35.0,
+                40.0
+            ],
+            "propertys": null
+        },
+        "ID": 6425,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 6,
+        "UpgradeExp": 293,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                51.0,
+                50.0,
+                48.0,
+                42.0,
+                48.0
+            ],
+            "propertys": null
+        },
+        "ID": 6426,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 7,
+        "UpgradeExp": 409,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                60.0,
+                59.0,
+                57.0,
+                49.0,
+                56.0
+            ],
+            "propertys": null
+        },
+        "ID": 6427,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 8,
+        "UpgradeExp": 552,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                69.0,
+                67.0,
+                65.0,
+                56.0,
+                64.0
+            ],
+            "propertys": null
+        },
+        "ID": 6428,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 9,
+        "UpgradeExp": 725,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                77.0,
+                75.0,
+                73.0,
+                63.0,
+                72.0
+            ],
+            "propertys": null
+        },
+        "ID": 6429,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 10,
+        "UpgradeExp": 931,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                86.0,
+                84.0,
+                81.0,
+                70.0,
+                80.0
+            ],
+            "propertys": null
+        },
+        "ID": 6430,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 11,
+        "UpgradeExp": 1172,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                94.0,
+                92.0,
+                89.0,
+                77.0,
+                88.0
+            ],
+            "propertys": null
+        },
+        "ID": 6431,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 12,
+        "UpgradeExp": 1451,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                103.0,
+                100.0,
+                97.0,
+                84.0,
+                96.0
+            ],
+            "propertys": null
+        },
+        "ID": 6432,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 13,
+        "UpgradeExp": 1771,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                111.0,
+                109.0,
+                105.0,
+                91.0,
+                104.0
+            ],
+            "propertys": null
+        },
+        "ID": 6433,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 14,
+        "UpgradeExp": 2135,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                120.0,
+                117.0,
+                113.0,
+                98.0,
+                112.0
+            ],
+            "propertys": null
+        },
+        "ID": 6434,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 15,
+        "UpgradeExp": 2545,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                129.0,
+                126.0,
+                121.0,
+                105.0,
+                120.0
+            ],
+            "propertys": null
+        },
+        "ID": 6435,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 16,
+        "UpgradeExp": 3004,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                137.0,
+                134.0,
+                129.0,
+                112.0,
+                128.0
+            ],
+            "propertys": null
+        },
+        "ID": 6436,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 17,
+        "UpgradeExp": 3516,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                146.0,
+                142.0,
+                137.0,
+                119.0,
+                136.0
+            ],
+            "propertys": null
+        },
+        "ID": 6437,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 18,
+        "UpgradeExp": 4083,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                154.0,
+                151.0,
+                145.0,
+                126.0,
+                144.0
+            ],
+            "propertys": null
+        },
+        "ID": 6438,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 19,
+        "UpgradeExp": 4708,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                163.0,
+                159.0,
+                153.0,
+                133.0,
+                152.0
+            ],
+            "propertys": null
+        },
+        "ID": 6439,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 20,
+        "UpgradeExp": 5394,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                172.0,
+                167.0,
+                162.0,
+                140.0,
+                160.0
+            ],
+            "propertys": null
+        },
+        "ID": 6440,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 21,
+        "UpgradeExp": 6144,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                180.0,
+                176.0,
+                170.0,
+                147.0,
+                168.0
+            ],
+            "propertys": null
+        },
+        "ID": 6441,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 22,
+        "UpgradeExp": 6961,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                189.0,
+                184.0,
+                178.0,
+                154.0,
+                176.0
+            ],
+            "propertys": null
+        },
+        "ID": 6442,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 23,
+        "UpgradeExp": 7847,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                197.0,
+                192.0,
+                186.0,
+                161.0,
+                184.0
+            ],
+            "propertys": null
+        },
+        "ID": 6443,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 24,
+        "UpgradeExp": 8807,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                206.0,
+                201.0,
+                194.0,
+                168.0,
+                192.0
+            ],
+            "propertys": null
+        },
+        "ID": 6444,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 25,
+        "UpgradeExp": 9842,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                214.0,
+                209.0,
+                202.0,
+                175.0,
+                200.0
+            ],
+            "propertys": null
+        },
+        "ID": 6445,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 26,
+        "UpgradeExp": 10956,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                223.0,
+                218.0,
+                210.0,
+                182.0,
+                208.0
+            ],
+            "propertys": null
+        },
+        "ID": 6446,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 27,
+        "UpgradeExp": 12152,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                232.0,
+                226.0,
+                218.0,
+                189.0,
+                216.0
+            ],
+            "propertys": null
+        },
+        "ID": 6447,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 28,
+        "UpgradeExp": 13433,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                240.0,
+                234.0,
+                226.0,
+                196.0,
+                224.0
+            ],
+            "propertys": null
+        },
+        "ID": 6448,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 29,
+        "UpgradeExp": 14803,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                249.0,
+                243.0,
+                234.0,
+                203.0,
+                232.0
+            ],
+            "propertys": null
+        },
+        "ID": 6449,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 30,
+        "UpgradeExp": 16263,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                257.0,
+                251.0,
+                242.0,
+                210.0,
+                240.0
+            ],
+            "propertys": null
+        },
+        "ID": 6450,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 31,
+        "UpgradeExp": 17818,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                266.0,
+                259.0,
+                250.0,
+                217.0,
+                248.0
+            ],
+            "propertys": null
+        },
+        "ID": 6451,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 32,
+        "UpgradeExp": 19470,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                274.0,
+                268.0,
+                258.0,
+                225.0,
+                256.0
+            ],
+            "propertys": null
+        },
+        "ID": 6452,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 33,
+        "UpgradeExp": 21223,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                283.0,
+                276.0,
+                266.0,
+                232.0,
+                264.0
+            ],
+            "propertys": null
+        },
+        "ID": 6453,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 34,
+        "UpgradeExp": 23079,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                292.0,
+                285.0,
+                275.0,
+                239.0,
+                272.0
+            ],
+            "propertys": null
+        },
+        "ID": 6454,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 35,
+        "UpgradeExp": 25043,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                300.0,
+                293.0,
+                283.0,
+                246.0,
+                280.0
+            ],
+            "propertys": null
+        },
+        "ID": 6455,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 36,
+        "UpgradeExp": 27117,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                309.0,
+                301.0,
+                291.0,
+                253.0,
+                288.0
+            ],
+            "propertys": null
+        },
+        "ID": 6456,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 37,
+        "UpgradeExp": 29304,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                317.0,
+                310.0,
+                299.0,
+                260.0,
+                296.0
+            ],
+            "propertys": null
+        },
+        "ID": 6457,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 38,
+        "UpgradeExp": 31608,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                326.0,
+                318.0,
+                307.0,
+                267.0,
+                304.0
+            ],
+            "propertys": null
+        },
+        "ID": 6458,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 39,
+        "UpgradeExp": 34031,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                334.0,
+                326.0,
+                315.0,
+                274.0,
+                312.0
+            ],
+            "propertys": null
+        },
+        "ID": 6459,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 40,
+        "UpgradeExp": 36579,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                343.0,
+                335.0,
+                323.0,
+                281.0,
+                320.0
+            ],
+            "propertys": null
+        },
+        "ID": 6460,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 41,
+        "UpgradeExp": 39252,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                352.0,
+                343.0,
+                331.0,
+                288.0,
+                328.0
+            ],
+            "propertys": null
+        },
+        "ID": 6461,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 42,
+        "UpgradeExp": 42055,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                360.0,
+                351.0,
+                339.0,
+                295.0,
+                336.0
+            ],
+            "propertys": null
+        },
+        "ID": 6462,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 43,
+        "UpgradeExp": 44992,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                369.0,
+                360.0,
+                347.0,
+                302.0,
+                344.0
+            ],
+            "propertys": null
+        },
+        "ID": 6463,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 44,
+        "UpgradeExp": 48065,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                377.0,
+                368.0,
+                355.0,
+                309.0,
+                352.0
+            ],
+            "propertys": null
+        },
+        "ID": 6464,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 45,
+        "UpgradeExp": 51278,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                386.0,
+                377.0,
+                363.0,
+                316.0,
+                360.0
+            ],
+            "propertys": null
+        },
+        "ID": 6465,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 46,
+        "UpgradeExp": 54634,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                394.0,
+                385.0,
+                371.0,
+                323.0,
+                368.0
+            ],
+            "propertys": null
+        },
+        "ID": 6466,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 47,
+        "UpgradeExp": 58137,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                403.0,
+                393.0,
+                380.0,
+                330.0,
+                376.0
+            ],
+            "propertys": null
+        },
+        "ID": 6467,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 48,
+        "UpgradeExp": 61791,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                412.0,
+                402.0,
+                388.0,
+                337.0,
+                384.0
+            ],
+            "propertys": null
+        },
+        "ID": 6468,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 49,
+        "UpgradeExp": 65597,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                420.0,
+                410.0,
+                396.0,
+                344.0,
+                392.0
+            ],
+            "propertys": null
+        },
+        "ID": 6469,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 50,
+        "UpgradeExp": 69561,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                429.0,
+                418.0,
+                404.0,
+                351.0,
+                400.0
+            ],
+            "propertys": null
+        },
+        "ID": 6470,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 51,
+        "UpgradeExp": 73685,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                437.0,
+                427.0,
+                412.0,
+                358.0,
+                408.0
+            ],
+            "propertys": null
+        },
+        "ID": 6471,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 52,
+        "UpgradeExp": 77974,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                446.0,
+                435.0,
+                420.0,
+                365.0,
+                416.0
+            ],
+            "propertys": null
+        },
+        "ID": 6472,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 53,
+        "UpgradeExp": 82429,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                454.0,
+                444.0,
+                428.0,
+                372.0,
+                424.0
+            ],
+            "propertys": null
+        },
+        "ID": 6473,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 54,
+        "UpgradeExp": 87056,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                463.0,
+                452.0,
+                436.0,
+                379.0,
+                432.0
+            ],
+            "propertys": null
+        },
+        "ID": 6474,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 55,
+        "UpgradeExp": 91858,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                472.0,
+                460.0,
+                444.0,
+                386.0,
+                440.0
+            ],
+            "propertys": null
+        },
+        "ID": 6475,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 56,
+        "UpgradeExp": 96838,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                480.0,
+                469.0,
+                452.0,
+                393.0,
+                448.0
+            ],
+            "propertys": null
+        },
+        "ID": 6476,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 57,
+        "UpgradeExp": 101999,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                489.0,
+                477.0,
+                460.0,
+                400.0,
+                456.0
+            ],
+            "propertys": null
+        },
+        "ID": 6477,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 58,
+        "UpgradeExp": 107346,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                497.0,
+                485.0,
+                468.0,
+                407.0,
+                464.0
+            ],
+            "propertys": null
+        },
+        "ID": 6478,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 59,
+        "UpgradeExp": 112882,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                506.0,
+                494.0,
+                476.0,
+                414.0,
+                472.0
+            ],
+            "propertys": null
+        },
+        "ID": 6479,
+        "Name": null
+    },
+    {
+        "GirlId": 116,
+        "Level": 60,
+        "UpgradeExp": 118611,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                515.0,
+                502.0,
+                485.0,
+                421.0,
+                480.0
+            ],
+            "propertys": null
+        },
+        "ID": 6480,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 1,
+        "UpgradeExp": 24,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                9.0,
+                8.0,
+                8.0,
+                7.0,
+                7.0
+            ],
+            "propertys": null
+        },
+        "ID": 6481,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 2,
+        "UpgradeExp": 45,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                17.0,
+                17.0,
+                16.0,
+                14.0,
+                15.0
+            ],
+            "propertys": null
+        },
+        "ID": 6482,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 3,
+        "UpgradeExp": 79,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                26.0,
+                25.0,
+                24.0,
+                21.0,
+                22.0
+            ],
+            "propertys": null
+        },
+        "ID": 6483,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 4,
+        "UpgradeExp": 131,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                35.0,
+                34.0,
+                32.0,
+                28.0,
+                29.0
+            ],
+            "propertys": null
+        },
+        "ID": 6484,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 5,
+        "UpgradeExp": 201,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                43.0,
+                42.0,
+                40.0,
+                35.0,
+                37.0
+            ],
+            "propertys": null
+        },
+        "ID": 6485,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 6,
+        "UpgradeExp": 293,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                52.0,
+                51.0,
+                48.0,
+                42.0,
+                44.0
+            ],
+            "propertys": null
+        },
+        "ID": 6486,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 7,
+        "UpgradeExp": 409,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                61.0,
+                59.0,
+                56.0,
+                49.0,
+                52.0
+            ],
+            "propertys": null
+        },
+        "ID": 6487,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 8,
+        "UpgradeExp": 552,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                69.0,
+                68.0,
+                64.0,
+                56.0,
+                59.0
+            ],
+            "propertys": null
+        },
+        "ID": 6488,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 9,
+        "UpgradeExp": 725,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                78.0,
+                76.0,
+                72.0,
+                63.0,
+                66.0
+            ],
+            "propertys": null
+        },
+        "ID": 6489,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 10,
+        "UpgradeExp": 931,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                86.0,
+                84.0,
+                80.0,
+                70.0,
+                74.0
+            ],
+            "propertys": null
+        },
+        "ID": 6490,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 11,
+        "UpgradeExp": 1172,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                95.0,
+                93.0,
+                89.0,
+                77.0,
+                81.0
+            ],
+            "propertys": null
+        },
+        "ID": 6491,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 12,
+        "UpgradeExp": 1451,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                104.0,
+                101.0,
+                97.0,
+                83.0,
+                88.0
+            ],
+            "propertys": null
+        },
+        "ID": 6492,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 13,
+        "UpgradeExp": 1771,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                112.0,
+                110.0,
+                105.0,
+                90.0,
+                96.0
+            ],
+            "propertys": null
+        },
+        "ID": 6493,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 14,
+        "UpgradeExp": 2135,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                121.0,
+                118.0,
+                113.0,
+                97.0,
+                103.0
+            ],
+            "propertys": null
+        },
+        "ID": 6494,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 15,
+        "UpgradeExp": 2545,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                130.0,
+                127.0,
+                121.0,
+                104.0,
+                110.0
+            ],
+            "propertys": null
+        },
+        "ID": 6495,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 16,
+        "UpgradeExp": 3004,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                138.0,
+                135.0,
+                129.0,
+                111.0,
+                118.0
+            ],
+            "propertys": null
+        },
+        "ID": 6496,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 17,
+        "UpgradeExp": 3516,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                147.0,
+                143.0,
+                137.0,
+                118.0,
+                125.0
+            ],
+            "propertys": null
+        },
+        "ID": 6497,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 18,
+        "UpgradeExp": 4083,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                156.0,
+                152.0,
+                145.0,
+                125.0,
+                133.0
+            ],
+            "propertys": null
+        },
+        "ID": 6498,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 19,
+        "UpgradeExp": 4708,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                164.0,
+                160.0,
+                153.0,
+                132.0,
+                140.0
+            ],
+            "propertys": null
+        },
+        "ID": 6499,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 20,
+        "UpgradeExp": 5394,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                173.0,
+                169.0,
+                161.0,
+                139.0,
+                147.0
+            ],
+            "propertys": null
+        },
+        "ID": 6500,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 21,
+        "UpgradeExp": 6144,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                182.0,
+                177.0,
+                169.0,
+                146.0,
+                155.0
+            ],
+            "propertys": null
+        },
+        "ID": 6501,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 22,
+        "UpgradeExp": 6961,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                190.0,
+                186.0,
+                177.0,
+                153.0,
+                162.0
+            ],
+            "propertys": null
+        },
+        "ID": 6502,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 23,
+        "UpgradeExp": 7847,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                199.0,
+                194.0,
+                185.0,
+                160.0,
+                169.0
+            ],
+            "propertys": null
+        },
+        "ID": 6503,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 24,
+        "UpgradeExp": 8807,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                208.0,
+                203.0,
+                193.0,
+                167.0,
+                177.0
+            ],
+            "propertys": null
+        },
+        "ID": 6504,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 25,
+        "UpgradeExp": 9842,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                216.0,
+                211.0,
+                201.0,
+                174.0,
+                184.0
+            ],
+            "propertys": null
+        },
+        "ID": 6505,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 26,
+        "UpgradeExp": 10956,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                225.0,
+                219.0,
+                209.0,
+                181.0,
+                191.0
+            ],
+            "propertys": null
+        },
+        "ID": 6506,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 27,
+        "UpgradeExp": 12152,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                234.0,
+                228.0,
+                217.0,
+                188.0,
+                199.0
+            ],
+            "propertys": null
+        },
+        "ID": 6507,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 28,
+        "UpgradeExp": 13433,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                242.0,
+                236.0,
+                225.0,
+                195.0,
+                206.0
+            ],
+            "propertys": null
+        },
+        "ID": 6508,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 29,
+        "UpgradeExp": 14803,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                251.0,
+                245.0,
+                233.0,
+                202.0,
+                214.0
+            ],
+            "propertys": null
+        },
+        "ID": 6509,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 30,
+        "UpgradeExp": 16263,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                259.0,
+                253.0,
+                241.0,
+                209.0,
+                221.0
+            ],
+            "propertys": null
+        },
+        "ID": 6510,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 31,
+        "UpgradeExp": 17818,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                268.0,
+                262.0,
+                249.0,
+                216.0,
+                228.0
+            ],
+            "propertys": null
+        },
+        "ID": 6511,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 32,
+        "UpgradeExp": 19470,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                277.0,
+                270.0,
+                257.0,
+                223.0,
+                236.0
+            ],
+            "propertys": null
+        },
+        "ID": 6512,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 33,
+        "UpgradeExp": 21223,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                285.0,
+                278.0,
+                266.0,
+                230.0,
+                243.0
+            ],
+            "propertys": null
+        },
+        "ID": 6513,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 34,
+        "UpgradeExp": 23079,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                294.0,
+                287.0,
+                274.0,
+                237.0,
+                250.0
+            ],
+            "propertys": null
+        },
+        "ID": 6514,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 35,
+        "UpgradeExp": 25043,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                303.0,
+                295.0,
+                282.0,
+                243.0,
+                258.0
+            ],
+            "propertys": null
+        },
+        "ID": 6515,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 36,
+        "UpgradeExp": 27117,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                311.0,
+                304.0,
+                290.0,
+                250.0,
+                265.0
+            ],
+            "propertys": null
+        },
+        "ID": 6516,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 37,
+        "UpgradeExp": 29304,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                320.0,
+                312.0,
+                298.0,
+                257.0,
+                273.0
+            ],
+            "propertys": null
+        },
+        "ID": 6517,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 38,
+        "UpgradeExp": 31608,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                329.0,
+                321.0,
+                306.0,
+                264.0,
+                280.0
+            ],
+            "propertys": null
+        },
+        "ID": 6518,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 39,
+        "UpgradeExp": 34031,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                337.0,
+                329.0,
+                314.0,
+                271.0,
+                287.0
+            ],
+            "propertys": null
+        },
+        "ID": 6519,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 40,
+        "UpgradeExp": 36579,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                346.0,
+                338.0,
+                322.0,
+                278.0,
+                295.0
+            ],
+            "propertys": null
+        },
+        "ID": 6520,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 41,
+        "UpgradeExp": 39252,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                355.0,
+                346.0,
+                330.0,
+                285.0,
+                302.0
+            ],
+            "propertys": null
+        },
+        "ID": 6521,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 42,
+        "UpgradeExp": 42055,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                363.0,
+                354.0,
+                338.0,
+                292.0,
+                309.0
+            ],
+            "propertys": null
+        },
+        "ID": 6522,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 43,
+        "UpgradeExp": 44992,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                372.0,
+                363.0,
+                346.0,
+                299.0,
+                317.0
+            ],
+            "propertys": null
+        },
+        "ID": 6523,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 44,
+        "UpgradeExp": 48065,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                381.0,
+                371.0,
+                354.0,
+                306.0,
+                324.0
+            ],
+            "propertys": null
+        },
+        "ID": 6524,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 45,
+        "UpgradeExp": 51278,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                389.0,
+                380.0,
+                362.0,
+                313.0,
+                331.0
+            ],
+            "propertys": null
+        },
+        "ID": 6525,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 46,
+        "UpgradeExp": 54634,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                398.0,
+                388.0,
+                370.0,
+                320.0,
+                339.0
+            ],
+            "propertys": null
+        },
+        "ID": 6526,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 47,
+        "UpgradeExp": 58137,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                406.0,
+                397.0,
+                378.0,
+                327.0,
+                346.0
+            ],
+            "propertys": null
+        },
+        "ID": 6527,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 48,
+        "UpgradeExp": 61791,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                415.0,
+                405.0,
+                386.0,
+                334.0,
+                354.0
+            ],
+            "propertys": null
+        },
+        "ID": 6528,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 49,
+        "UpgradeExp": 65597,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                424.0,
+                413.0,
+                394.0,
+                341.0,
+                361.0
+            ],
+            "propertys": null
+        },
+        "ID": 6529,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 50,
+        "UpgradeExp": 69561,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                432.0,
+                422.0,
+                402.0,
+                348.0,
+                368.0
+            ],
+            "propertys": null
+        },
+        "ID": 6530,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 51,
+        "UpgradeExp": 73685,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                441.0,
+                430.0,
+                410.0,
+                355.0,
+                376.0
+            ],
+            "propertys": null
+        },
+        "ID": 6531,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 52,
+        "UpgradeExp": 77974,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                450.0,
+                439.0,
+                418.0,
+                362.0,
+                383.0
+            ],
+            "propertys": null
+        },
+        "ID": 6532,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 53,
+        "UpgradeExp": 82429,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                458.0,
+                447.0,
+                426.0,
+                369.0,
+                390.0
+            ],
+            "propertys": null
+        },
+        "ID": 6533,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 54,
+        "UpgradeExp": 87056,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                467.0,
+                456.0,
+                434.0,
+                376.0,
+                398.0
+            ],
+            "propertys": null
+        },
+        "ID": 6534,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 55,
+        "UpgradeExp": 91858,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                476.0,
+                464.0,
+                443.0,
+                383.0,
+                405.0
+            ],
+            "propertys": null
+        },
+        "ID": 6535,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 56,
+        "UpgradeExp": 96838,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                484.0,
+                473.0,
+                451.0,
+                390.0,
+                412.0
+            ],
+            "propertys": null
+        },
+        "ID": 6536,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 57,
+        "UpgradeExp": 101999,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                493.0,
+                481.0,
+                459.0,
+                397.0,
+                420.0
+            ],
+            "propertys": null
+        },
+        "ID": 6537,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 58,
+        "UpgradeExp": 107346,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                502.0,
+                489.0,
+                467.0,
+                403.0,
+                427.0
+            ],
+            "propertys": null
+        },
+        "ID": 6538,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 59,
+        "UpgradeExp": 112882,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                510.0,
+                498.0,
+                475.0,
+                410.0,
+                435.0
+            ],
+            "propertys": null
+        },
+        "ID": 6539,
+        "Name": null
+    },
+    {
+        "GirlId": 117,
+        "Level": 60,
+        "UpgradeExp": 118611,
+        "GirlProperty": {
+            "keys": [
+                2,
+                6,
+                10,
+                14,
+                18
+            ],
+            "values": [
+                519.0,
+                506.0,
+                483.0,
+                417.0,
+                442.0
+            ],
+            "propertys": null
+        },
+        "ID": 6540,
+        "Name": null
     }
 ]

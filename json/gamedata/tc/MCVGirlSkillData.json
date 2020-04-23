@@ -8494,5 +8494,17 @@
         ],
         "ID": 9902,
         "Name": null
+    },
+    {
+        "SkillDesc": "9375",
+        "SkillName": "100456",
+        "SkillIcon": "86000018",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10131
+        ],
+        "ID": 9903,
+        "Name": null
     }
 ]

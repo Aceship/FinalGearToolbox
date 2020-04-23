@@ -3218,5 +3218,75 @@
         "MaxLevel": 12,
         "ID": 460,
         "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 461,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 462,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 463,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 464,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 465,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 466,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 467,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 468,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 469,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 470,
+        "Name": null
     }
 ]

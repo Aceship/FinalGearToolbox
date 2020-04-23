@@ -741,6 +741,19 @@
         "Name": null
     },
     {
+        "dialogRoleName": "莉",
+        "roleImgPath": "spine_Pilot_000630",
+        "roleSpinePath": "spine_Pilot_000630",
+        "headImgPath": "Head_Pilot_000630",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 63,
+        "Name": null
+    },
+    {
         "dialogRoleName": "赫普妮格",
         "roleImgPath": "spine_Pilot_000650",
         "roleSpinePath": "spine_Pilot_000650",
@@ -777,6 +790,19 @@
         "sortingOrder": 0,
         "offse_pos_y": 0.0,
         "ID": 68,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "神上园凛",
+        "roleImgPath": "spine_Pilot_000800",
+        "roleSpinePath": "spine_Pilot_000800",
+        "headImgPath": "Head_Pilot_000800",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 80,
         "Name": null
     },
     {

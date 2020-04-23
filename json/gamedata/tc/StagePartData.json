@@ -19862,7 +19862,7 @@
         ],
         "winCond": 1,
         "failedCond": 3,
-        "beforeBattleDialog": 14002,
+        "beforeBattleDialog": 0,
         "afterBattleDialog": 0,
         "UseKillNum": false,
         "KillNum": 0,
@@ -19910,6 +19910,18 @@
                 "Desc": ""
             },
             {
+                "PlotDatas": [
+                    {
+                        "ID": 14002,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
+                "Desc": ""
+            },
+            {
                 "Enabled": true,
                 "Type": 9,
                 "Desc": ""
@@ -19954,7 +19966,7 @@
         ],
         "winCond": 1,
         "failedCond": 1,
-        "beforeBattleDialog": 14003,
+        "beforeBattleDialog": 0,
         "afterBattleDialog": 0,
         "UseKillNum": false,
         "KillNum": 0,
@@ -19999,6 +20011,18 @@
             {
                 "Enabled": true,
                 "Type": 2,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 14003,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
                 "Desc": ""
             },
             {
@@ -20068,8 +20092,8 @@
         ],
         "winCond": 1,
         "failedCond": 3,
-        "beforeBattleDialog": 14004,
-        "afterBattleDialog": 0,
+        "beforeBattleDialog": 0,
+        "afterBattleDialog": 9400002,
         "UseKillNum": false,
         "KillNum": 0,
         "KillIndex": 60,
@@ -20113,6 +20137,18 @@
             {
                 "Enabled": true,
                 "Type": 2,
+                "Desc": ""
+            },
+            {
+                "PlotDatas": [
+                    {
+                        "ID": 14004,
+                        "Enabled": true,
+                        "PlotType": 1
+                    }
+                ],
+                "Enabled": true,
+                "Type": 12,
                 "Desc": ""
             },
             {

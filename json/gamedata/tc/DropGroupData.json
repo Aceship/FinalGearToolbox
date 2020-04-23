@@ -47563,5 +47563,194 @@
         "WidgetQualityType": "SR",
         "ID": 6851,
         "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6852,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6853,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6854,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6855,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6856,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6857,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6858,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6859,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6860,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6861,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6862,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6863,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6864,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6865,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6866,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6867,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6868,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6869,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6870,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6871,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6872,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6873,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6874,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6875,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6876,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 1,
+        "WidgetQualityGetType": 2,
+        "WidgetQualityType": "SR",
+        "ID": 6877,
+        "Name": null
+    },
+    {
+        "WidgetUseLevel": 0,
+        "WidgetQualityGetType": 0,
+        "WidgetQualityType": "",
+        "ID": 6878,
+        "Name": null
     }
 ]
