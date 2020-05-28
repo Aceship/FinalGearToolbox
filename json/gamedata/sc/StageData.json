@@ -270,9 +270,7 @@
             102,
             103
         ],
-        "AwardProview": [
-            2100915
-        ],
+        "AwardProview": [],
         "FirstDrop": 1,
         "Drop": -1,
         "RobotFighting": [
@@ -337,12 +335,7 @@
         "BattleID": [
             1010101
         ],
-        "AwardProview": [
-            2100221,
-            2100231,
-            2100241,
-            10400000
-        ],
+        "AwardProview": [],
         "FirstDrop": 10101,
         "Drop": 0,
         "RobotFighting": [],
@@ -394,14 +387,7 @@
         "BattleID": [
             1010201
         ],
-        "AwardProview": [
-            2100223,
-            2100233,
-            2100243,
-            10200002,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10102,
         "Drop": 0,
         "RobotFighting": [],
@@ -453,15 +439,7 @@
         "BattleID": [
             1010301
         ],
-        "AwardProview": [
-            10500030,
-            2100211,
-            2100223,
-            2100233,
-            2100243,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10103,
         "Drop": 0,
         "RobotFighting": [],
@@ -514,12 +492,7 @@
         "BattleID": [
             1010401
         ],
-        "AwardProview": [
-            10800002,
-            10900002,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10104,
         "Drop": 0,
         "RobotFighting": [],
@@ -571,14 +544,7 @@
         "BattleID": [
             1010501
         ],
-        "AwardProview": [
-            2100216,
-            2100221,
-            2100231,
-            2100241,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10105,
         "Drop": 0,
         "RobotFighting": [],
@@ -633,15 +599,7 @@
         "BattleID": [
             1010601
         ],
-        "AwardProview": [
-            10500012,
-            2100917,
-            2100921,
-            2100931,
-            2100941,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10106,
         "Drop": 0,
         "RobotFighting": [],
@@ -693,14 +651,7 @@
         "BattleID": [
             1010701
         ],
-        "AwardProview": [
-            10500028,
-            10800001,
-            2100919,
-            2100923,
-            2100933,
-            2100943
-        ],
+        "AwardProview": [],
         "FirstDrop": 10107,
         "Drop": 0,
         "RobotFighting": [],
@@ -754,13 +705,7 @@
             1010801,
             1010802
         ],
-        "AwardProview": [
-            10810001,
-            10810002,
-            10600000,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 10108,
         "Drop": 0,
         "RobotFighting": [],
@@ -1012,11 +957,7 @@
             2010104,
             2010105
         ],
-        "AwardProview": [
-            10810002,
-            11300002,
-            10800002
-        ],
+        "AwardProview": [],
         "FirstDrop": 20101,
         "Drop": 0,
         "RobotFighting": [],
@@ -1076,13 +1017,7 @@
             2010205,
             2010206
         ],
-        "AwardProview": [
-            10810001,
-            10800002,
-            11501009,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 20102,
         "Drop": 0,
         "RobotFighting": [],
@@ -1146,13 +1081,7 @@
             2010305,
             2010306
         ],
-        "AwardProview": [
-            10810001,
-            10800002,
-            11501009,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 20103,
         "Drop": 0,
         "RobotFighting": [],
@@ -1211,14 +1140,7 @@
             2010406,
             2010407
         ],
-        "AwardProview": [
-            10810001,
-            10800002,
-            10900002,
-            11501009,
-            10400000,
-            10200001
-        ],
+        "AwardProview": [],
         "FirstDrop": 20104,
         "Drop": 0,
         "RobotFighting": [],
@@ -1278,13 +1200,7 @@
             3020107,
             3020108
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30201,
         "Drop": 0,
         "RobotFighting": [],
@@ -1346,11 +1262,7 @@
             4020107,
             4020108
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40201,
         "Drop": 0,
         "RobotFighting": [],
@@ -1414,11 +1326,7 @@
             2020109,
             2020110
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 20201,
         "Drop": 0,
         "RobotFighting": [],
@@ -1483,13 +1391,7 @@
             3010110,
             3010111
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30101,
         "Drop": 0,
         "RobotFighting": [],
@@ -1551,13 +1453,7 @@
             3010207,
             3010208
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30102,
         "Drop": 0,
         "RobotFighting": [],
@@ -1616,11 +1512,7 @@
             1020107,
             1020108
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501013
-        ],
+        "AwardProview": [],
         "FirstDrop": 10201,
         "Drop": 0,
         "RobotFighting": [],
@@ -1682,11 +1574,7 @@
             2020207,
             2020208
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 20202,
         "Drop": 0,
         "RobotFighting": [],
@@ -1748,11 +1636,7 @@
             4020207,
             4020208
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40202,
         "Drop": 0,
         "RobotFighting": [],
@@ -1814,13 +1698,7 @@
             3020207,
             3020208
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30202,
         "Drop": 0,
         "RobotFighting": [],
@@ -1885,13 +1763,7 @@
             3010310,
             3010311
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30103,
         "Drop": 0,
         "RobotFighting": [],
@@ -1950,11 +1822,7 @@
             2020307,
             2020308
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 20203,
         "Drop": 0,
         "RobotFighting": [],
@@ -2016,11 +1884,7 @@
             1020207,
             1020208
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501013
-        ],
+        "AwardProview": [],
         "FirstDrop": 10202,
         "Drop": 0,
         "RobotFighting": [],
@@ -2083,13 +1947,7 @@
             3010408,
             3010409
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30104,
         "Drop": 0,
         "RobotFighting": [],
@@ -2148,13 +2006,7 @@
             3020307,
             3020308
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30203,
         "Drop": 0,
         "RobotFighting": [],
@@ -2217,11 +2069,7 @@
             4010107,
             4010108
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40101,
         "Drop": 0,
         "RobotFighting": [],
@@ -2285,11 +2133,7 @@
             4010209,
             4010210
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40102,
         "Drop": 0,
         "RobotFighting": [],
@@ -2348,11 +2192,7 @@
             2020407,
             2020408
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 20204,
         "Drop": 0,
         "RobotFighting": [],
@@ -2414,11 +2254,7 @@
             1020307,
             1020308
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501013
-        ],
+        "AwardProview": [],
         "FirstDrop": 10203,
         "Drop": 0,
         "RobotFighting": [],
@@ -2479,11 +2315,7 @@
             4010306,
             4010307
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40103,
         "Drop": 0,
         "RobotFighting": [],
@@ -2542,13 +2374,7 @@
             3020407,
             3020408
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30204,
         "Drop": 0,
         "RobotFighting": [],
@@ -2613,11 +2439,7 @@
             4020310,
             4020311
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40203,
         "Drop": 0,
         "RobotFighting": [],
@@ -2679,11 +2501,7 @@
             2020507,
             2020508
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 20205,
         "Drop": 0,
         "RobotFighting": [],
@@ -2745,11 +2563,7 @@
             4010407,
             4010408
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40104,
         "Drop": 0,
         "RobotFighting": [],
@@ -2808,13 +2622,7 @@
             3020507,
             3020508
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501010,
-            11501011,
-            11501012
-        ],
+        "AwardProview": [],
         "FirstDrop": 30205,
         "Drop": 0,
         "RobotFighting": [],
@@ -2876,11 +2684,7 @@
             4020407,
             4020408
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40204,
         "Drop": 0,
         "RobotFighting": [],
@@ -2942,11 +2746,7 @@
             4010507,
             4010508
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40105,
         "Drop": 0,
         "RobotFighting": [],
@@ -3008,11 +2808,7 @@
             4010907,
             4010908
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40109,
         "Drop": 0,
         "RobotFighting": [],
@@ -3080,11 +2876,7 @@
             4020512,
             4020513
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501005
-        ],
+        "AwardProview": [],
         "FirstDrop": 40205,
         "Drop": 0,
         "RobotFighting": [],
@@ -3701,9 +3493,7 @@
             900107,
             900108
         ],
-        "AwardProview": [
-            10400010
-        ],
+        "AwardProview": [],
         "FirstDrop": 2,
         "Drop": 0,
         "RobotFighting": [],
@@ -3764,9 +3554,7 @@
             900207,
             900208
         ],
-        "AwardProview": [
-            10400010
-        ],
+        "AwardProview": [],
         "FirstDrop": 2,
         "Drop": 0,
         "RobotFighting": [],
@@ -3827,9 +3615,7 @@
             900307,
             900308
         ],
-        "AwardProview": [
-            10400010
-        ],
+        "AwardProview": [],
         "FirstDrop": 2,
         "Drop": 0,
         "RobotFighting": [],
@@ -5320,13 +5106,7 @@
             90010107,
             90010108
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600109,
-            12600113,
-            12600117
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": -1,
         "RobotFighting": [
@@ -5461,13 +5241,7 @@
             90010309,
             90010310
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600110,
-            12600114,
-            12600118
-        ],
+        "AwardProview": [],
         "FirstDrop": 90010301,
         "Drop": 0,
         "RobotFighting": [
@@ -5606,13 +5380,7 @@
             90010509,
             90010510
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600110,
-            12600114,
-            12600118
-        ],
+        "AwardProview": [],
         "FirstDrop": 90010501,
         "Drop": 0,
         "RobotFighting": [
@@ -5755,13 +5523,7 @@
             90010709,
             90010710
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600111,
-            12600115,
-            12600119
-        ],
+        "AwardProview": [],
         "FirstDrop": 90010701,
         "Drop": 0,
         "RobotFighting": [
@@ -5913,11 +5675,7 @@
             90010910,
             90010511
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600112
-        ],
+        "AwardProview": [],
         "FirstDrop": 90010901,
         "Drop": 0,
         "RobotFighting": [
@@ -6055,11 +5813,7 @@
             90011109,
             90011110
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600116
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [
@@ -6214,11 +5968,7 @@
             90011321,
             90011322
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90011301,
         "Drop": 0,
         "RobotFighting": [
@@ -6376,13 +6126,7 @@
         "BattleID": [
             90015001
         ],
-        "AwardProview": [
-            12600101,
-            12600105,
-            12600109,
-            12600113,
-            12600117
-        ],
+        "AwardProview": [],
         "FirstDrop": 90010101,
         "Drop": 0,
         "RobotFighting": [
@@ -6813,12 +6557,7 @@
             90320107,
             90320108
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90320101,
         "Drop": 0,
         "RobotFighting": [
@@ -7237,12 +6976,7 @@
             90320709,
             90320710
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90320701,
         "Drop": 0,
         "RobotFighting": [
@@ -7520,12 +7254,7 @@
             90321107,
             90321108
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90321101,
         "Drop": 0,
         "RobotFighting": [
@@ -7743,12 +7472,7 @@
             90320307,
             90320308
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90320301,
         "Drop": 0,
         "RobotFighting": [
@@ -7869,12 +7593,7 @@
         "BattleID": [
             90320510
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90320501,
         "Drop": 0,
         "RobotFighting": [],
@@ -7936,12 +7655,7 @@
             90320907,
             90320908
         ],
-        "AwardProview": [
-            12610101,
-            12610105,
-            12610116,
-            12610120
-        ],
+        "AwardProview": [],
         "FirstDrop": 90320901,
         "Drop": 0,
         "RobotFighting": [
@@ -26464,9 +26178,7 @@
         "BattleID": [
             710101
         ],
-        "AwardProview": [
-            11700001
-        ],
+        "AwardProview": [],
         "FirstDrop": 7101,
         "Drop": 0,
         "RobotFighting": [],
@@ -26520,9 +26232,7 @@
         "BattleID": [
             710201
         ],
-        "AwardProview": [
-            11700005
-        ],
+        "AwardProview": [],
         "FirstDrop": 7103,
         "Drop": 0,
         "RobotFighting": [],
@@ -26576,9 +26286,7 @@
         "BattleID": [
             710301
         ],
-        "AwardProview": [
-            11700007
-        ],
+        "AwardProview": [],
         "FirstDrop": 7104,
         "Drop": 0,
         "RobotFighting": [],
@@ -26632,9 +26340,7 @@
         "BattleID": [
             710401
         ],
-        "AwardProview": [
-            11700011
-        ],
+        "AwardProview": [],
         "FirstDrop": 7102,
         "Drop": 0,
         "RobotFighting": [],
@@ -27201,9 +26907,7 @@
         "BattleID": [
             720101
         ],
-        "AwardProview": [
-            11700002
-        ],
+        "AwardProview": [],
         "FirstDrop": 7201,
         "Drop": 0,
         "RobotFighting": [],
@@ -27257,9 +26961,7 @@
         "BattleID": [
             720201
         ],
-        "AwardProview": [
-            11700005
-        ],
+        "AwardProview": [],
         "FirstDrop": 7203,
         "Drop": 0,
         "RobotFighting": [],
@@ -27313,9 +27015,7 @@
         "BattleID": [
             720301
         ],
-        "AwardProview": [
-            11700007
-        ],
+        "AwardProview": [],
         "FirstDrop": 7204,
         "Drop": 0,
         "RobotFighting": [],
@@ -27369,9 +27069,7 @@
         "BattleID": [
             720401
         ],
-        "AwardProview": [
-            11700011
-        ],
+        "AwardProview": [],
         "FirstDrop": 7202,
         "Drop": 0,
         "RobotFighting": [],
@@ -27938,9 +27636,7 @@
         "BattleID": [
             730101
         ],
-        "AwardProview": [
-            11700003
-        ],
+        "AwardProview": [],
         "FirstDrop": 7301,
         "Drop": 0,
         "RobotFighting": [],
@@ -27994,9 +27690,7 @@
         "BattleID": [
             730201
         ],
-        "AwardProview": [
-            11700005
-        ],
+        "AwardProview": [],
         "FirstDrop": 7303,
         "Drop": 0,
         "RobotFighting": [],
@@ -28050,9 +27744,7 @@
         "BattleID": [
             730301
         ],
-        "AwardProview": [
-            11700007
-        ],
+        "AwardProview": [],
         "FirstDrop": 7304,
         "Drop": 0,
         "RobotFighting": [],
@@ -28106,9 +27798,7 @@
         "BattleID": [
             730401
         ],
-        "AwardProview": [
-            11700011
-        ],
+        "AwardProview": [],
         "FirstDrop": 7302,
         "Drop": 0,
         "RobotFighting": [],
@@ -28675,9 +28365,7 @@
         "BattleID": [
             740101
         ],
-        "AwardProview": [
-            11700004
-        ],
+        "AwardProview": [],
         "FirstDrop": 7401,
         "Drop": 0,
         "RobotFighting": [],
@@ -28731,9 +28419,7 @@
         "BattleID": [
             740201
         ],
-        "AwardProview": [
-            11700005
-        ],
+        "AwardProview": [],
         "FirstDrop": 7403,
         "Drop": 0,
         "RobotFighting": [],
@@ -28787,9 +28473,7 @@
         "BattleID": [
             740301
         ],
-        "AwardProview": [
-            11700007
-        ],
+        "AwardProview": [],
         "FirstDrop": 7404,
         "Drop": 0,
         "RobotFighting": [],
@@ -28843,9 +28527,7 @@
         "BattleID": [
             740401
         ],
-        "AwardProview": [
-            11700011
-        ],
+        "AwardProview": [],
         "FirstDrop": 7402,
         "Drop": 0,
         "RobotFighting": [],
@@ -32868,9 +32550,7 @@
             6010102,
             6010103
         ],
-        "AwardProview": [
-            14102001
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -32927,9 +32607,7 @@
             6010203,
             6010204
         ],
-        "AwardProview": [
-            14102002
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -32985,9 +32663,7 @@
             6020102,
             6020103
         ],
-        "AwardProview": [
-            14102003
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33044,9 +32720,7 @@
             6020203,
             6020204
         ],
-        "AwardProview": [
-            14102004
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33102,9 +32776,7 @@
             6030102,
             6030103
         ],
-        "AwardProview": [
-            14102005
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33161,9 +32833,7 @@
             6030203,
             6030204
         ],
-        "AwardProview": [
-            14102006
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33219,9 +32889,7 @@
             6040102,
             6040103
         ],
-        "AwardProview": [
-            14102007
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33278,9 +32946,7 @@
             6040203,
             6040204
         ],
-        "AwardProview": [
-            14102008
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33338,9 +33004,7 @@
             6010404,
             6010405
         ],
-        "AwardProview": [
-            14102009
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33398,9 +33062,7 @@
             6020404,
             6020405
         ],
-        "AwardProview": [
-            14102010
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33458,9 +33120,7 @@
             6030404,
             6030405
         ],
-        "AwardProview": [
-            14102011
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33518,9 +33178,7 @@
             6040404,
             6040405
         ],
-        "AwardProview": [
-            14102012
-        ],
+        "AwardProview": [],
         "FirstDrop": 0,
         "Drop": 0,
         "RobotFighting": [],
@@ -33580,11 +33238,7 @@
             4011136,
             4011137
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50101,
         "Drop": 0,
         "RobotFighting": [],
@@ -33609,7 +33263,7 @@
         "SceneType": 1,
         "SceneSubType": 0,
         "SceneFunctionType": 9,
-        "SceneFunctionPara": "6;5001;8035001",
+        "SceneFunctionPara": "6;501;8035001",
         "UnlockMission": 0,
         "Image": "stageIcon6102",
         "LimitTime": -1,
@@ -33643,11 +33297,7 @@
             4011147,
             4011148
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50102,
         "Drop": 0,
         "RobotFighting": [],
@@ -33706,11 +33356,7 @@
             4011157,
             4011158
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50201,
         "Drop": 0,
         "RobotFighting": [],
@@ -33772,11 +33418,7 @@
             4011167,
             4011168
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50202,
         "Drop": 0,
         "RobotFighting": [],
@@ -33838,11 +33480,7 @@
             4011177,
             4011178
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50203,
         "Drop": 0,
         "RobotFighting": [],
@@ -33904,11 +33542,7 @@
             4011187,
             4011188
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 50204,
         "Drop": 0,
         "RobotFighting": [],
@@ -42922,11 +42556,7 @@
         "BattleID": [
             751641
         ],
-        "AwardProview": [
-            18000001,
-            10100001,
-            18000006
-        ],
+        "AwardProview": [],
         "FirstDrop": 8101135,
         "Drop": 0,
         "RobotFighting": [],
@@ -42980,11 +42610,7 @@
         "BattleID": [
             751642
         ],
-        "AwardProview": [
-            18000001,
-            10100001,
-            18000006
-        ],
+        "AwardProview": [],
         "FirstDrop": 8101136,
         "Drop": 0,
         "RobotFighting": [],
@@ -43038,11 +42664,7 @@
         "BattleID": [
             751643
         ],
-        "AwardProview": [
-            18000001,
-            10100001,
-            18000005
-        ],
+        "AwardProview": [],
         "FirstDrop": 8101137,
         "Drop": 0,
         "RobotFighting": [],
@@ -49585,7 +49207,7 @@
         "SceneType": 1,
         "SceneSubType": 0,
         "SceneFunctionType": 4,
-        "SceneFunctionPara": "6001;601",
+        "SceneFunctionPara": "6001;501",
         "UnlockMission": 0,
         "Image": "stageIcon6102",
         "LimitTime": -1,
@@ -49618,11 +49240,7 @@
             5011136,
             5011137
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60111,
         "Drop": 0,
         "RobotFighting": [],
@@ -49647,7 +49265,7 @@
         "SceneType": 1,
         "SceneSubType": 0,
         "SceneFunctionType": 9,
-        "SceneFunctionPara": "6;6001;8063001",
+        "SceneFunctionPara": "6;501;8063001",
         "UnlockMission": 0,
         "Image": "stageIcon6102",
         "LimitTime": -1,
@@ -49680,11 +49298,7 @@
             5011146,
             5011147
         ],
-        "AwardProview": [
-            10810001,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60112,
         "Drop": 0,
         "RobotFighting": [],
@@ -49708,8 +49322,8 @@
         "RegionMapLocation": 600101,
         "SceneType": 2,
         "SceneSubType": 0,
-        "SceneFunctionType": 2,
-        "SceneFunctionPara": "6001",
+        "SceneFunctionType": 4,
+        "SceneFunctionPara": "6001;601",
         "UnlockMission": 30,
         "Image": "stageIcon7010101",
         "LimitTime": -1,
@@ -49742,11 +49356,7 @@
             5011156,
             5011157
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60211,
         "Drop": 0,
         "RobotFighting": [],
@@ -49807,11 +49417,7 @@
             5011166,
             5011167
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60212,
         "Drop": 0,
         "RobotFighting": [],
@@ -49872,11 +49478,7 @@
             5011176,
             5011177
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60213,
         "Drop": 0,
         "RobotFighting": [],
@@ -49937,11 +49539,7 @@
             5011186,
             5011187
         ],
-        "AwardProview": [
-            10810002,
-            10400010,
-            11501009
-        ],
+        "AwardProview": [],
         "FirstDrop": 60214,
         "Drop": 0,
         "RobotFighting": [],
@@ -53441,5 +53039,5781 @@
         ],
         "ID": 3604103,
         "Name": "15520"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 9001,
+        "FollowScene": [
+            9001
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751901
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90301,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7901,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9000,
+        "NextScene": 9002,
+        "FollowScene": [
+            9002
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751902
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90302,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7902,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9001,
+        "NextScene": 9003,
+        "FollowScene": [
+            9003
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751903
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90303,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7903,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9002,
+        "NextScene": 9004,
+        "FollowScene": [
+            9004
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751904
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90304,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7904,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9003,
+        "NextScene": 9005,
+        "FollowScene": [
+            9005
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751905
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90305,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7905,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9004,
+        "NextScene": 9006,
+        "FollowScene": [
+            9006
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751906
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90306,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7906,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9005,
+        "NextScene": 9007,
+        "FollowScene": [
+            9007
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751907
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90307,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7907,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9006,
+        "NextScene": 9008,
+        "FollowScene": [
+            9008
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751908
+        ],
+        "AwardProview": [
+            14110000
+        ],
+        "FirstDrop": 0,
+        "Drop": 90308,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7908,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9007,
+        "NextScene": 9009,
+        "FollowScene": [
+            9009
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751909
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90309,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7909,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9008,
+        "NextScene": 9010,
+        "FollowScene": [
+            9010
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751910
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90310,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7910,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9009,
+        "NextScene": 9011,
+        "FollowScene": [
+            9011
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751911
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90311,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7911,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9010,
+        "NextScene": 9012,
+        "FollowScene": [
+            9012
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751912
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90312,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7912,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9011,
+        "NextScene": 9013,
+        "FollowScene": [
+            9013
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751913
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90313,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7913,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9012,
+        "NextScene": 9014,
+        "FollowScene": [
+            9014
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751914
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90314,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7914,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9013,
+        "NextScene": 9015,
+        "FollowScene": [
+            9015
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751915
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90315,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7915,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9014,
+        "NextScene": 9016,
+        "FollowScene": [
+            9016
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751916
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90316,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7916,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9015,
+        "NextScene": 9017,
+        "FollowScene": [
+            9017
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751917
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90317,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7917,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9016,
+        "NextScene": 9018,
+        "FollowScene": [
+            9018
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751918
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90318,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7918,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9017,
+        "NextScene": 9019,
+        "FollowScene": [
+            9019
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751919
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90319,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7919,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9018,
+        "NextScene": 9020,
+        "FollowScene": [
+            9020
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751920
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90320,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7920,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9019,
+        "NextScene": 9021,
+        "FollowScene": [
+            9021
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751921
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90321,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7921,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9020,
+        "NextScene": 9022,
+        "FollowScene": [
+            9022
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751922
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90322,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7922,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9021,
+        "NextScene": 9023,
+        "FollowScene": [
+            9023
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751923
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90323,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7923,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9022,
+        "NextScene": 9024,
+        "FollowScene": [
+            9024
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751924
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90324,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7924,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9023,
+        "NextScene": 9025,
+        "FollowScene": [
+            9025
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751925
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90325,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7925,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9024,
+        "NextScene": 9026,
+        "FollowScene": [
+            9026
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751926
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90326,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7926,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9025,
+        "NextScene": 9027,
+        "FollowScene": [
+            9027
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751927
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90327,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7927,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9026,
+        "NextScene": 9028,
+        "FollowScene": [
+            9028
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751928
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90328,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7928,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9027,
+        "NextScene": 9029,
+        "FollowScene": [
+            9029
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751929
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90329,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7929,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_2_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9028,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751930
+        ],
+        "AwardProview": [
+            14110000,
+            14110001
+        ],
+        "FirstDrop": 0,
+        "Drop": 90330,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7930,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 9031,
+        "FollowScene": [
+            9031
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751931
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90101,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7931,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9030,
+        "NextScene": 9032,
+        "FollowScene": [
+            9032
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751932
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90102,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7932,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9031,
+        "NextScene": 9033,
+        "FollowScene": [
+            9033
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751933
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90103,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7933,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9032,
+        "NextScene": 9034,
+        "FollowScene": [
+            9034
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751934
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90104,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7934,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9033,
+        "NextScene": 9035,
+        "FollowScene": [
+            9035
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751935
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90105,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7935,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9034,
+        "NextScene": 9036,
+        "FollowScene": [
+            9036
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751936
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90106,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7936,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9035,
+        "NextScene": 9037,
+        "FollowScene": [
+            9037
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751937
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90107,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7937,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9036,
+        "NextScene": 9038,
+        "FollowScene": [
+            9038
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751938
+        ],
+        "AwardProview": [
+            14110006
+        ],
+        "FirstDrop": 0,
+        "Drop": 90108,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7938,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9037,
+        "NextScene": 9039,
+        "FollowScene": [
+            9039
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751939
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90109,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7939,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9038,
+        "NextScene": 9040,
+        "FollowScene": [
+            9040
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751940
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90110,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7940,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9039,
+        "NextScene": 9041,
+        "FollowScene": [
+            9041
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751941
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90111,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7941,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9040,
+        "NextScene": 9042,
+        "FollowScene": [
+            9042
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751942
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90112,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7942,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9041,
+        "NextScene": 9043,
+        "FollowScene": [
+            9043
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751943
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90113,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7943,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9042,
+        "NextScene": 9044,
+        "FollowScene": [
+            9044
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751944
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90114,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7944,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9043,
+        "NextScene": 9045,
+        "FollowScene": [
+            9045
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751945
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90115,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7945,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9044,
+        "NextScene": 9046,
+        "FollowScene": [
+            9046
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751946
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90116,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7946,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9045,
+        "NextScene": 9047,
+        "FollowScene": [
+            9047
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751947
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90117,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7947,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9046,
+        "NextScene": 9048,
+        "FollowScene": [
+            9048
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751948
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90118,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7948,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9047,
+        "NextScene": 9049,
+        "FollowScene": [
+            9049
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751949
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90119,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7949,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9048,
+        "NextScene": 9050,
+        "FollowScene": [
+            9050
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751950
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90120,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7950,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9049,
+        "NextScene": 9051,
+        "FollowScene": [
+            9051
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751951
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90121,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7951,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9050,
+        "NextScene": 9052,
+        "FollowScene": [
+            9052
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751952
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90122,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7952,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9051,
+        "NextScene": 9053,
+        "FollowScene": [
+            9053
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751953
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90123,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7953,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9052,
+        "NextScene": 9054,
+        "FollowScene": [
+            9054
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751954
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90124,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7954,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9053,
+        "NextScene": 9055,
+        "FollowScene": [
+            9055
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751955
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90125,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7955,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9054,
+        "NextScene": 9056,
+        "FollowScene": [
+            9056
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751956
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90126,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7956,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9055,
+        "NextScene": 9057,
+        "FollowScene": [
+            9057
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751957
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90127,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7957,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_1_1_2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9056,
+        "NextScene": 9058,
+        "FollowScene": [
+            9058
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751958
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90128,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7958,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9057,
+        "NextScene": 9059,
+        "FollowScene": [
+            9059
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751959
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90129,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7959,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_3_1_1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9058,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751960
+        ],
+        "AwardProview": [
+            14110006,
+            14110007
+        ],
+        "FirstDrop": 0,
+        "Drop": 90130,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7960,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 9061,
+        "FollowScene": [
+            9061
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751961
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90201,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7961,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9060,
+        "NextScene": 9062,
+        "FollowScene": [
+            9062
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751962
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90202,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7962,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9061,
+        "NextScene": 9063,
+        "FollowScene": [
+            9063
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751963
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90203,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7963,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9062,
+        "NextScene": 9064,
+        "FollowScene": [
+            9064
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751964
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90204,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7964,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9063,
+        "NextScene": 9065,
+        "FollowScene": [
+            9065
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751965
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90205,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7965,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9064,
+        "NextScene": 9066,
+        "FollowScene": [
+            9066
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751966
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90206,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7966,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9065,
+        "NextScene": 9067,
+        "FollowScene": [
+            9067
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751967
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90207,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7967,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9066,
+        "NextScene": 9068,
+        "FollowScene": [
+            9068
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751968
+        ],
+        "AwardProview": [
+            14110003
+        ],
+        "FirstDrop": 0,
+        "Drop": 90208,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7968,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9067,
+        "NextScene": 9069,
+        "FollowScene": [
+            9069
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751969
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90209,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7969,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9068,
+        "NextScene": 9070,
+        "FollowScene": [
+            9070
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751970
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90210,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7970,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9069,
+        "NextScene": 9071,
+        "FollowScene": [
+            9071
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751971
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90211,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7971,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9070,
+        "NextScene": 9072,
+        "FollowScene": [
+            9072
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751972
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90212,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7972,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9071,
+        "NextScene": 9073,
+        "FollowScene": [
+            9073
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751973
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90213,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7973,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9072,
+        "NextScene": 9074,
+        "FollowScene": [
+            9074
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751974
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90214,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7974,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9073,
+        "NextScene": 9075,
+        "FollowScene": [
+            9075
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751975
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90215,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7975,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9074,
+        "NextScene": 9076,
+        "FollowScene": [
+            9076
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751976
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90216,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7976,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9075,
+        "NextScene": 9077,
+        "FollowScene": [
+            9077
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751977
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90217,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7977,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9076,
+        "NextScene": 9078,
+        "FollowScene": [
+            9078
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751978
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90218,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7978,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9077,
+        "NextScene": 9079,
+        "FollowScene": [
+            9079
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751979
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90219,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7979,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9078,
+        "NextScene": 9080,
+        "FollowScene": [
+            9080
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751980
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90220,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7980,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9079,
+        "NextScene": 9081,
+        "FollowScene": [
+            9081
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751981
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90221,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7981,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9080,
+        "NextScene": 9082,
+        "FollowScene": [
+            9082
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751982
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90222,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7982,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9081,
+        "NextScene": 9083,
+        "FollowScene": [
+            9083
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751983
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90223,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7983,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9082,
+        "NextScene": 9084,
+        "FollowScene": [
+            9084
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751984
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90224,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7984,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9083,
+        "NextScene": 9085,
+        "FollowScene": [
+            9085
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751985
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90225,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7985,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9084,
+        "NextScene": 9086,
+        "FollowScene": [
+            9086
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751986
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90226,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7986,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9085,
+        "NextScene": 9087,
+        "FollowScene": [
+            9087
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751987
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90227,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7987,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_2_1_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9086,
+        "NextScene": 9088,
+        "FollowScene": [
+            9088
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751988
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90228,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7988,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9087,
+        "NextScene": 9089,
+        "FollowScene": [
+            9089
+        ],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751989
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90229,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7989,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 0,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 23,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_talenttowerbg_7_5_3",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 9088,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 0,
+        "StarRequest1": 0,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "",
+        "StarRequest2": 0,
+        "StarRequestCount2": "",
+        "StarRequest2Disc": "",
+        "StarRequest3": 0,
+        "StarRequestCount3": "",
+        "StarRequest3Disc": "",
+        "MapID": 0,
+        "BattleID": [
+            751990
+        ],
+        "AwardProview": [
+            14110003,
+            14110004
+        ],
+        "FirstDrop": 0,
+        "Drop": 90230,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 7990,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 10,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752001
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8001,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 10,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752002
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8002,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 12,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752003
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8003,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 15,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752004
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8004,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 20,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752005
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8005,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 30,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752006
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8006,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 40,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark1",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752007
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8007,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 40,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752008
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8008,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 50,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752009
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8009,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752010
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8010,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752011
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8011,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752012
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8012,
+        "Name": "0"
+    },
+    {
+        "Title": "0",
+        "Disc": "0",
+        "NeedStars": 0,
+        "NeedProbe": 0,
+        "SceneLevel": 60,
+        "AreaID": 0,
+        "AreaBlockID": 0,
+        "BelongBlock": 0,
+        "RegionMapLocation": 0,
+        "SceneType": 24,
+        "SceneSubType": 0,
+        "SceneFunctionType": 0,
+        "SceneFunctionPara": "",
+        "UnlockMission": 0,
+        "Image": "stageIconBa_dark2",
+        "LimitTime": -1,
+        "GetLimitType": 0,
+        "GetLimitPara": "",
+        "PreScene": 0,
+        "NextScene": 0,
+        "FollowScene": [],
+        "ProcessID": 0,
+        "NeedNumTeam": 1,
+        "SenceDeadline": 300,
+        "StarRequest1": 1,
+        "StarRequestCount1": "",
+        "StarRequest1Disc": "4932",
+        "StarRequest2": 2,
+        "StarRequestCount2": "0",
+        "StarRequest2Disc": "4938",
+        "StarRequest3": 3,
+        "StarRequestCount3": "300",
+        "StarRequest3Disc": "12699",
+        "MapID": 0,
+        "BattleID": [
+            752013
+        ],
+        "AwardProview": [],
+        "FirstDrop": 0,
+        "Drop": 0,
+        "RobotFighting": [],
+        "AttackEXP": 0,
+        "DefenceEXP": 0,
+        "ProtectEXP": 0,
+        "LeaderEXP": 0,
+        "AddBounty": [
+            0
+        ],
+        "ID": 8013,
+        "Name": "0"
     }
 ]

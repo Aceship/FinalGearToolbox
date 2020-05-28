@@ -642,5 +642,19 @@
         "CgGirlSkinID": 5201,
         "ID": 20052,
         "Name": null
+    },
+    {
+        "BackGroundName": "16184",
+        "BackGroundType": 2,
+        "BackGroundDesc": "16185",
+        "Image": "C38",
+        "GetWay": "16186",
+        "PublishTime": "2020.5",
+        "BackGroundRes": "cg_Pilot_000640",
+        "Array": 36,
+        "GirlID": 64,
+        "CgGirlSkinID": 6401,
+        "ID": 20053,
+        "Name": null
     }
 ]

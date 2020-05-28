@@ -9336,7 +9336,7 @@
         "ItemID": 10500098,
         "Age": 20,
         "Gender": "2690",
-        "CV": "100471",
+        "CV": "100479",
         "Autobiography": "100045",
         "ID": 98,
         "Name": "100036"
@@ -9483,7 +9483,7 @@
         "FiveDimenXY": 0.8284,
         "Birthday": "4.12",
         "Constellation": "14435",
-        "BloodType": "100336",
+        "BloodType": "A",
         "Hobby": "100337",
         "BirthLocal": "100338",
         "OwnStory": "100339",
@@ -9530,5 +9530,575 @@
         "Autobiography": "100344",
         "ID": 109,
         "Name": "100335"
+    },
+    {
+        "BasicSkin": 10601,
+        "BasicStarLevel": 2,
+        "GirlQualityType": 1,
+        "ProfessionType": 0,
+        "RepeatTransform": [
+            [
+                11200002,
+                5
+            ],
+            [
+                10600000,
+                10
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100111,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.3337,
+        "FiveDimenBL": 0.2985,
+        "FiveDimenRN": 0.6073,
+        "FiveDimenFY": 0.539,
+        "FiveDimenXY": 0.9045,
+        "Birthday": "9.14",
+        "Constellation": "14433",
+        "BloodType": "B",
+        "Hobby": "14438",
+        "BirthLocal": "13148",
+        "OwnStory": "14443",
+        "EnglishName": "Solveig",
+        "GirlCamp": 2,
+        "GirlCampIcon": "HHED",
+        "GirlHeight": "170cm",
+        "LikeThing": "14447",
+        "GirlHate": "14452",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 0,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2106010,
+        "ExpertSkillEquip": 2106020,
+        "GirlGood": "壁垒武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14457",
+        "ItemID": 10500106,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14462",
+        "Autobiography": "14467",
+        "ID": 106,
+        "Name": "14428"
+    },
+    {
+        "BasicSkin": 10701,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 310701,
+        "BaseEquip1": [
+            2100114,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6505,
+        "FiveDimenBL": 0.6745,
+        "FiveDimenRN": 0.8685,
+        "FiveDimenFY": 0.8941,
+        "FiveDimenXY": 0.9568,
+        "Birthday": "10.21",
+        "Constellation": "14434",
+        "BloodType": "O",
+        "Hobby": "14439",
+        "BirthLocal": "13148",
+        "OwnStory": "15076",
+        "EnglishName": "Serenity",
+        "GirlCamp": 4,
+        "GirlCampIcon": "Arita",
+        "GirlHeight": "160cm",
+        "LikeThing": "14448",
+        "GirlHate": "14453",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 3,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2107010,
+        "ExpertSkillEquip": 2107020,
+        "GirlGood": "强袭武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14458",
+        "ItemID": 10500107,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14463",
+        "Autobiography": "14468",
+        "ID": 107,
+        "Name": "14429"
+    },
+    {
+        "BasicSkin": 10801,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 2,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 310801,
+        "BaseEquip1": [
+            2100115,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.729,
+        "FiveDimenBL": 0.7042,
+        "FiveDimenRN": 0.669,
+        "FiveDimenFY": 0.5419,
+        "FiveDimenXY": 0.6607,
+        "Birthday": "3.26",
+        "Constellation": "14435",
+        "BloodType": "AB",
+        "Hobby": "14440",
+        "BirthLocal": "13149",
+        "OwnStory": "14444",
+        "EnglishName": "Pandora·Vlamir",
+        "GirlCamp": 4,
+        "GirlCampIcon": "Arita",
+        "GirlHeight": "161cm",
+        "LikeThing": "14449",
+        "GirlHate": "14454",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 4,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2108010,
+        "ExpertSkillEquip": 2108020,
+        "GirlGood": "机枪武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.6316,
+                2.3711,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14459",
+        "ItemID": 10500108,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14464",
+        "Autobiography": "14469",
+        "ID": 108,
+        "Name": "14430"
+    },
+    {
+        "BasicSkin": 8801,
+        "BasicStarLevel": 1,
+        "GirlQualityType": 0,
+        "ProfessionType": 0,
+        "RepeatTransform": [
+            [
+                11200001,
+                5
+            ],
+            [
+                10600000,
+                5
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100112,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.2144,
+        "FiveDimenBL": 0.209,
+        "FiveDimenRN": 0.6782,
+        "FiveDimenFY": 0.5304,
+        "FiveDimenXY": 0.5713,
+        "Birthday": "9.22",
+        "Constellation": "14431",
+        "BloodType": "A",
+        "Hobby": "14436",
+        "BirthLocal": "13149",
+        "OwnStory": "14441",
+        "EnglishName": "Aurora",
+        "GirlCamp": 4,
+        "GirlCampIcon": "Arita",
+        "GirlHeight": "160cm",
+        "LikeThing": "14445",
+        "GirlHate": "14450",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 1,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2088010,
+        "ExpertSkillEquip": 2088020,
+        "GirlGood": "片手武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.5,
+                2.3711,
+                1.6505,
+                2.5
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14455",
+        "ItemID": 10500088,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14460",
+        "Autobiography": "14465",
+        "ID": 88,
+        "Name": "14426"
+    },
+    {
+        "BasicSkin": 8901,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 2,
+        "ProfessionType": 2,
+        "RepeatTransform": [
+            [
+                11200003,
+                5
+            ],
+            [
+                10600000,
+                25
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100116,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.504,
+        "FiveDimenBL": 0.494,
+        "FiveDimenRN": 0.5202,
+        "FiveDimenFY": 0.662,
+        "FiveDimenXY": 0.5709,
+        "Birthday": "1.3",
+        "Constellation": "14432",
+        "BloodType": "A",
+        "Hobby": "14437",
+        "BirthLocal": "13148",
+        "OwnStory": "14442",
+        "EnglishName": "Sweety",
+        "GirlCamp": 5,
+        "GirlCampIcon": "Kegha",
+        "GirlHeight": "149cm",
+        "LikeThing": "14446",
+        "GirlHate": "14451",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 5,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2089010,
+        "ExpertSkillEquip": 2089020,
+        "GirlGood": "冲锋武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                1.6505,
+                2.3711,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14456",
+        "ItemID": 10500089,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14461",
+        "Autobiography": "14466",
+        "ID": 89,
+        "Name": "14427"
+    },
+    {
+        "BasicSkin": 999901,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 2,
+        "RepeatTransform": [
+            [
+                11200004,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 0,
+        "BaseEquip1": [
+            2100115,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.729,
+        "FiveDimenBL": 0.7042,
+        "FiveDimenRN": 0.669,
+        "FiveDimenFY": 0.5419,
+        "FiveDimenXY": 0.6607,
+        "Birthday": "3.26",
+        "Constellation": "14435",
+        "BloodType": "AB",
+        "Hobby": "14440",
+        "BirthLocal": "13149",
+        "OwnStory": "14444",
+        "EnglishName": "Pandora·Vlamir",
+        "GirlCamp": 4,
+        "GirlCampIcon": "Arita",
+        "GirlHeight": "161cm",
+        "LikeThing": "14449",
+        "GirlHate": "14454",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 4,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            4
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2108010,
+        "ExpertSkillEquip": 2108020,
+        "GirlGood": "机枪武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.6316,
+                2.3711,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "14459",
+        "ItemID": 10500108,
+        "Age": 20,
+        "Gender": "2690",
+        "CV": "14464",
+        "Autobiography": "14469",
+        "ID": 9999,
+        "Name": "15079"
     }
 ]

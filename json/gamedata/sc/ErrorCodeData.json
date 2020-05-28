@@ -2185,5 +2185,104 @@
         "Memo": "改名道具不足",
         "ID": 828,
         "Name": null
+    },
+    {
+        "Disc": "17257",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerNotExists",
+        "Memo": "天赋塔配置不存在",
+        "ID": 829,
+        "Name": null
+    },
+    {
+        "Disc": "17258",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerTierNotExists",
+        "Memo": "天赋塔没有这一层",
+        "ID": 830,
+        "Name": null
+    },
+    {
+        "Disc": "17259",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerStageBattleNotMatch",
+        "Memo": "天赋塔关卡和战斗不匹配",
+        "ID": 831,
+        "Name": null
+    },
+    {
+        "Disc": "17260",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerIsNotOpen",
+        "Memo": "天赋塔不在开放日",
+        "ID": 832,
+        "Name": null
+    },
+    {
+        "Disc": "17261",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerProfessionLimitLeak",
+        "Memo": "职业限定条件不满足",
+        "ID": 833,
+        "Name": null
+    },
+    {
+        "Disc": "17262",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotChallengeTier",
+        "Memo": "不可以挑战这一层",
+        "ID": 837,
+        "Name": null
+    },
+    {
+        "Disc": "17293",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlTalentUnlockNoCondition",
+        "Memo": "机娘天赋激活条件不符",
+        "ID": 838,
+        "Name": null
+    },
+    {
+        "Disc": "17263",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChallengeTimesLeak",
+        "Memo": "挑战次数不足",
+        "ID": 839,
+        "Name": null
+    },
+    {
+        "Disc": "17264",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SelectTowerDifficultyError",
+        "Memo": "正在爬塔过程中，不能选择难度",
+        "ID": 840,
+        "Name": null
+    },
+    {
+        "Disc": "17265",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MaxDifficultyLimit",
+        "Memo": "所选难度超过最大可选范围",
+        "ID": 841,
+        "Name": null
+    },
+    {
+        "Disc": "17285",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlsStatusError",
+        "Memo": "您的队伍中存在无法继续战斗的机师，请更换阵容",
+        "ID": 842,
+        "Name": null
     }
 ]

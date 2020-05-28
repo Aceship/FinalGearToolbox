@@ -1226,7 +1226,7 @@
     },
     {
         "Key": "机师数量上限",
-        "Value": "94",
+        "Value": "97",
         "Desc": "",
         "ID": 176,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200026,200027",
+        "Value": "200032,200033",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,7 +1730,7 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100039",
+        "Value": "10100050",
         "Desc": "",
         "ID": 248,
         "Name": null
@@ -2102,7 +2102,7 @@
     {
         "Key": "晶石重置奖池",
         "Value": "50",
-        "Desc": "晶石，德洛丽丝专用",
+        "Desc": "晶石，德洛丽丝专用（月面大暴走）",
         "ID": 301,
         "Name": null
     },
@@ -2151,21 +2151,21 @@
     {
         "Key": "活动代币",
         "Value": "10100021",
-        "Desc": "道具ID，德洛丽丝专用",
+        "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 308,
         "Name": null
     },
     {
         "Key": "奖池黄金券",
         "Value": "10100023",
-        "Desc": "道具ID，德洛丽丝专用",
+        "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 309,
         "Name": null
     },
     {
         "Key": "奖池钻石券",
         "Value": "10100024",
-        "Desc": "道具ID，德洛丽丝专用",
+        "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 310,
         "Name": null
     },
@@ -2191,514 +2191,640 @@
         "Name": null
     },
     {
+        "Key": "临界点奖池说明",
+        "Value": "德洛莉丝临界点活动奖池说明\\n1.奖池分为三种档次，<color=#DC143C>钻石</color>，<color=#ffd200>黄金</color>和<color=#1E90FF>白银</color>，默认是<color=#1E90FF>白银</color>奖池。\\n2.奖池品质越高，每次刷出的<color=#7CD7FF>稀有道具</color>的数量越多。\\n3.<color=#7CD7FF>任意品质</color>奖池每次均<color=#7CD7FF>必出</color>一件德洛莉丝一体机部件，其词条、属性值与奖池品质无关。\\n4.活动期间重置奖池没有次数限制。每次清空奖池时<color=#7CD7FF>自动触发</color>奖池重置，或者在任意时间均可以使用<color=#7CD7FF>晶石</color>重置奖池。\\n5.任意方式重置奖池时均有几率刷出三种品质奖池，品质越高的奖池刷出来的几率越低。\\n6.重置奖池时，若刷出<color=#ffd200>黄金</color>或<color=#1E90FF>白银</color>奖池，可以分别获得固定量的<color=#7CD7FF>幸运值</color>，幸运值达到满值后下次任意方式重置奖池<color=#7CD7FF>必会</color>刷出<color=#DC143C>钻石</color>奖池（同时清空幸运值）。\\n7.重置奖池时，若刷出<color=#DC143C>钻石</color>奖池，亦会清空幸运值。\\n8.每天均有一次免费晶石重置的机会。",
+        "Desc": "德洛丽丝专用",
+        "ID": 314,
+        "Name": null
+    },
+    {
+        "Key": "月面大暴走奖池说明",
+        "Value": "月面大暴走奖池说明\\n1.奖池分为三种档次，<color=#DC143C>钻石</color>，<color=#ffd200>黄金</color>和<color=#1E90FF>白银</color>，默认是<color=#1E90FF>白银</color>奖池。\\n2.奖池品质越高，每次刷出的<color=#7CD7FF>稀有道具</color>的数量越多。\\n3.<color=#7CD7FF>任意品质</color>奖池每次均<color=#7CD7FF>必出</color>一件德洛莉丝一体机部件，其词条、属性值与奖池品质无关。\\n4.活动期间重置奖池没有次数限制。每次清空奖池时<color=#7CD7FF>自动触发</color>奖池重置，或者在任意时间均可以使用<color=#7CD7FF>晶石</color>重置奖池。\\n5.任意方式重置奖池时均有几率刷出三种品质奖池，品质越高的奖池刷出来的几率越低。\\n6.重置奖池时，若刷出<color=#ffd200>黄金</color>或<color=#1E90FF>白银</color>奖池，可以分别获得固定量的<color=#7CD7FF>幸运值</color>，幸运值达到满值后下次任意方式重置奖池<color=#7CD7FF>必会</color>刷出<color=#DC143C>钻石</color>奖池（同时清空幸运值）。\\n7.重置奖池时，若刷出<color=#DC143C>钻石</color>奖池，亦会清空幸运值。\\n8.每天均有一次免费晶石重置的机会。",
+        "Desc": "月面大暴走专用",
+        "ID": 315,
+        "Name": null
+    },
+    {
         "Key": "伊丽莎白个人副本开启时间",
         "Value": "2019/12/5  14:30:00",
         "Desc": "",
-        "ID": 314,
+        "ID": 316,
         "Name": null
     },
     {
         "Key": "MCVShowItemNum",
         "Value": "14104001,14104002,14104003",
         "Desc": "科研室显示持有数量的道具ID",
-        "ID": 315,
+        "ID": 317,
         "Name": null
     },
     {
         "Key": "圣诞节奖励库",
         "Value": "1500,100",
         "Desc": "圣诞节格子1500格子后随机奖励库",
-        "ID": 316,
+        "ID": 318,
         "Name": null
     },
     {
         "Key": "出稀有次数底线",
         "Value": "80",
         "Desc": "奖池出稀有道具前需抽次数底线",
-        "ID": 317,
+        "ID": 319,
         "Name": null
     },
     {
         "Key": "出高品质次数底线",
         "Value": "20",
         "Desc": "奖池出高品质道具前需抽次数底线",
-        "ID": 318,
+        "ID": 320,
         "Name": null
     },
     {
         "Key": "出中品质次数底线",
         "Value": "5",
         "Desc": "奖池出中品质道具前需抽次数底线",
-        "ID": 319,
+        "ID": 321,
         "Name": null
     },
     {
         "Key": "白银池增加幸运值",
         "Value": "5",
         "Desc": "德洛丽丝专用",
-        "ID": 320,
+        "ID": 322,
         "Name": null
     },
     {
         "Key": "晶石重置奖池时黄金奖池出现概率",
-        "Value": "0.3",
+        "Value": "0.8",
         "Desc": "几率，抽干奖池充值和晶石重置都如此，德洛丽丝专用",
-        "ID": 321,
+        "ID": 323,
         "Name": null
     },
     {
         "Key": "HeresyLevel",
         "Value": "1",
         "Desc": "控制异端化R-SR,SR-SSR的次数（1为升级1次，2为可从SR进化至UR）",
-        "ID": 322,
+        "ID": 324,
         "Name": null
     },
     {
         "Key": "PartsRemouldUnlock",
         "Value": "30",
         "Desc": "佣兵团等级达到<color=#f88d0f>30</color>级开启：<color=#f88d0f>部件改造</color>功能",
-        "ID": 323,
+        "ID": 325,
         "Name": null
     },
     {
         "Key": "PropertyRefineUnlock",
         "Value": "50",
         "Desc": "属性精制开启等级（玩家等级提升至50级）",
-        "ID": 324,
+        "ID": 326,
         "Name": null
     },
     {
         "Key": "SameEquipExp",
         "Value": "2.5",
         "Desc": "相同装备异端化吞噬提供的经验加成",
-        "ID": 325,
+        "ID": 327,
         "Name": null
     },
     {
         "Key": "DailyStageReFresh",
         "Value": "0:00:00",
         "Desc": "曜日副本的刷新时间",
-        "ID": 326,
+        "ID": 328,
         "Name": null
     },
     {
         "Key": "RefineExpend",
         "Value": "13200226,1",
         "Desc": "属性精制消耗道具",
-        "ID": 327,
+        "ID": 329,
         "Name": null
     },
     {
         "Key": "曜日副本购买挑战次数价格",
         "Value": "200",
         "Desc": "曜日副本购买挑战次数价格(晶石)",
-        "ID": 328,
+        "ID": 330,
         "Name": null
     },
     {
         "Key": "PerfcetAdvance",
         "Value": "13200225,1",
         "Desc": "完美继承消耗道具",
-        "ID": 329,
+        "ID": 331,
         "Name": null
     },
     {
         "Key": "PropertyRefineNum",
         "Value": "13200227,1",
         "Desc": "增加属性精制条目道具",
-        "ID": 330,
+        "ID": 332,
         "Name": null
     },
     {
         "Key": "精制属性随机条数",
         "Value": "3",
         "Desc": "",
-        "ID": 331,
+        "ID": 333,
         "Name": null
     },
     {
         "Key": "春节活动体力上限",
         "Value": "120",
         "Desc": "",
-        "ID": 332,
+        "ID": 334,
         "Name": null
     },
     {
         "Key": "春节活动体力恢复秒数",
         "Value": "300",
         "Desc": "",
-        "ID": 333,
+        "ID": 335,
         "Name": null
     },
     {
         "Key": "春节活动体力购买价格",
         "Value": "10100002,100",
         "Desc": "",
-        "ID": 334,
+        "ID": 336,
         "Name": null
     },
     {
         "Key": "春节活动体力消耗",
         "Value": "6",
         "Desc": "",
-        "ID": 335,
+        "ID": 337,
         "Name": null
     },
     {
         "Key": "春节活动商店ID",
         "Value": "4001",
         "Desc": "",
-        "ID": 336,
+        "ID": 338,
         "Name": null
     },
     {
         "Key": "春节活动商店刷新时间",
         "Value": "00:00",
         "Desc": "",
-        "ID": 337,
+        "ID": 339,
         "Name": null
     },
     {
         "Key": "春节活动商店刷新消耗",
         "Value": "10100002,50;10100002,100;10100002,150;10100002,200;10100002,300;10100002,400;10100002,500",
         "Desc": "",
-        "ID": 338,
+        "ID": 340,
         "Name": null
     },
     {
         "Key": "春节活动积分道具ID",
         "Value": "18000001",
         "Desc": "",
-        "ID": 339,
+        "ID": 341,
         "Name": null
     },
     {
         "Key": "春节活动商店单次刷新保底",
         "Value": "1,S",
         "Desc": "",
-        "ID": 340,
+        "ID": 342,
         "Name": null
     },
     {
         "Key": "春节活动商店SS道具出现几率",
         "Value": "0,0.2",
         "Desc": "",
-        "ID": 341,
+        "ID": 343,
         "Name": null
     },
     {
         "Key": "多倍券道具ID",
         "Value": "18000002",
         "Desc": "",
-        "ID": 342,
+        "ID": 344,
         "Name": null
     },
     {
         "Key": "多倍券单次使用上限",
         "Value": "3",
         "Desc": "",
-        "ID": 343,
+        "ID": 345,
         "Name": null
     },
     {
         "Key": "春节活动体力恢复道具ID",
         "Value": "18000004",
         "Desc": "",
-        "ID": 344,
+        "ID": 346,
         "Name": null
     },
     {
         "Key": "春节活动降低关卡难度道具ID",
         "Value": "18000011",
         "Desc": "",
-        "ID": 345,
+        "ID": 347,
         "Name": null
     },
     {
         "Key": "春节活动降低关卡难度百分比说明文本",
         "Value": "100%,90%,80%,70%,60%",
         "Desc": "",
-        "ID": 346,
+        "ID": 348,
         "Name": null
     },
     {
         "Key": "PropertyRefineHelpDesc1",
         "Value": "<color=#73fee9>功能介绍</color>\n将现有属性更换为其他属性的功能模块。\n<color=#73fee9>功能使用方式</color>\n通过消耗道具：<color=#f88d0f>散华装置</color>，可以将装备中的非固有次要属性转化为其他属性。\n<color=#73fee9>功能使用限制</color>\n1.任意装备默认只能精制一条属性，可通过消耗道具：<color=#f88d0f>临界崩坏</color>，扩展可精制的属性条目数。\n2.精制属性后，可以选择保留原有属性词条。\n3.固有属性装备暂无法进行属性精制。\n4.原有装备词条无法精制出新增的属性词条。\n<color=#73fee9>道具获取途径</color>\n<color=#f88d0f>[散华装置]</color>获取途径：协力作战相关战斗（暂未开放）\n<color=#f88d0f>[临界崩坏]</color>获取途径：活动获取",
         "Desc": "属性精制帮助描述1",
-        "ID": 347,
+        "ID": 349,
         "Name": null
     },
     {
         "Key": "HeresyHelpDesc",
         "Value": "<color=#73fee9>功能介绍</color>\n提升装备能力的功能模块。\n<color=#73fee9>功能使用方式</color>\n<color=#c40ff8>强化：</color>消耗其他装备的能源为现有装备的异端化模块充能。\n<color=#c40ff8>继承：</color>强行将相同类型装备的异端化模块移植至该装备。（移植过程会造成一定损失）\n<color=#c40ff8>模块阶段：</color>当阶段等级达到MAX时，需要解除该模块的能力禁制，才可以继续提升下一模块。\n<color=#73fee9>功能使用限制及效果</color>\n<color=#c40ff8>强化：</color>品质与强化等级越高，所提供的经验越高（相同装备将会提供250%的经验值）\n<color=#c40ff8>继承：</color>装备只能继承品质高于自身的装备。\n<color=#c40ff8>继承损耗：</color>继承过程中会损耗2个模块的能力值与经验值。\n<color=#73fee9>道具获取途径</color>\n<color=#f88d0f>[各部件模组]</color>获取途径：物资筹备相关战斗",
         "Desc": "异端化帮助描述",
-        "ID": 348,
+        "ID": 350,
         "Name": null
     },
     {
         "Key": "ComeBackBegin",
         "Value": "2020/1/16 00:00:00",
         "Desc": "回流活动1期开始日期",
-        "ID": 349,
+        "ID": 351,
         "Name": null
     },
     {
         "Key": "ComeBackEnd",
         "Value": "2020/2/14 00:00:00",
         "Desc": "回流活动1期结束日期",
-        "ID": 350,
+        "ID": 352,
         "Name": null
     },
     {
         "Key": "ComeBackDays",
         "Value": "30",
         "Desc": "回流活动判断基准，[]天没登录才视为满足资格",
-        "ID": 351,
+        "ID": 353,
         "Name": null
     },
     {
         "Key": "HeresyIntensify",
         "Value": "1.615",
         "Desc": "异端化强化消耗金币（消耗装备提供经验*该参数）",
-        "ID": 352,
+        "ID": 354,
         "Name": null
     },
     {
         "Key": "SpringFestivalChallengeTimes",
         "Value": "3",
         "Desc": "春节挑战次数",
-        "ID": 353,
+        "ID": 355,
         "Name": null
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_23,SkinActive_24",
-        "Desc": "",
-        "ID": 354,
+        "Value": "SkinActive_30,SkinActive_31",
+        "Desc": "30:vo皮肤特惠，31：艾丝美拉达",
+        "ID": 356,
         "Name": null
     },
     {
         "Key": "PropertyRefineHelpDesc2",
         "Value": "<color=#73fee9>属性介绍</color>\n获取装备时，已携带的属性。\n<color=#73fee9>可精制出的属性</color>\n<color=#c40ff8>武器部件:</color>攻击速度提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击率提高\n<color=#c40ff8>胸甲部件:</color>耐久提高,攻击提高,命中率提高,伤害减免提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>腿甲部件:</color>耐久提高,攻击提高,命中率提高,闪避率提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>挂载部件:</color>耐久提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>芯片(生存)部件:</color>耐久提高,攻击提高,命中率提高,伤害减免提高,伤害提高,暴击伤害提高\n<color=#c40ff8>芯片(攻击)部件:</color>攻击速度提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击率提高",
         "Desc": "属性精制帮助描述2",
-        "ID": 355,
+        "ID": 357,
         "Name": null
     },
     {
         "Key": "PropertyRefineHelpDesc3",
         "Value": "<color=#73fee9>属性介绍</color>\n异端化后，开启的属性栏位。\n<color=#73fee9>可精制出的属性</color>\n<color=#c40ff8>武器部件:</color>主动技能消耗降低,蓄能武器时间减少,换弹时间减少,攻击速度提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击率提高,击退能力提高\n<color=#c40ff8>胸甲部件:</color>格挡值,格挡率,硬直抗性提高,耐久提高,攻击提高,命中率提高,伤害减免提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>腿甲部件:</color>格挡值,格挡率,硬直抗性提高,耐久提高,攻击提高,命中率提高,闪避率提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>挂载部件:</color>主动技能自然恢复,主动技能消耗降低,换弹时间减少,耐久提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击抗性提高\n<color=#c40ff8>芯片(生存)部件:</color>主动技能自然恢复,蓄能武器时间减少,耐久自然恢复,耐久提高,攻击提高,命中率提高,伤害减免提高,伤害提高,暴击伤害提高\n<color=#c40ff8>芯片(攻击)部件:</color>主动技能自然恢复,蓄能武器时间减少,耐久自然恢复,攻击速度提高,攻击提高,命中率提高,能量获取速度提高,伤害提高,暴击伤害提高,暴击率提高",
         "Desc": "属性精制帮助描述3",
-        "ID": 356,
+        "ID": 358,
         "Name": null
     },
     {
         "Key": "春节活动EX体力消耗",
         "Value": "6",
         "Desc": "",
-        "ID": 357,
+        "ID": 359,
         "Name": null
     },
     {
         "Key": "模拟训练活动每日次数",
         "Value": "10",
         "Desc": "",
-        "ID": 358,
+        "ID": 360,
         "Name": null
     },
     {
         "Key": "模拟训练点数",
         "Value": "10100033",
         "Desc": "",
-        "ID": 359,
+        "ID": 361,
         "Name": null
     },
     {
         "Key": "模拟训练道具",
         "Value": "10100032",
         "Desc": "",
-        "ID": 360,
+        "ID": 362,
         "Name": null
     },
     {
         "Key": "模拟训练购买挑战次数",
         "Value": "10100002,50",
         "Desc": "",
-        "ID": 361,
+        "ID": 363,
         "Name": null
     },
     {
         "Key": "FindBossMAX",
         "Value": "10",
         "Desc": "随机搜寻总体BOSS上限=10",
-        "ID": 362,
+        "ID": 364,
         "Name": null
     },
     {
         "Key": "FindBossMIN",
         "Value": "5",
         "Desc": "随机搜寻好友BOSS上限=5",
-        "ID": 363,
+        "ID": 365,
         "Name": null
     },
     {
         "Key": "PhysicalMAX",
         "Value": "10",
         "Desc": "协力体力值上限=10",
-        "ID": 364,
+        "ID": 366,
         "Name": null
     },
     {
         "Key": "SameBossNumMAX",
         "Value": "1",
         "Desc": "协力同一BOSS的次数上限=1",
-        "ID": 365,
+        "ID": 367,
         "Name": null
     },
     {
         "Key": "SsameBossRecord",
         "Value": "15",
         "Desc": "查看协力日志上限=50",
-        "ID": 366,
+        "ID": 368,
         "Name": null
     },
     {
         "Key": "FriendMaxNum",
         "Value": "30",
         "Desc": "好友数量上限",
-        "ID": 367,
+        "ID": 369,
         "Name": null
     },
     {
         "Key": "FriendRequestMaxNum",
         "Value": "10",
         "Desc": "好友申请数量上限",
-        "ID": 368,
+        "ID": 370,
         "Name": null
     },
     {
         "Key": "BlockMaxNum",
         "Value": "20",
         "Desc": "好友屏蔽数量上限",
-        "ID": 369,
+        "ID": 371,
         "Name": null
     },
     {
         "Key": "GiftSendMaxTimes",
         "Value": "30",
         "Desc": "每天给好友送礼物的最大次数",
-        "ID": 370,
+        "ID": 372,
         "Name": null
     },
     {
         "Key": "GiftReceiveMaxTimes",
         "Value": "10",
         "Desc": "每天接受礼物的最大次数",
-        "ID": 371,
+        "ID": 373,
         "Name": null
     },
     {
         "Key": "GiftSendExp",
         "Value": "5",
         "Desc": "给好友送礼物时可以获得的羁绊经验值（闲置）",
-        "ID": 372,
+        "ID": 374,
         "Name": null
     },
     {
         "Key": "GiftReceiveExp",
         "Value": "5",
         "Desc": "收到礼物时可以获得的羁绊经验值（闲置）",
-        "ID": 373,
+        "ID": 375,
         "Name": null
     },
     {
         "Key": "GiftMaxExp",
         "Value": "50",
         "Desc": "每天可以获得的羁绊经验值上限（任何途径，且保底防止bug）",
-        "ID": 374,
+        "ID": 376,
         "Name": null
     },
     {
         "Key": "FriendMaxExp",
         "Value": "500",
         "Desc": "每天可以获得的友情点数量上限（任何途径，且保底防止bug）",
-        "ID": 375,
+        "ID": 377,
         "Name": null
     },
     {
         "Key": "FriendPointItem",
         "Value": "10100035,10",
         "Desc": "收取礼物时可以获得的友情点道具ID和数量",
-        "ID": 376,
+        "ID": 378,
         "Name": null
     },
     {
         "Key": "AptitudeTestShopCoin",
         "Value": "13200243",
         "Desc": "能力测验副本兑换货币",
-        "ID": 377,
+        "ID": 379,
         "Name": null
     },
     {
         "Key": "AptitudeTestPhysicalRecover",
         "Value": "13200242",
         "Desc": "协力点数恢复道具",
-        "ID": 378,
+        "ID": 380,
         "Name": null
     },
     {
         "Key": "AptitudeTestRecover",
         "Value": "1,120",
         "Desc": "协力点数恢复量(分钟)",
-        "ID": 379,
+        "ID": 381,
         "Name": null
     },
     {
         "Key": "FriendCountdown",
         "Value": "30",
         "Desc": "点击推荐好友的刷新按钮所需的倒计时（秒）",
-        "ID": 380,
+        "ID": 382,
         "Name": null
     },
     {
         "Key": "友情点道具",
         "Value": "10100035",
         "Desc": "友情点道具ID",
-        "ID": 381,
+        "ID": 383,
         "Name": null
     },
     {
         "Key": "SevenDayLoginBegin",
         "Value": "2010/3/5 0:00:00",
         "Desc": "用回流活动改的7日登陆-开始时间",
-        "ID": 382,
+        "ID": 384,
         "Name": null
     },
     {
         "Key": "SevenDayLoginEnd",
         "Value": "2010/3/19 11:00:00",
         "Desc": "用回流活动改的7日登陆-结束时间",
-        "ID": 383,
+        "ID": 385,
         "Name": null
     },
     {
         "Key": "周常副本二期交换所参数ID",
         "Value": "3005,360",
         "Desc": "",
-        "ID": 384,
+        "ID": 386,
         "Name": null
     },
     {
         "Key": "周常副本二期交换所货币ID",
         "Value": "13200015",
         "Desc": "",
-        "ID": 385,
+        "ID": 387,
         "Name": null
     },
     {
         "Key": "改名道具",
         "Value": "13200316,1",
         "Desc": "改名卡",
-        "ID": 386,
+        "ID": 388,
+        "Name": null
+    },
+    {
+        "Key": "天赋点系统开启等级",
+        "Value": "30",
+        "Desc": "天赋点系统。达到该等级开启天赋点系统，和对应指引",
+        "ID": 389,
+        "Name": null
+    },
+    {
+        "Key": "是否显示专用碎片兑换商店",
+        "Value": "1",
+        "Desc": "天赋点系统。0=关，1=开。国服港澳台=1，韩日=0。天赋点系统用",
+        "ID": 390,
+        "Name": null
+    },
+    {
+        "Key": "是否在第一次抽到机师时附送其专用碎片",
+        "Value": "0",
+        "Desc": "天赋点系统。0=关，1=开。国服港澳台=1，韩日=0。天赋点系统用",
+        "ID": 391,
+        "Name": null
+    },
+    {
+        "Key": "是否在重复抽到机师时附送其专用碎片",
+        "Value": "0",
+        "Desc": "天赋点系统。0=关，1=开。国服港澳台=1，韩日=0。天赋点系统用",
+        "ID": 392,
+        "Name": null
+    },
+    {
+        "Key": "SR品质机师天赋点奖励获取比例",
+        "Value": "0.778",
+        "Desc": "天赋点系统。SR品质对应天赋点奖励衰减比例，衰减到左侧数值。SSR=100%",
+        "ID": 393,
+        "Name": null
+    },
+    {
+        "Key": "R品质机师天赋点奖励获取比例",
+        "Value": "0.61",
+        "Desc": "天赋点系统。R品质对应天赋点奖励衰减比例，衰减到左侧数值。SSR=100%",
+        "ID": 394,
+        "Name": null
+    },
+    {
+        "Key": "N品质机师天赋点奖励获取比例",
+        "Value": "0.5",
+        "Desc": "天赋点系统。N品质对应天赋点奖励衰减比例，衰减到左侧数值。SSR=100%",
+        "ID": 395,
+        "Name": null
+    },
+    {
+        "Key": "初级战斗序列",
+        "Value": "11200001",
+        "Desc": "天赋点系统。N机师专用碎片兑换货币，道具id",
+        "ID": 396,
+        "Name": null
+    },
+    {
+        "Key": "中级战斗序列",
+        "Value": "11200002",
+        "Desc": "天赋点系统。R机师专用碎片兑换货币，道具id",
+        "ID": 397,
+        "Name": null
+    },
+    {
+        "Key": "高级战斗序列",
+        "Value": "11200003",
+        "Desc": "天赋点系统。SR机师专用碎片兑换货币，道具id",
+        "ID": 398,
+        "Name": null
+    },
+    {
+        "Key": "特级战斗序列",
+        "Value": "11200004",
+        "Desc": "天赋点系统。SSR机师专用碎片兑换货币，道具id",
+        "ID": 399,
+        "Name": null
+    },
+    {
+        "Key": "天赋爬塔门票道具",
+        "Value": "11400019",
+        "Desc": "天赋爬塔专用，1个道具可兑换1次机会",
+        "ID": 400,
+        "Name": null
+    },
+    {
+        "Key": "天赋爬塔每日免费次数",
+        "Value": "1",
+        "Desc": "天赋爬塔专用，每日重置时重置为该数字",
+        "ID": 401,
+        "Name": null
+    },
+    {
+        "Key": "天赋爬当前可解锁难度上限",
+        "Value": "3",
+        "Desc": "天赋爬塔专用，玩家不能挑战该难度以上的所有难度",
+        "ID": 402,
+        "Name": null
+    },
+    {
+        "Key": "系统重置/免费重置时黄金奖池出现概率",
+        "Value": "0.3",
+        "Desc": "德洛丽丝专用",
+        "ID": 403,
+        "Name": null
+    },
+    {
+        "Key": "系统重置/免费重置时钻石奖池出现概率",
+        "Value": "0.2",
+        "Desc": "德洛丽丝专用",
+        "ID": 404,
         "Name": null
     }
 ]

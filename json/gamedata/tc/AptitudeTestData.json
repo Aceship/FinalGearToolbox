@@ -1,0 +1,62 @@
+[
+    {
+        "StageName": "小林湯圓的假期",
+        "StageDesc": "每週一、二、日限定",
+        "EasyMode": 7801,
+        "NormalMode": 7802,
+        "HardMode": 7803,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            1,
+            2,
+            0
+        ],
+        "StageDesc2": "獲取超級稀有能源箱",
+        "ShopID": 3004,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "StageName": "索拉爾的挑戰",
+        "StageDesc": "每週三、四、日限定",
+        "EasyMode": 7811,
+        "NormalMode": 7812,
+        "HardMode": 7813,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            3,
+            4,
+            0
+        ],
+        "StageDesc2": "獲取超級稀有能源箱",
+        "ShopID": 3004,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "StageName": "教團的威攝",
+        "StageDesc": "每週五、六、日限定",
+        "EasyMode": 7821,
+        "NormalMode": 7822,
+        "HardMode": 7823,
+        "HellMode": 0,
+        "HeroMode": 0,
+        "DailyChallenge": 2,
+        "BuyNum": 0,
+        "OpenTime": [
+            5,
+            6,
+            0
+        ],
+        "StageDesc2": "獲取超級稀有能源箱",
+        "ShopID": 3004,
+        "ID": 3,
+        "Name": null
+    }
+]

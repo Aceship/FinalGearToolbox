@@ -226,6 +226,26 @@
     {
         "StateExclusion": [],
         "ForbiddenAbility": [],
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [
+            2
+        ],
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "StateExclusion": [],
+        "ForbiddenAbility": [],
         "ID": 999,
         "Name": null
     }

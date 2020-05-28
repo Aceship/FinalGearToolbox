@@ -8506,5 +8506,65 @@
         ],
         "ID": 9903,
         "Name": null
+    },
+    {
+        "SkillDesc": "9730",
+        "SkillName": "14974",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10961
+        ],
+        "ID": 9087,
+        "Name": null
+    },
+    {
+        "SkillDesc": "9870",
+        "SkillName": "14975",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11191
+        ],
+        "ID": 9088,
+        "Name": null
+    },
+    {
+        "SkillDesc": "9885",
+        "SkillName": "14976",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11211
+        ],
+        "ID": 9089,
+        "Name": null
+    },
+    {
+        "SkillDesc": "12631",
+        "SkillName": "14977",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11071
+        ],
+        "ID": 9090,
+        "Name": null
+    },
+    {
+        "SkillDesc": "9740",
+        "SkillName": "14978",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10981
+        ],
+        "ID": 9091,
+        "Name": null
     }
 ]

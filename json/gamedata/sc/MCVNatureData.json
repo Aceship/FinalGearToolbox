@@ -3288,5 +3288,110 @@
         "MaxLevel": 12,
         "ID": 470,
         "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 471,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 472,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 473,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 474,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 475,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 476,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 477,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 478,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 479,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 480,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 481,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 482,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 483,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 484,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 485,
+        "Name": null
     }
 ]

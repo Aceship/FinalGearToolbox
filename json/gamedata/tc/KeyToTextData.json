@@ -904,5 +904,29 @@
         "ChineseShow": "10013622",
         "ID": 151,
         "Name": "KindnessGift7"
+    },
+    {
+        "EnumerateName": "全部产品",
+        "ChineseShow": "10013845",
+        "ID": 152,
+        "Name": "MCVProductionType0"
+    },
+    {
+        "EnumerateName": "基础素材",
+        "ChineseShow": "10013846",
+        "ID": 153,
+        "Name": "MCVProductionType1"
+    },
+    {
+        "EnumerateName": "建造材料",
+        "ChineseShow": "10013847",
+        "ID": 154,
+        "Name": "MCVProductionType2"
+    },
+    {
+        "EnumerateName": "支援内容",
+        "ChineseShow": "10013848",
+        "ID": 155,
+        "Name": "MCVProductionType3"
     }
 ]

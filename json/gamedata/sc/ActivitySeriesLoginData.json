@@ -1,56 +1,11 @@
 [
     {
-        "ActivityOpenTime": "2099/2/20 14:30:00",
-        "ActivityCloseTime": "2099/3/5 14:30:00",
+        "ActivityOpenTime": "2020/4/20 14:30:00",
+        "ActivityCloseTime": "2020/5/7 11:59:00",
         "ActivityType": 0,
-        "ActivityNameCH": "回归奖励",
-        "ActivityNameENG": "WELCOME BACK",
+        "ActivityNameCH": "黄金假期",
+        "ActivityNameENG": "GOLDEN HOLIDAY",
         "ID": 1,
-        "Name": null
-    },
-    {
-        "ActivityOpenTime": "2099/2/20 14:30:01",
-        "ActivityCloseTime": "2099/3/5 14:30:01",
-        "ActivityType": 0,
-        "ActivityNameCH": "七日登陆",
-        "ActivityNameENG": "SEVEN DAY BENEFITS",
-        "ID": 2,
-        "Name": null
-    },
-    {
-        "ActivityOpenTime": "2099/2/20 14:30:02",
-        "ActivityCloseTime": "2099/4/5 14:30:02",
-        "ActivityType": 0,
-        "ActivityNameCH": "回归奖励",
-        "ActivityNameENG": "WELCOME BACK",
-        "ID": 3,
-        "Name": null
-    },
-    {
-        "ActivityOpenTime": "2099/2/20 14:30:03",
-        "ActivityCloseTime": "2099/4/5 14:30:03",
-        "ActivityType": 0,
-        "ActivityNameCH": "七日登陆",
-        "ActivityNameENG": "SEVEN DAY BENEFITS",
-        "ID": 4,
-        "Name": null
-    },
-    {
-        "ActivityOpenTime": "2099/2/20 14:30:04",
-        "ActivityCloseTime": "2099/4/20 14:30:04",
-        "ActivityType": 0,
-        "ActivityNameCH": "回归奖励",
-        "ActivityNameENG": "WELCOME BACK",
-        "ID": 5,
-        "Name": null
-    },
-    {
-        "ActivityOpenTime": "2099/2/20 14:30:05",
-        "ActivityCloseTime": "2099/4/20 14:30:05",
-        "ActivityType": 0,
-        "ActivityNameCH": "七日登陆",
-        "ActivityNameENG": "SEVEN DAY BENEFITS",
-        "ID": 6,
         "Name": null
     }
 ]

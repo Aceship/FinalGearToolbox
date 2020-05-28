@@ -8554,5 +8554,65 @@
         ],
         "ID": 9093,
         "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9745",
+        "SkillName": "16154",
+        "SkillIcon": "85000120",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10791
+        ],
+        "ID": 9094,
+        "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9895",
+        "SkillName": "16155",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10941
+        ],
+        "ID": 9095,
+        "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9825",
+        "SkillName": "16156",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11031
+        ],
+        "ID": 9096,
+        "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9555",
+        "SkillName": "16157",
+        "SkillIcon": "85000118",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            10491
+        ],
+        "ID": 9097,
+        "Name": "基地车机师技能数据"
+    },
+    {
+        "SkillDesc": "9710",
+        "SkillName": "16158",
+        "SkillIcon": "85000119",
+        "SkillLevel": 1,
+        "SkillGroup": -1,
+        "EffectIds": [
+            11001
+        ],
+        "ID": 9098,
+        "Name": "基地车机师技能数据"
     }
 ]

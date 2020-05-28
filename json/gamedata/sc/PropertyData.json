@@ -772,5 +772,35 @@
         "UiDesc": "",
         "ID": 129,
         "Name": "持续伤害抵抗"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 130,
+        "Name": "降低大招能量消耗值"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 131,
+        "Name": "护盾值额外比例"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 132,
+        "Name": "斩杀几率"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 133,
+        "Name": "斩杀几率上限"
+    },
+    {
+        "DateType": "float",
+        "UiDesc": "",
+        "ID": 134,
+        "Name": "斩杀血线"
     }
 ]

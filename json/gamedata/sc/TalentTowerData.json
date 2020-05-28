@@ -1,0 +1,66 @@
+[
+    {
+        "TowerName": "16917",
+        "TowerDesc": "16911",
+        "TowerDesc2": "16914",
+        "OpenTime": [
+            1,
+            4
+        ],
+        "ProfessionLimit": [
+            1,
+            0
+        ],
+        "WeekColor": "#6F0F26",
+        "TitleColor": "#6F0F26",
+        "TowerTips": "16932",
+        "TitleItem": "p82020312a",
+        "TowerTips2": "17286",
+        "UIEffect": "shizhantexiao_hong",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "TowerName": "16918",
+        "TowerDesc": "16912",
+        "TowerDesc2": "16915",
+        "OpenTime": [
+            2,
+            5,
+            0
+        ],
+        "ProfessionLimit": [
+            2,
+            5
+        ],
+        "WeekColor": "#563407",
+        "TitleColor": "#563407",
+        "TowerTips": "16933",
+        "TitleItem": "p82020312c",
+        "TowerTips2": "17287",
+        "UIEffect": "shizhantexiao_huang",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "TowerName": "16919",
+        "TowerDesc": "16913",
+        "TowerDesc2": "16916",
+        "OpenTime": [
+            3,
+            6
+        ],
+        "ProfessionLimit": [
+            3,
+            4
+        ],
+        "WeekColor": "#083E61",
+        "TitleColor": "#083E61",
+        "TowerTips": "16934",
+        "TitleItem": "p82020312b",
+        "TowerTips2": "17288",
+        "UIEffect": "shizhantexiao_lan",
+        "ID": 3,
+        "Name": null
+    }
+]

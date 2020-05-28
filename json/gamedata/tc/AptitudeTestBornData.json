@@ -1,0 +1,46 @@
+[
+    {
+        "StageWeight": 70,
+        "BornBuff": 0,
+        "BuffEffect": [
+            0
+        ],
+        "BuffDesc": "0",
+        "ValidTime": 1440,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "StageWeight": 15,
+        "BornBuff": 0,
+        "BuffEffect": [
+            30001200
+        ],
+        "BuffDesc": "14934",
+        "ValidTime": 300,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "StageWeight": 10,
+        "BornBuff": 0,
+        "BuffEffect": [
+            30001201
+        ],
+        "BuffDesc": "14935",
+        "ValidTime": 120,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "StageWeight": 5,
+        "BornBuff": 0,
+        "BuffEffect": [
+            30001202
+        ],
+        "BuffDesc": "14936",
+        "ValidTime": 60,
+        "ID": 4,
+        "Name": null
+    }
+]

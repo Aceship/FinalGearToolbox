@@ -1,0 +1,677 @@
+[
+    {
+        "BossID": 7801,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "BossID": 7801,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "BossID": 7801,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "BossID": 7801,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "BossID": 7801,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "BossID": 7802,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "BossID": 7802,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "BossID": 7802,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "BossID": 7802,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "BossID": 7802,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "BossID": 7803,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "BossID": 7803,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "BossID": 7803,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "BossID": 7803,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "BossID": 7803,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "BossID": 7811,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "BossID": 7811,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "BossID": 7811,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "BossID": 7811,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "BossID": 7811,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "BossID": 7812,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "BossID": 7812,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "BossID": 7812,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "BossID": 7812,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "BossID": 7812,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "BossID": 7813,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "BossID": 7813,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "BossID": 7813,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "BossID": 7813,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "BossID": 7813,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "BossID": 7821,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "BossID": 7821,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "BossID": 7821,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "BossID": 7821,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "BossID": 7821,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "BossID": 7822,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "BossID": 7822,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "BossID": 7822,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "BossID": 7822,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "BossID": 7822,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "BossID": 7823,
+        "DamageLimit": [
+            0.7,
+            1.0
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            2,
+            10800002,
+            10
+        ],
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "BossID": 7823,
+        "DamageLimit": [
+            0.5,
+            0.7
+        ],
+        "Reward": [
+            13200243,
+            15,
+            10800001,
+            1,
+            10800002,
+            5
+        ],
+        "ID": 42,
+        "Name": null
+    },
+    {
+        "BossID": 7823,
+        "DamageLimit": [
+            0.2,
+            0.5
+        ],
+        "Reward": [
+            13200243,
+            10,
+            10900002,
+            1
+        ],
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "BossID": 7823,
+        "DamageLimit": [
+            0.1,
+            0.2
+        ],
+        "Reward": [
+            13200243,
+            5
+        ],
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "BossID": 7823,
+        "DamageLimit": [
+            0.0,
+            0.1
+        ],
+        "Reward": [
+            10400000,
+            500
+        ],
+        "ID": 45,
+        "Name": null
+    }
+]

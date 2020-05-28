@@ -572,7 +572,7 @@
         "Name": null
     },
     {
-        "dialogRoleName": "8979",
+        "dialogRoleName": "2800",
         "roleImgPath": "spine_Pilot_000450",
         "roleSpinePath": "spine_Pilot_000450",
         "headImgPath": "Head_Pilot_000450",
@@ -962,6 +962,19 @@
         "Name": null
     },
     {
+        "dialogRoleName": "苏茉拉",
+        "roleImgPath": "spine_Pilot_000640",
+        "roleSpinePath": "spine_Pilot_000640",
+        "headImgPath": "Head_Pilot_000640",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 640,
+        "Name": null
+    },
+    {
         "dialogRoleName": "11192",
         "roleImgPath": "spine_Pilot_null",
         "roleSpinePath": "spine_Pilot_null",
@@ -972,6 +985,32 @@
         "sortingOrder": 0,
         "offse_pos_y": 0.0,
         "ID": 999,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "15256",
+        "roleImgPath": "spine_Pilot_001170",
+        "roleSpinePath": "spine_Pilot_001170",
+        "headImgPath": "Head_Pilot_001170",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1170,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "欧泊",
+        "roleImgPath": "spine_Pilot_001210",
+        "roleSpinePath": "spine_Pilot_001210",
+        "headImgPath": "Head_Pilot_001210",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1211,
         "Name": null
     },
     {

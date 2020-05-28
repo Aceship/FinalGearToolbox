@@ -191,8 +191,8 @@
     },
     {
         "BannerName": "8896",
-        "OpenTime": "2020/3/18 14:30:00",
-        "CloseTime": "2020/4/1 13:59:59",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:59",
         "Device": 0,
         "PictureName": "gameActivitytaiwan21",
         "LinkPage": 11,
@@ -267,6 +267,86 @@
         "PictureName": "gameActivitytaiwan47",
         "LinkPage": 4,
         "ID": 27,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/13 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan48",
+        "LinkPage": 3,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/13 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan49",
+        "LinkPage": 4,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan50",
+        "LinkPage": 4,
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan52",
+        "LinkPage": 3,
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 4,
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "BannerName": "14322",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 14:31:59",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan51",
+        "LinkPage": 10,
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 3,
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:58",
+        "Device": 0,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 4,
+        "ID": 35,
         "Name": null
     },
     {
@@ -461,8 +541,8 @@
     },
     {
         "BannerName": "8896",
-        "OpenTime": "2020/3/18 14:30:00",
-        "CloseTime": "2020/4/1 13:59:59",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:59",
         "Device": 1,
         "PictureName": "gameActivitytaiwan21",
         "LinkPage": 11,
@@ -537,6 +617,86 @@
         "PictureName": "gameActivitytaiwan47",
         "LinkPage": 4,
         "ID": 127,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/13 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan48",
+        "LinkPage": 3,
+        "ID": 128,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/13 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan49",
+        "LinkPage": 4,
+        "ID": 129,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/4/29 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan50",
+        "LinkPage": 4,
+        "ID": 130,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan52",
+        "LinkPage": 3,
+        "ID": 131,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 4,
+        "ID": 132,
+        "Name": null
+    },
+    {
+        "BannerName": "14322",
+        "OpenTime": "2020/5/13 14:30:00",
+        "CloseTime": "2020/5/27 14:31:59",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan51",
+        "LinkPage": 10,
+        "ID": 133,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 3,
+        "ID": 134,
+        "Name": null
+    },
+    {
+        "BannerName": "",
+        "OpenTime": "2020/5/27 14:30:00",
+        "CloseTime": "2020/6/10 13:59:58",
+        "Device": 1,
+        "PictureName": "gameActivitytaiwan53",
+        "LinkPage": 4,
+        "ID": 135,
         "Name": null
     }
 ]

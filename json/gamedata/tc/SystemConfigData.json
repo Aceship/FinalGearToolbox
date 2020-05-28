@@ -1611,28 +1611,28 @@
     },
     {
         "Key": "泳装1期代币ID",
-        "Value": "11700001",
+        "Value": "11400015",
         "Desc": "",
         "ID": 231,
         "Name": null
     },
     {
         "Key": "泳装2期代币ID",
-        "Value": "11700002",
+        "Value": "11400016",
         "Desc": "",
         "ID": 232,
         "Name": null
     },
     {
         "Key": "泳装3期代币ID",
-        "Value": "11700003",
+        "Value": "11400017",
         "Desc": "",
         "ID": 233,
         "Name": null
     },
     {
         "Key": "泳装4期代币ID",
-        "Value": "11700004",
+        "Value": "11400018",
         "Desc": "",
         "ID": 234,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200022",
+        "Value": "200024,200023",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,14 +1730,14 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100029",
+        "Value": "10100036",
         "Desc": "",
         "ID": 248,
         "Name": null
     },
     {
         "Key": "部件兑换商店2代币id",
-        "Value": "19900043",
+        "Value": "19900050",
         "Desc": "",
         "ID": 249,
         "Name": null
@@ -1849,14 +1849,14 @@
     },
     {
         "Key": "万圣节商店1代币id",
-        "Value": "11400010",
+        "Value": "11400013",
         "Desc": "",
         "ID": 265,
         "Name": null
     },
     {
         "Key": "万圣节商店2代币id",
-        "Value": "11400011",
+        "Value": "11400014",
         "Desc": "",
         "ID": 266,
         "Name": null
@@ -2472,7 +2472,7 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_25",
+        "Value": "SkinActive_19,SkinActive_20",
         "Desc": "",
         "ID": 354,
         "Name": null
@@ -2517,6 +2517,195 @@
         "Value": "0.3",
         "Desc": "",
         "ID": 360,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestPhysicalRecover",
+        "Value": "13200242",
+        "Desc": "协力点数恢复道具",
+        "ID": 361,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestRecover",
+        "Value": "1,120",
+        "Desc": "协力点数恢复量(分钟)",
+        "ID": 362,
+        "Name": null
+    },
+    {
+        "Key": "AptitudeTestShopCoin",
+        "Value": "13200243",
+        "Desc": "能力测验副本兑换货币",
+        "ID": 363,
+        "Name": null
+    },
+    {
+        "Key": "BlockMaxNum",
+        "Value": "20",
+        "Desc": "好友屏蔽数量上限",
+        "ID": 364,
+        "Name": null
+    },
+    {
+        "Key": "FindBossMAX",
+        "Value": "10",
+        "Desc": "随机搜寻总体BOSS上限=10",
+        "ID": 365,
+        "Name": null
+    },
+    {
+        "Key": "FindBossMIN",
+        "Value": "5",
+        "Desc": "随机搜寻好友BOSS上限=5",
+        "ID": 366,
+        "Name": null
+    },
+    {
+        "Key": "FriendCountdown",
+        "Value": "30",
+        "Desc": "点击推荐好友的刷新按钮所需的倒计时（秒）",
+        "ID": 367,
+        "Name": null
+    },
+    {
+        "Key": "FriendMaxExp",
+        "Value": "500",
+        "Desc": "每天可以获得的友情点数量上限（任何途径，且保底防止bug）",
+        "ID": 368,
+        "Name": null
+    },
+    {
+        "Key": "FriendMaxNum",
+        "Value": "30",
+        "Desc": "好友数量上限",
+        "ID": 369,
+        "Name": null
+    },
+    {
+        "Key": "FriendPointItem",
+        "Value": "10100035,10",
+        "Desc": "收取礼物时可以获得的友情点道具ID和数量",
+        "ID": 370,
+        "Name": null
+    },
+    {
+        "Key": "FriendRequestMaxNum",
+        "Value": "10",
+        "Desc": "好友申请数量上限",
+        "ID": 371,
+        "Name": null
+    },
+    {
+        "Key": "GiftMaxExp",
+        "Value": "50",
+        "Desc": "每天可以获得的羁绊经验值上限（任何途径，且保底防止bug）",
+        "ID": 372,
+        "Name": null
+    },
+    {
+        "Key": "GiftReceiveExp",
+        "Value": "5",
+        "Desc": "收到礼物时可以获得的羁绊经验值（闲置）",
+        "ID": 373,
+        "Name": null
+    },
+    {
+        "Key": "GiftReceiveMaxTimes",
+        "Value": "10",
+        "Desc": "每天接受礼物的最大次数",
+        "ID": 374,
+        "Name": null
+    },
+    {
+        "Key": "GiftSendExp",
+        "Value": "5",
+        "Desc": "给好友送礼物时可以获得的羁绊经验值（闲置）",
+        "ID": 375,
+        "Name": null
+    },
+    {
+        "Key": "GiftSendMaxTimes",
+        "Value": "30",
+        "Desc": "每天给好友送礼物的最大次数",
+        "ID": 376,
+        "Name": null
+    },
+    {
+        "Key": "PhysicalMAX",
+        "Value": "10",
+        "Desc": "协力体力值上限=10",
+        "ID": 377,
+        "Name": null
+    },
+    {
+        "Key": "SameBossNumMAX",
+        "Value": "1",
+        "Desc": "协力同一BOSS的次数上限=1",
+        "ID": 378,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginBegin",
+        "Value": "2010/3/5 0:00:00",
+        "Desc": "用回流活动改的7日登陆-开始时间",
+        "ID": 379,
+        "Name": null
+    },
+    {
+        "Key": "SevenDayLoginEnd",
+        "Value": "2010/3/19 0:00:00",
+        "Desc": "用回流活动改的7日登陆-结束时间",
+        "ID": 380,
+        "Name": null
+    },
+    {
+        "Key": "SsameBossRecord",
+        "Value": "15",
+        "Desc": "查看协力日志上限=50",
+        "ID": 381,
+        "Name": null
+    },
+    {
+        "Key": "改名道具",
+        "Value": "10100002100",
+        "Desc": "改名需要消耗的道具",
+        "ID": 382,
+        "Name": null
+    },
+    {
+        "Key": "模拟训练道具",
+        "Value": "10100032",
+        "Desc": "",
+        "ID": 383,
+        "Name": null
+    },
+    {
+        "Key": "模拟训练点数",
+        "Value": "10100033",
+        "Desc": "",
+        "ID": 384,
+        "Name": null
+    },
+    {
+        "Key": "模拟训练购买挑战次数",
+        "Value": "10100002,50",
+        "Desc": "",
+        "ID": 385,
+        "Name": null
+    },
+    {
+        "Key": "模拟训练活动每日次数",
+        "Value": "10",
+        "Desc": "",
+        "ID": 386,
+        "Name": null
+    },
+    {
+        "Key": "友情点道具",
+        "Value": "10100035",
+        "Desc": "友情点道具ID",
+        "ID": 387,
         "Name": null
     }
 ]

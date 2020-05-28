@@ -1258,5 +1258,1265 @@
         "Weight": 100,
         "ID": 140,
         "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13200444,
+        "CriticalPointJackpotType": 0,
+        "Weight": 0,
+        "ID": 141,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 142,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 143,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14105001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 144,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16100001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 145,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 146,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16300001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 147,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16400001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 148,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16500001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 149,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16600001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 150,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 151,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104012,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 152,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 153,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 154,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11300000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 155,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 156,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10800001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 157,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 158,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 159,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 160,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 161,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104011,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 162,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10100018,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 163,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 164,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 165,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 166,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200003,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 167,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 168,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 169,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10600000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 170,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 171,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 172,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 173,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 174,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 175,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 176,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 177,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 178,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 179,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 180,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13200445,
+        "CriticalPointJackpotType": 0,
+        "Weight": 0,
+        "ID": 181,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 182,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 183,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14105001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 184,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16100001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 185,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 186,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16300001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 187,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16400001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 188,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16500001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 189,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16600001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 190,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 191,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104012,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 192,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 193,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 194,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11300000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 195,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 196,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10800001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 197,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 198,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 199,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 200,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 201,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104012,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 202,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 203,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 204,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11300000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 205,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 206,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10800001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 207,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 208,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 209,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 210,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 211,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104011,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 212,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10100018,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 213,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 214,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 215,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 216,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200003,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 217,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 218,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 219,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10600000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 220,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 221,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 222,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 223,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 224,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 225,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 226,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 227,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 228,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 229,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 230,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13200446,
+        "CriticalPointJackpotType": 0,
+        "Weight": 0,
+        "ID": 231,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 232,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 233,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14105001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 234,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16100001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 235,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 236,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16300001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 237,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16400001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 238,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16500001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 239,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 16600001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 240,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 241,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104012,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 242,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 243,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 244,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11300000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 245,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 246,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10800001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 247,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 248,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 249,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 250,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 251,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104012,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 252,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 253,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 254,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11300000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 255,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10900002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 256,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10800001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 257,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 258,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400006,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 259,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 260,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 261,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104011,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 262,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10100018,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 263,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400009,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 264,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 265,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 266,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200003,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 267,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103005,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 268,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 269,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10600000,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 270,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 271,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104010,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 272,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 273,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 10200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 274,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14104004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 275,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103004,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 276,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 14103007,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 277,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200001,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 278,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 11200002,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 279,
+        "Name": null
+    },
+    {
+        "ActivityID": 18,
+        "JackpotID": 0,
+        "StuffID": 13400008,
+        "CriticalPointJackpotType": 0,
+        "Weight": 100,
+        "ID": 280,
+        "Name": null
     }
 ]

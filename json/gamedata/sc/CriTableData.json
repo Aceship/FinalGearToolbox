@@ -5203,6 +5203,50 @@
         "Name": "技能-导弹连续发射"
     },
     {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Fall",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008100,
+        "Name": "技能-石碑-掉落"
+    },
+    {
+        "Description": "·",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Spin",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008110,
+        "Name": "技能-石碑-掉落-旋转"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Fall2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008120,
+        "Name": "技能-石碑-掉落小"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Summon_Baby",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008130,
+        "Name": "技能-召唤"
+    },
+    {
         "Description": "瞬闪-出现",
         "GroupTag": "一体机/01白鸦",
         "CueSheet": "SP",

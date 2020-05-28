@@ -65,7 +65,7 @@
         "Name": null
     },
     {
-        "ActivityType": 11,
+        "ActivityType": 6,
         "ActivityName": "12757",
         "ActivityEngName": "2233 Linkage",
         "ActivityDesc": "无",
@@ -205,6 +205,19 @@
         "ActivityOpenLimitType": 2,
         "ActivityOpenLimitPara": "20104",
         "ID": 17,
+        "Name": null
+    },
+    {
+        "ActivityType": 17,
+        "ActivityName": "17222",
+        "ActivityEngName": "Rampage in THE MOON",
+        "ActivityDesc": "无",
+        "ActivityOpenTime": "2020/6/11 14:30:00",
+        "ActivityCloseTime": "2020/6/25 13:59:59",
+        "ActivityIcon": "",
+        "ActivityOpenLimitType": 2,
+        "ActivityOpenLimitPara": "20104",
+        "ID": 18,
         "Name": null
     }
 ]
