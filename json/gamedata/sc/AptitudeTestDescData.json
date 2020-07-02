@@ -3,7 +3,7 @@
         "BossDesc": "小林汤圆<color=#e5e1e5>EASY</color>",
         "StageID": 7801,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [],
         "KillReward": [
             13200237,
@@ -25,7 +25,7 @@
         "BossDesc": "小林汤圆<color=#5ecdfb>NORMAL</color>",
         "StageID": 7802,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200230,
             1
@@ -50,7 +50,7 @@
         "BossDesc": "小林汤圆<color=#ed06f6>HARD</color>",
         "StageID": 7803,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200231,
             1
@@ -75,7 +75,7 @@
         "BossDesc": "索拉尔<color=#e5e1e5>EASY</color>",
         "StageID": 7811,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [],
         "KillReward": [
             13200237,
@@ -97,7 +97,7 @@
         "BossDesc": "索拉尔<color=#5ecdfb>NORMAL</color>",
         "StageID": 7812,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200240,
             1
@@ -122,7 +122,7 @@
         "BossDesc": "索拉尔<color=#ed06f6>HARD</color>",
         "StageID": 7813,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200241,
             1
@@ -147,7 +147,7 @@
         "BossDesc": "贝尔娜黛特<color=#e5e1e5>EASY</color>",
         "StageID": 7821,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [],
         "KillReward": [
             13200237,
@@ -169,7 +169,7 @@
         "BossDesc": "贝尔娜黛特<color=#5ecdfb>NORMAL</color>",
         "StageID": 7822,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200250,
             1
@@ -194,7 +194,7 @@
         "BossDesc": "贝尔娜黛特<color=#ed06f6>HARD</color>",
         "StageID": 7823,
         "CombineNum": 3,
-        "LimitConditionType": 0,
+        "LimitConditionType": "常驻",
         "LimitConditionNum": [
             13200251,
             1

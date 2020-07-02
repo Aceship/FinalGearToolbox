@@ -57,7 +57,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000000",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -122,7 +122,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000000,
         "Name": null
     },
@@ -184,7 +184,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000001",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -249,7 +249,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000001,
         "Name": null
     },
@@ -311,7 +311,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000002",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -376,7 +376,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000002,
         "Name": null
     },
@@ -438,7 +438,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000010",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -665,7 +665,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000010,
         "Name": null
     },
@@ -727,7 +727,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000020",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -845,7 +845,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000020,
         "Name": null
     },
@@ -907,7 +907,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000030",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1013,7 +1013,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000030,
         "Name": null
     },
@@ -1075,7 +1075,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000031",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1265,7 +1265,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000031,
         "Name": null
     },
@@ -1327,7 +1327,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000032",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1446,7 +1446,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000032,
         "Name": null
     },
@@ -1508,7 +1508,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000033",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1613,7 +1613,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000033,
         "Name": null
     },
@@ -1675,7 +1675,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000034",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1775,7 +1775,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000034,
         "Name": null
     },
@@ -1837,7 +1837,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000035",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -1977,7 +1977,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000035,
         "Name": null
     },
@@ -2039,7 +2039,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000036",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -2131,7 +2131,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000036,
         "Name": null
     },
@@ -2193,7 +2193,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000037",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -2392,7 +2392,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000037,
         "Name": null
     },
@@ -2454,7 +2454,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000038",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -2549,7 +2549,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000038,
         "Name": null
     },
@@ -2611,7 +2611,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000040",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -2838,7 +2838,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000040,
         "Name": null
     },
@@ -2900,7 +2900,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000041",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -3018,7 +3018,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000041,
         "Name": null
     },
@@ -3080,7 +3080,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000042",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -3180,7 +3180,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000042,
         "Name": null
     },
@@ -3242,7 +3242,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000043",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -3356,7 +3356,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000043,
         "Name": null
     },
@@ -3418,7 +3418,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000044",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -3510,7 +3510,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000044,
         "Name": null
     },
@@ -3572,7 +3572,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000045",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -3697,7 +3697,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000045,
         "Name": null
     },
@@ -3759,7 +3759,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000046",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -3864,7 +3864,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000046,
         "Name": null
     },
@@ -3926,7 +3926,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000047",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -4026,7 +4026,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000047,
         "Name": null
     },
@@ -4088,7 +4088,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000048",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -4188,7 +4188,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000048,
         "Name": null
     },
@@ -4250,7 +4250,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000070",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -4359,7 +4359,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000070,
         "Name": null
     },
@@ -4421,7 +4421,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000071",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -4530,7 +4530,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000071,
         "Name": null
     },
@@ -4592,7 +4592,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000072",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -4721,7 +4721,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000072,
         "Name": null
     },
@@ -4783,7 +4783,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000073",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -4920,7 +4920,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000073,
         "Name": null
     },
@@ -4982,7 +4982,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000074",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5087,7 +5087,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000074,
         "Name": null
     },
@@ -5149,7 +5149,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000075",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5249,7 +5249,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000075,
         "Name": null
     },
@@ -5311,7 +5311,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000076",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5416,7 +5416,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000076,
         "Name": null
     },
@@ -5478,7 +5478,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000077",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5578,7 +5578,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000077,
         "Name": null
     },
@@ -5640,7 +5640,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000078",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5735,7 +5735,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000078,
         "Name": null
     },
@@ -5797,7 +5797,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000080",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -5903,7 +5903,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000080,
         "Name": null
     },
@@ -5965,7 +5965,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000081",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -6074,7 +6074,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000081,
         "Name": null
     },
@@ -6136,7 +6136,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000082",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -6363,7 +6363,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000082,
         "Name": null
     },
@@ -6425,7 +6425,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000083",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -6551,7 +6551,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000083,
         "Name": null
     },
@@ -6613,7 +6613,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000084",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -6713,7 +6713,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000084,
         "Name": null
     },
@@ -6775,7 +6775,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000085",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -6880,7 +6880,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000085,
         "Name": null
     },
@@ -6942,7 +6942,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000086",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7047,7 +7047,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000086,
         "Name": null
     },
@@ -7109,7 +7109,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000087",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7232,7 +7232,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000087,
         "Name": null
     },
@@ -7294,7 +7294,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000088",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7394,7 +7394,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000088,
         "Name": null
     },
@@ -7456,7 +7456,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000090",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7562,7 +7562,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000090,
         "Name": null
     },
@@ -7624,7 +7624,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000091",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7746,7 +7746,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000091,
         "Name": null
     },
@@ -7808,7 +7808,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000092",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -7966,7 +7966,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000092,
         "Name": null
     },
@@ -8028,7 +8028,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000093",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8133,7 +8133,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000093,
         "Name": null
     },
@@ -8195,7 +8195,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000094",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8300,7 +8300,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000094,
         "Name": null
     },
@@ -8362,7 +8362,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000095",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8462,7 +8462,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000095,
         "Name": null
     },
@@ -8524,7 +8524,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000096",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8624,7 +8624,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000096,
         "Name": null
     },
@@ -8686,7 +8686,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000097",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8781,7 +8781,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000097,
         "Name": null
     },
@@ -8843,7 +8843,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000098",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -8938,7 +8938,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000098,
         "Name": null
     },
@@ -9000,7 +9000,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000100",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9088,7 +9088,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000100,
         "Name": null
     },
@@ -9150,7 +9150,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000110",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9258,7 +9258,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000110,
         "Name": null
     },
@@ -9320,7 +9320,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000111",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9426,7 +9426,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000111,
         "Name": null
     },
@@ -9488,7 +9488,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000112",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9632,7 +9632,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000112,
         "Name": null
     },
@@ -9694,7 +9694,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000113",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9786,7 +9786,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000113,
         "Name": null
     },
@@ -9848,7 +9848,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000114",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -9953,7 +9953,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000114,
         "Name": null
     },
@@ -10015,7 +10015,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000115",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -10120,7 +10120,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000115,
         "Name": null
     },
@@ -10182,7 +10182,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000116",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -10300,7 +10300,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000116,
         "Name": null
     },
@@ -10362,7 +10362,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000117",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -10485,7 +10485,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000117,
         "Name": null
     },
@@ -10547,7 +10547,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000118",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -10642,7 +10642,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000118,
         "Name": null
     },
@@ -10704,7 +10704,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000120",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -10813,7 +10813,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000120,
         "Name": null
     },
@@ -10875,7 +10875,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000121",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -10984,7 +10984,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000121,
         "Name": null
     },
@@ -11046,7 +11046,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000122",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -11225,7 +11225,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000122,
         "Name": null
     },
@@ -11287,7 +11287,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000123",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -11392,7 +11392,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000123,
         "Name": null
     },
@@ -11454,7 +11454,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000124",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -11554,7 +11554,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000124,
         "Name": null
     },
@@ -11616,7 +11616,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000125",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -11711,7 +11711,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000125,
         "Name": null
     },
@@ -11773,7 +11773,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000126",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -11886,7 +11886,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000126,
         "Name": null
     },
@@ -11948,7 +11948,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000127",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -12038,7 +12038,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000127,
         "Name": null
     },
@@ -12100,7 +12100,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000128",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -12242,7 +12242,7 @@
             33000014
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000128,
         "Name": null
     },
@@ -12304,7 +12304,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000130",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -12408,7 +12408,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000130,
         "Name": null
     },
@@ -12470,7 +12470,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000140",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -12562,7 +12562,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000140,
         "Name": null
     },
@@ -12624,7 +12624,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000141",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -12716,7 +12716,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000141,
         "Name": null
     },
@@ -12778,7 +12778,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000142",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -12955,7 +12955,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000142,
         "Name": null
     },
@@ -13017,7 +13017,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000143",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13165,7 +13165,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000143,
         "Name": null
     },
@@ -13227,7 +13227,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000144",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13332,7 +13332,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000144,
         "Name": null
     },
@@ -13394,7 +13394,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000145",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13489,7 +13489,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000145,
         "Name": null
     },
@@ -13551,7 +13551,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000146",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13656,7 +13656,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000146,
         "Name": null
     },
@@ -13718,7 +13718,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000147",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13818,7 +13818,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000147,
         "Name": null
     },
@@ -13880,7 +13880,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000148",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -13975,7 +13975,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000148,
         "Name": null
     },
@@ -14037,7 +14037,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000150",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -14314,7 +14314,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000150,
         "Name": null
     },
@@ -14376,7 +14376,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000160",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -14494,7 +14494,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000160,
         "Name": null
     },
@@ -14556,7 +14556,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000170",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -14662,7 +14662,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000170,
         "Name": null
     },
@@ -14724,7 +14724,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000171",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -14813,7 +14813,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000171,
         "Name": null
     },
@@ -14875,7 +14875,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000172",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15016,7 +15016,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000172,
         "Name": null
     },
@@ -15078,7 +15078,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000173",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15183,7 +15183,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000173,
         "Name": null
     },
@@ -15245,7 +15245,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000174",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15345,7 +15345,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000174,
         "Name": null
     },
@@ -15407,7 +15407,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000175",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15507,7 +15507,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000175,
         "Name": null
     },
@@ -15569,7 +15569,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000176",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15669,7 +15669,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000176,
         "Name": null
     },
@@ -15731,7 +15731,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000177",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15831,7 +15831,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000177,
         "Name": null
     },
@@ -15893,7 +15893,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000178",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -15988,7 +15988,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000178,
         "Name": null
     },
@@ -16050,7 +16050,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000180",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -16159,7 +16159,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000180,
         "Name": null
     },
@@ -16221,7 +16221,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000181",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -16329,7 +16329,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000181,
         "Name": null
     },
@@ -16391,7 +16391,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000182",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -16550,7 +16550,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000182,
         "Name": null
     },
@@ -16612,7 +16612,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000183",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -16717,7 +16717,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000183,
         "Name": null
     },
@@ -16779,7 +16779,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000184",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -16902,7 +16902,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000184,
         "Name": null
     },
@@ -16964,7 +16964,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000185",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -17054,7 +17054,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000185,
         "Name": null
     },
@@ -17116,7 +17116,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000186",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -17229,7 +17229,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000186,
         "Name": null
     },
@@ -17291,7 +17291,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000187",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -17445,7 +17445,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000187,
         "Name": null
     },
@@ -17507,7 +17507,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000188",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -17638,7 +17638,7 @@
             33000014
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000188,
         "Name": null
     },
@@ -17700,7 +17700,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000200",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -17792,7 +17792,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000200,
         "Name": null
     },
@@ -17854,7 +17854,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000201",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -17945,7 +17945,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000201,
         "Name": null
     },
@@ -18007,7 +18007,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000202",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18131,7 +18131,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000202,
         "Name": null
     },
@@ -18193,7 +18193,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000203",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18298,7 +18298,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000203,
         "Name": null
     },
@@ -18360,7 +18360,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000204",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18455,7 +18455,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000204,
         "Name": null
     },
@@ -18517,7 +18517,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000205",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18617,7 +18617,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000205,
         "Name": null
     },
@@ -18679,7 +18679,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000206",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18774,7 +18774,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000206,
         "Name": null
     },
@@ -18836,7 +18836,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000207",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -18936,7 +18936,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000207,
         "Name": null
     },
@@ -18998,7 +18998,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000208",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -19093,7 +19093,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000208,
         "Name": null
     },
@@ -19155,7 +19155,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000210",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -19266,7 +19266,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000210,
         "Name": null
     },
@@ -19328,7 +19328,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000211",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -19420,7 +19420,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000211,
         "Name": null
     },
@@ -19482,7 +19482,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000212",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -19623,7 +19623,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000212,
         "Name": null
     },
@@ -19685,7 +19685,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000213",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -19773,7 +19773,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000213,
         "Name": null
     },
@@ -19835,7 +19835,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000214",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -19973,7 +19973,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000214,
         "Name": null
     },
@@ -20035,7 +20035,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000215",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -20130,7 +20130,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000215,
         "Name": null
     },
@@ -20192,7 +20192,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000216",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -20310,7 +20310,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000216,
         "Name": null
     },
@@ -20372,7 +20372,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000217",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -20516,7 +20516,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000217,
         "Name": null
     },
@@ -20578,7 +20578,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000218",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -20709,7 +20709,7 @@
             33000015
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000218,
         "Name": null
     },
@@ -20771,7 +20771,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000220",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -20866,7 +20866,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000220,
         "Name": null
     },
@@ -20928,7 +20928,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000230",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -21085,7 +21085,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000230,
         "Name": null
     },
@@ -21147,7 +21147,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000240",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -21242,7 +21242,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000240,
         "Name": null
     },
@@ -21304,7 +21304,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000250",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -21399,7 +21399,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000250,
         "Name": null
     },
@@ -21461,7 +21461,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000270",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -21586,7 +21586,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000270,
         "Name": null
     },
@@ -21648,7 +21648,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000271",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -21740,7 +21740,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000271,
         "Name": null
     },
@@ -21802,7 +21802,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000272",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -21955,7 +21955,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000272,
         "Name": null
     },
@@ -22017,7 +22017,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000273",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22122,7 +22122,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000273,
         "Name": null
     },
@@ -22184,7 +22184,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000274",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22279,7 +22279,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000274,
         "Name": null
     },
@@ -22341,7 +22341,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000275",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22441,7 +22441,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000275,
         "Name": null
     },
@@ -22503,7 +22503,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000276",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22621,7 +22621,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000276,
         "Name": null
     },
@@ -22683,7 +22683,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000277",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22801,7 +22801,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000277,
         "Name": null
     },
@@ -22863,7 +22863,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000278",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -22981,7 +22981,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000278,
         "Name": null
     },
@@ -23043,7 +23043,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000280",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -23143,7 +23143,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000280,
         "Name": null
     },
@@ -23205,7 +23205,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000290",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -23326,7 +23326,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000290,
         "Name": null
     },
@@ -23388,7 +23388,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000291",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -23513,7 +23513,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000291,
         "Name": null
     },
@@ -23575,7 +23575,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000292",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -23712,7 +23712,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000292,
         "Name": null
     },
@@ -23774,7 +23774,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000293",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24079,7 +24079,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000293,
         "Name": null
     },
@@ -24141,7 +24141,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000294",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24241,7 +24241,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000294,
         "Name": null
     },
@@ -24303,7 +24303,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000295",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24403,7 +24403,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000295,
         "Name": null
     },
@@ -24465,7 +24465,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000296",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24565,7 +24565,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000296,
         "Name": null
     },
@@ -24627,7 +24627,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000297",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24722,7 +24722,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000297,
         "Name": null
     },
@@ -24784,7 +24784,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000298",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -24879,7 +24879,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000298,
         "Name": null
     },
@@ -24941,7 +24941,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000300",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -25036,7 +25036,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000300,
         "Name": null
     },
@@ -25098,7 +25098,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000310",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -25203,7 +25203,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000310,
         "Name": null
     },
@@ -25265,7 +25265,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000320",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -25365,7 +25365,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000320,
         "Name": null
     },
@@ -25427,7 +25427,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000330",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -25536,7 +25536,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000330,
         "Name": null
     },
@@ -25598,7 +25598,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000340",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -25716,7 +25716,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000340,
         "Name": null
     },
@@ -25778,7 +25778,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000350",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -25903,7 +25903,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000350,
         "Name": null
     },
@@ -25965,7 +25965,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000370",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -26060,7 +26060,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000370,
         "Name": null
     },
@@ -26122,7 +26122,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000380",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -26247,7 +26247,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000380,
         "Name": null
     },
@@ -26309,7 +26309,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000381",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "04受击_防御",
             "scale": 1.0
@@ -26434,7 +26434,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000381,
         "Name": null
     },
@@ -26496,7 +26496,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000382",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -26619,7 +26619,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000382,
         "Name": null
     },
@@ -26681,7 +26681,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000383",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -26769,7 +26769,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000383,
         "Name": null
     },
@@ -26831,7 +26831,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000384",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -26931,7 +26931,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000384,
         "Name": null
     },
@@ -26993,7 +26993,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000385",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -27098,7 +27098,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000385,
         "Name": null
     },
@@ -27160,7 +27160,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000386",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -27255,7 +27255,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000386,
         "Name": null
     },
@@ -27317,7 +27317,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000387",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -27488,7 +27488,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000387,
         "Name": null
     },
@@ -27550,7 +27550,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000388",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -27640,7 +27640,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000388,
         "Name": null
     },
@@ -27702,7 +27702,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000390",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -27860,7 +27860,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000390,
         "Name": null
     },
@@ -27922,7 +27922,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000400",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28064,7 +28064,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000400,
         "Name": null
     },
@@ -28126,7 +28126,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000410",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28221,7 +28221,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000410,
         "Name": null
     },
@@ -28283,7 +28283,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000420",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28406,7 +28406,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000420,
         "Name": null
     },
@@ -28468,7 +28468,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000430",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28573,7 +28573,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000430,
         "Name": null
     },
@@ -28635,7 +28635,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000440",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28756,7 +28756,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000440,
         "Name": null
     },
@@ -28818,7 +28818,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000450",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -28940,7 +28940,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000450,
         "Name": null
     },
@@ -29002,7 +29002,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000470",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -29160,7 +29160,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000470,
         "Name": null
     },
@@ -29222,7 +29222,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000480",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -29316,7 +29316,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000480,
         "Name": null
     },
@@ -29378,7 +29378,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000490",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -29478,7 +29478,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000490,
         "Name": null
     },
@@ -29540,7 +29540,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000491",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -29689,7 +29689,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000491,
         "Name": null
     },
@@ -29751,7 +29751,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000492",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -29846,7 +29846,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000492,
         "Name": null
     },
@@ -29908,7 +29908,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000500",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30003,7 +30003,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000500,
         "Name": null
     },
@@ -30065,7 +30065,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000510",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30207,7 +30207,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000510,
         "Name": null
     },
@@ -30269,7 +30269,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000520",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30364,7 +30364,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000520,
         "Name": null
     },
@@ -30426,7 +30426,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000530",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30593,7 +30593,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000530,
         "Name": null
     },
@@ -30655,7 +30655,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000550",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30776,7 +30776,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000550,
         "Name": null
     },
@@ -30838,7 +30838,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000560",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -30943,7 +30943,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000560,
         "Name": null
     },
@@ -31005,7 +31005,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000580",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -31163,7 +31163,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000580,
         "Name": null
     },
@@ -31225,7 +31225,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000590",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -31325,7 +31325,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000590,
         "Name": null
     },
@@ -31387,7 +31387,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000600",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": {
             "asset": "HitSpark/04受击_防御",
             "scale": 1.0
@@ -31496,7 +31496,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000600,
         "Name": null
     },
@@ -31558,7 +31558,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000610",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -31657,7 +31657,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000610,
         "Name": null
     },
@@ -31719,7 +31719,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000630",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -31819,7 +31819,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000630,
         "Name": null
     },
@@ -31881,7 +31881,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000640",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -31976,7 +31976,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000640,
         "Name": null
     },
@@ -32038,7 +32038,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Arm_000650",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100007,
@@ -32179,7 +32179,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21000650,
         "Name": null
     },
@@ -32241,7 +32241,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -32313,7 +32313,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010000,
         "Name": null
     },
@@ -32375,7 +32375,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -32580,7 +32580,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010010,
         "Name": null
     },
@@ -32642,7 +32642,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -32847,7 +32847,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010011,
         "Name": null
     },
@@ -32909,7 +32909,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -33114,12 +33114,14 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010012,
         "Name": null
     },
     {
         "reloadTimeRatio": 1.0,
+<<<<<<< HEAD
+=======
         "dumbFireTime": 0.0,
         "bulletResistance": 0.0,
         "showBulletBar": true,
@@ -33176,7 +33178,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -33380,12 +33382,13 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010020,
         "Name": null
     },
     {
         "reloadTimeRatio": 1.0,
+>>>>>>> parent of 269e0ad... sc 1130100
         "dumbFireTime": 0.0,
         "bulletResistance": 0.0,
         "showBulletBar": true,
@@ -33442,7 +33445,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -33628,7 +33631,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010021,
         "Name": null
     },
@@ -33690,7 +33693,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -33894,7 +33897,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010022,
         "Name": null
     },
@@ -33956,7 +33959,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -34160,7 +34163,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010023,
         "Name": null
     },
@@ -34222,7 +34225,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -34491,7 +34494,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010030,
         "Name": null
     },
@@ -34553,7 +34556,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -34822,7 +34825,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010031,
         "Name": null
     },
@@ -34884,7 +34887,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -35153,7 +35156,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010032,
         "Name": null
     },
@@ -35215,7 +35218,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -35484,7 +35487,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010033,
         "Name": null
     },
@@ -35546,7 +35549,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -35815,7 +35818,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010034,
         "Name": null
     },
@@ -35877,7 +35880,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -36057,7 +36060,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010040,
         "Name": null
     },
@@ -36119,7 +36122,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -36291,7 +36294,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010050,
         "Name": null
     },
@@ -36353,7 +36356,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -36525,7 +36528,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010051,
         "Name": null
     },
@@ -36587,7 +36590,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -36759,7 +36762,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010052,
         "Name": null
     },
@@ -36821,7 +36824,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -36955,7 +36958,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010060,
         "Name": null
     },
@@ -37017,7 +37020,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -37393,7 +37396,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010070,
         "Name": null
     },
@@ -37455,7 +37458,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -37831,7 +37834,7 @@
             33000012
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010071,
         "Name": null
     },
@@ -37893,7 +37896,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -38064,7 +38067,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010080,
         "Name": null
     },
@@ -38126,7 +38129,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -38297,7 +38300,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010081,
         "Name": null
     },
@@ -38359,7 +38362,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -38511,7 +38514,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010090,
         "Name": null
     },
@@ -38573,7 +38576,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -38736,7 +38739,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010100,
         "Name": null
     },
@@ -38798,7 +38801,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -38961,7 +38964,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010101,
         "Name": null
     },
@@ -39023,7 +39026,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -39186,7 +39189,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010102,
         "Name": null
     },
@@ -39248,7 +39251,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -39380,7 +39383,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010110,
         "Name": null
     },
@@ -39442,7 +39445,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -39596,7 +39599,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010120,
         "Name": null
     },
@@ -39658,7 +39661,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -39826,7 +39829,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010130,
         "Name": null
     },
@@ -39888,7 +39891,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -40022,7 +40025,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010150,
         "Name": null
     },
@@ -40084,7 +40087,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -40218,7 +40221,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010151,
         "Name": null
     },
@@ -40280,7 +40283,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -40414,7 +40417,7 @@
             33000010
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010160,
         "Name": null
     },
@@ -40476,7 +40479,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -40727,7 +40730,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010170,
         "Name": null
     },
@@ -40789,7 +40792,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -41040,7 +41043,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010171,
         "Name": null
     },
@@ -41102,7 +41105,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -41353,7 +41356,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010172,
         "Name": null
     },
@@ -41415,7 +41418,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -41666,7 +41669,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010173,
         "Name": null
     },
@@ -41728,7 +41731,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -41843,7 +41846,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010190,
         "Name": null
     },
@@ -41905,7 +41908,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -42020,7 +42023,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010192,
         "Name": null
     },
@@ -42082,7 +42085,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -42197,7 +42200,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010193,
         "Name": null
     },
@@ -42259,7 +42262,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -42496,7 +42499,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010210,
         "Name": null
     },
@@ -42558,7 +42561,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -42795,7 +42798,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010211,
         "Name": null
     },
@@ -42857,7 +42860,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -43094,7 +43097,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010212,
         "Name": null
     },
@@ -43156,7 +43159,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -43434,7 +43437,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010220,
         "Name": null
     },
@@ -43496,7 +43499,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -43781,7 +43784,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010230,
         "Name": null
     },
@@ -43843,7 +43846,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -44128,7 +44131,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010231,
         "Name": null
     },
@@ -44190,7 +44193,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -44342,7 +44345,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010240,
         "Name": null
     },
@@ -44404,7 +44407,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -44556,7 +44559,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010241,
         "Name": null
     },
@@ -44618,7 +44621,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -44770,7 +44773,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010242,
         "Name": null
     },
@@ -44832,7 +44835,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -44984,7 +44987,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010243,
         "Name": null
     },
@@ -45046,7 +45049,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -45198,7 +45201,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010244,
         "Name": null
     },
@@ -45260,7 +45263,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -45496,7 +45499,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010250,
         "Name": null
     },
@@ -45558,7 +45561,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -45794,7 +45797,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010251,
         "Name": null
     },
@@ -45856,7 +45859,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -46148,7 +46151,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010260,
         "Name": null
     },
@@ -46210,7 +46213,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -46346,7 +46349,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010270,
         "Name": null
     },
@@ -46408,7 +46411,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -46544,7 +46547,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010271,
         "Name": null
     },
@@ -46606,7 +46609,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -46742,7 +46745,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010272,
         "Name": null
     },
@@ -46804,7 +46807,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -47047,7 +47050,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010280,
         "Name": null
     },
@@ -47109,7 +47112,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -47437,7 +47440,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010290,
         "Name": null
     },
@@ -47499,7 +47502,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -47627,7 +47630,7 @@
             33000011
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010310,
         "Name": null
     },
@@ -47689,7 +47692,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -47867,7 +47870,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010320,
         "Name": null
     },
@@ -47929,7 +47932,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -48107,7 +48110,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010321,
         "Name": null
     },
@@ -48169,7 +48172,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -48359,7 +48362,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010330,
         "Name": null
     },
@@ -48421,7 +48424,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -48611,7 +48614,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010331,
         "Name": null
     },
@@ -48673,7 +48676,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -48948,7 +48951,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010340,
         "Name": null
     },
@@ -49010,7 +49013,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -49287,7 +49290,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010350,
         "Name": null
     },
@@ -49349,7 +49352,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -49604,7 +49607,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010370,
         "Name": null
     },
@@ -49666,7 +49669,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -49804,7 +49807,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010380,
         "Name": null
     },
@@ -49866,7 +49869,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -50024,7 +50027,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010390,
         "Name": null
     },
@@ -50086,7 +50089,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -50244,7 +50247,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010391,
         "Name": null
     },
@@ -50306,7 +50309,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -50496,7 +50499,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010410,
         "Name": null
     },
@@ -50558,7 +50561,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -50761,12 +50764,12 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010420,
         "Name": null
     },
     {
-        "reloadTimeRatio": 2.0,
+        "reloadTimeRatio": 1.0,
         "dumbFireTime": 0.0,
         "bulletResistance": 0.0,
         "showBulletBar": true,
@@ -50823,7 +50826,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -50940,18 +50943,93 @@
                 "type": 0
             }
         ],
+<<<<<<< HEAD
+        "eventEffectDatas": [
+            {
+                "eventName": "actionEvent",
+                "boneName": "a_Armor_000510",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_EVA六号机攻击1",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": [],
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent2",
+                "boneName": "a_Armor_000510",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_EVA六号机攻击2",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": [],
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent3",
+                "boneName": "a_Armor_000510",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_EVA六号机攻击3",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": [],
+                "soundID": null
+            },
+            {
+                "eventName": "actionEvent4",
+                "boneName": "a_Armor_000510",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 30,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_EVA六号机瞬闪",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": [],
+                "soundID": {
+                    "delayTime": 0.0,
+                    "delayStopTime": 0.0,
+                    "removeWhenAnimationEnd": false,
+                    "soundID": 550008200
+                }
+            }
+=======
         "eventEffectDatas": [],
         "skills": [
             33000012
+>>>>>>> parent of 269e0ad... sc 1130100
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010450,
         "Name": null
+<<<<<<< HEAD
+=======
     },
     {
         "reloadTimeRatio": 1.0,
-        "dumbFireTime": 0.0,
+        "dumbFireTime": 1.5,
         "bulletResistance": 0.0,
         "showBulletBar": true,
         "rangeData": {
@@ -51007,7 +51085,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "",
-        "movieChannel": 2,
+        "movieChannel": "通道2",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -51208,8 +51286,9 @@
             33000014
         ],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 21010460,
         "Name": null
+>>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

@@ -1,0 +1,434 @@
+[
+    {
+        "Chapter": 1,
+        "Class": 1,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 1,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 1,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 2,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 2,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 2,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 3,
+        "Star": 2,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 3,
+        "Star": 4,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "Chapter": 1,
+        "Class": 3,
+        "Star": 6,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 1,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 1,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 1,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 2,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 2,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 2,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 3,
+        "Star": 2,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 3,
+        "Star": 4,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "Chapter": 2,
+        "Class": 3,
+        "Star": 6,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 1,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 1,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 1,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 2,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 2,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 2,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 3,
+        "Star": 2,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 3,
+        "Star": 4,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "Chapter": 3,
+        "Class": 3,
+        "Star": 6,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 1,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 1,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 1,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 2,
+        "Star": 10,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 2,
+        "Star": 16,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 2,
+        "Star": 24,
+        "Award": [
+            13700020,
+            3
+        ],
+        "Desc": "18057",
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 3,
+        "Star": 2,
+        "Award": [
+            13700006,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 3,
+        "Star": 4,
+        "Award": [
+            13700010,
+            5
+        ],
+        "Desc": "18057",
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "Chapter": 4,
+        "Class": 3,
+        "Star": 6,
+        "Award": [
+            13700136,
+            1
+        ],
+        "Desc": "18057",
+        "ID": 36,
+        "Name": null
+    }
+]

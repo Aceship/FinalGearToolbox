@@ -5685,7 +5685,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5708,7 +5708,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5731,7 +5731,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5754,7 +5754,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5777,7 +5777,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5800,7 +5800,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5823,7 +5823,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5846,7 +5846,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5869,7 +5869,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5892,7 +5892,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5915,7 +5915,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5938,7 +5938,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5961,7 +5961,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -5984,7 +5984,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6007,7 +6007,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6030,7 +6030,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6053,7 +6053,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6076,7 +6076,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6099,7 +6099,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6122,7 +6122,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6145,7 +6145,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6168,7 +6168,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6191,7 +6191,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6214,7 +6214,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6237,7 +6237,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6260,7 +6260,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6283,7 +6283,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6306,7 +6306,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6329,7 +6329,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6352,7 +6352,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6375,7 +6375,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6398,7 +6398,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6421,7 +6421,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6444,7 +6444,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6467,7 +6467,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6490,7 +6490,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6513,7 +6513,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6536,7 +6536,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6559,7 +6559,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6582,7 +6582,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6605,7 +6605,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6628,7 +6628,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6651,7 +6651,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6674,7 +6674,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6697,7 +6697,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 27
@@ -6720,7 +6720,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 9,
+        "EquipSubType": "轻型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6743,7 +6743,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 9,
+        "EquipSubType": "轻型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6766,7 +6766,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 9,
+        "EquipSubType": "轻型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6789,7 +6789,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 9,
+        "EquipSubType": "轻型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6812,7 +6812,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 9,
+        "EquipSubType": "轻型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6835,7 +6835,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 10,
+        "EquipSubType": "中型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6858,7 +6858,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 10,
+        "EquipSubType": "中型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6881,7 +6881,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 10,
+        "EquipSubType": "中型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6904,7 +6904,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 10,
+        "EquipSubType": "中型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6927,7 +6927,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 10,
+        "EquipSubType": "中型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6950,7 +6950,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 11,
+        "EquipSubType": "重型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6973,7 +6973,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 11,
+        "EquipSubType": "重型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -6996,7 +6996,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 11,
+        "EquipSubType": "重型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7019,7 +7019,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 11,
+        "EquipSubType": "重型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7042,7 +7042,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 11,
+        "EquipSubType": "重型输出胸甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7065,7 +7065,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 14,
+        "EquipSubType": "轻型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7088,7 +7088,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 14,
+        "EquipSubType": "轻型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7111,7 +7111,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 14,
+        "EquipSubType": "轻型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7134,7 +7134,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 14,
+        "EquipSubType": "轻型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7157,7 +7157,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 14,
+        "EquipSubType": "轻型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7180,7 +7180,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 15,
+        "EquipSubType": "中型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7203,7 +7203,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 15,
+        "EquipSubType": "中型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7226,7 +7226,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 15,
+        "EquipSubType": "中型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7249,7 +7249,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 15,
+        "EquipSubType": "中型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7272,7 +7272,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 15,
+        "EquipSubType": "中型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7295,7 +7295,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 16,
+        "EquipSubType": "重型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7318,7 +7318,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 16,
+        "EquipSubType": "重型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7341,7 +7341,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 16,
+        "EquipSubType": "重型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7364,7 +7364,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 16,
+        "EquipSubType": "重型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7387,7 +7387,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 16,
+        "EquipSubType": "重型输出腿甲",
         "GirlProperty": {
             "keys": [
                 23
@@ -7410,7 +7410,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 19,
+        "EquipSubType": "轻型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7433,7 +7433,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 19,
+        "EquipSubType": "轻型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7456,7 +7456,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 19,
+        "EquipSubType": "轻型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7479,7 +7479,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 19,
+        "EquipSubType": "轻型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7502,7 +7502,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 19,
+        "EquipSubType": "轻型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7525,7 +7525,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 20,
+        "EquipSubType": "中型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7548,7 +7548,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 20,
+        "EquipSubType": "中型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7571,7 +7571,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 20,
+        "EquipSubType": "中型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7594,7 +7594,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 20,
+        "EquipSubType": "中型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7617,7 +7617,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 20,
+        "EquipSubType": "中型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7640,7 +7640,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 21,
+        "EquipSubType": "重型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7663,7 +7663,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 21,
+        "EquipSubType": "重型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7686,7 +7686,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 21,
+        "EquipSubType": "重型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7709,7 +7709,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 21,
+        "EquipSubType": "重型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7732,7 +7732,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 21,
+        "EquipSubType": "重型输出挂载",
         "GirlProperty": {
             "keys": [
                 27
@@ -7755,7 +7755,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7778,7 +7778,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7801,7 +7801,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7824,7 +7824,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7847,7 +7847,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 0,
+        "EquipSubType": "壁垒武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7870,7 +7870,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7893,7 +7893,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7916,7 +7916,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7939,7 +7939,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7962,7 +7962,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 1,
+        "EquipSubType": "片手武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -7985,7 +7985,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8008,7 +8008,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8031,7 +8031,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8054,7 +8054,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8077,7 +8077,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 2,
+        "EquipSubType": "突击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8100,7 +8100,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8123,7 +8123,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8146,7 +8146,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8169,7 +8169,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8192,7 +8192,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 3,
+        "EquipSubType": "强袭武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8215,7 +8215,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8238,7 +8238,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8261,7 +8261,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8284,7 +8284,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8307,7 +8307,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 4,
+        "EquipSubType": "机枪武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8330,7 +8330,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8353,7 +8353,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8376,7 +8376,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8399,7 +8399,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8422,7 +8422,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 5,
+        "EquipSubType": "冲锋武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8445,7 +8445,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8468,7 +8468,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8491,7 +8491,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8514,7 +8514,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8537,7 +8537,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 6,
+        "EquipSubType": "狙击武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8560,7 +8560,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8583,7 +8583,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8606,7 +8606,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8629,7 +8629,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8652,7 +8652,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 7,
+        "EquipSubType": "火炮武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8675,7 +8675,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8698,7 +8698,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8721,7 +8721,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8744,7 +8744,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -8767,7 +8767,7 @@
         "Param4": 0,
         "RoomTypeCond": 0,
         "OrderTypeCond": 0,
-        "EquipSubType": 8,
+        "EquipSubType": "投射武器",
         "GirlProperty": {
             "keys": [
                 54
@@ -23109,5 +23109,1936 @@
         "BuffIconType": "",
         "ID": 11245,
         "Name": null
+<<<<<<< HEAD
+    },
+    {
+        "EffectDesc": "18221",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30011,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18221",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30012,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18221",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30013,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18221",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30014,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18221",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30015,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18222",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30021,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18222",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30022,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18222",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30023,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18223",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30031,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18223",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30032,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18223",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30033,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18223",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30034,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18223",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30035,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18224",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30041,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18224",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30042,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18224",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                56
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30043,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18225",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30051,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18225",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30052,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18225",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30053,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18225",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30054,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18225",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30055,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18226",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30061,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18226",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30062,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18226",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30063,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18227",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30071,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18227",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30072,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18227",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30073,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18227",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30074,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18227",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30075,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18228",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30081,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18228",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30082,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18228",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                43
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30083,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18229",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30091,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18229",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30092,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18229",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30093,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18229",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30094,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18229",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30095,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18230",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30101,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18230",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30102,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18230",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30103,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18231",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30111,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18231",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30112,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18231",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30113,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18231",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30114,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18231",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30115,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18232",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30121,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18232",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30122,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18232",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30123,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18233",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30131,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18233",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30132,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18233",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30133,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18233",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30134,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18233",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30135,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18234",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30141,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18234",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30142,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18234",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30143,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18235",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30151,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18235",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30152,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18235",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30153,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18235",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.04
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30154,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18235",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30155,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18236",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.01
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30161,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18236",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.02
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30162,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18236",
+        "EffectType": 161,
+        "Param1": 0,
+        "Param2": 0,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": [
+                95
+            ],
+            "values": [
+                0.03
+            ],
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30163,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30171,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 10,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30172,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30173,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 20,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30174,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30175,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30181,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30182,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18237",
+        "EffectType": 160,
+        "Param1": 1,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30183,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30191,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 10,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30192,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30193,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 20,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30194,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30195,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30201,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30202,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18238",
+        "EffectType": 160,
+        "Param1": 2,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30203,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30211,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 10,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30212,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30213,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 20,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30214,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30215,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 5,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30221,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 15,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30222,
+        "Name": null
+    },
+    {
+        "EffectDesc": "18239",
+        "EffectType": 160,
+        "Param1": 3,
+        "Param2": 25,
+        "Param3": 0,
+        "Param4": 0,
+        "RoomTypeCond": 0,
+        "OrderTypeCond": 0,
+        "EquipSubType": 26,
+        "GirlProperty": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "BuffIconType": "",
+        "ID": 30223,
+        "Name": null
+=======
+>>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

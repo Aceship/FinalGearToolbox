@@ -34081,6 +34081,22 @@
                 ],
                 "screenShakeIDs": null,
                 "soundID": null
+            },
+            {
+                "eventName": "actionEvent7",
+                "boneName": "a_Armor_000370_2",
+                "followBone": false,
+                "followBoneRotation": false,
+                "followDirection": false,
+                "extraSortingOrder": 10,
+                "resourceIDs": [
+                    {
+                        "asset": "actioneffect/00其他_圆流极意碎机甲",
+                        "scale": 1.0
+                    }
+                ],
+                "screenShakeIDs": null,
+                "soundID": null
             }
         ],
         "skills": [

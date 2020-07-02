@@ -1,0 +1,290 @@
+[
+    {
+        "Chat": "18129",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9000,
+        "Name": null
+    },
+    {
+        "Chat": "18130",
+        "Guide": "",
+        "Parameter": 2,
+        "TalkGirlSkinID": 101,
+        "TalkGirlSpine": "room",
+        "ID": 9001,
+        "Name": null
+    },
+    {
+        "Chat": "18131",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9002,
+        "Name": null
+    },
+    {
+        "Chat": "18132",
+        "Guide": "",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9003,
+        "Name": null
+    },
+    {
+        "Chat": "18133",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9004,
+        "Name": null
+    },
+    {
+        "Chat": "18134",
+        "Guide": "累计登录天数",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9005,
+        "Name": null
+    },
+    {
+        "Chat": "18135",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9006,
+        "Name": null
+    },
+    {
+        "Chat": "18136",
+        "Guide": "",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9007,
+        "Name": null
+    },
+    {
+        "Chat": "18137",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9008,
+        "Name": null
+    },
+    {
+        "Chat": "18138",
+        "Guide": "专用机收集度",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9009,
+        "Name": null
+    },
+    {
+        "Chat": "18139",
+        "Guide": "角色总数",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9010,
+        "Name": null
+    },
+    {
+        "Chat": "18140",
+        "Guide": "满星角色总数量",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9011,
+        "Name": null
+    },
+    {
+        "Chat": "18141",
+        "Guide": "基地车科技树升级次数",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9012,
+        "Name": null
+    },
+    {
+        "Chat": "18142",
+        "Guide": "基地车房间升级次数",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9013,
+        "Name": null
+    },
+    {
+        "Chat": "18143",
+        "Guide": "发起远征任务的总次数",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9014,
+        "Name": null
+    },
+    {
+        "Chat": "18144",
+        "Guide": "赏金战斗总次数",
+        "Parameter": 2,
+        "TalkGirlSkinID": 101,
+        "TalkGirlSpine": "room",
+        "ID": 9015,
+        "Name": null
+    },
+    {
+        "Chat": "18145",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9016,
+        "Name": null
+    },
+    {
+        "Chat": "18146",
+        "Guide": "",
+        "Parameter": 2,
+        "TalkGirlSkinID": 101,
+        "TalkGirlSpine": "room",
+        "ID": 9017,
+        "Name": null
+    },
+    {
+        "Chat": "18147",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9018,
+        "Name": null
+    },
+    {
+        "Chat": "18148",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9019,
+        "Name": null
+    },
+    {
+        "Chat": "18149",
+        "Guide": "皮肤总数量",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9020,
+        "Name": null
+    },
+    {
+        "Chat": "18150",
+        "Guide": "",
+        "Parameter": 2,
+        "TalkGirlSkinID": 101,
+        "TalkGirlSpine": "room",
+        "ID": 9021,
+        "Name": null
+    },
+    {
+        "Chat": "18151",
+        "Guide": "",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9022,
+        "Name": null
+    },
+    {
+        "Chat": "18152",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9023,
+        "Name": null
+    },
+    {
+        "Chat": "18153",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9024,
+        "Name": null
+    },
+    {
+        "Chat": "18154",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9025,
+        "Name": null
+    },
+    {
+        "Chat": "18155",
+        "Guide": "",
+        "Parameter": 3,
+        "TalkGirlSkinID": 1201,
+        "TalkGirlSpine": "room",
+        "ID": 9026,
+        "Name": null
+    },
+    {
+        "Chat": "18156",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9027,
+        "Name": null
+    },
+    {
+        "Chat": "18157",
+        "Guide": "",
+        "Parameter": 2,
+        "TalkGirlSkinID": 101,
+        "TalkGirlSpine": "room",
+        "ID": 9028,
+        "Name": null
+    },
+    {
+        "Chat": "18158",
+        "Guide": "",
+        "Parameter": 1,
+        "TalkGirlSkinID": 3001,
+        "TalkGirlSpine": "room",
+        "ID": 9029,
+        "Name": null
+    },
+    {
+        "Chat": "18159",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9030,
+        "Name": null
+    },
+    {
+        "Chat": "18160",
+        "Guide": "",
+        "Parameter": 4,
+        "TalkGirlSkinID": 2801,
+        "TalkGirlSpine": "room",
+        "ID": 9031,
+        "Name": null
+    }
+]

@@ -24062,6 +24062,114 @@
         "Name": "战斗数据"
     },
     {
+        "Desc": "1163",
+        "BattleValueType": 1,
+        "ValueClassify": 1070107,
+        "BattleCompileID": 2100311,
+        "ScenarioGirl": [],
+        "ID": 1070107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1161",
+        "BattleValueType": 1,
+        "ValueClassify": 1070108,
+        "BattleCompileID": 2100411,
+        "ScenarioGirl": [],
+        "ID": 1070108,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1164",
+        "BattleValueType": 1,
+        "ValueClassify": 1070109,
+        "BattleCompileID": 2100611,
+        "ScenarioGirl": [],
+        "ID": 1070109,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1161",
+        "BattleValueType": 1,
+        "ValueClassify": 1070201,
+        "BattleCompileID": 2101101,
+        "ScenarioGirl": [],
+        "ID": 1070201,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1161",
+        "BattleValueType": 1,
+        "ValueClassify": 1070202,
+        "BattleCompileID": 2101201,
+        "ScenarioGirl": [],
+        "ID": 1070202,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1162",
+        "BattleValueType": 1,
+        "ValueClassify": 1070203,
+        "BattleCompileID": 2101301,
+        "ScenarioGirl": [],
+        "ID": 1070203,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1163",
+        "BattleValueType": 1,
+        "ValueClassify": 1070204,
+        "BattleCompileID": 2101401,
+        "ScenarioGirl": [],
+        "ID": 1070204,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1161",
+        "BattleValueType": 1,
+        "ValueClassify": 1070205,
+        "BattleCompileID": 2101501,
+        "ScenarioGirl": [],
+        "ID": 1070205,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1164",
+        "BattleValueType": 1,
+        "ValueClassify": 1070206,
+        "BattleCompileID": 2101601,
+        "ScenarioGirl": [],
+        "ID": 1070206,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1163",
+        "BattleValueType": 1,
+        "ValueClassify": 1070207,
+        "BattleCompileID": 2101402,
+        "ScenarioGirl": [],
+        "ID": 1070207,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1161",
+        "BattleValueType": 1,
+        "ValueClassify": 1070208,
+        "BattleCompileID": 2101502,
+        "ScenarioGirl": [],
+        "ID": 1070208,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "1164",
+        "BattleValueType": 1,
+        "ValueClassify": 1070209,
+        "BattleCompileID": 2101602,
+        "ScenarioGirl": [],
+        "ID": 1070209,
+        "Name": "战斗数据"
+    },
+    {
         "Desc": "12759",
         "BattleValueType": 1,
         "ValueClassify": 750101,
@@ -27525,6 +27633,2787 @@
         "BattleCompileID": 879023,
         "ScenarioGirl": [],
         "ID": 901023,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 700001,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 700001,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 700002,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 700002,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 700003,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 700003,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 700004,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 700004,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 700005,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 700005,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 700006,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 700006,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 700007,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 700007,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 700008,
+        "BattleCompileID": 7000401,
+        "ScenarioGirl": [],
+        "ID": 700008,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 700006,
+        "BattleCompileID": 7000222,
+        "ScenarioGirl": [],
+        "ID": 700009,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 700007,
+        "BattleCompileID": 7000302,
+        "ScenarioGirl": [],
+        "ID": 700010,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 700008,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 700011,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310101,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310101,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011102,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310101,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011103,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310102,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011104,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310102,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011105,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310102,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011106,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310102,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 2,
+        "ValueClassify": 310103,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011108,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310201,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011111,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310201,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011112,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310201,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011113,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310202,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011114,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310202,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011115,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310202,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011116,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310202,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011117,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 2,
+        "ValueClassify": 310203,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011118,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310301,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011121,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310301,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011122,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 2,
+        "ValueClassify": 310301,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011123,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310302,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011124,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310302,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011125,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310302,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011126,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 2,
+        "ValueClassify": 310302,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011127,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 2,
+        "ValueClassify": 310303,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011128,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011131,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011131,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011132,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011132,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011133,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011133,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011134,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011134,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011135,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011135,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011136,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011136,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011137,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011137,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011141,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011141,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011142,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011142,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011143,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011143,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011144,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011144,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011145,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011145,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011146,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011146,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011147,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011147,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011148,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011148,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011151,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011151,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011152,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011152,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011153,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011153,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011154,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011154,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011155,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011155,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011156,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011156,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011157,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011157,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011158,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011158,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011161,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011161,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011162,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011162,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011163,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011163,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011164,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011164,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011165,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011165,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011166,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011166,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011167,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011167,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011168,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011168,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011171,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011171,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011172,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011172,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011173,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011173,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011174,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011174,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011175,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011175,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011176,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011176,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011177,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011177,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011178,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011178,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011181,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 5011181,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011182,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 5011182,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 4011183,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 5011183,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011184,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 5011184,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011185,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 5011185,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011186,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011186,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 4011187,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 5011187,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15556",
+        "BattleValueType": 1,
+        "ValueClassify": 4011188,
+        "BattleCompileID": 7000301,
+        "ScenarioGirl": [],
+        "ID": 5011188,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300101,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 806300101,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300102,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 806300102,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300103,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 806300103,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300104,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 806300104,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300105,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 806300105,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300106,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300106,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300107,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300107,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 806300108,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 806300108,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300201,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 806300201,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300202,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 806300202,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300203,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 806300203,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300204,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 806300204,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300205,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 806300205,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300206,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300206,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300207,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300207,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 806300208,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 806300208,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300301,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 806300301,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300302,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 806300302,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300303,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 806300303,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300304,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 806300304,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300305,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 806300305,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300306,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300306,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300307,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300307,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 806300308,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 806300308,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300401,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 806300401,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300402,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 806300402,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300403,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 806300403,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300404,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 806300404,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300405,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 806300405,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300406,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300406,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300407,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300407,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 806300408,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 806300408,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300501,
+        "BattleCompileID": 7000101,
+        "ScenarioGirl": [],
+        "ID": 806300501,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300502,
+        "BattleCompileID": 7000111,
+        "ScenarioGirl": [],
+        "ID": 806300502,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15553",
+        "BattleValueType": 1,
+        "ValueClassify": 806300503,
+        "BattleCompileID": 7000121,
+        "ScenarioGirl": [],
+        "ID": 806300503,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300504,
+        "BattleCompileID": 7000201,
+        "ScenarioGirl": [],
+        "ID": 806300504,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300505,
+        "BattleCompileID": 7000211,
+        "ScenarioGirl": [],
+        "ID": 806300505,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300506,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300506,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15554",
+        "BattleValueType": 1,
+        "ValueClassify": 806300507,
+        "BattleCompileID": 7000221,
+        "ScenarioGirl": [],
+        "ID": 806300507,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "15557",
+        "BattleValueType": 1,
+        "ValueClassify": 806300508,
+        "BattleCompileID": 7000402,
+        "ScenarioGirl": [],
+        "ID": 806300508,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751901,
+        "BattleCompileID": 877001,
+        "ScenarioGirl": [],
+        "ID": 751901,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751902,
+        "BattleCompileID": 877011,
+        "ScenarioGirl": [],
+        "ID": 751902,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751903,
+        "BattleCompileID": 877021,
+        "ScenarioGirl": [],
+        "ID": 751903,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751904,
+        "BattleCompileID": 877031,
+        "ScenarioGirl": [],
+        "ID": 751904,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751905,
+        "BattleCompileID": 877041,
+        "ScenarioGirl": [],
+        "ID": 751905,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751906,
+        "BattleCompileID": 877051,
+        "ScenarioGirl": [],
+        "ID": 751906,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751907,
+        "BattleCompileID": 877061,
+        "ScenarioGirl": [],
+        "ID": 751907,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751908,
+        "BattleCompileID": 877071,
+        "ScenarioGirl": [],
+        "ID": 751908,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751909,
+        "BattleCompileID": 877081,
+        "ScenarioGirl": [],
+        "ID": 751909,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751910,
+        "BattleCompileID": 877091,
+        "ScenarioGirl": [],
+        "ID": 751910,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751911,
+        "BattleCompileID": 877101,
+        "ScenarioGirl": [],
+        "ID": 751911,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751912,
+        "BattleCompileID": 877111,
+        "ScenarioGirl": [],
+        "ID": 751912,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751913,
+        "BattleCompileID": 877121,
+        "ScenarioGirl": [],
+        "ID": 751913,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751914,
+        "BattleCompileID": 877131,
+        "ScenarioGirl": [],
+        "ID": 751914,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751915,
+        "BattleCompileID": 877141,
+        "ScenarioGirl": [],
+        "ID": 751915,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751916,
+        "BattleCompileID": 877151,
+        "ScenarioGirl": [],
+        "ID": 751916,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751917,
+        "BattleCompileID": 877161,
+        "ScenarioGirl": [],
+        "ID": 751917,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751918,
+        "BattleCompileID": 877171,
+        "ScenarioGirl": [],
+        "ID": 751918,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751919,
+        "BattleCompileID": 877181,
+        "ScenarioGirl": [],
+        "ID": 751919,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751920,
+        "BattleCompileID": 877191,
+        "ScenarioGirl": [],
+        "ID": 751920,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751921,
+        "BattleCompileID": 877201,
+        "ScenarioGirl": [],
+        "ID": 751921,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751922,
+        "BattleCompileID": 877211,
+        "ScenarioGirl": [],
+        "ID": 751922,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751923,
+        "BattleCompileID": 877221,
+        "ScenarioGirl": [],
+        "ID": 751923,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751924,
+        "BattleCompileID": 877231,
+        "ScenarioGirl": [],
+        "ID": 751924,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751925,
+        "BattleCompileID": 877241,
+        "ScenarioGirl": [],
+        "ID": 751925,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751926,
+        "BattleCompileID": 877251,
+        "ScenarioGirl": [],
+        "ID": 751926,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751927,
+        "BattleCompileID": 877261,
+        "ScenarioGirl": [],
+        "ID": 751927,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751928,
+        "BattleCompileID": 877271,
+        "ScenarioGirl": [],
+        "ID": 751928,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751929,
+        "BattleCompileID": 877281,
+        "ScenarioGirl": [],
+        "ID": 751929,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751930,
+        "BattleCompileID": 877291,
+        "ScenarioGirl": [],
+        "ID": 751930,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751931,
+        "BattleCompileID": 877301,
+        "ScenarioGirl": [],
+        "ID": 751931,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751932,
+        "BattleCompileID": 877311,
+        "ScenarioGirl": [],
+        "ID": 751932,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751933,
+        "BattleCompileID": 877321,
+        "ScenarioGirl": [],
+        "ID": 751933,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751934,
+        "BattleCompileID": 877331,
+        "ScenarioGirl": [],
+        "ID": 751934,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751935,
+        "BattleCompileID": 877341,
+        "ScenarioGirl": [],
+        "ID": 751935,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751936,
+        "BattleCompileID": 877351,
+        "ScenarioGirl": [],
+        "ID": 751936,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751937,
+        "BattleCompileID": 877361,
+        "ScenarioGirl": [],
+        "ID": 751937,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751938,
+        "BattleCompileID": 877371,
+        "ScenarioGirl": [],
+        "ID": 751938,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751939,
+        "BattleCompileID": 877381,
+        "ScenarioGirl": [],
+        "ID": 751939,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751940,
+        "BattleCompileID": 877391,
+        "ScenarioGirl": [],
+        "ID": 751940,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751941,
+        "BattleCompileID": 877401,
+        "ScenarioGirl": [],
+        "ID": 751941,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751942,
+        "BattleCompileID": 877411,
+        "ScenarioGirl": [],
+        "ID": 751942,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751943,
+        "BattleCompileID": 877421,
+        "ScenarioGirl": [],
+        "ID": 751943,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751944,
+        "BattleCompileID": 877431,
+        "ScenarioGirl": [],
+        "ID": 751944,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751945,
+        "BattleCompileID": 877441,
+        "ScenarioGirl": [],
+        "ID": 751945,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751946,
+        "BattleCompileID": 877451,
+        "ScenarioGirl": [],
+        "ID": 751946,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751947,
+        "BattleCompileID": 877461,
+        "ScenarioGirl": [],
+        "ID": 751947,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751948,
+        "BattleCompileID": 877471,
+        "ScenarioGirl": [],
+        "ID": 751948,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751949,
+        "BattleCompileID": 877481,
+        "ScenarioGirl": [],
+        "ID": 751949,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751950,
+        "BattleCompileID": 877491,
+        "ScenarioGirl": [],
+        "ID": 751950,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751951,
+        "BattleCompileID": 877501,
+        "ScenarioGirl": [],
+        "ID": 751951,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751952,
+        "BattleCompileID": 877511,
+        "ScenarioGirl": [],
+        "ID": 751952,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751953,
+        "BattleCompileID": 877521,
+        "ScenarioGirl": [],
+        "ID": 751953,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751954,
+        "BattleCompileID": 877531,
+        "ScenarioGirl": [],
+        "ID": 751954,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751955,
+        "BattleCompileID": 877541,
+        "ScenarioGirl": [],
+        "ID": 751955,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751956,
+        "BattleCompileID": 877551,
+        "ScenarioGirl": [],
+        "ID": 751956,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751957,
+        "BattleCompileID": 877561,
+        "ScenarioGirl": [],
+        "ID": 751957,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751958,
+        "BattleCompileID": 877571,
+        "ScenarioGirl": [],
+        "ID": 751958,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751959,
+        "BattleCompileID": 877581,
+        "ScenarioGirl": [],
+        "ID": 751959,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751960,
+        "BattleCompileID": 877591,
+        "ScenarioGirl": [],
+        "ID": 751960,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751961,
+        "BattleCompileID": 877601,
+        "ScenarioGirl": [],
+        "ID": 751961,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751962,
+        "BattleCompileID": 877611,
+        "ScenarioGirl": [],
+        "ID": 751962,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751963,
+        "BattleCompileID": 877621,
+        "ScenarioGirl": [],
+        "ID": 751963,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751964,
+        "BattleCompileID": 877631,
+        "ScenarioGirl": [],
+        "ID": 751964,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751965,
+        "BattleCompileID": 877641,
+        "ScenarioGirl": [],
+        "ID": 751965,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751966,
+        "BattleCompileID": 877651,
+        "ScenarioGirl": [],
+        "ID": 751966,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751967,
+        "BattleCompileID": 877661,
+        "ScenarioGirl": [],
+        "ID": 751967,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751968,
+        "BattleCompileID": 877671,
+        "ScenarioGirl": [],
+        "ID": 751968,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751969,
+        "BattleCompileID": 877681,
+        "ScenarioGirl": [],
+        "ID": 751969,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751970,
+        "BattleCompileID": 877691,
+        "ScenarioGirl": [],
+        "ID": 751970,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751971,
+        "BattleCompileID": 877701,
+        "ScenarioGirl": [],
+        "ID": 751971,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751972,
+        "BattleCompileID": 877711,
+        "ScenarioGirl": [],
+        "ID": 751972,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751973,
+        "BattleCompileID": 877721,
+        "ScenarioGirl": [],
+        "ID": 751973,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751974,
+        "BattleCompileID": 877731,
+        "ScenarioGirl": [],
+        "ID": 751974,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751975,
+        "BattleCompileID": 877741,
+        "ScenarioGirl": [],
+        "ID": 751975,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751976,
+        "BattleCompileID": 877751,
+        "ScenarioGirl": [],
+        "ID": 751976,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751977,
+        "BattleCompileID": 877761,
+        "ScenarioGirl": [],
+        "ID": 751977,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751978,
+        "BattleCompileID": 877771,
+        "ScenarioGirl": [],
+        "ID": 751978,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751979,
+        "BattleCompileID": 877781,
+        "ScenarioGirl": [],
+        "ID": 751979,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751980,
+        "BattleCompileID": 877791,
+        "ScenarioGirl": [],
+        "ID": 751980,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751981,
+        "BattleCompileID": 877801,
+        "ScenarioGirl": [],
+        "ID": 751981,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751982,
+        "BattleCompileID": 877811,
+        "ScenarioGirl": [],
+        "ID": 751982,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751983,
+        "BattleCompileID": 877821,
+        "ScenarioGirl": [],
+        "ID": 751983,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751984,
+        "BattleCompileID": 877831,
+        "ScenarioGirl": [],
+        "ID": 751984,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751985,
+        "BattleCompileID": 877841,
+        "ScenarioGirl": [],
+        "ID": 751985,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751986,
+        "BattleCompileID": 877851,
+        "ScenarioGirl": [],
+        "ID": 751986,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751987,
+        "BattleCompileID": 877861,
+        "ScenarioGirl": [],
+        "ID": 751987,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751988,
+        "BattleCompileID": 877871,
+        "ScenarioGirl": [],
+        "ID": 751988,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751989,
+        "BattleCompileID": 877881,
+        "ScenarioGirl": [],
+        "ID": 751989,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 751990,
+        "BattleCompileID": 877891,
+        "ScenarioGirl": [],
+        "ID": 751990,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752001,
+        "BattleCompileID": 878001,
+        "ScenarioGirl": [],
+        "ID": 752001,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752002,
+        "BattleCompileID": 878011,
+        "ScenarioGirl": [],
+        "ID": 752002,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752003,
+        "BattleCompileID": 878021,
+        "ScenarioGirl": [],
+        "ID": 752003,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752004,
+        "BattleCompileID": 878031,
+        "ScenarioGirl": [],
+        "ID": 752004,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752005,
+        "BattleCompileID": 878041,
+        "ScenarioGirl": [],
+        "ID": 752005,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752006,
+        "BattleCompileID": 878051,
+        "ScenarioGirl": [],
+        "ID": 752006,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752007,
+        "BattleCompileID": 878061,
+        "ScenarioGirl": [],
+        "ID": 752007,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752008,
+        "BattleCompileID": 878071,
+        "ScenarioGirl": [],
+        "ID": 752008,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752009,
+        "BattleCompileID": 878081,
+        "ScenarioGirl": [],
+        "ID": 752009,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752010,
+        "BattleCompileID": 878091,
+        "ScenarioGirl": [],
+        "ID": 752010,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752011,
+        "BattleCompileID": 878101,
+        "ScenarioGirl": [],
+        "ID": 752011,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752012,
+        "BattleCompileID": 878111,
+        "ScenarioGirl": [],
+        "ID": 752012,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 752013,
+        "BattleCompileID": 878121,
+        "ScenarioGirl": [],
+        "ID": 752013,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753000,
+        "BattleCompileID": 876001,
+        "ScenarioGirl": [],
+        "ID": 753000,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753001,
+        "BattleCompileID": 876011,
+        "ScenarioGirl": [],
+        "ID": 753001,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753002,
+        "BattleCompileID": 876021,
+        "ScenarioGirl": [],
+        "ID": 753002,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753003,
+        "BattleCompileID": 876031,
+        "ScenarioGirl": [],
+        "ID": 753003,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753004,
+        "BattleCompileID": 876041,
+        "ScenarioGirl": [],
+        "ID": 753004,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753005,
+        "BattleCompileID": 876051,
+        "ScenarioGirl": [],
+        "ID": 753005,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753006,
+        "BattleCompileID": 876061,
+        "ScenarioGirl": [],
+        "ID": 753006,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753007,
+        "BattleCompileID": 876071,
+        "ScenarioGirl": [],
+        "ID": 753007,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753008,
+        "BattleCompileID": 876081,
+        "ScenarioGirl": [],
+        "ID": 753008,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753009,
+        "BattleCompileID": 876091,
+        "ScenarioGirl": [],
+        "ID": 753009,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753010,
+        "BattleCompileID": 876101,
+        "ScenarioGirl": [],
+        "ID": 753010,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753011,
+        "BattleCompileID": 876111,
+        "ScenarioGirl": [],
+        "ID": 753011,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753012,
+        "BattleCompileID": 876121,
+        "ScenarioGirl": [],
+        "ID": 753012,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753013,
+        "BattleCompileID": 876131,
+        "ScenarioGirl": [],
+        "ID": 753013,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753014,
+        "BattleCompileID": 876141,
+        "ScenarioGirl": [],
+        "ID": 753014,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753015,
+        "BattleCompileID": 876151,
+        "ScenarioGirl": [],
+        "ID": 753015,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753016,
+        "BattleCompileID": 876161,
+        "ScenarioGirl": [],
+        "ID": 753016,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753017,
+        "BattleCompileID": 876171,
+        "ScenarioGirl": [],
+        "ID": 753017,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753018,
+        "BattleCompileID": 876181,
+        "ScenarioGirl": [],
+        "ID": 753018,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753019,
+        "BattleCompileID": 876191,
+        "ScenarioGirl": [],
+        "ID": 753019,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753020,
+        "BattleCompileID": 876201,
+        "ScenarioGirl": [],
+        "ID": 753020,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753021,
+        "BattleCompileID": 876211,
+        "ScenarioGirl": [],
+        "ID": 753021,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753022,
+        "BattleCompileID": 876221,
+        "ScenarioGirl": [],
+        "ID": 753022,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753023,
+        "BattleCompileID": 876231,
+        "ScenarioGirl": [],
+        "ID": 753023,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753024,
+        "BattleCompileID": 876241,
+        "ScenarioGirl": [],
+        "ID": 753024,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753025,
+        "BattleCompileID": 876251,
+        "ScenarioGirl": [],
+        "ID": 753025,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753026,
+        "BattleCompileID": 876261,
+        "ScenarioGirl": [],
+        "ID": 753026,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753027,
+        "BattleCompileID": 876271,
+        "ScenarioGirl": [],
+        "ID": 753027,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753028,
+        "BattleCompileID": 876281,
+        "ScenarioGirl": [],
+        "ID": 753028,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753029,
+        "BattleCompileID": 876291,
+        "ScenarioGirl": [],
+        "ID": 753029,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753030,
+        "BattleCompileID": 876301,
+        "ScenarioGirl": [],
+        "ID": 753030,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753031,
+        "BattleCompileID": 876311,
+        "ScenarioGirl": [],
+        "ID": 753031,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753032,
+        "BattleCompileID": 876321,
+        "ScenarioGirl": [],
+        "ID": 753032,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753033,
+        "BattleCompileID": 876331,
+        "ScenarioGirl": [],
+        "ID": 753033,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753034,
+        "BattleCompileID": 876341,
+        "ScenarioGirl": [],
+        "ID": 753034,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753035,
+        "BattleCompileID": 876351,
+        "ScenarioGirl": [],
+        "ID": 753035,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753036,
+        "BattleCompileID": 876361,
+        "ScenarioGirl": [],
+        "ID": 753036,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753037,
+        "BattleCompileID": 876371,
+        "ScenarioGirl": [],
+        "ID": 753037,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753038,
+        "BattleCompileID": 876381,
+        "ScenarioGirl": [],
+        "ID": 753038,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753039,
+        "BattleCompileID": 876391,
+        "ScenarioGirl": [],
+        "ID": 753039,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753040,
+        "BattleCompileID": 876401,
+        "ScenarioGirl": [],
+        "ID": 753040,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753041,
+        "BattleCompileID": 876411,
+        "ScenarioGirl": [],
+        "ID": 753041,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753042,
+        "BattleCompileID": 876421,
+        "ScenarioGirl": [],
+        "ID": 753042,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753043,
+        "BattleCompileID": 876431,
+        "ScenarioGirl": [],
+        "ID": 753043,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753044,
+        "BattleCompileID": 876441,
+        "ScenarioGirl": [],
+        "ID": 753044,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753045,
+        "BattleCompileID": 876451,
+        "ScenarioGirl": [],
+        "ID": 753045,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753046,
+        "BattleCompileID": 876461,
+        "ScenarioGirl": [],
+        "ID": 753046,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753047,
+        "BattleCompileID": 876471,
+        "ScenarioGirl": [],
+        "ID": 753047,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753048,
+        "BattleCompileID": 876481,
+        "ScenarioGirl": [],
+        "ID": 753048,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753049,
+        "BattleCompileID": 876491,
+        "ScenarioGirl": [],
+        "ID": 753049,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753050,
+        "BattleCompileID": 876501,
+        "ScenarioGirl": [],
+        "ID": 753050,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753051,
+        "BattleCompileID": 876511,
+        "ScenarioGirl": [],
+        "ID": 753051,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753052,
+        "BattleCompileID": 876521,
+        "ScenarioGirl": [],
+        "ID": 753052,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753053,
+        "BattleCompileID": 876531,
+        "ScenarioGirl": [],
+        "ID": 753053,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753054,
+        "BattleCompileID": 876541,
+        "ScenarioGirl": [],
+        "ID": 753054,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753055,
+        "BattleCompileID": 876551,
+        "ScenarioGirl": [],
+        "ID": 753055,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753056,
+        "BattleCompileID": 876561,
+        "ScenarioGirl": [],
+        "ID": 753056,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753057,
+        "BattleCompileID": 876571,
+        "ScenarioGirl": [],
+        "ID": 753057,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753058,
+        "BattleCompileID": 876581,
+        "ScenarioGirl": [],
+        "ID": 753058,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753059,
+        "BattleCompileID": 876591,
+        "ScenarioGirl": [],
+        "ID": 753059,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753060,
+        "BattleCompileID": 876601,
+        "ScenarioGirl": [],
+        "ID": 753060,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753061,
+        "BattleCompileID": 876611,
+        "ScenarioGirl": [],
+        "ID": 753061,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753062,
+        "BattleCompileID": 876621,
+        "ScenarioGirl": [],
+        "ID": 753062,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753063,
+        "BattleCompileID": 876631,
+        "ScenarioGirl": [],
+        "ID": 753063,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753064,
+        "BattleCompileID": 876641,
+        "ScenarioGirl": [],
+        "ID": 753064,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753065,
+        "BattleCompileID": 876651,
+        "ScenarioGirl": [],
+        "ID": 753065,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753066,
+        "BattleCompileID": 876661,
+        "ScenarioGirl": [],
+        "ID": 753066,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753067,
+        "BattleCompileID": 876671,
+        "ScenarioGirl": [],
+        "ID": 753067,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753068,
+        "BattleCompileID": 876681,
+        "ScenarioGirl": [],
+        "ID": 753068,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753069,
+        "BattleCompileID": 876691,
+        "ScenarioGirl": [],
+        "ID": 753069,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753070,
+        "BattleCompileID": 876701,
+        "ScenarioGirl": [],
+        "ID": 753070,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753071,
+        "BattleCompileID": 876711,
+        "ScenarioGirl": [],
+        "ID": 753071,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753072,
+        "BattleCompileID": 876721,
+        "ScenarioGirl": [],
+        "ID": 753072,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753073,
+        "BattleCompileID": 876731,
+        "ScenarioGirl": [],
+        "ID": 753073,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753074,
+        "BattleCompileID": 876741,
+        "ScenarioGirl": [],
+        "ID": 753074,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753075,
+        "BattleCompileID": 876751,
+        "ScenarioGirl": [],
+        "ID": 753075,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753076,
+        "BattleCompileID": 876761,
+        "ScenarioGirl": [],
+        "ID": 753076,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753077,
+        "BattleCompileID": 876771,
+        "ScenarioGirl": [],
+        "ID": 753077,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753078,
+        "BattleCompileID": 876781,
+        "ScenarioGirl": [],
+        "ID": 753078,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753079,
+        "BattleCompileID": 876791,
+        "ScenarioGirl": [],
+        "ID": 753079,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753080,
+        "BattleCompileID": 876801,
+        "ScenarioGirl": [],
+        "ID": 753080,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753081,
+        "BattleCompileID": 876811,
+        "ScenarioGirl": [],
+        "ID": 753081,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753082,
+        "BattleCompileID": 876821,
+        "ScenarioGirl": [],
+        "ID": 753082,
+        "Name": "战斗数据"
+    },
+    {
+        "Desc": "",
+        "BattleValueType": 1,
+        "ValueClassify": 753083,
+        "BattleCompileID": 876831,
+        "ScenarioGirl": [],
+        "ID": 753083,
         "Name": "战斗数据"
     }
 ]

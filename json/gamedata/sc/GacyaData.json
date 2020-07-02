@@ -1,6 +1,6 @@
 [
     {
-        "BikiniGacyaType": 0,
+        "BikiniGacyaType": "无",
         "ActivityID": 2,
         "GacyaName": "2233",
         "Number": 1,
@@ -15,7 +15,7 @@
         "Name": null
     },
     {
-        "BikiniGacyaType": 0,
+        "BikiniGacyaType": "无",
         "ActivityID": 3,
         "GacyaName": "2234",
         "Number": 2,
@@ -30,7 +30,7 @@
         "Name": null
     },
     {
-        "BikiniGacyaType": 0,
+        "BikiniGacyaType": "无",
         "ActivityID": 4,
         "GacyaName": "2235",
         "Number": 3,
@@ -45,7 +45,7 @@
         "Name": null
     },
     {
-        "BikiniGacyaType": 0,
+        "BikiniGacyaType": "无",
         "ActivityID": 5,
         "GacyaName": "2236",
         "Number": 4,

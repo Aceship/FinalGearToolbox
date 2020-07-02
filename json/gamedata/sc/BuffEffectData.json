@@ -2390,6 +2390,60 @@
         "action": {
             "childActions": [
                 {
+                    "effectData": {
+                        "path": {
+                            "asset": "actioneffect/03Buff_aoe（汤圆）",
+                            "scale": 1.0
+                        },
+                        "offset": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                        },
+                        "follow": true,
+                        "followDirection": true,
+                        "followBoneRota": false,
+                        "boneName": "root",
+                        "autoSortingOrder": true,
+                        "extraSortingOrder": 30
+                    },
+                    "fireEventEnabled": false,
+                    "screenEffect": false,
+                    "lockBulletFace": false,
+                    "directionFollowType": 0,
+                    "reverseDirection": false,
+                    "targetType": 2,
+                    "useTargetZPosition": false,
+                    "positionType": 2,
+                    "finishImmediately": true,
+                    "duration": 0.0,
+                    "removeEffect": false,
+                    "removeEffectImmediately": false,
+                    "soundData": null,
+                    "bulletAttackData": null,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36100360,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
                     "powerData": null,
                     "effectData": {
                         "path": {
@@ -2675,6 +2729,94 @@
             "currentStatus": 0
         },
         "ID": 36100740,
+        "Name": null
+    },
+    {
+        "isSingleton": false,
+        "interval": 0.0,
+        "maxCastTimes": 0,
+        "isCastOnStart": false,
+        "cancelHitBack": 0,
+        "buffIcon": null,
+        "stopUnitAction": false,
+        "action": {
+            "childActions": [
+                {
+                    "shieldEffectData": {
+                        "shieldValue": 1,
+                        "damageReduceRatio": 1.0,
+                        "defenceType": 1,
+                        "shieldDuration": 0.0,
+                        "coolDownTime": 0.0,
+                        "preEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "00Buff_六月魅惑",
+                                    "scale": 0.8
+                                },
+                                "followBoneName": "root",
+                                "extraSortingOrder": 10,
+                                "shieldBoomEff": {
+                                    "asset": "04受击_防御",
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "afterEffectDatas": [
+                            {
+                                "effectID": {
+                                    "asset": "",
+                                    "scale": 1.0
+                                },
+                                "followBoneName": "",
+                                "extraSortingOrder": 0,
+                                "shieldBoomEff": {
+                                    "asset": null,
+                                    "scale": 1.0
+                                },
+                                "soundID": 0
+                            }
+                        ],
+                        "effectDelayTime": 0.0,
+                        "breakEffect": null,
+                        "type": null
+                    },
+                    "targetType": 1,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                },
+                {
+                    "states": [
+                        10007
+                    ],
+                    "targetType": 1,
+                    "lifeTime": 0.0,
+                    "instanceID": 0,
+                    "currentStatus": 0
+                }
+            ],
+            "CanRunParallelChildren": false,
+            "canExecute": false,
+            "instanceID": 0,
+            "currentStatus": 0
+        },
+        "ID": 36101200,
         "Name": null
     }
 ]

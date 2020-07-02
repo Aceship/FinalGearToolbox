@@ -11,7 +11,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": false,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100001,
         "Name": null
     },
@@ -27,7 +27,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": false,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100002,
         "Name": null
     },
@@ -43,7 +43,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100003,
         "Name": null
     },
@@ -59,7 +59,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100004,
         "Name": null
     },
@@ -75,7 +75,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100005,
         "Name": null
     },
@@ -91,7 +91,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100006,
         "Name": null
     },
@@ -107,7 +107,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100007,
         "Name": null
     },
@@ -123,7 +123,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100008,
         "Name": null
     },
@@ -139,7 +139,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100009,
         "Name": null
     },
@@ -155,7 +155,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100010,
         "Name": null
     },
@@ -171,7 +171,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100011,
         "Name": null
     },
@@ -187,7 +187,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100012,
         "Name": null
     },
@@ -203,7 +203,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": false,
         "controllable": false,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100013,
         "Name": null
     },
@@ -219,7 +219,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100016,
         "Name": null
     },
@@ -235,7 +235,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100017,
         "Name": null
     },
@@ -251,7 +251,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100018,
         "Name": null
     },
@@ -267,7 +267,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100019,
         "Name": null
     },
@@ -283,7 +283,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": false,
         "controllable": false,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100021,
         "Name": null
     },
@@ -299,7 +299,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100022,
         "Name": null
     },
@@ -315,7 +315,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100023,
         "Name": null
     },
@@ -331,7 +331,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100024,
         "Name": null
     },
@@ -347,7 +347,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100025,
         "Name": null
     },
@@ -363,7 +363,7 @@
         "turnableWhenChangeAnim": true,
         "skillble": true,
         "controllable": true,
-        "stateType": 0,
+        "stateType": "出场1",
         "ID": 820100026,
         "Name": null
     }

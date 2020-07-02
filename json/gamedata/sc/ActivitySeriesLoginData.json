@@ -2,7 +2,7 @@
     {
         "ActivityOpenTime": "2020/4/20 14:30:00",
         "ActivityCloseTime": "2020/5/7 11:59:00",
-        "ActivityType": 0,
+        "ActivityType": "无",
         "ActivityNameCH": "黄金假期",
         "ActivityNameENG": "GOLDEN HOLIDAY",
         "ID": 1,

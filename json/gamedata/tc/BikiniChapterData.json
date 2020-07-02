@@ -1,6 +1,6 @@
 [
     {
-        "BikiniScene": 2,
+        "BikiniScene": "泳装活动1",
         "Icon": "StageHead_Pilot_000211",
         "GirlBuff": [
             [
@@ -56,7 +56,7 @@
         "Name": null
     },
     {
-        "BikiniScene": 3,
+        "BikiniScene": "泳装活动2",
         "Icon": "StageHead_Pilot_000382",
         "GirlBuff": [
             [
@@ -112,7 +112,7 @@
         "Name": null
     },
     {
-        "BikiniScene": 4,
+        "BikiniScene": "泳装活动3",
         "Icon": "StageHead_Pilot_000433",
         "GirlBuff": [
             [
@@ -172,7 +172,7 @@
         "Name": null
     },
     {
-        "BikiniScene": 5,
+        "BikiniScene": "泳装活动4",
         "Icon": "StageHead_Pilot_000811",
         "GirlBuff": [
             [

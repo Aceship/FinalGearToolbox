@@ -1660,7 +1660,7 @@
         "Title": "8620",
         "IsShow": true,
         "ParaName": "CriticalPointHaveNoFreeReset",
-        "Memo": "德洛莉丝-没有免费重置次数",
+        "Memo": "没有免费重置次数",
         "ID": 764,
         "Name": null
     },
@@ -1669,7 +1669,7 @@
         "Title": "8620",
         "IsShow": true,
         "ParaName": "CriticalPointHaveNoChallengeTimes",
-        "Memo": "德洛莉丝-没有挑战次数",
+        "Memo": "没有挑战次数",
         "ID": 765,
         "Name": null
     },
@@ -1678,7 +1678,7 @@
         "Title": "8620",
         "IsShow": true,
         "ParaName": "CriticalPointJackpotCreateFailed",
-        "Memo": "德洛莉丝-奖池创建失败",
+        "Memo": "奖池创建失败",
         "ID": 766,
         "Name": null
     },
@@ -2148,6 +2148,276 @@
         "ParaName": "NotSearchSelf",
         "Memo": "无法搜索自己",
         "ID": 824,
+        "Name": null
+    },
+    {
+        "Disc": "15228",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "WidgetBagExpandLimit",
+        "Memo": "已达到装备背包可扩容上限",
+        "ID": 825,
+        "Name": null
+    },
+    {
+        "Disc": "15229",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveRecievedLoginAward",
+        "Memo": "已经领取过这个登陆奖励",
+        "ID": 826,
+        "Name": null
+    },
+    {
+        "Disc": "15230",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "NoCurDayAwardConf",
+        "Memo": "当前天没有奖励可以领取",
+        "ID": 827,
+        "Name": null
+    },
+    {
+        "Disc": "15231",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChangeNameItemNotEnough",
+        "Memo": "改名道具不足",
+        "ID": 828,
+        "Name": null
+    },
+    {
+        "Disc": "17257",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerNotExists",
+        "Memo": "天赋塔配置不存在",
+        "ID": 829,
+        "Name": null
+    },
+    {
+        "Disc": "17258",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerTierNotExists",
+        "Memo": "天赋塔没有这一层",
+        "ID": 830,
+        "Name": null
+    },
+    {
+        "Disc": "17259",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerStageBattleNotMatch",
+        "Memo": "天赋塔关卡和战斗不匹配",
+        "ID": 831,
+        "Name": null
+    },
+    {
+        "Disc": "17260",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerIsNotOpen",
+        "Memo": "天赋塔不在开放日",
+        "ID": 832,
+        "Name": null
+    },
+    {
+        "Disc": "17261",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TalentTowerProfessionLimitLeak",
+        "Memo": "职业限定条件不满足",
+        "ID": 833,
+        "Name": null
+    },
+    {
+        "Disc": "17262",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "CannotChallengeTier",
+        "Memo": "不可以挑战这一层",
+        "ID": 837,
+        "Name": null
+    },
+    {
+        "Disc": "17293",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlTalentUnlockNoCondition",
+        "Memo": "机娘天赋激活条件不符",
+        "ID": 838,
+        "Name": null
+    },
+    {
+        "Disc": "17263",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "ChallengeTimesLeak",
+        "Memo": "挑战次数不足",
+        "ID": 839,
+        "Name": null
+    },
+    {
+        "Disc": "17264",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SelectTowerDifficultyError",
+        "Memo": "正在爬塔过程中，不能选择难度",
+        "ID": 840,
+        "Name": null
+    },
+    {
+        "Disc": "17265",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "MaxDifficultyLimit",
+        "Memo": "所选难度超过最大可选范围",
+        "ID": 841,
+        "Name": null
+    },
+    {
+        "Disc": "17285",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "GirlsStatusError",
+        "Memo": "您的队伍中存在无法继续战斗的机师，请更换阵容",
+        "ID": 842,
+        "Name": null
+    },
+    {
+        "Disc": "18528",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVAPhyIsFull",
+        "Memo": "",
+        "ID": 843,
+        "Name": null
+    },
+    {
+        "Disc": "18529",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVABuyTimesLeak",
+        "Memo": "",
+        "ID": 844,
+        "Name": null
+    },
+    {
+        "Disc": "18530",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVAPhyLeak",
+        "Memo": "",
+        "ID": 845,
+        "Name": null
+    },
+    {
+        "Disc": "18531",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVAChallengeTimesLeak",
+        "Memo": "",
+        "ID": 846,
+        "Name": null
+    },
+    {
+        "Disc": "18532",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVABossIsNotOpenDay",
+        "Memo": "",
+        "ID": 847,
+        "Name": null
+    },
+    {
+        "Disc": "18533",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVABossDifficultyLeak",
+        "Memo": "",
+        "ID": 848,
+        "Name": null
+    },
+    {
+        "Disc": "18534",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVAAreaRepairLeak",
+        "Memo": "",
+        "ID": 849,
+        "Name": null
+    },
+    {
+        "Disc": "18535",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveRecievedAward",
+        "Memo": "",
+        "ID": 850,
+        "Name": null
+    },
+    {
+        "Disc": "18536",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "DiamondComTimeLimit",
+        "Memo": "",
+        "ID": 851,
+        "Name": null
+    },
+    {
+        "Disc": "18537",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVATechRoomLevelLeak",
+        "Memo": "",
+        "ID": 852,
+        "Name": null
+    },
+    {
+        "Disc": "18538",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "EVAStagePhyLeak",
+        "Memo": "",
+        "ID": 853,
+        "Name": null
+    },
+    {
+        "Disc": "18539",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "DonateValueLeak",
+        "Memo": "",
+        "ID": 854,
+        "Name": null
+    },
+    {
+        "Disc": "18262",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "HaveRecievedShopAward",
+        "Memo": "已领取过奖励",
+        "ID": 855,
+        "Name": null
+    },
+    {
+        "Disc": "18263",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "TimesLeak",
+        "Memo": "次数不足",
+        "ID": 856,
+        "Name": null
+    },
+    {
+        "Disc": "18264",
+        "Title": "8620",
+        "IsShow": true,
+        "ParaName": "SequenceGet",
+        "Memo": "请按顺序领取奖励",
+        "ID": 857,
         "Name": null
     }
 ]

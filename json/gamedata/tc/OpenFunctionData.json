@@ -355,5 +355,19 @@
         "Value": 10,
         "ID": 51,
         "Name": null
+    },
+    {
+        "Remarks": "月面大暴走",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 52,
+        "Name": null
+    },
+    {
+        "Remarks": "EVA活动",
+        "OpenCondition": 2,
+        "Value": 20104,
+        "ID": 53,
+        "Name": null
     }
 ]

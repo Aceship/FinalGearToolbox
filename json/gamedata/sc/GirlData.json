@@ -9868,8 +9868,8 @@
         "BirthLocal": "15267",
         "OwnStory": "15263",
         "EnglishName": "Eloise",
-        "GirlCamp": 4,
-        "GirlCampIcon": "Arita",
+        "GirlCamp": 5,
+        "GirlCampIcon": "Kegha",
         "GirlHeight": "180cm",
         "LikeThing": "15257",
         "GirlHate": "15259",
@@ -9934,28 +9934,28 @@
             0
         ],
         "BaseEquip2": [
-            2100121,
+            2100123,
             1,
             1,
             0
         ],
         "BaseEquip3": [
-            2100131,
+            2100133,
             1,
             1,
             0
         ],
         "BaseEquip4": [
-            2100141,
+            2100143,
             1,
             1,
             0
         ],
-        "FiveDimenJR": 0.6828,
-        "FiveDimenBL": 0.727,
-        "FiveDimenRN": 0.653,
-        "FiveDimenFY": 0.8268,
-        "FiveDimenXY": 0.4592,
+        "FiveDimenJR": 0.7378,
+        "FiveDimenBL": 0.7126,
+        "FiveDimenRN": 0.6655,
+        "FiveDimenFY": 0.6348,
+        "FiveDimenXY": 0.5838,
         "Birthday": "3.28",
         "Constellation": "15266",
         "BloodType": "B",
@@ -9964,7 +9964,7 @@
         "OwnStory": "15264",
         "EnglishName": "Tridacnidae",
         "GirlCamp": 6,
-        "GirlCampIcon": "Arita",
+        "GirlCampIcon": "NoGenera",
         "GirlHeight": "168cm",
         "LikeThing": "15258",
         "GirlHate": "15260",
@@ -10290,5 +10290,483 @@
         "Autobiography": "17213",
         "ID": 121,
         "Name": "17208"
+<<<<<<< HEAD
+    },
+    {
+        "BasicSkin": 11001,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 0,
+        "RepeatTransform": [
+            [
+                13700022,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 311001,
+        "BaseEquip1": [
+            2100111,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6392,
+        "FiveDimenBL": 0.6657,
+        "FiveDimenRN": 1.2093,
+        "FiveDimenFY": 0.6507,
+        "FiveDimenXY": 1.053,
+        "Birthday": "???",
+        "Constellation": "17822",
+        "BloodType": "？？？",
+        "Hobby": "17822",
+        "BirthLocal": "17822",
+        "OwnStory": "17825",
+        "EnglishName": "Rei Ayanami",
+        "GirlCamp": 7,
+        "GirlCampIcon": "Nerv",
+        "GirlHeight": "？？？",
+        "LikeThing": "17822",
+        "GirlHate": "17822",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 0,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            2
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2110010,
+        "ExpertSkillEquip": 2110020,
+        "GirlGood": "壁垒武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "17823",
+        "ItemID": 10500110,
+        "Age": -1,
+        "Gender": "2690",
+        "CV": "17830",
+        "Autobiography": "18777",
+        "ID": 110,
+        "Name": "17791"
+    },
+    {
+        "BasicSkin": 11101,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 2,
+        "RepeatTransform": [
+            [
+                13700021,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 311101,
+        "BaseEquip1": [
+            2100115,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6784,
+        "FiveDimenBL": 0.6525,
+        "FiveDimenRN": 0.6297,
+        "FiveDimenFY": 0.9542,
+        "FiveDimenXY": 1.2061,
+        "Birthday": "???",
+        "Constellation": "17822",
+        "BloodType": "？？？",
+        "Hobby": "17822",
+        "BirthLocal": "17822",
+        "OwnStory": "17826",
+        "EnglishName": "Asuka Shikinami Langley",
+        "GirlCamp": 7,
+        "GirlCampIcon": "Nerv",
+        "GirlHeight": "？？？",
+        "LikeThing": "17822",
+        "GirlHate": "17822",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 4,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            2
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2111010,
+        "ExpertSkillEquip": 2111020,
+        "GirlGood": "机枪武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.6316,
+                2.3711,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "17823",
+        "ItemID": 10500111,
+        "Age": -1,
+        "Gender": "2690",
+        "CV": "17831",
+        "Autobiography": "18777",
+        "ID": 111,
+        "Name": "17792"
+    },
+    {
+        "BasicSkin": 11201,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                13700023,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 311201,
+        "BaseEquip1": [
+            2100114,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100123,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100133,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100143,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.621,
+        "FiveDimenBL": 0.6719,
+        "FiveDimenRN": 1.0207,
+        "FiveDimenFY": 0.9729,
+        "FiveDimenXY": 0.9848,
+        "Birthday": "???",
+        "Constellation": "17822",
+        "BloodType": "？？？",
+        "Hobby": "17822",
+        "BirthLocal": "17822",
+        "OwnStory": "17827",
+        "EnglishName": "Mari Makinami Illustrious",
+        "GirlCamp": 7,
+        "GirlCampIcon": "Nerv",
+        "GirlHeight": "？？？",
+        "LikeThing": "17822",
+        "GirlHate": "17822",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 3,
+        "ChestRecommend": 11,
+        "LegRecommend": 16,
+        "BagRecommend": 21,
+        "BigTech": [
+            2
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2112010,
+        "ExpertSkillEquip": 2112020,
+        "GirlGood": "强袭武器专精；重型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                22.1021,
+                2.6316,
+                1.6505,
+                1.6505,
+                1.6279
+            ],
+            "propertys": null
+        },
+        "GirlJob": "17823",
+        "ItemID": 10500112,
+        "Age": -1,
+        "Gender": "2690",
+        "CV": "17832",
+        "Autobiography": "18777",
+        "ID": 112,
+        "Name": "17793"
+    },
+    {
+        "BasicSkin": 11301,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 1,
+        "RepeatTransform": [
+            [
+                13700020,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 311301,
+        "BaseEquip1": [
+            2100113,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100121,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100131,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100141,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6873,
+        "FiveDimenBL": 0.7066,
+        "FiveDimenRN": 0.8332,
+        "FiveDimenFY": 0.6693,
+        "FiveDimenXY": 0.6576,
+        "Birthday": "???",
+        "Constellation": "17822",
+        "BloodType": "？？？",
+        "Hobby": "17822",
+        "BirthLocal": "17822",
+        "OwnStory": "17828",
+        "EnglishName": "Shinji Ikari",
+        "GirlCamp": 7,
+        "GirlCampIcon": "Nerv",
+        "GirlHeight": "？？？",
+        "LikeThing": "17822",
+        "GirlHate": "17822",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 2,
+        "ChestRecommend": 9,
+        "LegRecommend": 14,
+        "BagRecommend": 19,
+        "BigTech": [
+            2
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2113010,
+        "ExpertSkillEquip": 2113020,
+        "GirlGood": "突击武器专精；轻型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                1.6505,
+                2.3711,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "17823",
+        "ItemID": 10500113,
+        "Age": 14,
+        "Gender": "2691",
+        "CV": "17833",
+        "Autobiography": "18777",
+        "ID": 113,
+        "Name": "17794"
+    },
+    {
+        "BasicSkin": 11401,
+        "BasicStarLevel": 3,
+        "GirlQualityType": 3,
+        "ProfessionType": 3,
+        "RepeatTransform": [
+            [
+                13700024,
+                5
+            ],
+            [
+                10600000,
+                80
+            ]
+        ],
+        "SuitID": 311401,
+        "BaseEquip1": [
+            2100118,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip2": [
+            2100122,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip3": [
+            2100132,
+            1,
+            1,
+            0
+        ],
+        "BaseEquip4": [
+            2100142,
+            1,
+            1,
+            0
+        ],
+        "FiveDimenJR": 0.6152,
+        "FiveDimenBL": 0.6898,
+        "FiveDimenRN": 0.8151,
+        "FiveDimenFY": 1.1872,
+        "FiveDimenXY": 0.7689,
+        "Birthday": "???",
+        "Constellation": "17822",
+        "BloodType": "？？？",
+        "Hobby": "17822",
+        "BirthLocal": "17822",
+        "OwnStory": "17829",
+        "EnglishName": "Kaworu Nagisa",
+        "GirlCamp": 7,
+        "GirlCampIcon": "Nerv",
+        "GirlHeight": "？？？",
+        "LikeThing": "17822",
+        "GirlHate": "17822",
+        "GoodwillSkill": [],
+        "WeaponRecommend": 7,
+        "ChestRecommend": 10,
+        "LegRecommend": 15,
+        "BagRecommend": 20,
+        "BigTech": [
+            2
+        ],
+        "BigGev": 4,
+        "ExpertSkillWeapeon": 2114010,
+        "ExpertSkillEquip": 2114020,
+        "GirlGood": "火炮武器专精；中型部件专精",
+        "GirlChangePara": {
+            "keys": [
+                83,
+                84,
+                85,
+                86,
+                87
+            ],
+            "values": [
+                20.8146,
+                2.381,
+                2.3711,
+                1.6505,
+                3.5135
+            ],
+            "propertys": null
+        },
+        "GirlJob": "17823",
+        "ItemID": 10500114,
+        "Age": -1,
+        "Gender": "2691",
+        "CV": "17834",
+        "Autobiography": "18777",
+        "ID": 114,
+        "Name": "17795"
+=======
+>>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

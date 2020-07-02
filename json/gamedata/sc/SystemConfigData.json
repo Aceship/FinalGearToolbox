@@ -1219,14 +1219,14 @@
     },
     {
         "Key": "部件数量上限",
-        "Value": "408",
+        "Value": "428",
         "Desc": "",
         "ID": 175,
         "Name": null
     },
     {
         "Key": "机师数量上限",
-        "Value": "97",
+        "Value": "102",
         "Desc": "",
         "ID": 176,
         "Name": null
@@ -1380,7 +1380,7 @@
     },
     {
         "Key": "推荐信快捷购买",
-        "Value": "20007",
+        "Value": "20016",
         "Desc": "",
         "ID": 198,
         "Name": null
@@ -1408,7 +1408,7 @@
     },
     {
         "Key": "精英推荐信",
-        "Value": "20016",
+        "Value": "20026",
         "Desc": "",
         "ID": 202,
         "Name": null
@@ -1653,7 +1653,7 @@
     },
     {
         "Key": "特惠皮肤活动商品ID",
-        "Value": "200032,200033",
+        "Value": "200034,200035",
         "Desc": "",
         "ID": 237,
         "Name": null
@@ -1730,14 +1730,14 @@
     },
     {
         "Key": "部件兑换商店1代币id",
-        "Value": "10100050",
+        "Value": "10100126",
         "Desc": "",
         "ID": 248,
         "Name": null
     },
     {
         "Key": "部件兑换商店2代币id",
-        "Value": "10100038",
+        "Value": "10100052",
         "Desc": "",
         "ID": 249,
         "Name": null
@@ -2150,21 +2150,21 @@
     },
     {
         "Key": "活动代币",
-        "Value": "10100021",
+        "Value": "10100041",
         "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 308,
         "Name": null
     },
     {
         "Key": "奖池黄金券",
-        "Value": "10100023",
+        "Value": "10100043",
         "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 309,
         "Name": null
     },
     {
         "Key": "奖池钻石券",
-        "Value": "10100024",
+        "Value": "10100044",
         "Desc": "道具ID，德洛丽丝专用（月面大暴走）",
         "ID": 310,
         "Name": null
@@ -2199,7 +2199,7 @@
     },
     {
         "Key": "月面大暴走奖池说明",
-        "Value": "月面大暴走奖池说明\\n1.奖池分为三种档次，<color=#DC143C>钻石</color>，<color=#ffd200>黄金</color>和<color=#1E90FF>白银</color>，默认是<color=#1E90FF>白银</color>奖池。\\n2.奖池品质越高，每次刷出的<color=#7CD7FF>稀有道具</color>的数量越多。\\n3.<color=#7CD7FF>任意品质</color>奖池每次均<color=#7CD7FF>必出</color>一件德洛莉丝一体机部件，其词条、属性值与奖池品质无关。\\n4.活动期间重置奖池没有次数限制。每次清空奖池时<color=#7CD7FF>自动触发</color>奖池重置，或者在任意时间均可以使用<color=#7CD7FF>晶石</color>重置奖池。\\n5.任意方式重置奖池时均有几率刷出三种品质奖池，品质越高的奖池刷出来的几率越低。\\n6.重置奖池时，若刷出<color=#ffd200>黄金</color>或<color=#1E90FF>白银</color>奖池，可以分别获得固定量的<color=#7CD7FF>幸运值</color>，幸运值达到满值后下次任意方式重置奖池<color=#7CD7FF>必会</color>刷出<color=#DC143C>钻石</color>奖池（同时清空幸运值）。\\n7.重置奖池时，若刷出<color=#DC143C>钻石</color>奖池，亦会清空幸运值。\\n8.每天均有一次免费晶石重置的机会。",
+        "Value": "月面大暴走奖池说明\\n1.奖池分为三种档次，<color=#DC143C>钻石</color>，<color=#ffd200>黄金</color>和<color=#1E90FF>白银</color>，默认是<color=#1E90FF>白银</color>奖池。\\n2.奖池品质越高，每次刷出的<color=#7CD7FF>稀有道具</color>的数量越多。\\n3.活动期间重置奖池没有次数限制。每次清空奖池时<color=#7CD7FF>自动触发</color>奖池重置，或者在任意时间均可以使用<color=#7CD7FF>晶石</color>重置奖池。\\n4.任意方式重置奖池时均有几率刷出三种品质奖池，品质越高的奖池刷出来的几率越低。\\n5.重置奖池时，若刷出<color=#ffd200>黄金</color>或<color=#1E90FF>白银</color>奖池，可以分别获得固定量的<color=#7CD7FF>幸运值</color>，幸运值达到满值后下次任意方式重置奖池<color=#7CD7FF>必会</color>刷出<color=#DC143C>钻石</color>奖池（同时清空幸运值）。\\n6.重置奖池时，若刷出<color=#DC143C>钻石</color>奖池，亦会清空幸运值。\\n7.每天均有一次免费晶石重置的机会。",
         "Desc": "月面大暴走专用",
         "ID": 315,
         "Name": null
@@ -2486,8 +2486,8 @@
     },
     {
         "Key": "特惠皮肤活动商品PageName",
-        "Value": "SkinActive_30,SkinActive_31",
-        "Desc": "30:vo皮肤特惠，31：艾丝美拉达",
+        "Value": "SkinActive_34,SkinActive_35",
+        "Desc": "34:弗莱维娅，35:姬拉",
         "ID": 356,
         "Name": null
     },
@@ -2814,17 +2814,182 @@
         "Name": null
     },
     {
-        "Key": "系统重置/免费重置时黄金奖池出现概率",
+        "Key": "系统重置免费重置时黄金奖池出现概率",
         "Value": "0.3",
         "Desc": "德洛丽丝专用",
         "ID": 403,
         "Name": null
     },
     {
-        "Key": "系统重置/免费重置时钻石奖池出现概率",
+        "Key": "系统重置免费重置时钻石奖池出现概率",
         "Value": "0.2",
         "Desc": "德洛丽丝专用",
+<<<<<<< HEAD
+        "ID": 406,
+        "Name": null
+    },
+    {
+        "Key": "EVAPilotItem",
+        "Value": "13700011",
+        "Desc": "【EVA活动】用于在作战准备室中提交，增加好感度",
+        "ID": 407,
+        "Name": null
+    },
+    {
+        "Key": "EVAPilotItemMax",
+        "Value": "10",
+        "Desc": "【EVA活动】作战准备室内的礼物每天最多获得多少个",
+        "ID": 408,
+        "Name": null
+    },
+    {
+        "Key": "EVABaseEnergy",
+        "Value": "240",
+        "Desc": "【EVA活动】基础能量值（体力）",
+        "ID": 409,
+        "Name": null
+    },
+    {
+        "Key": "EVAMaxEnergy",
+        "Value": "240",
+        "Desc": "【EVA活动】最大能量值（体力）",
+        "ID": 410,
+        "Name": null
+    },
+    {
+        "Key": "EVAEnergyRecovery",
+        "Value": "1,6",
+        "Desc": "【EVA活动】能量回复规则，每6分钟回复1点",
+        "ID": 411,
+        "Name": null
+    },
+    {
+        "Key": "EVAEnergyItem",
+        "Value": "13700015",
+        "Desc": "【EVA活动】体力药水",
+        "ID": 412,
+        "Name": null
+    },
+    {
+        "Key": "EVAShopMoney",
+        "Value": "13700001",
+        "Desc": "【EVA活动】购买商店内商品需要的道具ID",
+        "ID": 413,
+        "Name": null
+    },
+    {
+        "Key": "EVABossMaxTimes",
+        "Value": "1",
+        "Desc": "【EVA活动】限时BOSS最大挑战次数",
+        "ID": 414,
+        "Name": null
+    },
+    {
+        "Key": "EVABossAddTimes",
+        "Value": "1",
+        "Desc": "【EVA活动】限时BOSS恢复的次数",
+        "ID": 415,
+        "Name": null
+    },
+    {
+        "Key": "EVABossTimesHour",
+        "Value": "12,14;18,22",
+        "Desc": "【EVA活动】限时BOSS的恢复时间段",
+        "ID": 416,
+        "Name": null
+    },
+    {
+        "Key": "EVABossTimesPrice",
+        "Value": "150",
+        "Desc": "【EVA活动】限时BOSS次数购买费用",
+        "ID": 417,
+        "Name": null
+    },
+    {
+        "Key": "EVABossTimesBuy",
+        "Value": "10",
+        "Desc": "【EVA活动】限时BOSS每天最大次数",
+        "ID": 418,
+        "Name": null
+    },
+    {
+        "Key": "EVAExchangeTime",
+        "Value": "19",
+        "Desc": "【EVA活动】用于读取EVA活动的商店保存时间",
+        "ID": 419,
+        "Name": null
+    },
+    {
+        "Key": "EVABossTicket",
+        "Value": "13700014",
+        "Desc": "【EVA活动】BOSS门票",
+        "ID": 420,
+        "Name": null
+    },
+    {
+        "Key": "EVADonationItem",
+        "Value": "13700007,13700008,13700009,13700010",
+        "Desc": "【EVA活动】物资捐献道具",
+        "ID": 421,
+        "Name": null
+    },
+    {
+        "Key": "EVASpeedUp",
+        "Value": "10",
+        "Desc": "【EVA活动】加速时间（分钟）",
+        "ID": 422,
+        "Name": null
+    },
+    {
+        "Key": "EVASpeedUpItem",
+        "Value": "13700019",
+        "Desc": "【EVA活动】加速道具ID",
+        "ID": 423,
+        "Name": null
+    },
+    {
+        "Key": "EVAMainchallenge1",
+        "Value": "13700015,10100001,10200004,10800001,10900002,10800002,10800003,10800004,10800005,10800006",
+        "Desc": "【EVA活动】核心挑战-档位1",
+        "ID": 424,
+        "Name": null
+    },
+    {
+        "Key": "EVAMainchallenge2",
+        "Value": "13700015,10100001,10200004,16000001,16000002,10900001,10900002,10800003,10800004,10800005,10800006,10800001",
+        "Desc": "【EVA活动】核心挑战-档位2",
+        "ID": 425,
+        "Name": null
+    },
+    {
+        "Key": "EVAMainchallenge3",
+        "Value": "13700015,10100001,10200004,16000001,10900001,10900002,10800001,13200226",
+        "Desc": "【EVA活动】核心挑战-档位3",
+        "ID": 426,
+        "Name": null
+    },
+    {
+        "Key": "新手礼包持续时间",
+        "Value": "0",
+        "Desc": "新手礼包触发后持续的倒计时时间（小时）168",
+        "ID": 427,
+        "Name": null
+    },
+    {
+        "Key": "回归礼包持续时间",
+        "Value": "2",
+        "Desc": "回归礼包触发后持续的倒计时时间（小时）",
+        "ID": 428,
+        "Name": null
+    },
+    {
+        "Key": "回归礼包触发条件",
+        "Value": "99999",
+        "Desc": "本次登录距离上次登录的时长（单位：天）",
+        "ID": 429,
+=======
         "ID": 404,
+>>>>>>> parent of 269e0ad... sc 1130100
         "Name": null
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+        "ActivityOpenTime": "2020/4/30 14:30:00",
+        "ActivityCloseTime": "2020/5/14 13:59:00",
+        "ActivityType": "无",
+        "ActivityNameCH": "黄金假期",
+        "ActivityNameENG": "GOLDEN HOLIDAY",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "ActivityOpenTime": "2020/6/24 14:30:00",
+        "ActivityCloseTime": "2020/7/30 13:59:00",
+        "ActivityType": "无",
+        "ActivityNameCH": "黃金假期",
+        "ActivityNameENG": "GOLDEN VACATION",
+        "ID": 101,
+        "Name": null
+    }
+]

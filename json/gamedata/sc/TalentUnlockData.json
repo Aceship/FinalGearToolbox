@@ -655,7 +655,7 @@
             14110008,
             45
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 57,
         "Name": null
@@ -669,7 +669,7 @@
             14110008,
             45
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 58,
         "Name": null
@@ -683,7 +683,7 @@
             14110008,
             45
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 59,
         "Name": null
@@ -697,7 +697,7 @@
             14110008,
             45
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 60,
         "Name": null
@@ -795,7 +795,7 @@
             14110008,
             80
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 67,
         "Name": null
@@ -809,7 +809,7 @@
             14110008,
             80
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 68,
         "Name": null
@@ -823,7 +823,7 @@
             14110008,
             80
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 69,
         "Name": null
@@ -837,7 +837,7 @@
             14110008,
             80
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 2,
         "TalentUnlock": [],
         "ID": 70,
         "Name": null
@@ -935,7 +935,7 @@
             14110008,
             100
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 3,
         "TalentUnlock": [],
         "ID": 77,
         "Name": null
@@ -949,7 +949,7 @@
             14110008,
             100
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 3,
         "TalentUnlock": [
             0,
             4,
@@ -968,7 +968,7 @@
             14110008,
             100
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 3,
         "TalentUnlock": [],
         "ID": 79,
         "Name": null
@@ -982,7 +982,7 @@
             14110008,
             100
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 3,
         "TalentUnlock": [],
         "ID": 80,
         "Name": null
@@ -1080,7 +1080,7 @@
             14110008,
             225
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 4,
         "TalentUnlock": [],
         "ID": 87,
         "Name": null
@@ -1094,7 +1094,7 @@
             14110008,
             225
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 4,
         "TalentUnlock": [],
         "ID": 88,
         "Name": null
@@ -1108,7 +1108,7 @@
             14110008,
             225
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 4,
         "TalentUnlock": [],
         "ID": 89,
         "Name": null
@@ -1122,7 +1122,7 @@
             14110008,
             225
         ],
-        "UnlockItemSpecial": 1,
+        "UnlockItemSpecial": 4,
         "TalentUnlock": [],
         "ID": 90,
         "Name": null
@@ -1220,7 +1220,7 @@
             14110008,
             450
         ],
-        "UnlockItemSpecial": 2,
+        "UnlockItemSpecial": 5,
         "TalentUnlock": [
             1,
             60,
@@ -1239,7 +1239,7 @@
             14110008,
             450
         ],
-        "UnlockItemSpecial": 2,
+        "UnlockItemSpecial": 5,
         "TalentUnlock": [],
         "ID": 98,
         "Name": null
@@ -1253,7 +1253,7 @@
             14110008,
             450
         ],
-        "UnlockItemSpecial": 2,
+        "UnlockItemSpecial": 5,
         "TalentUnlock": [],
         "ID": 99,
         "Name": null
@@ -1267,7 +1267,7 @@
             14110008,
             450
         ],
-        "UnlockItemSpecial": 2,
+        "UnlockItemSpecial": 5,
         "TalentUnlock": [],
         "ID": 100,
         "Name": null

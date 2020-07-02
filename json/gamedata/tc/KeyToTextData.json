@@ -928,5 +928,11 @@
         "ChineseShow": "10013848",
         "ID": 155,
         "Name": "MCVProductionType3"
+    },
+    {
+        "EnumerateName": "特殊配件",
+        "ChineseShow": "15640",
+        "ID": 156,
+        "Name": "EquipSubType27"
     }
 ]

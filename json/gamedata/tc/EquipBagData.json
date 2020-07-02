@@ -38,7 +38,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000000",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -47,7 +47,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000000,
         "Name": null
     },
@@ -90,7 +90,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000001",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -99,7 +99,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000001,
         "Name": null
     },
@@ -142,7 +142,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000002",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -151,7 +151,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000002,
         "Name": null
     },
@@ -194,7 +194,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000010",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -203,7 +203,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000010,
         "Name": null
     },
@@ -246,7 +246,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000020",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -255,7 +255,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000020,
         "Name": null
     },
@@ -298,7 +298,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000030",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -307,7 +307,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000030,
         "Name": null
     },
@@ -350,7 +350,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000031",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -359,7 +359,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000031,
         "Name": null
     },
@@ -402,7 +402,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000032",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -411,7 +411,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000032,
         "Name": null
     },
@@ -454,7 +454,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000040",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -463,7 +463,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000040,
         "Name": null
     },
@@ -506,7 +506,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000041",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -515,7 +515,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000041,
         "Name": null
     },
@@ -558,7 +558,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000042",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -567,7 +567,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000042,
         "Name": null
     },
@@ -610,7 +610,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000050",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -619,7 +619,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000050,
         "Name": null
     },
@@ -662,7 +662,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000051",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -671,7 +671,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000051,
         "Name": null
     },
@@ -714,7 +714,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000052",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -723,7 +723,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000052,
         "Name": null
     },
@@ -766,7 +766,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000070",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -775,7 +775,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000070,
         "Name": null
     },
@@ -818,7 +818,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000071",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -827,7 +827,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000071,
         "Name": null
     },
@@ -870,7 +870,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000072",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -879,7 +879,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000072,
         "Name": null
     },
@@ -922,7 +922,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000080",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -931,7 +931,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000080,
         "Name": null
     },
@@ -974,7 +974,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000081",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -983,7 +983,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000081,
         "Name": null
     },
@@ -1026,7 +1026,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000082",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1035,7 +1035,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000082,
         "Name": null
     },
@@ -1078,7 +1078,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000090",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1087,7 +1087,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000090,
         "Name": null
     },
@@ -1130,7 +1130,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000091",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1139,7 +1139,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000091,
         "Name": null
     },
@@ -1182,7 +1182,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000092",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1191,7 +1191,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000092,
         "Name": null
     },
@@ -1234,7 +1234,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000100",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1243,7 +1243,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000100,
         "Name": null
     },
@@ -1286,7 +1286,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000110",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1295,7 +1295,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000110,
         "Name": null
     },
@@ -1338,7 +1338,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000111",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1347,7 +1347,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000111,
         "Name": null
     },
@@ -1390,7 +1390,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000112",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1399,7 +1399,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000112,
         "Name": null
     },
@@ -1442,7 +1442,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000120",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1451,7 +1451,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000120,
         "Name": null
     },
@@ -1494,7 +1494,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000121",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1503,7 +1503,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000121,
         "Name": null
     },
@@ -1546,7 +1546,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000122",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1555,7 +1555,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000122,
         "Name": null
     },
@@ -1598,7 +1598,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000130",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1607,7 +1607,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000130,
         "Name": null
     },
@@ -1650,7 +1650,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000140",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1659,7 +1659,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000140,
         "Name": null
     },
@@ -1702,7 +1702,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000141",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1711,7 +1711,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000141,
         "Name": null
     },
@@ -1754,7 +1754,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000142",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1763,7 +1763,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000142,
         "Name": null
     },
@@ -1806,7 +1806,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000150",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1815,7 +1815,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000150,
         "Name": null
     },
@@ -1858,7 +1858,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000160",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1867,7 +1867,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000160,
         "Name": null
     },
@@ -1910,7 +1910,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000170",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1919,7 +1919,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000170,
         "Name": null
     },
@@ -1962,7 +1962,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000171",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -1971,7 +1971,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000171,
         "Name": null
     },
@@ -2014,7 +2014,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000172",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2023,7 +2023,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000172,
         "Name": null
     },
@@ -2066,7 +2066,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000180",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2075,7 +2075,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000180,
         "Name": null
     },
@@ -2118,7 +2118,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000181",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2127,7 +2127,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000181,
         "Name": null
     },
@@ -2170,7 +2170,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000182",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2179,7 +2179,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000182,
         "Name": null
     },
@@ -2222,7 +2222,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000200",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2231,7 +2231,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000200,
         "Name": null
     },
@@ -2274,7 +2274,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000201",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2283,7 +2283,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000201,
         "Name": null
     },
@@ -2326,7 +2326,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000202",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2335,7 +2335,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000202,
         "Name": null
     },
@@ -2378,7 +2378,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000210",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2387,7 +2387,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000210,
         "Name": null
     },
@@ -2430,7 +2430,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000211",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2439,7 +2439,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000211,
         "Name": null
     },
@@ -2482,7 +2482,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000212",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2491,7 +2491,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000212,
         "Name": null
     },
@@ -2534,7 +2534,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000220",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2543,7 +2543,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000220,
         "Name": null
     },
@@ -2586,7 +2586,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000230",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2595,7 +2595,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000230,
         "Name": null
     },
@@ -2638,7 +2638,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000240",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2647,7 +2647,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000240,
         "Name": null
     },
@@ -2690,7 +2690,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000250",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2699,7 +2699,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000250,
         "Name": null
     },
@@ -2742,7 +2742,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000270",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2751,7 +2751,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000270,
         "Name": null
     },
@@ -2794,7 +2794,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000271",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2803,7 +2803,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000271,
         "Name": null
     },
@@ -2846,7 +2846,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000272",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2855,7 +2855,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000272,
         "Name": null
     },
@@ -2898,7 +2898,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000280",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2907,7 +2907,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000280,
         "Name": null
     },
@@ -2950,7 +2950,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000290",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -2959,7 +2959,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000290,
         "Name": null
     },
@@ -3002,7 +3002,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000291",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3011,7 +3011,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000291,
         "Name": null
     },
@@ -3054,7 +3054,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000292",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3063,7 +3063,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000292,
         "Name": null
     },
@@ -3106,7 +3106,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000300",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3115,7 +3115,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000300,
         "Name": null
     },
@@ -3158,7 +3158,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000310",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3167,7 +3167,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000310,
         "Name": null
     },
@@ -3210,7 +3210,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000320",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3219,7 +3219,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000320,
         "Name": null
     },
@@ -3262,7 +3262,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000330",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3271,7 +3271,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000330,
         "Name": null
     },
@@ -3314,7 +3314,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000340",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3323,7 +3323,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000340,
         "Name": null
     },
@@ -3366,7 +3366,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000350",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3375,7 +3375,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000350,
         "Name": null
     },
@@ -3418,7 +3418,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000370",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3427,7 +3427,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000370,
         "Name": null
     },
@@ -3470,7 +3470,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000380",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3479,7 +3479,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000380,
         "Name": null
     },
@@ -3522,7 +3522,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000381",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3531,7 +3531,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000381,
         "Name": null
     },
@@ -3574,7 +3574,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000382",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3583,7 +3583,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000382,
         "Name": null
     },
@@ -3626,7 +3626,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000390",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3635,7 +3635,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000390,
         "Name": null
     },
@@ -3678,7 +3678,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000400",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3687,7 +3687,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000400,
         "Name": null
     },
@@ -3730,7 +3730,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000410",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3739,7 +3739,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000410,
         "Name": null
     },
@@ -3782,7 +3782,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000420",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3791,7 +3791,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000420,
         "Name": null
     },
@@ -3834,7 +3834,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000430",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3843,7 +3843,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000430,
         "Name": null
     },
@@ -3886,7 +3886,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000440",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3895,7 +3895,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000440,
         "Name": null
     },
@@ -3938,7 +3938,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000450",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3947,7 +3947,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000450,
         "Name": null
     },
@@ -3990,7 +3990,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000460",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -3999,7 +3999,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000460,
         "Name": null
     },
@@ -4042,7 +4042,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000470",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4051,7 +4051,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000470,
         "Name": null
     },
@@ -4094,7 +4094,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000480",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4103,7 +4103,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000480,
         "Name": null
     },
@@ -4146,7 +4146,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000490",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4155,7 +4155,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000490,
         "Name": null
     },
@@ -4198,7 +4198,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000491",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4207,7 +4207,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000491,
         "Name": null
     },
@@ -4250,7 +4250,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000492",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4259,7 +4259,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000492,
         "Name": null
     },
@@ -4302,7 +4302,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000500",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4311,7 +4311,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000500,
         "Name": null
     },
@@ -4354,7 +4354,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000510",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4363,7 +4363,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000510,
         "Name": null
     },
@@ -4406,7 +4406,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000520",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4415,7 +4415,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000520,
         "Name": null
     },
@@ -4458,7 +4458,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000530",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4467,7 +4467,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000530,
         "Name": null
     },
@@ -4510,7 +4510,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000540",
-        "movieChannel": 3,
+        "movieChannel": "通道3",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4519,7 +4519,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000540,
         "Name": null
     },
@@ -4562,7 +4562,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000550",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4571,7 +4571,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000550,
         "Name": null
     },
@@ -4614,7 +4614,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000560",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4623,7 +4623,7 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000560,
         "Name": null
     },
@@ -4666,7 +4666,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000570",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4675,8 +4675,216 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000570,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000580_Bag",
+        "previewBounds": {
+            "x": -0.7787479,
+            "y": -0.1109614,
+            "z": 2.834122,
+            "w": 2.732722
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000580",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000580,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000590_Bag",
+        "previewBounds": {
+            "x": -0.9871984,
+            "y": 0.4173713,
+            "z": 2.500303,
+            "w": 3.290906
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000590",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000590,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000600_Bag",
+        "previewBounds": {
+            "x": -0.5829356,
+            "y": -0.05850828,
+            "z": 2.849946,
+            "w": 3.259938
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000600",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000600,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000610_Bag",
+        "previewBounds": {
+            "x": -0.7860715,
+            "y": -0.1603972,
+            "z": 5.991356,
+            "w": 3.567585
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000610",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000610,
         "Name": null
     },
     {
@@ -4718,7 +4926,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Bag_000620",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100012
@@ -4727,8 +4935,372 @@
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 22000620,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000630_Bag",
+        "previewBounds": {
+            "x": -1.498802,
+            "y": 0.05470216,
+            "z": 3.72034,
+            "w": 4.106849
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000630",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000630,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000640_Bag",
+        "previewBounds": {
+            "x": -0.7482422,
+            "y": -0.09610367,
+            "z": 1.470222,
+            "w": 2.370171
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000640",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000640,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000650_Bag",
+        "previewBounds": {
+            "x": -0.9596416,
+            "y": 0.3457983,
+            "z": 2.667719,
+            "w": 2.790334
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000650",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000650,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000660_Bag",
+        "previewBounds": {
+            "x": -0.88552,
+            "y": 0.1196481,
+            "z": 3.920739,
+            "w": 2.910861
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000660",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000660,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000670_Bag",
+        "previewBounds": {
+            "x": -1.271748,
+            "y": 0.1289085,
+            "z": 3.350623,
+            "w": 3.073656
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000670",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000670,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000680_Bag",
+        "previewBounds": {
+            "x": -1.014949,
+            "y": 0.0426172,
+            "z": 4.08097,
+            "w": 3.302245
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000680",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000680,
+        "Name": null
+    },
+    {
+        "preview": "Preview_Bag_000690_Bag",
+        "previewBounds": {
+            "x": -0.9596416,
+            "y": 0.3457983,
+            "z": 2.667719,
+            "w": 2.790334
+        },
+        "preview2": null,
+        "previewBounds2": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview3": null,
+        "previewBounds3": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "preview4": null,
+        "previewBounds4": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+        },
+        "bagPosition": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "EquipName": "",
+        "Show": true,
+        "balabaStarLevel": 0,
+        "balabaLevel": 0,
+        "isAllInOne": false,
+        "prefab": "Bag_000690",
+        "movieChannel": "通道0",
+        "shieldBoomEff": null,
+        "clips": [
+            890100012
+        ],
+        "components": [],
+        "eventEffectDatas": [],
+        "skills": [],
+        "passiveSkillIDs": [],
+        "type": "None",
+        "ID": 22000690,
         "Name": null
     }
 ]

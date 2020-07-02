@@ -76,5 +76,143 @@
         "WeeklyStageIcon": 82020053,
         "ID": 1000106,
         "Name": null
+    },
+    {
+        "WeeklyStageID": 1000107,
+        "WeeklyStageName": "8732",
+        "WeeklyMapLocation": 7,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020050,
+        "ID": 1000107,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000108,
+        "WeeklyStageName": "8733",
+        "WeeklyMapLocation": 8,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020051,
+        "ID": 1000108,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000109,
+        "WeeklyStageName": "8735",
+        "WeeklyMapLocation": 9,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020053,
+        "ID": 1000109,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000201,
+        "WeeklyStageName": "15214",
+        "WeeklyMapLocation": 1,
+        "ChallengeNum": 1,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020278,
+        "ID": 1000201,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000202,
+        "WeeklyStageName": "15215",
+        "WeeklyMapLocation": 2,
+        "ChallengeNum": 1,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020279,
+        "ID": 1000202,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000203,
+        "WeeklyStageName": "15217",
+        "WeeklyMapLocation": 3,
+        "ChallengeNum": 2,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020050,
+        "ID": 1000203,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000204,
+        "WeeklyStageName": "15216",
+        "WeeklyMapLocation": 4,
+        "ChallengeNum": 3,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020280,
+        "ID": 1000204,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000205,
+        "WeeklyStageName": "15218",
+        "WeeklyMapLocation": 5,
+        "ChallengeNum": 4,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020281,
+        "ID": 1000205,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000206,
+        "WeeklyStageName": "15219",
+        "WeeklyMapLocation": 6,
+        "ChallengeNum": 1,
+        "ChallengeItem": [
+            13200011,
+            1
+        ],
+        "WeeklyStageIcon": 82020053,
+        "ID": 1000206,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000207,
+        "WeeklyStageName": "15217",
+        "WeeklyMapLocation": 7,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020050,
+        "ID": 1000207,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000208,
+        "WeeklyStageName": "15218",
+        "WeeklyMapLocation": 8,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020281,
+        "ID": 1000208,
+        "Name": null
+    },
+    {
+        "WeeklyStageID": 1000209,
+        "WeeklyStageName": "15219",
+        "WeeklyMapLocation": 9,
+        "ChallengeNum": 999,
+        "ChallengeItem": [],
+        "WeeklyStageIcon": 82020053,
+        "ID": 1000209,
+        "Name": null
     }
 ]

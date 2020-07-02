@@ -142,7 +142,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60000,
+        "NormalRandom": 20100,
         "FullValueRandom": 960000,
         "RecruitPoint": [
             1,
@@ -175,7 +175,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60001,
+        "NormalRandom": 20101,
         "FullValueRandom": 960001,
         "RecruitPoint": [
             1,
@@ -208,7 +208,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60002,
+        "NormalRandom": 20102,
         "FullValueRandom": 960002,
         "RecruitPoint": [
             1,
@@ -241,7 +241,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60003,
+        "NormalRandom": 20103,
         "FullValueRandom": 960003,
         "RecruitPoint": [
             1,
@@ -274,7 +274,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60004,
+        "NormalRandom": 20104,
         "FullValueRandom": 960004,
         "RecruitPoint": [
             1,
@@ -307,7 +307,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60005,
+        "NormalRandom": 20105,
         "FullValueRandom": 960005,
         "RecruitPoint": [
             1,
@@ -340,7 +340,7 @@
                 300
             ]
         ],
-        "NormalRandom": 60006,
+        "NormalRandom": 20106,
         "FullValueRandom": 960006,
         "RecruitPoint": [
             1,
@@ -756,7 +756,7 @@
         ],
         "ProbabilityPrew": "11154",
         "GirlList": "310801,0.1;300401,0.025;302101,0.025",
-        "UpGirl": "310401,303901,305501",
+        "UpGirl": "310801,300401,302101",
         "ID": 20021,
         "Name": null
     },
@@ -783,8 +783,197 @@
         ],
         "ProbabilityPrew": "11154",
         "GirlList": "310401,0.1;303901,0.025;305501,0.025",
-        "UpGirl": "",
+        "UpGirl": "310401,303901,305501",
         "ID": 20022,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "14695",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70016,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2310714,
+            2310723,
+            2310733,
+            2310743
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "310701,0.1;305501,0.025;300801,0.025",
+        "UpGirl": "310701,305501,300801",
+        "ID": 20023,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "100533",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70017,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2311801,
+            2311802,
+            2311803,
+            2311804
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "311801,0.1;301301,0.025;302101,0.025",
+        "UpGirl": "311801,301301,302101",
+        "ID": 20024,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "9049",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70006,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2308113,
+            2308121,
+            2308131,
+            2308141
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "308101,0.1;300801,0.025;305501,0.025",
+        "UpGirl": "308101,300801,305501",
+        "ID": 20025,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "18107",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70018,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2311001,
+            2311002,
+            2311003,
+            2311004
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "311001,0.1;311301,0.05",
+        "UpGirl": "311001,311301",
+        "ID": 20026,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "18108",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70019,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2311101,
+            2311102,
+            2311103,
+            2311104
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "311101,0.1;311301,0.05",
+        "UpGirl": "311101,311301",
+        "ID": 20027,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "18109",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70020,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2311201,
+            2311202,
+            2311203,
+            2311204
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "311201,0.1;311301,0.05",
+        "UpGirl": "311201,311301",
+        "ID": 20028,
+        "Name": null
+    },
+    {
+        "RecruitType": 1,
+        "RecruitSubType": 5,
+        "RecruitOrder": 0,
+        "RecruitName": "18111",
+        "RecruitImage": "",
+        "RecruitNeed": [
+            [
+                10810002,
+                1
+            ]
+        ],
+        "NormalRandom": 70021,
+        "FullValueRandom": 0,
+        "RecruitPoint": [],
+        "RecruitPrew": [
+            2311401,
+            2311402,
+            2311403,
+            2311404
+        ],
+        "ProbabilityPrew": "11154",
+        "GirlList": "311401,0.1;311301,0.05",
+        "UpGirl": "311401,311301",
+        "ID": 20029,
         "Name": null
     }
 ]

@@ -893,12 +893,23 @@
     {
         "Description": "",
         "GroupTag": "武器/射击",
+        "CueSheet": "SK",
+        "CueName": "atk_000670",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200040400,
+        "Name": "狙击枪-能量"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/射击",
         "CueSheet": "WP",
         "CueName": "WP_Shoot_SpniperRifle_Laser",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
-        "ID": 200040400,
+        "ID": 200040410,
         "Name": "狙击枪-能量-轻"
     },
     {
@@ -2181,6 +2192,17 @@
         "Description": "",
         "GroupTag": "击中",
         "CueSheet": "HIT",
+        "CueName": "HIT_Energy_Breakdown",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300110010,
+        "Name": "能量爆点-击穿"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中",
+        "CueSheet": "HIT",
         "CueName": "HIT_Elec",
         "Loop": false,
         "Volume": 1.0,
@@ -2729,6 +2751,17 @@
     },
     {
         "Description": "",
+        "GroupTag": "击中/爆炸",
+        "CueSheet": "HIT",
+        "CueName": "HIT_EVA_Boom",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300410100,
+        "Name": "爆炸-EVA02"
+    },
+    {
+        "Description": "",
         "GroupTag": "击中/其他",
         "CueSheet": "HIT",
         "CueName": "hitg_000270",
@@ -2825,6 +2858,17 @@
         "Pitch": 0,
         "ID": 300508000,
         "Name": "砸地-重"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中/其他",
+        "CueSheet": "HIT",
+        "CueName": "HIT_EVA_Impact",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300509000,
+        "Name": "砸地-EVA05"
     },
     {
         "Description": "",
@@ -4400,6 +4444,17 @@
         "Name": "act_000240_3"
     },
     {
+        "Description": "拔刀斩-斩月",
+        "GroupTag": "角色/24九条绫",
+        "CueSheet": "SK",
+        "CueName": "act_000240_2",
+        "Loop": false,
+        "Volume": 0.2,
+        "Pitch": 0,
+        "ID": 550002403,
+        "Name": "支配者闪光"
+    },
+    {
         "Description": "施法",
         "GroupTag": "角色/25洛克仙妮",
         "CueSheet": "SK",
@@ -5190,6 +5245,127 @@
         "Pitch": 0,
         "ID": 550008090,
         "Name": "技能-导弹连续发射"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Fall",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008100,
+        "Name": "技能-石碑-掉落"
+    },
+    {
+        "Description": "·",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Spin",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008110,
+        "Name": "技能-石碑-掉落-旋转"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Stela_Fall2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008120,
+        "Name": "技能-石碑-掉落小"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_Summon_Baby",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008130,
+        "Name": "技能-召唤"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA01_SK1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008140,
+        "Name": "EVA01-技能"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA01_SK2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008150,
+        "Name": "EVA01-激光"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA_Shield1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008160,
+        "Name": "EVA00-护盾1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA_Shield2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008170,
+        "Name": "EVA00-护盾2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA02_Spray",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008180,
+        "Name": "EVA02-喷射"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA02_Shoot",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008190,
+        "Name": "EVA02-发射"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA06_SK1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008200,
+        "Name": "EVA06-技能"
     },
     {
         "Description": "瞬闪-出现",
@@ -7324,6 +7500,17 @@
         "Pitch": 0,
         "ID": 700100160,
         "Name": "教堂钟声"
+    },
+    {
+        "Description": "",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_SeaWave",
+        "Loop": true,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 700100170,
+        "Name": "海浪"
     },
     {
         "Description": "",

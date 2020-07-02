@@ -1,9 +1,9 @@
 [
     {
-        "WidgetQualityType": 1,
-        "EquipType": 0,
+        "WidgetQualityType": "R",
+        "EquipType": "None",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -25,10 +25,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 0,
+        "WidgetQualityType": "R",
+        "EquipType": "None",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             20.0
@@ -57,10 +57,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 0,
+        "WidgetQualityType": "R",
+        "EquipType": "None",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             20.0
@@ -89,10 +89,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 0,
+        "WidgetQualityType": "R",
+        "EquipType": "None",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             44.0,
             20.0
@@ -121,10 +121,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 0,
+        "WidgetQualityType": "R",
+        "EquipType": "None",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -152,10 +152,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 1,
+        "WidgetQualityType": "R",
+        "EquipType": "Body",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -177,10 +177,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 1,
+        "WidgetQualityType": "R",
+        "EquipType": "Body",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             20.0
@@ -209,10 +209,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 1,
+        "WidgetQualityType": "R",
+        "EquipType": "Body",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             20.0
@@ -241,10 +241,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 1,
+        "WidgetQualityType": "R",
+        "EquipType": "Body",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             44.0,
             20.0
@@ -273,10 +273,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 1,
+        "WidgetQualityType": "R",
+        "EquipType": "Body",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -304,10 +304,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 2,
+        "WidgetQualityType": "R",
+        "EquipType": "Pilot",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -329,10 +329,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 2,
+        "WidgetQualityType": "R",
+        "EquipType": "Pilot",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             20.0
@@ -361,10 +361,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 2,
+        "WidgetQualityType": "R",
+        "EquipType": "Pilot",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             20.0
@@ -393,10 +393,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 2,
+        "WidgetQualityType": "R",
+        "EquipType": "Pilot",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             44.0,
             20.0
@@ -425,10 +425,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 2,
+        "WidgetQualityType": "R",
+        "EquipType": "Pilot",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -456,10 +456,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 3,
+        "WidgetQualityType": "R",
+        "EquipType": "Arm",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -481,10 +481,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 3,
+        "WidgetQualityType": "R",
+        "EquipType": "Arm",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             20.0
@@ -513,10 +513,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 3,
+        "WidgetQualityType": "R",
+        "EquipType": "Arm",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             20.0
@@ -545,10 +545,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 3,
+        "WidgetQualityType": "R",
+        "EquipType": "Arm",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             44.0,
             20.0
@@ -577,10 +577,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 3,
+        "WidgetQualityType": "R",
+        "EquipType": "Arm",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -608,10 +608,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 4,
+        "WidgetQualityType": "R",
+        "EquipType": "InArm",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -629,10 +629,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 4,
+        "WidgetQualityType": "R",
+        "EquipType": "InArm",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             20.0
@@ -657,10 +657,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 4,
+        "WidgetQualityType": "R",
+        "EquipType": "InArm",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             20.0
@@ -685,10 +685,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 4,
+        "WidgetQualityType": "R",
+        "EquipType": "InArm",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             44.0,
             20.0
@@ -713,10 +713,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 1,
-        "EquipType": 4,
+        "WidgetQualityType": "R",
+        "EquipType": "InArm",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -740,10 +740,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 0,
+        "WidgetQualityType": "SR",
+        "EquipType": "None",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -765,10 +765,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 0,
+        "WidgetQualityType": "SR",
+        "EquipType": "None",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             30.0
@@ -797,10 +797,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 0,
+        "WidgetQualityType": "SR",
+        "EquipType": "None",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -826,10 +826,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 0,
+        "WidgetQualityType": "SR",
+        "EquipType": "None",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             30.0
@@ -858,10 +858,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 0,
+        "WidgetQualityType": "SR",
+        "EquipType": "None",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -889,10 +889,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 1,
+        "WidgetQualityType": "SR",
+        "EquipType": "Body",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -914,10 +914,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 1,
+        "WidgetQualityType": "SR",
+        "EquipType": "Body",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             30.0
@@ -946,10 +946,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 1,
+        "WidgetQualityType": "SR",
+        "EquipType": "Body",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -975,10 +975,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 1,
+        "WidgetQualityType": "SR",
+        "EquipType": "Body",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             30.0
@@ -1007,10 +1007,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 1,
+        "WidgetQualityType": "SR",
+        "EquipType": "Body",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -1038,10 +1038,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 2,
+        "WidgetQualityType": "SR",
+        "EquipType": "Pilot",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1063,10 +1063,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 2,
+        "WidgetQualityType": "SR",
+        "EquipType": "Pilot",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             30.0
@@ -1095,10 +1095,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 2,
+        "WidgetQualityType": "SR",
+        "EquipType": "Pilot",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1124,10 +1124,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 2,
+        "WidgetQualityType": "SR",
+        "EquipType": "Pilot",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             30.0
@@ -1156,10 +1156,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 2,
+        "WidgetQualityType": "SR",
+        "EquipType": "Pilot",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -1187,10 +1187,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 3,
+        "WidgetQualityType": "SR",
+        "EquipType": "Arm",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1212,10 +1212,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 3,
+        "WidgetQualityType": "SR",
+        "EquipType": "Arm",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             30.0
@@ -1244,10 +1244,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 3,
+        "WidgetQualityType": "SR",
+        "EquipType": "Arm",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1273,10 +1273,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 3,
+        "WidgetQualityType": "SR",
+        "EquipType": "Arm",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             30.0
@@ -1305,10 +1305,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 3,
+        "WidgetQualityType": "SR",
+        "EquipType": "Arm",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],
@@ -1336,10 +1336,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 4,
+        "WidgetQualityType": "SR",
+        "EquipType": "InArm",
         "ModeType": 1,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1357,10 +1357,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 4,
+        "WidgetQualityType": "SR",
+        "EquipType": "InArm",
         "ModeType": 2,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             28.0,
             30.0
@@ -1385,10 +1385,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 4,
+        "WidgetQualityType": "SR",
+        "EquipType": "InArm",
         "ModeType": 3,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [],
         "BreakDesc": "13865",
         "BreakItem": [
@@ -1410,10 +1410,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 4,
+        "WidgetQualityType": "SR",
+        "EquipType": "InArm",
         "ModeType": 4,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             32.0,
             30.0
@@ -1438,10 +1438,10 @@
         "Name": null
     },
     {
-        "WidgetQualityType": 2,
-        "EquipType": 4,
+        "WidgetQualityType": "SR",
+        "EquipType": "InArm",
         "ModeType": 5,
-        "BreakProperty": 0,
+        "BreakProperty": "增加属性",
         "BreakPropertyValue": [
             0.0
         ],

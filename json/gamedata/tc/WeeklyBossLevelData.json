@@ -1,0 +1,8002 @@
+[
+    {
+        "BossLevel": 1,
+        "LevelUpATK": 1.006,
+        "LevelUpHP": 1.007,
+        "LevelUpDEF": 1.006,
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "BossLevel": 2,
+        "LevelUpATK": 1.008,
+        "LevelUpHP": 1.008,
+        "LevelUpDEF": 1.008,
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "BossLevel": 3,
+        "LevelUpATK": 1.01,
+        "LevelUpHP": 1.011,
+        "LevelUpDEF": 1.01,
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "BossLevel": 4,
+        "LevelUpATK": 1.012,
+        "LevelUpHP": 1.013,
+        "LevelUpDEF": 1.012,
+        "ID": 4,
+        "Name": null
+    },
+    {
+        "BossLevel": 5,
+        "LevelUpATK": 1.015,
+        "LevelUpHP": 1.016,
+        "LevelUpDEF": 1.015,
+        "ID": 5,
+        "Name": null
+    },
+    {
+        "BossLevel": 6,
+        "LevelUpATK": 1.018,
+        "LevelUpHP": 1.019,
+        "LevelUpDEF": 1.018,
+        "ID": 6,
+        "Name": null
+    },
+    {
+        "BossLevel": 7,
+        "LevelUpATK": 1.021,
+        "LevelUpHP": 1.022,
+        "LevelUpDEF": 1.021,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "BossLevel": 8,
+        "LevelUpATK": 1.024,
+        "LevelUpHP": 1.026,
+        "LevelUpDEF": 1.024,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "BossLevel": 9,
+        "LevelUpATK": 1.028,
+        "LevelUpHP": 1.03,
+        "LevelUpDEF": 1.028,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "BossLevel": 10,
+        "LevelUpATK": 1.032,
+        "LevelUpHP": 1.034,
+        "LevelUpDEF": 1.032,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "BossLevel": 11,
+        "LevelUpATK": 1.037,
+        "LevelUpHP": 1.038,
+        "LevelUpDEF": 1.037,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "BossLevel": 12,
+        "LevelUpATK": 1.041,
+        "LevelUpHP": 1.043,
+        "LevelUpDEF": 1.041,
+        "ID": 12,
+        "Name": null
+    },
+    {
+        "BossLevel": 13,
+        "LevelUpATK": 1.046,
+        "LevelUpHP": 1.048,
+        "LevelUpDEF": 1.046,
+        "ID": 13,
+        "Name": null
+    },
+    {
+        "BossLevel": 14,
+        "LevelUpATK": 1.051,
+        "LevelUpHP": 1.053,
+        "LevelUpDEF": 1.051,
+        "ID": 14,
+        "Name": null
+    },
+    {
+        "BossLevel": 15,
+        "LevelUpATK": 1.056,
+        "LevelUpHP": 1.058,
+        "LevelUpDEF": 1.056,
+        "ID": 15,
+        "Name": null
+    },
+    {
+        "BossLevel": 16,
+        "LevelUpATK": 1.061,
+        "LevelUpHP": 1.063,
+        "LevelUpDEF": 1.061,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "BossLevel": 17,
+        "LevelUpATK": 1.067,
+        "LevelUpHP": 1.069,
+        "LevelUpDEF": 1.067,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "BossLevel": 18,
+        "LevelUpATK": 1.073,
+        "LevelUpHP": 1.075,
+        "LevelUpDEF": 1.073,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "BossLevel": 19,
+        "LevelUpATK": 1.078,
+        "LevelUpHP": 1.081,
+        "LevelUpDEF": 1.078,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "BossLevel": 20,
+        "LevelUpATK": 1.085,
+        "LevelUpHP": 1.087,
+        "LevelUpDEF": 1.085,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "BossLevel": 21,
+        "LevelUpATK": 1.091,
+        "LevelUpHP": 1.093,
+        "LevelUpDEF": 1.091,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "BossLevel": 22,
+        "LevelUpATK": 1.097,
+        "LevelUpHP": 1.1,
+        "LevelUpDEF": 1.097,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "BossLevel": 23,
+        "LevelUpATK": 1.104,
+        "LevelUpHP": 1.107,
+        "LevelUpDEF": 1.104,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "BossLevel": 24,
+        "LevelUpATK": 1.111,
+        "LevelUpHP": 1.114,
+        "LevelUpDEF": 1.111,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "BossLevel": 25,
+        "LevelUpATK": 1.118,
+        "LevelUpHP": 1.121,
+        "LevelUpDEF": 1.118,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "BossLevel": 26,
+        "LevelUpATK": 1.125,
+        "LevelUpHP": 1.128,
+        "LevelUpDEF": 1.125,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "BossLevel": 27,
+        "LevelUpATK": 1.132,
+        "LevelUpHP": 1.135,
+        "LevelUpDEF": 1.132,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "BossLevel": 28,
+        "LevelUpATK": 1.14,
+        "LevelUpHP": 1.143,
+        "LevelUpDEF": 1.14,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "BossLevel": 29,
+        "LevelUpATK": 1.148,
+        "LevelUpHP": 1.151,
+        "LevelUpDEF": 1.148,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "BossLevel": 30,
+        "LevelUpATK": 1.155,
+        "LevelUpHP": 1.158,
+        "LevelUpDEF": 1.155,
+        "ID": 30,
+        "Name": null
+    },
+    {
+        "BossLevel": 31,
+        "LevelUpATK": 1.163,
+        "LevelUpHP": 1.167,
+        "LevelUpDEF": 1.163,
+        "ID": 31,
+        "Name": null
+    },
+    {
+        "BossLevel": 32,
+        "LevelUpATK": 1.171,
+        "LevelUpHP": 1.175,
+        "LevelUpDEF": 1.171,
+        "ID": 32,
+        "Name": null
+    },
+    {
+        "BossLevel": 33,
+        "LevelUpATK": 1.18,
+        "LevelUpHP": 1.183,
+        "LevelUpDEF": 1.18,
+        "ID": 33,
+        "Name": null
+    },
+    {
+        "BossLevel": 34,
+        "LevelUpATK": 1.188,
+        "LevelUpHP": 1.192,
+        "LevelUpDEF": 1.188,
+        "ID": 34,
+        "Name": null
+    },
+    {
+        "BossLevel": 35,
+        "LevelUpATK": 1.197,
+        "LevelUpHP": 1.2,
+        "LevelUpDEF": 1.197,
+        "ID": 35,
+        "Name": null
+    },
+    {
+        "BossLevel": 36,
+        "LevelUpATK": 1.205,
+        "LevelUpHP": 1.209,
+        "LevelUpDEF": 1.205,
+        "ID": 36,
+        "Name": null
+    },
+    {
+        "BossLevel": 37,
+        "LevelUpATK": 1.214,
+        "LevelUpHP": 1.218,
+        "LevelUpDEF": 1.214,
+        "ID": 37,
+        "Name": null
+    },
+    {
+        "BossLevel": 38,
+        "LevelUpATK": 1.223,
+        "LevelUpHP": 1.227,
+        "LevelUpDEF": 1.223,
+        "ID": 38,
+        "Name": null
+    },
+    {
+        "BossLevel": 39,
+        "LevelUpATK": 1.232,
+        "LevelUpHP": 1.236,
+        "LevelUpDEF": 1.232,
+        "ID": 39,
+        "Name": null
+    },
+    {
+        "BossLevel": 40,
+        "LevelUpATK": 1.242,
+        "LevelUpHP": 1.245,
+        "LevelUpDEF": 1.242,
+        "ID": 40,
+        "Name": null
+    },
+    {
+        "BossLevel": 41,
+        "LevelUpATK": 1.251,
+        "LevelUpHP": 1.255,
+        "LevelUpDEF": 1.251,
+        "ID": 41,
+        "Name": null
+    },
+    {
+        "BossLevel": 42,
+        "LevelUpATK": 1.261,
+        "LevelUpHP": 1.264,
+        "LevelUpDEF": 1.261,
+        "ID": 42,
+        "Name": null
+    },
+    {
+        "BossLevel": 43,
+        "LevelUpATK": 1.27,
+        "LevelUpHP": 1.274,
+        "LevelUpDEF": 1.27,
+        "ID": 43,
+        "Name": null
+    },
+    {
+        "BossLevel": 44,
+        "LevelUpATK": 1.28,
+        "LevelUpHP": 1.284,
+        "LevelUpDEF": 1.28,
+        "ID": 44,
+        "Name": null
+    },
+    {
+        "BossLevel": 45,
+        "LevelUpATK": 1.29,
+        "LevelUpHP": 1.294,
+        "LevelUpDEF": 1.29,
+        "ID": 45,
+        "Name": null
+    },
+    {
+        "BossLevel": 46,
+        "LevelUpATK": 1.3,
+        "LevelUpHP": 1.304,
+        "LevelUpDEF": 1.3,
+        "ID": 46,
+        "Name": null
+    },
+    {
+        "BossLevel": 47,
+        "LevelUpATK": 1.31,
+        "LevelUpHP": 1.315,
+        "LevelUpDEF": 1.31,
+        "ID": 47,
+        "Name": null
+    },
+    {
+        "BossLevel": 48,
+        "LevelUpATK": 1.321,
+        "LevelUpHP": 1.325,
+        "LevelUpDEF": 1.321,
+        "ID": 48,
+        "Name": null
+    },
+    {
+        "BossLevel": 49,
+        "LevelUpATK": 1.331,
+        "LevelUpHP": 1.335,
+        "LevelUpDEF": 1.331,
+        "ID": 49,
+        "Name": null
+    },
+    {
+        "BossLevel": 50,
+        "LevelUpATK": 1.342,
+        "LevelUpHP": 1.346,
+        "LevelUpDEF": 1.342,
+        "ID": 50,
+        "Name": null
+    },
+    {
+        "BossLevel": 51,
+        "LevelUpATK": 1.353,
+        "LevelUpHP": 1.357,
+        "LevelUpDEF": 1.353,
+        "ID": 51,
+        "Name": null
+    },
+    {
+        "BossLevel": 52,
+        "LevelUpATK": 1.363,
+        "LevelUpHP": 1.368,
+        "LevelUpDEF": 1.363,
+        "ID": 52,
+        "Name": null
+    },
+    {
+        "BossLevel": 53,
+        "LevelUpATK": 1.374,
+        "LevelUpHP": 1.379,
+        "LevelUpDEF": 1.374,
+        "ID": 53,
+        "Name": null
+    },
+    {
+        "BossLevel": 54,
+        "LevelUpATK": 1.386,
+        "LevelUpHP": 1.39,
+        "LevelUpDEF": 1.386,
+        "ID": 54,
+        "Name": null
+    },
+    {
+        "BossLevel": 55,
+        "LevelUpATK": 1.397,
+        "LevelUpHP": 1.401,
+        "LevelUpDEF": 1.397,
+        "ID": 55,
+        "Name": null
+    },
+    {
+        "BossLevel": 56,
+        "LevelUpATK": 1.408,
+        "LevelUpHP": 1.413,
+        "LevelUpDEF": 1.408,
+        "ID": 56,
+        "Name": null
+    },
+    {
+        "BossLevel": 57,
+        "LevelUpATK": 1.42,
+        "LevelUpHP": 1.424,
+        "LevelUpDEF": 1.42,
+        "ID": 57,
+        "Name": null
+    },
+    {
+        "BossLevel": 58,
+        "LevelUpATK": 1.431,
+        "LevelUpHP": 1.436,
+        "LevelUpDEF": 1.431,
+        "ID": 58,
+        "Name": null
+    },
+    {
+        "BossLevel": 59,
+        "LevelUpATK": 1.443,
+        "LevelUpHP": 1.448,
+        "LevelUpDEF": 1.443,
+        "ID": 59,
+        "Name": null
+    },
+    {
+        "BossLevel": 60,
+        "LevelUpATK": 1.455,
+        "LevelUpHP": 1.46,
+        "LevelUpDEF": 1.455,
+        "ID": 60,
+        "Name": null
+    },
+    {
+        "BossLevel": 61,
+        "LevelUpATK": 1.467,
+        "LevelUpHP": 1.472,
+        "LevelUpDEF": 1.467,
+        "ID": 61,
+        "Name": null
+    },
+    {
+        "BossLevel": 62,
+        "LevelUpATK": 1.479,
+        "LevelUpHP": 1.484,
+        "LevelUpDEF": 1.479,
+        "ID": 62,
+        "Name": null
+    },
+    {
+        "BossLevel": 63,
+        "LevelUpATK": 1.491,
+        "LevelUpHP": 1.496,
+        "LevelUpDEF": 1.491,
+        "ID": 63,
+        "Name": null
+    },
+    {
+        "BossLevel": 64,
+        "LevelUpATK": 1.503,
+        "LevelUpHP": 1.508,
+        "LevelUpDEF": 1.503,
+        "ID": 64,
+        "Name": null
+    },
+    {
+        "BossLevel": 65,
+        "LevelUpATK": 1.516,
+        "LevelUpHP": 1.521,
+        "LevelUpDEF": 1.516,
+        "ID": 65,
+        "Name": null
+    },
+    {
+        "BossLevel": 66,
+        "LevelUpATK": 1.528,
+        "LevelUpHP": 1.533,
+        "LevelUpDEF": 1.528,
+        "ID": 66,
+        "Name": null
+    },
+    {
+        "BossLevel": 67,
+        "LevelUpATK": 1.541,
+        "LevelUpHP": 1.546,
+        "LevelUpDEF": 1.541,
+        "ID": 67,
+        "Name": null
+    },
+    {
+        "BossLevel": 68,
+        "LevelUpATK": 1.554,
+        "LevelUpHP": 1.559,
+        "LevelUpDEF": 1.554,
+        "ID": 68,
+        "Name": null
+    },
+    {
+        "BossLevel": 69,
+        "LevelUpATK": 1.566,
+        "LevelUpHP": 1.572,
+        "LevelUpDEF": 1.566,
+        "ID": 69,
+        "Name": null
+    },
+    {
+        "BossLevel": 70,
+        "LevelUpATK": 1.579,
+        "LevelUpHP": 1.585,
+        "LevelUpDEF": 1.579,
+        "ID": 70,
+        "Name": null
+    },
+    {
+        "BossLevel": 71,
+        "LevelUpATK": 1.593,
+        "LevelUpHP": 1.598,
+        "LevelUpDEF": 1.593,
+        "ID": 71,
+        "Name": null
+    },
+    {
+        "BossLevel": 72,
+        "LevelUpATK": 1.606,
+        "LevelUpHP": 1.611,
+        "LevelUpDEF": 1.606,
+        "ID": 72,
+        "Name": null
+    },
+    {
+        "BossLevel": 73,
+        "LevelUpATK": 1.619,
+        "LevelUpHP": 1.624,
+        "LevelUpDEF": 1.619,
+        "ID": 73,
+        "Name": null
+    },
+    {
+        "BossLevel": 74,
+        "LevelUpATK": 1.633,
+        "LevelUpHP": 1.638,
+        "LevelUpDEF": 1.633,
+        "ID": 74,
+        "Name": null
+    },
+    {
+        "BossLevel": 75,
+        "LevelUpATK": 1.646,
+        "LevelUpHP": 1.651,
+        "LevelUpDEF": 1.646,
+        "ID": 75,
+        "Name": null
+    },
+    {
+        "BossLevel": 76,
+        "LevelUpATK": 1.66,
+        "LevelUpHP": 1.665,
+        "LevelUpDEF": 1.66,
+        "ID": 76,
+        "Name": null
+    },
+    {
+        "BossLevel": 77,
+        "LevelUpATK": 1.673,
+        "LevelUpHP": 1.679,
+        "LevelUpDEF": 1.673,
+        "ID": 77,
+        "Name": null
+    },
+    {
+        "BossLevel": 78,
+        "LevelUpATK": 1.687,
+        "LevelUpHP": 1.693,
+        "LevelUpDEF": 1.687,
+        "ID": 78,
+        "Name": null
+    },
+    {
+        "BossLevel": 79,
+        "LevelUpATK": 1.701,
+        "LevelUpHP": 1.707,
+        "LevelUpDEF": 1.701,
+        "ID": 79,
+        "Name": null
+    },
+    {
+        "BossLevel": 80,
+        "LevelUpATK": 1.715,
+        "LevelUpHP": 1.721,
+        "LevelUpDEF": 1.715,
+        "ID": 80,
+        "Name": null
+    },
+    {
+        "BossLevel": 81,
+        "LevelUpATK": 1.729,
+        "LevelUpHP": 1.735,
+        "LevelUpDEF": 1.729,
+        "ID": 81,
+        "Name": null
+    },
+    {
+        "BossLevel": 82,
+        "LevelUpATK": 1.744,
+        "LevelUpHP": 1.749,
+        "LevelUpDEF": 1.744,
+        "ID": 82,
+        "Name": null
+    },
+    {
+        "BossLevel": 83,
+        "LevelUpATK": 1.758,
+        "LevelUpHP": 1.764,
+        "LevelUpDEF": 1.758,
+        "ID": 83,
+        "Name": null
+    },
+    {
+        "BossLevel": 84,
+        "LevelUpATK": 1.773,
+        "LevelUpHP": 1.778,
+        "LevelUpDEF": 1.773,
+        "ID": 84,
+        "Name": null
+    },
+    {
+        "BossLevel": 85,
+        "LevelUpATK": 1.787,
+        "LevelUpHP": 1.793,
+        "LevelUpDEF": 1.787,
+        "ID": 85,
+        "Name": null
+    },
+    {
+        "BossLevel": 86,
+        "LevelUpATK": 1.802,
+        "LevelUpHP": 1.808,
+        "LevelUpDEF": 1.802,
+        "ID": 86,
+        "Name": null
+    },
+    {
+        "BossLevel": 87,
+        "LevelUpATK": 1.817,
+        "LevelUpHP": 1.823,
+        "LevelUpDEF": 1.817,
+        "ID": 87,
+        "Name": null
+    },
+    {
+        "BossLevel": 88,
+        "LevelUpATK": 1.832,
+        "LevelUpHP": 1.838,
+        "LevelUpDEF": 1.832,
+        "ID": 88,
+        "Name": null
+    },
+    {
+        "BossLevel": 89,
+        "LevelUpATK": 1.847,
+        "LevelUpHP": 1.853,
+        "LevelUpDEF": 1.847,
+        "ID": 89,
+        "Name": null
+    },
+    {
+        "BossLevel": 90,
+        "LevelUpATK": 1.862,
+        "LevelUpHP": 1.868,
+        "LevelUpDEF": 1.862,
+        "ID": 90,
+        "Name": null
+    },
+    {
+        "BossLevel": 91,
+        "LevelUpATK": 1.877,
+        "LevelUpHP": 1.883,
+        "LevelUpDEF": 1.877,
+        "ID": 91,
+        "Name": null
+    },
+    {
+        "BossLevel": 92,
+        "LevelUpATK": 1.892,
+        "LevelUpHP": 1.898,
+        "LevelUpDEF": 1.892,
+        "ID": 92,
+        "Name": null
+    },
+    {
+        "BossLevel": 93,
+        "LevelUpATK": 1.908,
+        "LevelUpHP": 1.914,
+        "LevelUpDEF": 1.908,
+        "ID": 93,
+        "Name": null
+    },
+    {
+        "BossLevel": 94,
+        "LevelUpATK": 1.923,
+        "LevelUpHP": 1.929,
+        "LevelUpDEF": 1.923,
+        "ID": 94,
+        "Name": null
+    },
+    {
+        "BossLevel": 95,
+        "LevelUpATK": 1.939,
+        "LevelUpHP": 1.945,
+        "LevelUpDEF": 1.939,
+        "ID": 95,
+        "Name": null
+    },
+    {
+        "BossLevel": 96,
+        "LevelUpATK": 1.954,
+        "LevelUpHP": 1.961,
+        "LevelUpDEF": 1.954,
+        "ID": 96,
+        "Name": null
+    },
+    {
+        "BossLevel": 97,
+        "LevelUpATK": 1.97,
+        "LevelUpHP": 1.976,
+        "LevelUpDEF": 1.97,
+        "ID": 97,
+        "Name": null
+    },
+    {
+        "BossLevel": 98,
+        "LevelUpATK": 1.986,
+        "LevelUpHP": 1.992,
+        "LevelUpDEF": 1.986,
+        "ID": 98,
+        "Name": null
+    },
+    {
+        "BossLevel": 99,
+        "LevelUpATK": 2.002,
+        "LevelUpHP": 2.008,
+        "LevelUpDEF": 2.002,
+        "ID": 99,
+        "Name": null
+    },
+    {
+        "BossLevel": 100,
+        "LevelUpATK": 2.018,
+        "LevelUpHP": 2.025,
+        "LevelUpDEF": 2.018,
+        "ID": 100,
+        "Name": null
+    },
+    {
+        "BossLevel": 101,
+        "LevelUpATK": 2.034,
+        "LevelUpHP": 2.041,
+        "LevelUpDEF": 2.034,
+        "ID": 101,
+        "Name": null
+    },
+    {
+        "BossLevel": 102,
+        "LevelUpATK": 2.051,
+        "LevelUpHP": 2.057,
+        "LevelUpDEF": 2.051,
+        "ID": 102,
+        "Name": null
+    },
+    {
+        "BossLevel": 103,
+        "LevelUpATK": 2.067,
+        "LevelUpHP": 2.073,
+        "LevelUpDEF": 2.067,
+        "ID": 103,
+        "Name": null
+    },
+    {
+        "BossLevel": 104,
+        "LevelUpATK": 2.083,
+        "LevelUpHP": 2.09,
+        "LevelUpDEF": 2.083,
+        "ID": 104,
+        "Name": null
+    },
+    {
+        "BossLevel": 105,
+        "LevelUpATK": 2.1,
+        "LevelUpHP": 2.107,
+        "LevelUpDEF": 2.1,
+        "ID": 105,
+        "Name": null
+    },
+    {
+        "BossLevel": 106,
+        "LevelUpATK": 2.117,
+        "LevelUpHP": 2.123,
+        "LevelUpDEF": 2.117,
+        "ID": 106,
+        "Name": null
+    },
+    {
+        "BossLevel": 107,
+        "LevelUpATK": 2.133,
+        "LevelUpHP": 2.14,
+        "LevelUpDEF": 2.133,
+        "ID": 107,
+        "Name": null
+    },
+    {
+        "BossLevel": 108,
+        "LevelUpATK": 2.15,
+        "LevelUpHP": 2.157,
+        "LevelUpDEF": 2.15,
+        "ID": 108,
+        "Name": null
+    },
+    {
+        "BossLevel": 109,
+        "LevelUpATK": 2.167,
+        "LevelUpHP": 2.174,
+        "LevelUpDEF": 2.167,
+        "ID": 109,
+        "Name": null
+    },
+    {
+        "BossLevel": 110,
+        "LevelUpATK": 2.184,
+        "LevelUpHP": 2.191,
+        "LevelUpDEF": 2.184,
+        "ID": 110,
+        "Name": null
+    },
+    {
+        "BossLevel": 111,
+        "LevelUpATK": 2.201,
+        "LevelUpHP": 2.208,
+        "LevelUpDEF": 2.201,
+        "ID": 111,
+        "Name": null
+    },
+    {
+        "BossLevel": 112,
+        "LevelUpATK": 2.218,
+        "LevelUpHP": 2.225,
+        "LevelUpDEF": 2.218,
+        "ID": 112,
+        "Name": null
+    },
+    {
+        "BossLevel": 113,
+        "LevelUpATK": 2.236,
+        "LevelUpHP": 2.243,
+        "LevelUpDEF": 2.236,
+        "ID": 113,
+        "Name": null
+    },
+    {
+        "BossLevel": 114,
+        "LevelUpATK": 2.253,
+        "LevelUpHP": 2.26,
+        "LevelUpDEF": 2.253,
+        "ID": 114,
+        "Name": null
+    },
+    {
+        "BossLevel": 115,
+        "LevelUpATK": 2.271,
+        "LevelUpHP": 2.278,
+        "LevelUpDEF": 2.271,
+        "ID": 115,
+        "Name": null
+    },
+    {
+        "BossLevel": 116,
+        "LevelUpATK": 2.288,
+        "LevelUpHP": 2.295,
+        "LevelUpDEF": 2.288,
+        "ID": 116,
+        "Name": null
+    },
+    {
+        "BossLevel": 117,
+        "LevelUpATK": 2.306,
+        "LevelUpHP": 2.313,
+        "LevelUpDEF": 2.306,
+        "ID": 117,
+        "Name": null
+    },
+    {
+        "BossLevel": 118,
+        "LevelUpATK": 2.324,
+        "LevelUpHP": 2.331,
+        "LevelUpDEF": 2.324,
+        "ID": 118,
+        "Name": null
+    },
+    {
+        "BossLevel": 119,
+        "LevelUpATK": 2.341,
+        "LevelUpHP": 2.349,
+        "LevelUpDEF": 2.341,
+        "ID": 119,
+        "Name": null
+    },
+    {
+        "BossLevel": 120,
+        "LevelUpATK": 2.359,
+        "LevelUpHP": 2.367,
+        "LevelUpDEF": 2.359,
+        "ID": 120,
+        "Name": null
+    },
+    {
+        "BossLevel": 121,
+        "LevelUpATK": 2.377,
+        "LevelUpHP": 2.385,
+        "LevelUpDEF": 2.377,
+        "ID": 121,
+        "Name": null
+    },
+    {
+        "BossLevel": 122,
+        "LevelUpATK": 2.396,
+        "LevelUpHP": 2.403,
+        "LevelUpDEF": 2.396,
+        "ID": 122,
+        "Name": null
+    },
+    {
+        "BossLevel": 123,
+        "LevelUpATK": 2.414,
+        "LevelUpHP": 2.421,
+        "LevelUpDEF": 2.414,
+        "ID": 123,
+        "Name": null
+    },
+    {
+        "BossLevel": 124,
+        "LevelUpATK": 2.432,
+        "LevelUpHP": 2.439,
+        "LevelUpDEF": 2.432,
+        "ID": 124,
+        "Name": null
+    },
+    {
+        "BossLevel": 125,
+        "LevelUpATK": 2.45,
+        "LevelUpHP": 2.458,
+        "LevelUpDEF": 2.45,
+        "ID": 125,
+        "Name": null
+    },
+    {
+        "BossLevel": 126,
+        "LevelUpATK": 2.469,
+        "LevelUpHP": 2.476,
+        "LevelUpDEF": 2.469,
+        "ID": 126,
+        "Name": null
+    },
+    {
+        "BossLevel": 127,
+        "LevelUpATK": 2.487,
+        "LevelUpHP": 2.495,
+        "LevelUpDEF": 2.487,
+        "ID": 127,
+        "Name": null
+    },
+    {
+        "BossLevel": 128,
+        "LevelUpATK": 2.506,
+        "LevelUpHP": 2.514,
+        "LevelUpDEF": 2.506,
+        "ID": 128,
+        "Name": null
+    },
+    {
+        "BossLevel": 129,
+        "LevelUpATK": 2.525,
+        "LevelUpHP": 2.532,
+        "LevelUpDEF": 2.525,
+        "ID": 129,
+        "Name": null
+    },
+    {
+        "BossLevel": 130,
+        "LevelUpATK": 2.544,
+        "LevelUpHP": 2.551,
+        "LevelUpDEF": 2.544,
+        "ID": 130,
+        "Name": null
+    },
+    {
+        "BossLevel": 131,
+        "LevelUpATK": 2.563,
+        "LevelUpHP": 2.57,
+        "LevelUpDEF": 2.563,
+        "ID": 131,
+        "Name": null
+    },
+    {
+        "BossLevel": 132,
+        "LevelUpATK": 2.582,
+        "LevelUpHP": 2.589,
+        "LevelUpDEF": 2.582,
+        "ID": 132,
+        "Name": null
+    },
+    {
+        "BossLevel": 133,
+        "LevelUpATK": 2.601,
+        "LevelUpHP": 2.608,
+        "LevelUpDEF": 2.601,
+        "ID": 133,
+        "Name": null
+    },
+    {
+        "BossLevel": 134,
+        "LevelUpATK": 2.62,
+        "LevelUpHP": 2.628,
+        "LevelUpDEF": 2.62,
+        "ID": 134,
+        "Name": null
+    },
+    {
+        "BossLevel": 135,
+        "LevelUpATK": 2.639,
+        "LevelUpHP": 2.647,
+        "LevelUpDEF": 2.639,
+        "ID": 135,
+        "Name": null
+    },
+    {
+        "BossLevel": 136,
+        "LevelUpATK": 2.658,
+        "LevelUpHP": 2.666,
+        "LevelUpDEF": 2.658,
+        "ID": 136,
+        "Name": null
+    },
+    {
+        "BossLevel": 137,
+        "LevelUpATK": 2.678,
+        "LevelUpHP": 2.686,
+        "LevelUpDEF": 2.678,
+        "ID": 137,
+        "Name": null
+    },
+    {
+        "BossLevel": 138,
+        "LevelUpATK": 2.697,
+        "LevelUpHP": 2.705,
+        "LevelUpDEF": 2.697,
+        "ID": 138,
+        "Name": null
+    },
+    {
+        "BossLevel": 139,
+        "LevelUpATK": 2.717,
+        "LevelUpHP": 2.725,
+        "LevelUpDEF": 2.717,
+        "ID": 139,
+        "Name": null
+    },
+    {
+        "BossLevel": 140,
+        "LevelUpATK": 2.737,
+        "LevelUpHP": 2.744,
+        "LevelUpDEF": 2.737,
+        "ID": 140,
+        "Name": null
+    },
+    {
+        "BossLevel": 141,
+        "LevelUpATK": 2.756,
+        "LevelUpHP": 2.764,
+        "LevelUpDEF": 2.756,
+        "ID": 141,
+        "Name": null
+    },
+    {
+        "BossLevel": 142,
+        "LevelUpATK": 2.776,
+        "LevelUpHP": 2.784,
+        "LevelUpDEF": 2.776,
+        "ID": 142,
+        "Name": null
+    },
+    {
+        "BossLevel": 143,
+        "LevelUpATK": 2.796,
+        "LevelUpHP": 2.804,
+        "LevelUpDEF": 2.796,
+        "ID": 143,
+        "Name": null
+    },
+    {
+        "BossLevel": 144,
+        "LevelUpATK": 2.816,
+        "LevelUpHP": 2.824,
+        "LevelUpDEF": 2.816,
+        "ID": 144,
+        "Name": null
+    },
+    {
+        "BossLevel": 145,
+        "LevelUpATK": 2.836,
+        "LevelUpHP": 2.844,
+        "LevelUpDEF": 2.836,
+        "ID": 145,
+        "Name": null
+    },
+    {
+        "BossLevel": 146,
+        "LevelUpATK": 2.856,
+        "LevelUpHP": 2.865,
+        "LevelUpDEF": 2.856,
+        "ID": 146,
+        "Name": null
+    },
+    {
+        "BossLevel": 147,
+        "LevelUpATK": 2.877,
+        "LevelUpHP": 2.885,
+        "LevelUpDEF": 2.877,
+        "ID": 147,
+        "Name": null
+    },
+    {
+        "BossLevel": 148,
+        "LevelUpATK": 2.897,
+        "LevelUpHP": 2.905,
+        "LevelUpDEF": 2.897,
+        "ID": 148,
+        "Name": null
+    },
+    {
+        "BossLevel": 149,
+        "LevelUpATK": 2.917,
+        "LevelUpHP": 2.926,
+        "LevelUpDEF": 2.917,
+        "ID": 149,
+        "Name": null
+    },
+    {
+        "BossLevel": 150,
+        "LevelUpATK": 2.938,
+        "LevelUpHP": 2.946,
+        "LevelUpDEF": 2.938,
+        "ID": 150,
+        "Name": null
+    },
+    {
+        "BossLevel": 151,
+        "LevelUpATK": 2.959,
+        "LevelUpHP": 2.967,
+        "LevelUpDEF": 2.959,
+        "ID": 151,
+        "Name": null
+    },
+    {
+        "BossLevel": 152,
+        "LevelUpATK": 2.979,
+        "LevelUpHP": 2.988,
+        "LevelUpDEF": 2.979,
+        "ID": 152,
+        "Name": null
+    },
+    {
+        "BossLevel": 153,
+        "LevelUpATK": 3.0,
+        "LevelUpHP": 3.008,
+        "LevelUpDEF": 3.0,
+        "ID": 153,
+        "Name": null
+    },
+    {
+        "BossLevel": 154,
+        "LevelUpATK": 3.021,
+        "LevelUpHP": 3.029,
+        "LevelUpDEF": 3.021,
+        "ID": 154,
+        "Name": null
+    },
+    {
+        "BossLevel": 155,
+        "LevelUpATK": 3.042,
+        "LevelUpHP": 3.05,
+        "LevelUpDEF": 3.042,
+        "ID": 155,
+        "Name": null
+    },
+    {
+        "BossLevel": 156,
+        "LevelUpATK": 3.063,
+        "LevelUpHP": 3.071,
+        "LevelUpDEF": 3.063,
+        "ID": 156,
+        "Name": null
+    },
+    {
+        "BossLevel": 157,
+        "LevelUpATK": 3.084,
+        "LevelUpHP": 3.092,
+        "LevelUpDEF": 3.084,
+        "ID": 157,
+        "Name": null
+    },
+    {
+        "BossLevel": 158,
+        "LevelUpATK": 3.105,
+        "LevelUpHP": 3.113,
+        "LevelUpDEF": 3.105,
+        "ID": 158,
+        "Name": null
+    },
+    {
+        "BossLevel": 159,
+        "LevelUpATK": 3.126,
+        "LevelUpHP": 3.135,
+        "LevelUpDEF": 3.126,
+        "ID": 159,
+        "Name": null
+    },
+    {
+        "BossLevel": 160,
+        "LevelUpATK": 3.148,
+        "LevelUpHP": 3.156,
+        "LevelUpDEF": 3.148,
+        "ID": 160,
+        "Name": null
+    },
+    {
+        "BossLevel": 161,
+        "LevelUpATK": 3.169,
+        "LevelUpHP": 3.178,
+        "LevelUpDEF": 3.169,
+        "ID": 161,
+        "Name": null
+    },
+    {
+        "BossLevel": 162,
+        "LevelUpATK": 3.19,
+        "LevelUpHP": 3.199,
+        "LevelUpDEF": 3.19,
+        "ID": 162,
+        "Name": null
+    },
+    {
+        "BossLevel": 163,
+        "LevelUpATK": 3.212,
+        "LevelUpHP": 3.221,
+        "LevelUpDEF": 3.212,
+        "ID": 163,
+        "Name": null
+    },
+    {
+        "BossLevel": 164,
+        "LevelUpATK": 3.234,
+        "LevelUpHP": 3.242,
+        "LevelUpDEF": 3.234,
+        "ID": 164,
+        "Name": null
+    },
+    {
+        "BossLevel": 165,
+        "LevelUpATK": 3.255,
+        "LevelUpHP": 3.264,
+        "LevelUpDEF": 3.255,
+        "ID": 165,
+        "Name": null
+    },
+    {
+        "BossLevel": 166,
+        "LevelUpATK": 3.277,
+        "LevelUpHP": 3.286,
+        "LevelUpDEF": 3.277,
+        "ID": 166,
+        "Name": null
+    },
+    {
+        "BossLevel": 167,
+        "LevelUpATK": 3.299,
+        "LevelUpHP": 3.308,
+        "LevelUpDEF": 3.299,
+        "ID": 167,
+        "Name": null
+    },
+    {
+        "BossLevel": 168,
+        "LevelUpATK": 3.321,
+        "LevelUpHP": 3.33,
+        "LevelUpDEF": 3.321,
+        "ID": 168,
+        "Name": null
+    },
+    {
+        "BossLevel": 169,
+        "LevelUpATK": 3.343,
+        "LevelUpHP": 3.352,
+        "LevelUpDEF": 3.343,
+        "ID": 169,
+        "Name": null
+    },
+    {
+        "BossLevel": 170,
+        "LevelUpATK": 3.365,
+        "LevelUpHP": 3.374,
+        "LevelUpDEF": 3.365,
+        "ID": 170,
+        "Name": null
+    },
+    {
+        "BossLevel": 171,
+        "LevelUpATK": 3.387,
+        "LevelUpHP": 3.396,
+        "LevelUpDEF": 3.387,
+        "ID": 171,
+        "Name": null
+    },
+    {
+        "BossLevel": 172,
+        "LevelUpATK": 3.41,
+        "LevelUpHP": 3.418,
+        "LevelUpDEF": 3.41,
+        "ID": 172,
+        "Name": null
+    },
+    {
+        "BossLevel": 173,
+        "LevelUpATK": 3.432,
+        "LevelUpHP": 3.441,
+        "LevelUpDEF": 3.432,
+        "ID": 173,
+        "Name": null
+    },
+    {
+        "BossLevel": 174,
+        "LevelUpATK": 3.454,
+        "LevelUpHP": 3.463,
+        "LevelUpDEF": 3.454,
+        "ID": 174,
+        "Name": null
+    },
+    {
+        "BossLevel": 175,
+        "LevelUpATK": 3.477,
+        "LevelUpHP": 3.486,
+        "LevelUpDEF": 3.477,
+        "ID": 175,
+        "Name": null
+    },
+    {
+        "BossLevel": 176,
+        "LevelUpATK": 3.499,
+        "LevelUpHP": 3.508,
+        "LevelUpDEF": 3.499,
+        "ID": 176,
+        "Name": null
+    },
+    {
+        "BossLevel": 177,
+        "LevelUpATK": 3.522,
+        "LevelUpHP": 3.531,
+        "LevelUpDEF": 3.522,
+        "ID": 177,
+        "Name": null
+    },
+    {
+        "BossLevel": 178,
+        "LevelUpATK": 3.545,
+        "LevelUpHP": 3.554,
+        "LevelUpDEF": 3.545,
+        "ID": 178,
+        "Name": null
+    },
+    {
+        "BossLevel": 179,
+        "LevelUpATK": 3.568,
+        "LevelUpHP": 3.577,
+        "LevelUpDEF": 3.568,
+        "ID": 179,
+        "Name": null
+    },
+    {
+        "BossLevel": 180,
+        "LevelUpATK": 3.59,
+        "LevelUpHP": 3.6,
+        "LevelUpDEF": 3.59,
+        "ID": 180,
+        "Name": null
+    },
+    {
+        "BossLevel": 181,
+        "LevelUpATK": 3.613,
+        "LevelUpHP": 3.623,
+        "LevelUpDEF": 3.613,
+        "ID": 181,
+        "Name": null
+    },
+    {
+        "BossLevel": 182,
+        "LevelUpATK": 3.636,
+        "LevelUpHP": 3.646,
+        "LevelUpDEF": 3.636,
+        "ID": 182,
+        "Name": null
+    },
+    {
+        "BossLevel": 183,
+        "LevelUpATK": 3.66,
+        "LevelUpHP": 3.669,
+        "LevelUpDEF": 3.66,
+        "ID": 183,
+        "Name": null
+    },
+    {
+        "BossLevel": 184,
+        "LevelUpATK": 3.683,
+        "LevelUpHP": 3.692,
+        "LevelUpDEF": 3.683,
+        "ID": 184,
+        "Name": null
+    },
+    {
+        "BossLevel": 185,
+        "LevelUpATK": 3.706,
+        "LevelUpHP": 3.715,
+        "LevelUpDEF": 3.706,
+        "ID": 185,
+        "Name": null
+    },
+    {
+        "BossLevel": 186,
+        "LevelUpATK": 3.729,
+        "LevelUpHP": 3.739,
+        "LevelUpDEF": 3.729,
+        "ID": 186,
+        "Name": null
+    },
+    {
+        "BossLevel": 187,
+        "LevelUpATK": 3.753,
+        "LevelUpHP": 3.762,
+        "LevelUpDEF": 3.753,
+        "ID": 187,
+        "Name": null
+    },
+    {
+        "BossLevel": 188,
+        "LevelUpATK": 3.776,
+        "LevelUpHP": 3.786,
+        "LevelUpDEF": 3.776,
+        "ID": 188,
+        "Name": null
+    },
+    {
+        "BossLevel": 189,
+        "LevelUpATK": 3.8,
+        "LevelUpHP": 3.809,
+        "LevelUpDEF": 3.8,
+        "ID": 189,
+        "Name": null
+    },
+    {
+        "BossLevel": 190,
+        "LevelUpATK": 3.823,
+        "LevelUpHP": 3.833,
+        "LevelUpDEF": 3.823,
+        "ID": 190,
+        "Name": null
+    },
+    {
+        "BossLevel": 191,
+        "LevelUpATK": 3.847,
+        "LevelUpHP": 3.857,
+        "LevelUpDEF": 3.847,
+        "ID": 191,
+        "Name": null
+    },
+    {
+        "BossLevel": 192,
+        "LevelUpATK": 3.871,
+        "LevelUpHP": 3.88,
+        "LevelUpDEF": 3.871,
+        "ID": 192,
+        "Name": null
+    },
+    {
+        "BossLevel": 193,
+        "LevelUpATK": 3.895,
+        "LevelUpHP": 3.904,
+        "LevelUpDEF": 3.895,
+        "ID": 193,
+        "Name": null
+    },
+    {
+        "BossLevel": 194,
+        "LevelUpATK": 3.919,
+        "LevelUpHP": 3.928,
+        "LevelUpDEF": 3.919,
+        "ID": 194,
+        "Name": null
+    },
+    {
+        "BossLevel": 195,
+        "LevelUpATK": 3.943,
+        "LevelUpHP": 3.952,
+        "LevelUpDEF": 3.943,
+        "ID": 195,
+        "Name": null
+    },
+    {
+        "BossLevel": 196,
+        "LevelUpATK": 3.967,
+        "LevelUpHP": 3.976,
+        "LevelUpDEF": 3.967,
+        "ID": 196,
+        "Name": null
+    },
+    {
+        "BossLevel": 197,
+        "LevelUpATK": 3.991,
+        "LevelUpHP": 4.001,
+        "LevelUpDEF": 3.991,
+        "ID": 197,
+        "Name": null
+    },
+    {
+        "BossLevel": 198,
+        "LevelUpATK": 4.015,
+        "LevelUpHP": 4.025,
+        "LevelUpDEF": 4.015,
+        "ID": 198,
+        "Name": null
+    },
+    {
+        "BossLevel": 199,
+        "LevelUpATK": 4.039,
+        "LevelUpHP": 4.049,
+        "LevelUpDEF": 4.039,
+        "ID": 199,
+        "Name": null
+    },
+    {
+        "BossLevel": 200,
+        "LevelUpATK": 4.064,
+        "LevelUpHP": 4.074,
+        "LevelUpDEF": 4.064,
+        "ID": 200,
+        "Name": null
+    },
+    {
+        "BossLevel": 201,
+        "LevelUpATK": 4.088,
+        "LevelUpHP": 4.098,
+        "LevelUpDEF": 4.088,
+        "ID": 201,
+        "Name": null
+    },
+    {
+        "BossLevel": 202,
+        "LevelUpATK": 4.113,
+        "LevelUpHP": 4.123,
+        "LevelUpDEF": 4.113,
+        "ID": 202,
+        "Name": null
+    },
+    {
+        "BossLevel": 203,
+        "LevelUpATK": 4.137,
+        "LevelUpHP": 4.147,
+        "LevelUpDEF": 4.137,
+        "ID": 203,
+        "Name": null
+    },
+    {
+        "BossLevel": 204,
+        "LevelUpATK": 4.162,
+        "LevelUpHP": 4.172,
+        "LevelUpDEF": 4.162,
+        "ID": 204,
+        "Name": null
+    },
+    {
+        "BossLevel": 205,
+        "LevelUpATK": 4.187,
+        "LevelUpHP": 4.197,
+        "LevelUpDEF": 4.187,
+        "ID": 205,
+        "Name": null
+    },
+    {
+        "BossLevel": 206,
+        "LevelUpATK": 4.212,
+        "LevelUpHP": 4.221,
+        "LevelUpDEF": 4.212,
+        "ID": 206,
+        "Name": null
+    },
+    {
+        "BossLevel": 207,
+        "LevelUpATK": 4.236,
+        "LevelUpHP": 4.246,
+        "LevelUpDEF": 4.236,
+        "ID": 207,
+        "Name": null
+    },
+    {
+        "BossLevel": 208,
+        "LevelUpATK": 4.261,
+        "LevelUpHP": 4.271,
+        "LevelUpDEF": 4.261,
+        "ID": 208,
+        "Name": null
+    },
+    {
+        "BossLevel": 209,
+        "LevelUpATK": 4.286,
+        "LevelUpHP": 4.296,
+        "LevelUpDEF": 4.286,
+        "ID": 209,
+        "Name": null
+    },
+    {
+        "BossLevel": 210,
+        "LevelUpATK": 4.312,
+        "LevelUpHP": 4.322,
+        "LevelUpDEF": 4.312,
+        "ID": 210,
+        "Name": null
+    },
+    {
+        "BossLevel": 211,
+        "LevelUpATK": 4.337,
+        "LevelUpHP": 4.347,
+        "LevelUpDEF": 4.337,
+        "ID": 211,
+        "Name": null
+    },
+    {
+        "BossLevel": 212,
+        "LevelUpATK": 4.362,
+        "LevelUpHP": 4.372,
+        "LevelUpDEF": 4.362,
+        "ID": 212,
+        "Name": null
+    },
+    {
+        "BossLevel": 213,
+        "LevelUpATK": 4.387,
+        "LevelUpHP": 4.397,
+        "LevelUpDEF": 4.387,
+        "ID": 213,
+        "Name": null
+    },
+    {
+        "BossLevel": 214,
+        "LevelUpATK": 4.413,
+        "LevelUpHP": 4.423,
+        "LevelUpDEF": 4.413,
+        "ID": 214,
+        "Name": null
+    },
+    {
+        "BossLevel": 215,
+        "LevelUpATK": 4.438,
+        "LevelUpHP": 4.448,
+        "LevelUpDEF": 4.438,
+        "ID": 215,
+        "Name": null
+    },
+    {
+        "BossLevel": 216,
+        "LevelUpATK": 4.464,
+        "LevelUpHP": 4.474,
+        "LevelUpDEF": 4.464,
+        "ID": 216,
+        "Name": null
+    },
+    {
+        "BossLevel": 217,
+        "LevelUpATK": 4.489,
+        "LevelUpHP": 4.499,
+        "LevelUpDEF": 4.489,
+        "ID": 217,
+        "Name": null
+    },
+    {
+        "BossLevel": 218,
+        "LevelUpATK": 4.515,
+        "LevelUpHP": 4.525,
+        "LevelUpDEF": 4.515,
+        "ID": 218,
+        "Name": null
+    },
+    {
+        "BossLevel": 219,
+        "LevelUpATK": 4.541,
+        "LevelUpHP": 4.551,
+        "LevelUpDEF": 4.541,
+        "ID": 219,
+        "Name": null
+    },
+    {
+        "BossLevel": 220,
+        "LevelUpATK": 4.566,
+        "LevelUpHP": 4.577,
+        "LevelUpDEF": 4.566,
+        "ID": 220,
+        "Name": null
+    },
+    {
+        "BossLevel": 221,
+        "LevelUpATK": 4.592,
+        "LevelUpHP": 4.603,
+        "LevelUpDEF": 4.592,
+        "ID": 221,
+        "Name": null
+    },
+    {
+        "BossLevel": 222,
+        "LevelUpATK": 4.618,
+        "LevelUpHP": 4.629,
+        "LevelUpDEF": 4.618,
+        "ID": 222,
+        "Name": null
+    },
+    {
+        "BossLevel": 223,
+        "LevelUpATK": 4.644,
+        "LevelUpHP": 4.655,
+        "LevelUpDEF": 4.644,
+        "ID": 223,
+        "Name": null
+    },
+    {
+        "BossLevel": 224,
+        "LevelUpATK": 4.67,
+        "LevelUpHP": 4.681,
+        "LevelUpDEF": 4.67,
+        "ID": 224,
+        "Name": null
+    },
+    {
+        "BossLevel": 225,
+        "LevelUpATK": 4.696,
+        "LevelUpHP": 4.707,
+        "LevelUpDEF": 4.696,
+        "ID": 225,
+        "Name": null
+    },
+    {
+        "BossLevel": 226,
+        "LevelUpATK": 4.723,
+        "LevelUpHP": 4.733,
+        "LevelUpDEF": 4.723,
+        "ID": 226,
+        "Name": null
+    },
+    {
+        "BossLevel": 227,
+        "LevelUpATK": 4.749,
+        "LevelUpHP": 4.76,
+        "LevelUpDEF": 4.749,
+        "ID": 227,
+        "Name": null
+    },
+    {
+        "BossLevel": 228,
+        "LevelUpATK": 4.775,
+        "LevelUpHP": 4.786,
+        "LevelUpDEF": 4.775,
+        "ID": 228,
+        "Name": null
+    },
+    {
+        "BossLevel": 229,
+        "LevelUpATK": 4.802,
+        "LevelUpHP": 4.812,
+        "LevelUpDEF": 4.802,
+        "ID": 229,
+        "Name": null
+    },
+    {
+        "BossLevel": 230,
+        "LevelUpATK": 4.828,
+        "LevelUpHP": 4.839,
+        "LevelUpDEF": 4.828,
+        "ID": 230,
+        "Name": null
+    },
+    {
+        "BossLevel": 231,
+        "LevelUpATK": 4.855,
+        "LevelUpHP": 4.866,
+        "LevelUpDEF": 4.855,
+        "ID": 231,
+        "Name": null
+    },
+    {
+        "BossLevel": 232,
+        "LevelUpATK": 4.882,
+        "LevelUpHP": 4.892,
+        "LevelUpDEF": 4.882,
+        "ID": 232,
+        "Name": null
+    },
+    {
+        "BossLevel": 233,
+        "LevelUpATK": 4.908,
+        "LevelUpHP": 4.919,
+        "LevelUpDEF": 4.908,
+        "ID": 233,
+        "Name": null
+    },
+    {
+        "BossLevel": 234,
+        "LevelUpATK": 4.935,
+        "LevelUpHP": 4.946,
+        "LevelUpDEF": 4.935,
+        "ID": 234,
+        "Name": null
+    },
+    {
+        "BossLevel": 235,
+        "LevelUpATK": 4.962,
+        "LevelUpHP": 4.973,
+        "LevelUpDEF": 4.962,
+        "ID": 235,
+        "Name": null
+    },
+    {
+        "BossLevel": 236,
+        "LevelUpATK": 4.989,
+        "LevelUpHP": 5.0,
+        "LevelUpDEF": 4.989,
+        "ID": 236,
+        "Name": null
+    },
+    {
+        "BossLevel": 237,
+        "LevelUpATK": 5.016,
+        "LevelUpHP": 5.027,
+        "LevelUpDEF": 5.016,
+        "ID": 237,
+        "Name": null
+    },
+    {
+        "BossLevel": 238,
+        "LevelUpATK": 5.043,
+        "LevelUpHP": 5.054,
+        "LevelUpDEF": 5.043,
+        "ID": 238,
+        "Name": null
+    },
+    {
+        "BossLevel": 239,
+        "LevelUpATK": 5.07,
+        "LevelUpHP": 5.081,
+        "LevelUpDEF": 5.07,
+        "ID": 239,
+        "Name": null
+    },
+    {
+        "BossLevel": 240,
+        "LevelUpATK": 5.097,
+        "LevelUpHP": 5.108,
+        "LevelUpDEF": 5.097,
+        "ID": 240,
+        "Name": null
+    },
+    {
+        "BossLevel": 241,
+        "LevelUpATK": 5.124,
+        "LevelUpHP": 5.135,
+        "LevelUpDEF": 5.124,
+        "ID": 241,
+        "Name": null
+    },
+    {
+        "BossLevel": 242,
+        "LevelUpATK": 5.152,
+        "LevelUpHP": 5.163,
+        "LevelUpDEF": 5.152,
+        "ID": 242,
+        "Name": null
+    },
+    {
+        "BossLevel": 243,
+        "LevelUpATK": 5.179,
+        "LevelUpHP": 5.19,
+        "LevelUpDEF": 5.179,
+        "ID": 243,
+        "Name": null
+    },
+    {
+        "BossLevel": 244,
+        "LevelUpATK": 5.207,
+        "LevelUpHP": 5.218,
+        "LevelUpDEF": 5.207,
+        "ID": 244,
+        "Name": null
+    },
+    {
+        "BossLevel": 245,
+        "LevelUpATK": 5.234,
+        "LevelUpHP": 5.245,
+        "LevelUpDEF": 5.234,
+        "ID": 245,
+        "Name": null
+    },
+    {
+        "BossLevel": 246,
+        "LevelUpATK": 5.262,
+        "LevelUpHP": 5.273,
+        "LevelUpDEF": 5.262,
+        "ID": 246,
+        "Name": null
+    },
+    {
+        "BossLevel": 247,
+        "LevelUpATK": 5.289,
+        "LevelUpHP": 5.3,
+        "LevelUpDEF": 5.289,
+        "ID": 247,
+        "Name": null
+    },
+    {
+        "BossLevel": 248,
+        "LevelUpATK": 5.317,
+        "LevelUpHP": 5.328,
+        "LevelUpDEF": 5.317,
+        "ID": 248,
+        "Name": null
+    },
+    {
+        "BossLevel": 249,
+        "LevelUpATK": 5.345,
+        "LevelUpHP": 5.356,
+        "LevelUpDEF": 5.345,
+        "ID": 249,
+        "Name": null
+    },
+    {
+        "BossLevel": 250,
+        "LevelUpATK": 5.373,
+        "LevelUpHP": 5.384,
+        "LevelUpDEF": 5.373,
+        "ID": 250,
+        "Name": null
+    },
+    {
+        "BossLevel": 251,
+        "LevelUpATK": 5.401,
+        "LevelUpHP": 5.412,
+        "LevelUpDEF": 5.401,
+        "ID": 251,
+        "Name": null
+    },
+    {
+        "BossLevel": 252,
+        "LevelUpATK": 5.429,
+        "LevelUpHP": 5.44,
+        "LevelUpDEF": 5.429,
+        "ID": 252,
+        "Name": null
+    },
+    {
+        "BossLevel": 253,
+        "LevelUpATK": 5.457,
+        "LevelUpHP": 5.468,
+        "LevelUpDEF": 5.457,
+        "ID": 253,
+        "Name": null
+    },
+    {
+        "BossLevel": 254,
+        "LevelUpATK": 5.485,
+        "LevelUpHP": 5.496,
+        "LevelUpDEF": 5.485,
+        "ID": 254,
+        "Name": null
+    },
+    {
+        "BossLevel": 255,
+        "LevelUpATK": 5.513,
+        "LevelUpHP": 5.524,
+        "LevelUpDEF": 5.513,
+        "ID": 255,
+        "Name": null
+    },
+    {
+        "BossLevel": 256,
+        "LevelUpATK": 5.541,
+        "LevelUpHP": 5.553,
+        "LevelUpDEF": 5.541,
+        "ID": 256,
+        "Name": null
+    },
+    {
+        "BossLevel": 257,
+        "LevelUpATK": 5.57,
+        "LevelUpHP": 5.581,
+        "LevelUpDEF": 5.57,
+        "ID": 257,
+        "Name": null
+    },
+    {
+        "BossLevel": 258,
+        "LevelUpATK": 5.598,
+        "LevelUpHP": 5.609,
+        "LevelUpDEF": 5.598,
+        "ID": 258,
+        "Name": null
+    },
+    {
+        "BossLevel": 259,
+        "LevelUpATK": 5.627,
+        "LevelUpHP": 5.638,
+        "LevelUpDEF": 5.627,
+        "ID": 259,
+        "Name": null
+    },
+    {
+        "BossLevel": 260,
+        "LevelUpATK": 5.655,
+        "LevelUpHP": 5.666,
+        "LevelUpDEF": 5.655,
+        "ID": 260,
+        "Name": null
+    },
+    {
+        "BossLevel": 261,
+        "LevelUpATK": 5.684,
+        "LevelUpHP": 5.695,
+        "LevelUpDEF": 5.684,
+        "ID": 261,
+        "Name": null
+    },
+    {
+        "BossLevel": 262,
+        "LevelUpATK": 5.712,
+        "LevelUpHP": 5.724,
+        "LevelUpDEF": 5.712,
+        "ID": 262,
+        "Name": null
+    },
+    {
+        "BossLevel": 263,
+        "LevelUpATK": 5.741,
+        "LevelUpHP": 5.753,
+        "LevelUpDEF": 5.741,
+        "ID": 263,
+        "Name": null
+    },
+    {
+        "BossLevel": 264,
+        "LevelUpATK": 5.77,
+        "LevelUpHP": 5.781,
+        "LevelUpDEF": 5.77,
+        "ID": 264,
+        "Name": null
+    },
+    {
+        "BossLevel": 265,
+        "LevelUpATK": 5.799,
+        "LevelUpHP": 5.81,
+        "LevelUpDEF": 5.799,
+        "ID": 265,
+        "Name": null
+    },
+    {
+        "BossLevel": 266,
+        "LevelUpATK": 5.828,
+        "LevelUpHP": 5.839,
+        "LevelUpDEF": 5.828,
+        "ID": 266,
+        "Name": null
+    },
+    {
+        "BossLevel": 267,
+        "LevelUpATK": 5.857,
+        "LevelUpHP": 5.868,
+        "LevelUpDEF": 5.857,
+        "ID": 267,
+        "Name": null
+    },
+    {
+        "BossLevel": 268,
+        "LevelUpATK": 5.886,
+        "LevelUpHP": 5.897,
+        "LevelUpDEF": 5.886,
+        "ID": 268,
+        "Name": null
+    },
+    {
+        "BossLevel": 269,
+        "LevelUpATK": 5.915,
+        "LevelUpHP": 5.926,
+        "LevelUpDEF": 5.915,
+        "ID": 269,
+        "Name": null
+    },
+    {
+        "BossLevel": 270,
+        "LevelUpATK": 5.944,
+        "LevelUpHP": 5.956,
+        "LevelUpDEF": 5.944,
+        "ID": 270,
+        "Name": null
+    },
+    {
+        "BossLevel": 271,
+        "LevelUpATK": 5.973,
+        "LevelUpHP": 5.985,
+        "LevelUpDEF": 5.973,
+        "ID": 271,
+        "Name": null
+    },
+    {
+        "BossLevel": 272,
+        "LevelUpATK": 6.002,
+        "LevelUpHP": 6.014,
+        "LevelUpDEF": 6.002,
+        "ID": 272,
+        "Name": null
+    },
+    {
+        "BossLevel": 273,
+        "LevelUpATK": 6.032,
+        "LevelUpHP": 6.044,
+        "LevelUpDEF": 6.032,
+        "ID": 273,
+        "Name": null
+    },
+    {
+        "BossLevel": 274,
+        "LevelUpATK": 6.061,
+        "LevelUpHP": 6.073,
+        "LevelUpDEF": 6.061,
+        "ID": 274,
+        "Name": null
+    },
+    {
+        "BossLevel": 275,
+        "LevelUpATK": 6.091,
+        "LevelUpHP": 6.103,
+        "LevelUpDEF": 6.091,
+        "ID": 275,
+        "Name": null
+    },
+    {
+        "BossLevel": 276,
+        "LevelUpATK": 6.12,
+        "LevelUpHP": 6.132,
+        "LevelUpDEF": 6.12,
+        "ID": 276,
+        "Name": null
+    },
+    {
+        "BossLevel": 277,
+        "LevelUpATK": 6.15,
+        "LevelUpHP": 6.162,
+        "LevelUpDEF": 6.15,
+        "ID": 277,
+        "Name": null
+    },
+    {
+        "BossLevel": 278,
+        "LevelUpATK": 6.18,
+        "LevelUpHP": 6.192,
+        "LevelUpDEF": 6.18,
+        "ID": 278,
+        "Name": null
+    },
+    {
+        "BossLevel": 279,
+        "LevelUpATK": 6.209,
+        "LevelUpHP": 6.221,
+        "LevelUpDEF": 6.209,
+        "ID": 279,
+        "Name": null
+    },
+    {
+        "BossLevel": 280,
+        "LevelUpATK": 6.239,
+        "LevelUpHP": 6.251,
+        "LevelUpDEF": 6.239,
+        "ID": 280,
+        "Name": null
+    },
+    {
+        "BossLevel": 281,
+        "LevelUpATK": 6.269,
+        "LevelUpHP": 6.281,
+        "LevelUpDEF": 6.269,
+        "ID": 281,
+        "Name": null
+    },
+    {
+        "BossLevel": 282,
+        "LevelUpATK": 6.299,
+        "LevelUpHP": 6.311,
+        "LevelUpDEF": 6.299,
+        "ID": 282,
+        "Name": null
+    },
+    {
+        "BossLevel": 283,
+        "LevelUpATK": 6.329,
+        "LevelUpHP": 6.341,
+        "LevelUpDEF": 6.329,
+        "ID": 283,
+        "Name": null
+    },
+    {
+        "BossLevel": 284,
+        "LevelUpATK": 6.359,
+        "LevelUpHP": 6.371,
+        "LevelUpDEF": 6.359,
+        "ID": 284,
+        "Name": null
+    },
+    {
+        "BossLevel": 285,
+        "LevelUpATK": 6.389,
+        "LevelUpHP": 6.401,
+        "LevelUpDEF": 6.389,
+        "ID": 285,
+        "Name": null
+    },
+    {
+        "BossLevel": 286,
+        "LevelUpATK": 6.42,
+        "LevelUpHP": 6.432,
+        "LevelUpDEF": 6.42,
+        "ID": 286,
+        "Name": null
+    },
+    {
+        "BossLevel": 287,
+        "LevelUpATK": 6.45,
+        "LevelUpHP": 6.462,
+        "LevelUpDEF": 6.45,
+        "ID": 287,
+        "Name": null
+    },
+    {
+        "BossLevel": 288,
+        "LevelUpATK": 6.48,
+        "LevelUpHP": 6.492,
+        "LevelUpDEF": 6.48,
+        "ID": 288,
+        "Name": null
+    },
+    {
+        "BossLevel": 289,
+        "LevelUpATK": 6.511,
+        "LevelUpHP": 6.523,
+        "LevelUpDEF": 6.511,
+        "ID": 289,
+        "Name": null
+    },
+    {
+        "BossLevel": 290,
+        "LevelUpATK": 6.541,
+        "LevelUpHP": 6.553,
+        "LevelUpDEF": 6.541,
+        "ID": 290,
+        "Name": null
+    },
+    {
+        "BossLevel": 291,
+        "LevelUpATK": 6.572,
+        "LevelUpHP": 6.584,
+        "LevelUpDEF": 6.572,
+        "ID": 291,
+        "Name": null
+    },
+    {
+        "BossLevel": 292,
+        "LevelUpATK": 6.602,
+        "LevelUpHP": 6.614,
+        "LevelUpDEF": 6.602,
+        "ID": 292,
+        "Name": null
+    },
+    {
+        "BossLevel": 293,
+        "LevelUpATK": 6.633,
+        "LevelUpHP": 6.645,
+        "LevelUpDEF": 6.633,
+        "ID": 293,
+        "Name": null
+    },
+    {
+        "BossLevel": 294,
+        "LevelUpATK": 6.664,
+        "LevelUpHP": 6.676,
+        "LevelUpDEF": 6.664,
+        "ID": 294,
+        "Name": null
+    },
+    {
+        "BossLevel": 295,
+        "LevelUpATK": 6.694,
+        "LevelUpHP": 6.707,
+        "LevelUpDEF": 6.694,
+        "ID": 295,
+        "Name": null
+    },
+    {
+        "BossLevel": 296,
+        "LevelUpATK": 6.725,
+        "LevelUpHP": 6.737,
+        "LevelUpDEF": 6.725,
+        "ID": 296,
+        "Name": null
+    },
+    {
+        "BossLevel": 297,
+        "LevelUpATK": 6.756,
+        "LevelUpHP": 6.768,
+        "LevelUpDEF": 6.756,
+        "ID": 297,
+        "Name": null
+    },
+    {
+        "BossLevel": 298,
+        "LevelUpATK": 6.787,
+        "LevelUpHP": 6.799,
+        "LevelUpDEF": 6.787,
+        "ID": 298,
+        "Name": null
+    },
+    {
+        "BossLevel": 299,
+        "LevelUpATK": 6.818,
+        "LevelUpHP": 6.83,
+        "LevelUpDEF": 6.818,
+        "ID": 299,
+        "Name": null
+    },
+    {
+        "BossLevel": 300,
+        "LevelUpATK": 6.849,
+        "LevelUpHP": 6.862,
+        "LevelUpDEF": 6.849,
+        "ID": 300,
+        "Name": null
+    },
+    {
+        "BossLevel": 301,
+        "LevelUpATK": 6.88,
+        "LevelUpHP": 6.893,
+        "LevelUpDEF": 6.88,
+        "ID": 301,
+        "Name": null
+    },
+    {
+        "BossLevel": 302,
+        "LevelUpATK": 6.911,
+        "LevelUpHP": 6.924,
+        "LevelUpDEF": 6.911,
+        "ID": 302,
+        "Name": null
+    },
+    {
+        "BossLevel": 303,
+        "LevelUpATK": 6.943,
+        "LevelUpHP": 6.955,
+        "LevelUpDEF": 6.943,
+        "ID": 303,
+        "Name": null
+    },
+    {
+        "BossLevel": 304,
+        "LevelUpATK": 6.974,
+        "LevelUpHP": 6.987,
+        "LevelUpDEF": 6.974,
+        "ID": 304,
+        "Name": null
+    },
+    {
+        "BossLevel": 305,
+        "LevelUpATK": 7.005,
+        "LevelUpHP": 7.018,
+        "LevelUpDEF": 7.005,
+        "ID": 305,
+        "Name": null
+    },
+    {
+        "BossLevel": 306,
+        "LevelUpATK": 7.037,
+        "LevelUpHP": 7.05,
+        "LevelUpDEF": 7.037,
+        "ID": 306,
+        "Name": null
+    },
+    {
+        "BossLevel": 307,
+        "LevelUpATK": 7.068,
+        "LevelUpHP": 7.081,
+        "LevelUpDEF": 7.068,
+        "ID": 307,
+        "Name": null
+    },
+    {
+        "BossLevel": 308,
+        "LevelUpATK": 7.1,
+        "LevelUpHP": 7.113,
+        "LevelUpDEF": 7.1,
+        "ID": 308,
+        "Name": null
+    },
+    {
+        "BossLevel": 309,
+        "LevelUpATK": 7.132,
+        "LevelUpHP": 7.144,
+        "LevelUpDEF": 7.132,
+        "ID": 309,
+        "Name": null
+    },
+    {
+        "BossLevel": 310,
+        "LevelUpATK": 7.163,
+        "LevelUpHP": 7.176,
+        "LevelUpDEF": 7.163,
+        "ID": 310,
+        "Name": null
+    },
+    {
+        "BossLevel": 311,
+        "LevelUpATK": 7.195,
+        "LevelUpHP": 7.208,
+        "LevelUpDEF": 7.195,
+        "ID": 311,
+        "Name": null
+    },
+    {
+        "BossLevel": 312,
+        "LevelUpATK": 7.227,
+        "LevelUpHP": 7.24,
+        "LevelUpDEF": 7.227,
+        "ID": 312,
+        "Name": null
+    },
+    {
+        "BossLevel": 313,
+        "LevelUpATK": 7.259,
+        "LevelUpHP": 7.272,
+        "LevelUpDEF": 7.259,
+        "ID": 313,
+        "Name": null
+    },
+    {
+        "BossLevel": 314,
+        "LevelUpATK": 7.291,
+        "LevelUpHP": 7.304,
+        "LevelUpDEF": 7.291,
+        "ID": 314,
+        "Name": null
+    },
+    {
+        "BossLevel": 315,
+        "LevelUpATK": 7.323,
+        "LevelUpHP": 7.336,
+        "LevelUpDEF": 7.323,
+        "ID": 315,
+        "Name": null
+    },
+    {
+        "BossLevel": 316,
+        "LevelUpATK": 7.355,
+        "LevelUpHP": 7.368,
+        "LevelUpDEF": 7.355,
+        "ID": 316,
+        "Name": null
+    },
+    {
+        "BossLevel": 317,
+        "LevelUpATK": 7.387,
+        "LevelUpHP": 7.4,
+        "LevelUpDEF": 7.387,
+        "ID": 317,
+        "Name": null
+    },
+    {
+        "BossLevel": 318,
+        "LevelUpATK": 7.419,
+        "LevelUpHP": 7.432,
+        "LevelUpDEF": 7.419,
+        "ID": 318,
+        "Name": null
+    },
+    {
+        "BossLevel": 319,
+        "LevelUpATK": 7.451,
+        "LevelUpHP": 7.464,
+        "LevelUpDEF": 7.451,
+        "ID": 319,
+        "Name": null
+    },
+    {
+        "BossLevel": 320,
+        "LevelUpATK": 7.484,
+        "LevelUpHP": 7.497,
+        "LevelUpDEF": 7.484,
+        "ID": 320,
+        "Name": null
+    },
+    {
+        "BossLevel": 321,
+        "LevelUpATK": 7.516,
+        "LevelUpHP": 7.529,
+        "LevelUpDEF": 7.516,
+        "ID": 321,
+        "Name": null
+    },
+    {
+        "BossLevel": 322,
+        "LevelUpATK": 7.549,
+        "LevelUpHP": 7.562,
+        "LevelUpDEF": 7.549,
+        "ID": 322,
+        "Name": null
+    },
+    {
+        "BossLevel": 323,
+        "LevelUpATK": 7.581,
+        "LevelUpHP": 7.594,
+        "LevelUpDEF": 7.581,
+        "ID": 323,
+        "Name": null
+    },
+    {
+        "BossLevel": 324,
+        "LevelUpATK": 7.614,
+        "LevelUpHP": 7.627,
+        "LevelUpDEF": 7.614,
+        "ID": 324,
+        "Name": null
+    },
+    {
+        "BossLevel": 325,
+        "LevelUpATK": 7.646,
+        "LevelUpHP": 7.659,
+        "LevelUpDEF": 7.646,
+        "ID": 325,
+        "Name": null
+    },
+    {
+        "BossLevel": 326,
+        "LevelUpATK": 7.679,
+        "LevelUpHP": 7.692,
+        "LevelUpDEF": 7.679,
+        "ID": 326,
+        "Name": null
+    },
+    {
+        "BossLevel": 327,
+        "LevelUpATK": 7.712,
+        "LevelUpHP": 7.725,
+        "LevelUpDEF": 7.712,
+        "ID": 327,
+        "Name": null
+    },
+    {
+        "BossLevel": 328,
+        "LevelUpATK": 7.744,
+        "LevelUpHP": 7.758,
+        "LevelUpDEF": 7.744,
+        "ID": 328,
+        "Name": null
+    },
+    {
+        "BossLevel": 329,
+        "LevelUpATK": 7.777,
+        "LevelUpHP": 7.79,
+        "LevelUpDEF": 7.777,
+        "ID": 329,
+        "Name": null
+    },
+    {
+        "BossLevel": 330,
+        "LevelUpATK": 7.81,
+        "LevelUpHP": 7.823,
+        "LevelUpDEF": 7.81,
+        "ID": 330,
+        "Name": null
+    },
+    {
+        "BossLevel": 331,
+        "LevelUpATK": 7.843,
+        "LevelUpHP": 7.856,
+        "LevelUpDEF": 7.843,
+        "ID": 331,
+        "Name": null
+    },
+    {
+        "BossLevel": 332,
+        "LevelUpATK": 7.876,
+        "LevelUpHP": 7.889,
+        "LevelUpDEF": 7.876,
+        "ID": 332,
+        "Name": null
+    },
+    {
+        "BossLevel": 333,
+        "LevelUpATK": 7.909,
+        "LevelUpHP": 7.923,
+        "LevelUpDEF": 7.909,
+        "ID": 333,
+        "Name": null
+    },
+    {
+        "BossLevel": 334,
+        "LevelUpATK": 7.942,
+        "LevelUpHP": 7.956,
+        "LevelUpDEF": 7.942,
+        "ID": 334,
+        "Name": null
+    },
+    {
+        "BossLevel": 335,
+        "LevelUpATK": 7.976,
+        "LevelUpHP": 7.989,
+        "LevelUpDEF": 7.976,
+        "ID": 335,
+        "Name": null
+    },
+    {
+        "BossLevel": 336,
+        "LevelUpATK": 8.009,
+        "LevelUpHP": 8.022,
+        "LevelUpDEF": 8.009,
+        "ID": 336,
+        "Name": null
+    },
+    {
+        "BossLevel": 337,
+        "LevelUpATK": 8.042,
+        "LevelUpHP": 8.056,
+        "LevelUpDEF": 8.042,
+        "ID": 337,
+        "Name": null
+    },
+    {
+        "BossLevel": 338,
+        "LevelUpATK": 8.076,
+        "LevelUpHP": 8.089,
+        "LevelUpDEF": 8.076,
+        "ID": 338,
+        "Name": null
+    },
+    {
+        "BossLevel": 339,
+        "LevelUpATK": 8.109,
+        "LevelUpHP": 8.123,
+        "LevelUpDEF": 8.109,
+        "ID": 339,
+        "Name": null
+    },
+    {
+        "BossLevel": 340,
+        "LevelUpATK": 8.143,
+        "LevelUpHP": 8.156,
+        "LevelUpDEF": 8.143,
+        "ID": 340,
+        "Name": null
+    },
+    {
+        "BossLevel": 341,
+        "LevelUpATK": 8.176,
+        "LevelUpHP": 8.19,
+        "LevelUpDEF": 8.176,
+        "ID": 341,
+        "Name": null
+    },
+    {
+        "BossLevel": 342,
+        "LevelUpATK": 8.21,
+        "LevelUpHP": 8.223,
+        "LevelUpDEF": 8.21,
+        "ID": 342,
+        "Name": null
+    },
+    {
+        "BossLevel": 343,
+        "LevelUpATK": 8.244,
+        "LevelUpHP": 8.257,
+        "LevelUpDEF": 8.244,
+        "ID": 343,
+        "Name": null
+    },
+    {
+        "BossLevel": 344,
+        "LevelUpATK": 8.277,
+        "LevelUpHP": 8.291,
+        "LevelUpDEF": 8.277,
+        "ID": 344,
+        "Name": null
+    },
+    {
+        "BossLevel": 345,
+        "LevelUpATK": 8.311,
+        "LevelUpHP": 8.325,
+        "LevelUpDEF": 8.311,
+        "ID": 345,
+        "Name": null
+    },
+    {
+        "BossLevel": 346,
+        "LevelUpATK": 8.345,
+        "LevelUpHP": 8.358,
+        "LevelUpDEF": 8.345,
+        "ID": 346,
+        "Name": null
+    },
+    {
+        "BossLevel": 347,
+        "LevelUpATK": 8.379,
+        "LevelUpHP": 8.392,
+        "LevelUpDEF": 8.379,
+        "ID": 347,
+        "Name": null
+    },
+    {
+        "BossLevel": 348,
+        "LevelUpATK": 8.413,
+        "LevelUpHP": 8.426,
+        "LevelUpDEF": 8.413,
+        "ID": 348,
+        "Name": null
+    },
+    {
+        "BossLevel": 349,
+        "LevelUpATK": 8.447,
+        "LevelUpHP": 8.46,
+        "LevelUpDEF": 8.447,
+        "ID": 349,
+        "Name": null
+    },
+    {
+        "BossLevel": 350,
+        "LevelUpATK": 8.481,
+        "LevelUpHP": 8.495,
+        "LevelUpDEF": 8.481,
+        "ID": 350,
+        "Name": null
+    },
+    {
+        "BossLevel": 351,
+        "LevelUpATK": 8.515,
+        "LevelUpHP": 8.529,
+        "LevelUpDEF": 8.515,
+        "ID": 351,
+        "Name": null
+    },
+    {
+        "BossLevel": 352,
+        "LevelUpATK": 8.549,
+        "LevelUpHP": 8.563,
+        "LevelUpDEF": 8.549,
+        "ID": 352,
+        "Name": null
+    },
+    {
+        "BossLevel": 353,
+        "LevelUpATK": 8.584,
+        "LevelUpHP": 8.597,
+        "LevelUpDEF": 8.584,
+        "ID": 353,
+        "Name": null
+    },
+    {
+        "BossLevel": 354,
+        "LevelUpATK": 8.618,
+        "LevelUpHP": 8.632,
+        "LevelUpDEF": 8.618,
+        "ID": 354,
+        "Name": null
+    },
+    {
+        "BossLevel": 355,
+        "LevelUpATK": 8.652,
+        "LevelUpHP": 8.666,
+        "LevelUpDEF": 8.652,
+        "ID": 355,
+        "Name": null
+    },
+    {
+        "BossLevel": 356,
+        "LevelUpATK": 8.687,
+        "LevelUpHP": 8.701,
+        "LevelUpDEF": 8.687,
+        "ID": 356,
+        "Name": null
+    },
+    {
+        "BossLevel": 357,
+        "LevelUpATK": 8.721,
+        "LevelUpHP": 8.735,
+        "LevelUpDEF": 8.721,
+        "ID": 357,
+        "Name": null
+    },
+    {
+        "BossLevel": 358,
+        "LevelUpATK": 8.756,
+        "LevelUpHP": 8.77,
+        "LevelUpDEF": 8.756,
+        "ID": 358,
+        "Name": null
+    },
+    {
+        "BossLevel": 359,
+        "LevelUpATK": 8.79,
+        "LevelUpHP": 8.804,
+        "LevelUpDEF": 8.79,
+        "ID": 359,
+        "Name": null
+    },
+    {
+        "BossLevel": 360,
+        "LevelUpATK": 8.825,
+        "LevelUpHP": 8.839,
+        "LevelUpDEF": 8.825,
+        "ID": 360,
+        "Name": null
+    },
+    {
+        "BossLevel": 361,
+        "LevelUpATK": 8.86,
+        "LevelUpHP": 8.874,
+        "LevelUpDEF": 8.86,
+        "ID": 361,
+        "Name": null
+    },
+    {
+        "BossLevel": 362,
+        "LevelUpATK": 8.895,
+        "LevelUpHP": 8.909,
+        "LevelUpDEF": 8.895,
+        "ID": 362,
+        "Name": null
+    },
+    {
+        "BossLevel": 363,
+        "LevelUpATK": 8.93,
+        "LevelUpHP": 8.943,
+        "LevelUpDEF": 8.93,
+        "ID": 363,
+        "Name": null
+    },
+    {
+        "BossLevel": 364,
+        "LevelUpATK": 8.964,
+        "LevelUpHP": 8.978,
+        "LevelUpDEF": 8.964,
+        "ID": 364,
+        "Name": null
+    },
+    {
+        "BossLevel": 365,
+        "LevelUpATK": 8.999,
+        "LevelUpHP": 9.013,
+        "LevelUpDEF": 8.999,
+        "ID": 365,
+        "Name": null
+    },
+    {
+        "BossLevel": 366,
+        "LevelUpATK": 9.034,
+        "LevelUpHP": 9.048,
+        "LevelUpDEF": 9.034,
+        "ID": 366,
+        "Name": null
+    },
+    {
+        "BossLevel": 367,
+        "LevelUpATK": 9.07,
+        "LevelUpHP": 9.084,
+        "LevelUpDEF": 9.07,
+        "ID": 367,
+        "Name": null
+    },
+    {
+        "BossLevel": 368,
+        "LevelUpATK": 9.105,
+        "LevelUpHP": 9.119,
+        "LevelUpDEF": 9.105,
+        "ID": 368,
+        "Name": null
+    },
+    {
+        "BossLevel": 369,
+        "LevelUpATK": 9.14,
+        "LevelUpHP": 9.154,
+        "LevelUpDEF": 9.14,
+        "ID": 369,
+        "Name": null
+    },
+    {
+        "BossLevel": 370,
+        "LevelUpATK": 9.175,
+        "LevelUpHP": 9.189,
+        "LevelUpDEF": 9.175,
+        "ID": 370,
+        "Name": null
+    },
+    {
+        "BossLevel": 371,
+        "LevelUpATK": 9.21,
+        "LevelUpHP": 9.225,
+        "LevelUpDEF": 9.21,
+        "ID": 371,
+        "Name": null
+    },
+    {
+        "BossLevel": 372,
+        "LevelUpATK": 9.246,
+        "LevelUpHP": 9.26,
+        "LevelUpDEF": 9.246,
+        "ID": 372,
+        "Name": null
+    },
+    {
+        "BossLevel": 373,
+        "LevelUpATK": 9.281,
+        "LevelUpHP": 9.295,
+        "LevelUpDEF": 9.281,
+        "ID": 373,
+        "Name": null
+    },
+    {
+        "BossLevel": 374,
+        "LevelUpATK": 9.317,
+        "LevelUpHP": 9.331,
+        "LevelUpDEF": 9.317,
+        "ID": 374,
+        "Name": null
+    },
+    {
+        "BossLevel": 375,
+        "LevelUpATK": 9.352,
+        "LevelUpHP": 9.366,
+        "LevelUpDEF": 9.352,
+        "ID": 375,
+        "Name": null
+    },
+    {
+        "BossLevel": 376,
+        "LevelUpATK": 9.388,
+        "LevelUpHP": 9.402,
+        "LevelUpDEF": 9.388,
+        "ID": 376,
+        "Name": null
+    },
+    {
+        "BossLevel": 377,
+        "LevelUpATK": 9.423,
+        "LevelUpHP": 9.438,
+        "LevelUpDEF": 9.423,
+        "ID": 377,
+        "Name": null
+    },
+    {
+        "BossLevel": 378,
+        "LevelUpATK": 9.459,
+        "LevelUpHP": 9.473,
+        "LevelUpDEF": 9.459,
+        "ID": 378,
+        "Name": null
+    },
+    {
+        "BossLevel": 379,
+        "LevelUpATK": 9.495,
+        "LevelUpHP": 9.509,
+        "LevelUpDEF": 9.495,
+        "ID": 379,
+        "Name": null
+    },
+    {
+        "BossLevel": 380,
+        "LevelUpATK": 9.531,
+        "LevelUpHP": 9.545,
+        "LevelUpDEF": 9.531,
+        "ID": 380,
+        "Name": null
+    },
+    {
+        "BossLevel": 381,
+        "LevelUpATK": 9.567,
+        "LevelUpHP": 9.581,
+        "LevelUpDEF": 9.567,
+        "ID": 381,
+        "Name": null
+    },
+    {
+        "BossLevel": 382,
+        "LevelUpATK": 9.603,
+        "LevelUpHP": 9.617,
+        "LevelUpDEF": 9.603,
+        "ID": 382,
+        "Name": null
+    },
+    {
+        "BossLevel": 383,
+        "LevelUpATK": 9.639,
+        "LevelUpHP": 9.653,
+        "LevelUpDEF": 9.639,
+        "ID": 383,
+        "Name": null
+    },
+    {
+        "BossLevel": 384,
+        "LevelUpATK": 9.675,
+        "LevelUpHP": 9.689,
+        "LevelUpDEF": 9.675,
+        "ID": 384,
+        "Name": null
+    },
+    {
+        "BossLevel": 385,
+        "LevelUpATK": 9.711,
+        "LevelUpHP": 9.725,
+        "LevelUpDEF": 9.711,
+        "ID": 385,
+        "Name": null
+    },
+    {
+        "BossLevel": 386,
+        "LevelUpATK": 9.747,
+        "LevelUpHP": 9.761,
+        "LevelUpDEF": 9.747,
+        "ID": 386,
+        "Name": null
+    },
+    {
+        "BossLevel": 387,
+        "LevelUpATK": 9.783,
+        "LevelUpHP": 9.798,
+        "LevelUpDEF": 9.783,
+        "ID": 387,
+        "Name": null
+    },
+    {
+        "BossLevel": 388,
+        "LevelUpATK": 9.819,
+        "LevelUpHP": 9.834,
+        "LevelUpDEF": 9.819,
+        "ID": 388,
+        "Name": null
+    },
+    {
+        "BossLevel": 389,
+        "LevelUpATK": 9.856,
+        "LevelUpHP": 9.87,
+        "LevelUpDEF": 9.856,
+        "ID": 389,
+        "Name": null
+    },
+    {
+        "BossLevel": 390,
+        "LevelUpATK": 9.892,
+        "LevelUpHP": 9.907,
+        "LevelUpDEF": 9.892,
+        "ID": 390,
+        "Name": null
+    },
+    {
+        "BossLevel": 391,
+        "LevelUpATK": 9.929,
+        "LevelUpHP": 9.943,
+        "LevelUpDEF": 9.929,
+        "ID": 391,
+        "Name": null
+    },
+    {
+        "BossLevel": 392,
+        "LevelUpATK": 9.965,
+        "LevelUpHP": 9.98,
+        "LevelUpDEF": 9.965,
+        "ID": 392,
+        "Name": null
+    },
+    {
+        "BossLevel": 393,
+        "LevelUpATK": 10.002,
+        "LevelUpHP": 10.016,
+        "LevelUpDEF": 10.002,
+        "ID": 393,
+        "Name": null
+    },
+    {
+        "BossLevel": 394,
+        "LevelUpATK": 10.038,
+        "LevelUpHP": 10.053,
+        "LevelUpDEF": 10.038,
+        "ID": 394,
+        "Name": null
+    },
+    {
+        "BossLevel": 395,
+        "LevelUpATK": 10.075,
+        "LevelUpHP": 10.09,
+        "LevelUpDEF": 10.075,
+        "ID": 395,
+        "Name": null
+    },
+    {
+        "BossLevel": 396,
+        "LevelUpATK": 10.112,
+        "LevelUpHP": 10.126,
+        "LevelUpDEF": 10.112,
+        "ID": 396,
+        "Name": null
+    },
+    {
+        "BossLevel": 397,
+        "LevelUpATK": 10.148,
+        "LevelUpHP": 10.163,
+        "LevelUpDEF": 10.148,
+        "ID": 397,
+        "Name": null
+    },
+    {
+        "BossLevel": 398,
+        "LevelUpATK": 10.185,
+        "LevelUpHP": 10.2,
+        "LevelUpDEF": 10.185,
+        "ID": 398,
+        "Name": null
+    },
+    {
+        "BossLevel": 399,
+        "LevelUpATK": 10.222,
+        "LevelUpHP": 10.237,
+        "LevelUpDEF": 10.222,
+        "ID": 399,
+        "Name": null
+    },
+    {
+        "BossLevel": 400,
+        "LevelUpATK": 10.259,
+        "LevelUpHP": 10.274,
+        "LevelUpDEF": 10.259,
+        "ID": 400,
+        "Name": null
+    },
+    {
+        "BossLevel": 401,
+        "LevelUpATK": 10.296,
+        "LevelUpHP": 10.311,
+        "LevelUpDEF": 10.296,
+        "ID": 401,
+        "Name": null
+    },
+    {
+        "BossLevel": 402,
+        "LevelUpATK": 10.333,
+        "LevelUpHP": 10.348,
+        "LevelUpDEF": 10.333,
+        "ID": 402,
+        "Name": null
+    },
+    {
+        "BossLevel": 403,
+        "LevelUpATK": 10.37,
+        "LevelUpHP": 10.385,
+        "LevelUpDEF": 10.37,
+        "ID": 403,
+        "Name": null
+    },
+    {
+        "BossLevel": 404,
+        "LevelUpATK": 10.407,
+        "LevelUpHP": 10.422,
+        "LevelUpDEF": 10.407,
+        "ID": 404,
+        "Name": null
+    },
+    {
+        "BossLevel": 405,
+        "LevelUpATK": 10.445,
+        "LevelUpHP": 10.459,
+        "LevelUpDEF": 10.445,
+        "ID": 405,
+        "Name": null
+    },
+    {
+        "BossLevel": 406,
+        "LevelUpATK": 10.482,
+        "LevelUpHP": 10.497,
+        "LevelUpDEF": 10.482,
+        "ID": 406,
+        "Name": null
+    },
+    {
+        "BossLevel": 407,
+        "LevelUpATK": 10.519,
+        "LevelUpHP": 10.534,
+        "LevelUpDEF": 10.519,
+        "ID": 407,
+        "Name": null
+    },
+    {
+        "BossLevel": 408,
+        "LevelUpATK": 10.557,
+        "LevelUpHP": 10.572,
+        "LevelUpDEF": 10.557,
+        "ID": 408,
+        "Name": null
+    },
+    {
+        "BossLevel": 409,
+        "LevelUpATK": 10.594,
+        "LevelUpHP": 10.609,
+        "LevelUpDEF": 10.594,
+        "ID": 409,
+        "Name": null
+    },
+    {
+        "BossLevel": 410,
+        "LevelUpATK": 10.631,
+        "LevelUpHP": 10.646,
+        "LevelUpDEF": 10.631,
+        "ID": 410,
+        "Name": null
+    },
+    {
+        "BossLevel": 411,
+        "LevelUpATK": 10.669,
+        "LevelUpHP": 10.684,
+        "LevelUpDEF": 10.669,
+        "ID": 411,
+        "Name": null
+    },
+    {
+        "BossLevel": 412,
+        "LevelUpATK": 10.707,
+        "LevelUpHP": 10.722,
+        "LevelUpDEF": 10.707,
+        "ID": 412,
+        "Name": null
+    },
+    {
+        "BossLevel": 413,
+        "LevelUpATK": 10.744,
+        "LevelUpHP": 10.759,
+        "LevelUpDEF": 10.744,
+        "ID": 413,
+        "Name": null
+    },
+    {
+        "BossLevel": 414,
+        "LevelUpATK": 10.782,
+        "LevelUpHP": 10.797,
+        "LevelUpDEF": 10.782,
+        "ID": 414,
+        "Name": null
+    },
+    {
+        "BossLevel": 415,
+        "LevelUpATK": 10.82,
+        "LevelUpHP": 10.835,
+        "LevelUpDEF": 10.82,
+        "ID": 415,
+        "Name": null
+    },
+    {
+        "BossLevel": 416,
+        "LevelUpATK": 10.858,
+        "LevelUpHP": 10.873,
+        "LevelUpDEF": 10.858,
+        "ID": 416,
+        "Name": null
+    },
+    {
+        "BossLevel": 417,
+        "LevelUpATK": 10.895,
+        "LevelUpHP": 10.911,
+        "LevelUpDEF": 10.895,
+        "ID": 417,
+        "Name": null
+    },
+    {
+        "BossLevel": 418,
+        "LevelUpATK": 10.933,
+        "LevelUpHP": 10.949,
+        "LevelUpDEF": 10.933,
+        "ID": 418,
+        "Name": null
+    },
+    {
+        "BossLevel": 419,
+        "LevelUpATK": 10.971,
+        "LevelUpHP": 10.987,
+        "LevelUpDEF": 10.971,
+        "ID": 419,
+        "Name": null
+    },
+    {
+        "BossLevel": 420,
+        "LevelUpATK": 11.009,
+        "LevelUpHP": 11.025,
+        "LevelUpDEF": 11.009,
+        "ID": 420,
+        "Name": null
+    },
+    {
+        "BossLevel": 421,
+        "LevelUpATK": 11.048,
+        "LevelUpHP": 11.063,
+        "LevelUpDEF": 11.048,
+        "ID": 421,
+        "Name": null
+    },
+    {
+        "BossLevel": 422,
+        "LevelUpATK": 11.086,
+        "LevelUpHP": 11.101,
+        "LevelUpDEF": 11.086,
+        "ID": 422,
+        "Name": null
+    },
+    {
+        "BossLevel": 423,
+        "LevelUpATK": 11.124,
+        "LevelUpHP": 11.139,
+        "LevelUpDEF": 11.124,
+        "ID": 423,
+        "Name": null
+    },
+    {
+        "BossLevel": 424,
+        "LevelUpATK": 11.162,
+        "LevelUpHP": 11.177,
+        "LevelUpDEF": 11.162,
+        "ID": 424,
+        "Name": null
+    },
+    {
+        "BossLevel": 425,
+        "LevelUpATK": 11.2,
+        "LevelUpHP": 11.216,
+        "LevelUpDEF": 11.2,
+        "ID": 425,
+        "Name": null
+    },
+    {
+        "BossLevel": 426,
+        "LevelUpATK": 11.239,
+        "LevelUpHP": 11.254,
+        "LevelUpDEF": 11.239,
+        "ID": 426,
+        "Name": null
+    },
+    {
+        "BossLevel": 427,
+        "LevelUpATK": 11.277,
+        "LevelUpHP": 11.293,
+        "LevelUpDEF": 11.277,
+        "ID": 427,
+        "Name": null
+    },
+    {
+        "BossLevel": 428,
+        "LevelUpATK": 11.316,
+        "LevelUpHP": 11.331,
+        "LevelUpDEF": 11.316,
+        "ID": 428,
+        "Name": null
+    },
+    {
+        "BossLevel": 429,
+        "LevelUpATK": 11.354,
+        "LevelUpHP": 11.37,
+        "LevelUpDEF": 11.354,
+        "ID": 429,
+        "Name": null
+    },
+    {
+        "BossLevel": 430,
+        "LevelUpATK": 11.393,
+        "LevelUpHP": 11.408,
+        "LevelUpDEF": 11.393,
+        "ID": 430,
+        "Name": null
+    },
+    {
+        "BossLevel": 431,
+        "LevelUpATK": 11.431,
+        "LevelUpHP": 11.447,
+        "LevelUpDEF": 11.431,
+        "ID": 431,
+        "Name": null
+    },
+    {
+        "BossLevel": 432,
+        "LevelUpATK": 11.47,
+        "LevelUpHP": 11.486,
+        "LevelUpDEF": 11.47,
+        "ID": 432,
+        "Name": null
+    },
+    {
+        "BossLevel": 433,
+        "LevelUpATK": 11.509,
+        "LevelUpHP": 11.524,
+        "LevelUpDEF": 11.509,
+        "ID": 433,
+        "Name": null
+    },
+    {
+        "BossLevel": 434,
+        "LevelUpATK": 11.548,
+        "LevelUpHP": 11.563,
+        "LevelUpDEF": 11.548,
+        "ID": 434,
+        "Name": null
+    },
+    {
+        "BossLevel": 435,
+        "LevelUpATK": 11.586,
+        "LevelUpHP": 11.602,
+        "LevelUpDEF": 11.586,
+        "ID": 435,
+        "Name": null
+    },
+    {
+        "BossLevel": 436,
+        "LevelUpATK": 11.625,
+        "LevelUpHP": 11.641,
+        "LevelUpDEF": 11.625,
+        "ID": 436,
+        "Name": null
+    },
+    {
+        "BossLevel": 437,
+        "LevelUpATK": 11.664,
+        "LevelUpHP": 11.68,
+        "LevelUpDEF": 11.664,
+        "ID": 437,
+        "Name": null
+    },
+    {
+        "BossLevel": 438,
+        "LevelUpATK": 11.703,
+        "LevelUpHP": 11.719,
+        "LevelUpDEF": 11.703,
+        "ID": 438,
+        "Name": null
+    },
+    {
+        "BossLevel": 439,
+        "LevelUpATK": 11.742,
+        "LevelUpHP": 11.758,
+        "LevelUpDEF": 11.742,
+        "ID": 439,
+        "Name": null
+    },
+    {
+        "BossLevel": 440,
+        "LevelUpATK": 11.782,
+        "LevelUpHP": 11.797,
+        "LevelUpDEF": 11.782,
+        "ID": 440,
+        "Name": null
+    },
+    {
+        "BossLevel": 441,
+        "LevelUpATK": 11.821,
+        "LevelUpHP": 11.836,
+        "LevelUpDEF": 11.821,
+        "ID": 441,
+        "Name": null
+    },
+    {
+        "BossLevel": 442,
+        "LevelUpATK": 11.86,
+        "LevelUpHP": 11.876,
+        "LevelUpDEF": 11.86,
+        "ID": 442,
+        "Name": null
+    },
+    {
+        "BossLevel": 443,
+        "LevelUpATK": 11.899,
+        "LevelUpHP": 11.915,
+        "LevelUpDEF": 11.899,
+        "ID": 443,
+        "Name": null
+    },
+    {
+        "BossLevel": 444,
+        "LevelUpATK": 11.939,
+        "LevelUpHP": 11.954,
+        "LevelUpDEF": 11.939,
+        "ID": 444,
+        "Name": null
+    },
+    {
+        "BossLevel": 445,
+        "LevelUpATK": 11.978,
+        "LevelUpHP": 11.994,
+        "LevelUpDEF": 11.978,
+        "ID": 445,
+        "Name": null
+    },
+    {
+        "BossLevel": 446,
+        "LevelUpATK": 12.017,
+        "LevelUpHP": 12.033,
+        "LevelUpDEF": 12.017,
+        "ID": 446,
+        "Name": null
+    },
+    {
+        "BossLevel": 447,
+        "LevelUpATK": 12.057,
+        "LevelUpHP": 12.073,
+        "LevelUpDEF": 12.057,
+        "ID": 447,
+        "Name": null
+    },
+    {
+        "BossLevel": 448,
+        "LevelUpATK": 12.096,
+        "LevelUpHP": 12.112,
+        "LevelUpDEF": 12.096,
+        "ID": 448,
+        "Name": null
+    },
+    {
+        "BossLevel": 449,
+        "LevelUpATK": 12.136,
+        "LevelUpHP": 12.152,
+        "LevelUpDEF": 12.136,
+        "ID": 449,
+        "Name": null
+    },
+    {
+        "BossLevel": 450,
+        "LevelUpATK": 12.176,
+        "LevelUpHP": 12.192,
+        "LevelUpDEF": 12.176,
+        "ID": 450,
+        "Name": null
+    },
+    {
+        "BossLevel": 451,
+        "LevelUpATK": 12.215,
+        "LevelUpHP": 12.231,
+        "LevelUpDEF": 12.215,
+        "ID": 451,
+        "Name": null
+    },
+    {
+        "BossLevel": 452,
+        "LevelUpATK": 12.255,
+        "LevelUpHP": 12.271,
+        "LevelUpDEF": 12.255,
+        "ID": 452,
+        "Name": null
+    },
+    {
+        "BossLevel": 453,
+        "LevelUpATK": 12.295,
+        "LevelUpHP": 12.311,
+        "LevelUpDEF": 12.295,
+        "ID": 453,
+        "Name": null
+    },
+    {
+        "BossLevel": 454,
+        "LevelUpATK": 12.335,
+        "LevelUpHP": 12.351,
+        "LevelUpDEF": 12.335,
+        "ID": 454,
+        "Name": null
+    },
+    {
+        "BossLevel": 455,
+        "LevelUpATK": 12.375,
+        "LevelUpHP": 12.391,
+        "LevelUpDEF": 12.375,
+        "ID": 455,
+        "Name": null
+    },
+    {
+        "BossLevel": 456,
+        "LevelUpATK": 12.415,
+        "LevelUpHP": 12.431,
+        "LevelUpDEF": 12.415,
+        "ID": 456,
+        "Name": null
+    },
+    {
+        "BossLevel": 457,
+        "LevelUpATK": 12.455,
+        "LevelUpHP": 12.471,
+        "LevelUpDEF": 12.455,
+        "ID": 457,
+        "Name": null
+    },
+    {
+        "BossLevel": 458,
+        "LevelUpATK": 12.495,
+        "LevelUpHP": 12.511,
+        "LevelUpDEF": 12.495,
+        "ID": 458,
+        "Name": null
+    },
+    {
+        "BossLevel": 459,
+        "LevelUpATK": 12.535,
+        "LevelUpHP": 12.551,
+        "LevelUpDEF": 12.535,
+        "ID": 459,
+        "Name": null
+    },
+    {
+        "BossLevel": 460,
+        "LevelUpATK": 12.575,
+        "LevelUpHP": 12.591,
+        "LevelUpDEF": 12.575,
+        "ID": 460,
+        "Name": null
+    },
+    {
+        "BossLevel": 461,
+        "LevelUpATK": 12.615,
+        "LevelUpHP": 12.631,
+        "LevelUpDEF": 12.615,
+        "ID": 461,
+        "Name": null
+    },
+    {
+        "BossLevel": 462,
+        "LevelUpATK": 12.656,
+        "LevelUpHP": 12.672,
+        "LevelUpDEF": 12.656,
+        "ID": 462,
+        "Name": null
+    },
+    {
+        "BossLevel": 463,
+        "LevelUpATK": 12.696,
+        "LevelUpHP": 12.712,
+        "LevelUpDEF": 12.696,
+        "ID": 463,
+        "Name": null
+    },
+    {
+        "BossLevel": 464,
+        "LevelUpATK": 12.736,
+        "LevelUpHP": 12.752,
+        "LevelUpDEF": 12.736,
+        "ID": 464,
+        "Name": null
+    },
+    {
+        "BossLevel": 465,
+        "LevelUpATK": 12.777,
+        "LevelUpHP": 12.793,
+        "LevelUpDEF": 12.777,
+        "ID": 465,
+        "Name": null
+    },
+    {
+        "BossLevel": 466,
+        "LevelUpATK": 12.817,
+        "LevelUpHP": 12.833,
+        "LevelUpDEF": 12.817,
+        "ID": 466,
+        "Name": null
+    },
+    {
+        "BossLevel": 467,
+        "LevelUpATK": 12.858,
+        "LevelUpHP": 12.874,
+        "LevelUpDEF": 12.858,
+        "ID": 467,
+        "Name": null
+    },
+    {
+        "BossLevel": 468,
+        "LevelUpATK": 12.898,
+        "LevelUpHP": 12.915,
+        "LevelUpDEF": 12.898,
+        "ID": 468,
+        "Name": null
+    },
+    {
+        "BossLevel": 469,
+        "LevelUpATK": 12.939,
+        "LevelUpHP": 12.955,
+        "LevelUpDEF": 12.939,
+        "ID": 469,
+        "Name": null
+    },
+    {
+        "BossLevel": 470,
+        "LevelUpATK": 12.98,
+        "LevelUpHP": 12.996,
+        "LevelUpDEF": 12.98,
+        "ID": 470,
+        "Name": null
+    },
+    {
+        "BossLevel": 471,
+        "LevelUpATK": 13.02,
+        "LevelUpHP": 13.037,
+        "LevelUpDEF": 13.02,
+        "ID": 471,
+        "Name": null
+    },
+    {
+        "BossLevel": 472,
+        "LevelUpATK": 13.061,
+        "LevelUpHP": 13.077,
+        "LevelUpDEF": 13.061,
+        "ID": 472,
+        "Name": null
+    },
+    {
+        "BossLevel": 473,
+        "LevelUpATK": 13.102,
+        "LevelUpHP": 13.118,
+        "LevelUpDEF": 13.102,
+        "ID": 473,
+        "Name": null
+    },
+    {
+        "BossLevel": 474,
+        "LevelUpATK": 13.143,
+        "LevelUpHP": 13.159,
+        "LevelUpDEF": 13.143,
+        "ID": 474,
+        "Name": null
+    },
+    {
+        "BossLevel": 475,
+        "LevelUpATK": 13.184,
+        "LevelUpHP": 13.2,
+        "LevelUpDEF": 13.184,
+        "ID": 475,
+        "Name": null
+    },
+    {
+        "BossLevel": 476,
+        "LevelUpATK": 13.225,
+        "LevelUpHP": 13.241,
+        "LevelUpDEF": 13.225,
+        "ID": 476,
+        "Name": null
+    },
+    {
+        "BossLevel": 477,
+        "LevelUpATK": 13.266,
+        "LevelUpHP": 13.282,
+        "LevelUpDEF": 13.266,
+        "ID": 477,
+        "Name": null
+    },
+    {
+        "BossLevel": 478,
+        "LevelUpATK": 13.307,
+        "LevelUpHP": 13.323,
+        "LevelUpDEF": 13.307,
+        "ID": 478,
+        "Name": null
+    },
+    {
+        "BossLevel": 479,
+        "LevelUpATK": 13.348,
+        "LevelUpHP": 13.365,
+        "LevelUpDEF": 13.348,
+        "ID": 479,
+        "Name": null
+    },
+    {
+        "BossLevel": 480,
+        "LevelUpATK": 13.389,
+        "LevelUpHP": 13.406,
+        "LevelUpDEF": 13.389,
+        "ID": 480,
+        "Name": null
+    },
+    {
+        "BossLevel": 481,
+        "LevelUpATK": 13.431,
+        "LevelUpHP": 13.447,
+        "LevelUpDEF": 13.431,
+        "ID": 481,
+        "Name": null
+    },
+    {
+        "BossLevel": 482,
+        "LevelUpATK": 13.472,
+        "LevelUpHP": 13.489,
+        "LevelUpDEF": 13.472,
+        "ID": 482,
+        "Name": null
+    },
+    {
+        "BossLevel": 483,
+        "LevelUpATK": 13.513,
+        "LevelUpHP": 13.53,
+        "LevelUpDEF": 13.513,
+        "ID": 483,
+        "Name": null
+    },
+    {
+        "BossLevel": 484,
+        "LevelUpATK": 13.555,
+        "LevelUpHP": 13.571,
+        "LevelUpDEF": 13.555,
+        "ID": 484,
+        "Name": null
+    },
+    {
+        "BossLevel": 485,
+        "LevelUpATK": 13.596,
+        "LevelUpHP": 13.613,
+        "LevelUpDEF": 13.596,
+        "ID": 485,
+        "Name": null
+    },
+    {
+        "BossLevel": 486,
+        "LevelUpATK": 13.638,
+        "LevelUpHP": 13.654,
+        "LevelUpDEF": 13.638,
+        "ID": 486,
+        "Name": null
+    },
+    {
+        "BossLevel": 487,
+        "LevelUpATK": 13.679,
+        "LevelUpHP": 13.696,
+        "LevelUpDEF": 13.679,
+        "ID": 487,
+        "Name": null
+    },
+    {
+        "BossLevel": 488,
+        "LevelUpATK": 13.721,
+        "LevelUpHP": 13.738,
+        "LevelUpDEF": 13.721,
+        "ID": 488,
+        "Name": null
+    },
+    {
+        "BossLevel": 489,
+        "LevelUpATK": 13.763,
+        "LevelUpHP": 13.779,
+        "LevelUpDEF": 13.763,
+        "ID": 489,
+        "Name": null
+    },
+    {
+        "BossLevel": 490,
+        "LevelUpATK": 13.804,
+        "LevelUpHP": 13.821,
+        "LevelUpDEF": 13.804,
+        "ID": 490,
+        "Name": null
+    },
+    {
+        "BossLevel": 491,
+        "LevelUpATK": 13.846,
+        "LevelUpHP": 13.863,
+        "LevelUpDEF": 13.846,
+        "ID": 491,
+        "Name": null
+    },
+    {
+        "BossLevel": 492,
+        "LevelUpATK": 13.888,
+        "LevelUpHP": 13.905,
+        "LevelUpDEF": 13.888,
+        "ID": 492,
+        "Name": null
+    },
+    {
+        "BossLevel": 493,
+        "LevelUpATK": 13.93,
+        "LevelUpHP": 13.947,
+        "LevelUpDEF": 13.93,
+        "ID": 493,
+        "Name": null
+    },
+    {
+        "BossLevel": 494,
+        "LevelUpATK": 13.972,
+        "LevelUpHP": 13.989,
+        "LevelUpDEF": 13.972,
+        "ID": 494,
+        "Name": null
+    },
+    {
+        "BossLevel": 495,
+        "LevelUpATK": 14.014,
+        "LevelUpHP": 14.031,
+        "LevelUpDEF": 14.014,
+        "ID": 495,
+        "Name": null
+    },
+    {
+        "BossLevel": 496,
+        "LevelUpATK": 14.056,
+        "LevelUpHP": 14.073,
+        "LevelUpDEF": 14.056,
+        "ID": 496,
+        "Name": null
+    },
+    {
+        "BossLevel": 497,
+        "LevelUpATK": 14.098,
+        "LevelUpHP": 14.115,
+        "LevelUpDEF": 14.098,
+        "ID": 497,
+        "Name": null
+    },
+    {
+        "BossLevel": 498,
+        "LevelUpATK": 14.14,
+        "LevelUpHP": 14.157,
+        "LevelUpDEF": 14.14,
+        "ID": 498,
+        "Name": null
+    },
+    {
+        "BossLevel": 499,
+        "LevelUpATK": 14.182,
+        "LevelUpHP": 14.199,
+        "LevelUpDEF": 14.182,
+        "ID": 499,
+        "Name": null
+    },
+    {
+        "BossLevel": 500,
+        "LevelUpATK": 14.224,
+        "LevelUpHP": 14.241,
+        "LevelUpDEF": 14.224,
+        "ID": 500,
+        "Name": null
+    },
+    {
+        "BossLevel": 501,
+        "LevelUpATK": 14.267,
+        "LevelUpHP": 14.284,
+        "LevelUpDEF": 14.267,
+        "ID": 501,
+        "Name": null
+    },
+    {
+        "BossLevel": 502,
+        "LevelUpATK": 14.309,
+        "LevelUpHP": 14.326,
+        "LevelUpDEF": 14.309,
+        "ID": 502,
+        "Name": null
+    },
+    {
+        "BossLevel": 503,
+        "LevelUpATK": 14.351,
+        "LevelUpHP": 14.368,
+        "LevelUpDEF": 14.351,
+        "ID": 503,
+        "Name": null
+    },
+    {
+        "BossLevel": 504,
+        "LevelUpATK": 14.394,
+        "LevelUpHP": 14.411,
+        "LevelUpDEF": 14.394,
+        "ID": 504,
+        "Name": null
+    },
+    {
+        "BossLevel": 505,
+        "LevelUpATK": 14.436,
+        "LevelUpHP": 14.453,
+        "LevelUpDEF": 14.436,
+        "ID": 505,
+        "Name": null
+    },
+    {
+        "BossLevel": 506,
+        "LevelUpATK": 14.479,
+        "LevelUpHP": 14.496,
+        "LevelUpDEF": 14.479,
+        "ID": 506,
+        "Name": null
+    },
+    {
+        "BossLevel": 507,
+        "LevelUpATK": 14.521,
+        "LevelUpHP": 14.539,
+        "LevelUpDEF": 14.521,
+        "ID": 507,
+        "Name": null
+    },
+    {
+        "BossLevel": 508,
+        "LevelUpATK": 14.564,
+        "LevelUpHP": 14.581,
+        "LevelUpDEF": 14.564,
+        "ID": 508,
+        "Name": null
+    },
+    {
+        "BossLevel": 509,
+        "LevelUpATK": 14.607,
+        "LevelUpHP": 14.624,
+        "LevelUpDEF": 14.607,
+        "ID": 509,
+        "Name": null
+    },
+    {
+        "BossLevel": 510,
+        "LevelUpATK": 14.65,
+        "LevelUpHP": 14.667,
+        "LevelUpDEF": 14.65,
+        "ID": 510,
+        "Name": null
+    },
+    {
+        "BossLevel": 511,
+        "LevelUpATK": 14.692,
+        "LevelUpHP": 14.709,
+        "LevelUpDEF": 14.692,
+        "ID": 511,
+        "Name": null
+    },
+    {
+        "BossLevel": 512,
+        "LevelUpATK": 14.735,
+        "LevelUpHP": 14.752,
+        "LevelUpDEF": 14.735,
+        "ID": 512,
+        "Name": null
+    },
+    {
+        "BossLevel": 513,
+        "LevelUpATK": 14.778,
+        "LevelUpHP": 14.795,
+        "LevelUpDEF": 14.778,
+        "ID": 513,
+        "Name": null
+    },
+    {
+        "BossLevel": 514,
+        "LevelUpATK": 14.821,
+        "LevelUpHP": 14.838,
+        "LevelUpDEF": 14.821,
+        "ID": 514,
+        "Name": null
+    },
+    {
+        "BossLevel": 515,
+        "LevelUpATK": 14.864,
+        "LevelUpHP": 14.881,
+        "LevelUpDEF": 14.864,
+        "ID": 515,
+        "Name": null
+    },
+    {
+        "BossLevel": 516,
+        "LevelUpATK": 14.907,
+        "LevelUpHP": 14.924,
+        "LevelUpDEF": 14.907,
+        "ID": 516,
+        "Name": null
+    },
+    {
+        "BossLevel": 517,
+        "LevelUpATK": 14.95,
+        "LevelUpHP": 14.967,
+        "LevelUpDEF": 14.95,
+        "ID": 517,
+        "Name": null
+    },
+    {
+        "BossLevel": 518,
+        "LevelUpATK": 14.993,
+        "LevelUpHP": 15.011,
+        "LevelUpDEF": 14.993,
+        "ID": 518,
+        "Name": null
+    },
+    {
+        "BossLevel": 519,
+        "LevelUpATK": 15.036,
+        "LevelUpHP": 15.054,
+        "LevelUpDEF": 15.036,
+        "ID": 519,
+        "Name": null
+    },
+    {
+        "BossLevel": 520,
+        "LevelUpATK": 15.08,
+        "LevelUpHP": 15.097,
+        "LevelUpDEF": 15.08,
+        "ID": 520,
+        "Name": null
+    },
+    {
+        "BossLevel": 521,
+        "LevelUpATK": 15.123,
+        "LevelUpHP": 15.14,
+        "LevelUpDEF": 15.123,
+        "ID": 521,
+        "Name": null
+    },
+    {
+        "BossLevel": 522,
+        "LevelUpATK": 15.166,
+        "LevelUpHP": 15.184,
+        "LevelUpDEF": 15.166,
+        "ID": 522,
+        "Name": null
+    },
+    {
+        "BossLevel": 523,
+        "LevelUpATK": 15.21,
+        "LevelUpHP": 15.227,
+        "LevelUpDEF": 15.21,
+        "ID": 523,
+        "Name": null
+    },
+    {
+        "BossLevel": 524,
+        "LevelUpATK": 15.253,
+        "LevelUpHP": 15.271,
+        "LevelUpDEF": 15.253,
+        "ID": 524,
+        "Name": null
+    },
+    {
+        "BossLevel": 525,
+        "LevelUpATK": 15.297,
+        "LevelUpHP": 15.314,
+        "LevelUpDEF": 15.297,
+        "ID": 525,
+        "Name": null
+    },
+    {
+        "BossLevel": 526,
+        "LevelUpATK": 15.34,
+        "LevelUpHP": 15.358,
+        "LevelUpDEF": 15.34,
+        "ID": 526,
+        "Name": null
+    },
+    {
+        "BossLevel": 527,
+        "LevelUpATK": 15.384,
+        "LevelUpHP": 15.401,
+        "LevelUpDEF": 15.384,
+        "ID": 527,
+        "Name": null
+    },
+    {
+        "BossLevel": 528,
+        "LevelUpATK": 15.427,
+        "LevelUpHP": 15.445,
+        "LevelUpDEF": 15.427,
+        "ID": 528,
+        "Name": null
+    },
+    {
+        "BossLevel": 529,
+        "LevelUpATK": 15.471,
+        "LevelUpHP": 15.489,
+        "LevelUpDEF": 15.471,
+        "ID": 529,
+        "Name": null
+    },
+    {
+        "BossLevel": 530,
+        "LevelUpATK": 15.515,
+        "LevelUpHP": 15.532,
+        "LevelUpDEF": 15.515,
+        "ID": 530,
+        "Name": null
+    },
+    {
+        "BossLevel": 531,
+        "LevelUpATK": 15.559,
+        "LevelUpHP": 15.576,
+        "LevelUpDEF": 15.559,
+        "ID": 531,
+        "Name": null
+    },
+    {
+        "BossLevel": 532,
+        "LevelUpATK": 15.602,
+        "LevelUpHP": 15.62,
+        "LevelUpDEF": 15.602,
+        "ID": 532,
+        "Name": null
+    },
+    {
+        "BossLevel": 533,
+        "LevelUpATK": 15.646,
+        "LevelUpHP": 15.664,
+        "LevelUpDEF": 15.646,
+        "ID": 533,
+        "Name": null
+    },
+    {
+        "BossLevel": 534,
+        "LevelUpATK": 15.69,
+        "LevelUpHP": 15.708,
+        "LevelUpDEF": 15.69,
+        "ID": 534,
+        "Name": null
+    },
+    {
+        "BossLevel": 535,
+        "LevelUpATK": 15.734,
+        "LevelUpHP": 15.752,
+        "LevelUpDEF": 15.734,
+        "ID": 535,
+        "Name": null
+    },
+    {
+        "BossLevel": 536,
+        "LevelUpATK": 15.778,
+        "LevelUpHP": 15.796,
+        "LevelUpDEF": 15.778,
+        "ID": 536,
+        "Name": null
+    },
+    {
+        "BossLevel": 537,
+        "LevelUpATK": 15.822,
+        "LevelUpHP": 15.84,
+        "LevelUpDEF": 15.822,
+        "ID": 537,
+        "Name": null
+    },
+    {
+        "BossLevel": 538,
+        "LevelUpATK": 15.867,
+        "LevelUpHP": 15.884,
+        "LevelUpDEF": 15.867,
+        "ID": 538,
+        "Name": null
+    },
+    {
+        "BossLevel": 539,
+        "LevelUpATK": 15.911,
+        "LevelUpHP": 15.928,
+        "LevelUpDEF": 15.911,
+        "ID": 539,
+        "Name": null
+    },
+    {
+        "BossLevel": 540,
+        "LevelUpATK": 15.955,
+        "LevelUpHP": 15.973,
+        "LevelUpDEF": 15.955,
+        "ID": 540,
+        "Name": null
+    },
+    {
+        "BossLevel": 541,
+        "LevelUpATK": 15.999,
+        "LevelUpHP": 16.017,
+        "LevelUpDEF": 15.999,
+        "ID": 541,
+        "Name": null
+    },
+    {
+        "BossLevel": 542,
+        "LevelUpATK": 16.044,
+        "LevelUpHP": 16.061,
+        "LevelUpDEF": 16.044,
+        "ID": 542,
+        "Name": null
+    },
+    {
+        "BossLevel": 543,
+        "LevelUpATK": 16.088,
+        "LevelUpHP": 16.106,
+        "LevelUpDEF": 16.088,
+        "ID": 543,
+        "Name": null
+    },
+    {
+        "BossLevel": 544,
+        "LevelUpATK": 16.132,
+        "LevelUpHP": 16.15,
+        "LevelUpDEF": 16.132,
+        "ID": 544,
+        "Name": null
+    },
+    {
+        "BossLevel": 545,
+        "LevelUpATK": 16.177,
+        "LevelUpHP": 16.195,
+        "LevelUpDEF": 16.177,
+        "ID": 545,
+        "Name": null
+    },
+    {
+        "BossLevel": 546,
+        "LevelUpATK": 16.221,
+        "LevelUpHP": 16.239,
+        "LevelUpDEF": 16.221,
+        "ID": 546,
+        "Name": null
+    },
+    {
+        "BossLevel": 547,
+        "LevelUpATK": 16.266,
+        "LevelUpHP": 16.284,
+        "LevelUpDEF": 16.266,
+        "ID": 547,
+        "Name": null
+    },
+    {
+        "BossLevel": 548,
+        "LevelUpATK": 16.311,
+        "LevelUpHP": 16.328,
+        "LevelUpDEF": 16.311,
+        "ID": 548,
+        "Name": null
+    },
+    {
+        "BossLevel": 549,
+        "LevelUpATK": 16.355,
+        "LevelUpHP": 16.373,
+        "LevelUpDEF": 16.355,
+        "ID": 549,
+        "Name": null
+    },
+    {
+        "BossLevel": 550,
+        "LevelUpATK": 16.4,
+        "LevelUpHP": 16.418,
+        "LevelUpDEF": 16.4,
+        "ID": 550,
+        "Name": null
+    },
+    {
+        "BossLevel": 551,
+        "LevelUpATK": 16.445,
+        "LevelUpHP": 16.463,
+        "LevelUpDEF": 16.445,
+        "ID": 551,
+        "Name": null
+    },
+    {
+        "BossLevel": 552,
+        "LevelUpATK": 16.49,
+        "LevelUpHP": 16.507,
+        "LevelUpDEF": 16.49,
+        "ID": 552,
+        "Name": null
+    },
+    {
+        "BossLevel": 553,
+        "LevelUpATK": 16.534,
+        "LevelUpHP": 16.552,
+        "LevelUpDEF": 16.534,
+        "ID": 553,
+        "Name": null
+    },
+    {
+        "BossLevel": 554,
+        "LevelUpATK": 16.579,
+        "LevelUpHP": 16.597,
+        "LevelUpDEF": 16.579,
+        "ID": 554,
+        "Name": null
+    },
+    {
+        "BossLevel": 555,
+        "LevelUpATK": 16.624,
+        "LevelUpHP": 16.642,
+        "LevelUpDEF": 16.624,
+        "ID": 555,
+        "Name": null
+    },
+    {
+        "BossLevel": 556,
+        "LevelUpATK": 16.669,
+        "LevelUpHP": 16.687,
+        "LevelUpDEF": 16.669,
+        "ID": 556,
+        "Name": null
+    },
+    {
+        "BossLevel": 557,
+        "LevelUpATK": 16.714,
+        "LevelUpHP": 16.732,
+        "LevelUpDEF": 16.714,
+        "ID": 557,
+        "Name": null
+    },
+    {
+        "BossLevel": 558,
+        "LevelUpATK": 16.759,
+        "LevelUpHP": 16.778,
+        "LevelUpDEF": 16.759,
+        "ID": 558,
+        "Name": null
+    },
+    {
+        "BossLevel": 559,
+        "LevelUpATK": 16.805,
+        "LevelUpHP": 16.823,
+        "LevelUpDEF": 16.805,
+        "ID": 559,
+        "Name": null
+    },
+    {
+        "BossLevel": 560,
+        "LevelUpATK": 16.85,
+        "LevelUpHP": 16.868,
+        "LevelUpDEF": 16.85,
+        "ID": 560,
+        "Name": null
+    },
+    {
+        "BossLevel": 561,
+        "LevelUpATK": 16.895,
+        "LevelUpHP": 16.913,
+        "LevelUpDEF": 16.895,
+        "ID": 561,
+        "Name": null
+    },
+    {
+        "BossLevel": 562,
+        "LevelUpATK": 16.94,
+        "LevelUpHP": 16.959,
+        "LevelUpDEF": 16.94,
+        "ID": 562,
+        "Name": null
+    },
+    {
+        "BossLevel": 563,
+        "LevelUpATK": 16.986,
+        "LevelUpHP": 17.004,
+        "LevelUpDEF": 16.986,
+        "ID": 563,
+        "Name": null
+    },
+    {
+        "BossLevel": 564,
+        "LevelUpATK": 17.031,
+        "LevelUpHP": 17.049,
+        "LevelUpDEF": 17.031,
+        "ID": 564,
+        "Name": null
+    },
+    {
+        "BossLevel": 565,
+        "LevelUpATK": 17.077,
+        "LevelUpHP": 17.095,
+        "LevelUpDEF": 17.077,
+        "ID": 565,
+        "Name": null
+    },
+    {
+        "BossLevel": 566,
+        "LevelUpATK": 17.122,
+        "LevelUpHP": 17.14,
+        "LevelUpDEF": 17.122,
+        "ID": 566,
+        "Name": null
+    },
+    {
+        "BossLevel": 567,
+        "LevelUpATK": 17.168,
+        "LevelUpHP": 17.186,
+        "LevelUpDEF": 17.168,
+        "ID": 567,
+        "Name": null
+    },
+    {
+        "BossLevel": 568,
+        "LevelUpATK": 17.213,
+        "LevelUpHP": 17.231,
+        "LevelUpDEF": 17.213,
+        "ID": 568,
+        "Name": null
+    },
+    {
+        "BossLevel": 569,
+        "LevelUpATK": 17.259,
+        "LevelUpHP": 17.277,
+        "LevelUpDEF": 17.259,
+        "ID": 569,
+        "Name": null
+    },
+    {
+        "BossLevel": 570,
+        "LevelUpATK": 17.305,
+        "LevelUpHP": 17.323,
+        "LevelUpDEF": 17.305,
+        "ID": 570,
+        "Name": null
+    },
+    {
+        "BossLevel": 571,
+        "LevelUpATK": 17.35,
+        "LevelUpHP": 17.369,
+        "LevelUpDEF": 17.35,
+        "ID": 571,
+        "Name": null
+    },
+    {
+        "BossLevel": 572,
+        "LevelUpATK": 17.396,
+        "LevelUpHP": 17.414,
+        "LevelUpDEF": 17.396,
+        "ID": 572,
+        "Name": null
+    },
+    {
+        "BossLevel": 573,
+        "LevelUpATK": 17.442,
+        "LevelUpHP": 17.46,
+        "LevelUpDEF": 17.442,
+        "ID": 573,
+        "Name": null
+    },
+    {
+        "BossLevel": 574,
+        "LevelUpATK": 17.488,
+        "LevelUpHP": 17.506,
+        "LevelUpDEF": 17.488,
+        "ID": 574,
+        "Name": null
+    },
+    {
+        "BossLevel": 575,
+        "LevelUpATK": 17.534,
+        "LevelUpHP": 17.552,
+        "LevelUpDEF": 17.534,
+        "ID": 575,
+        "Name": null
+    },
+    {
+        "BossLevel": 576,
+        "LevelUpATK": 17.58,
+        "LevelUpHP": 17.598,
+        "LevelUpDEF": 17.58,
+        "ID": 576,
+        "Name": null
+    },
+    {
+        "BossLevel": 577,
+        "LevelUpATK": 17.626,
+        "LevelUpHP": 17.644,
+        "LevelUpDEF": 17.626,
+        "ID": 577,
+        "Name": null
+    },
+    {
+        "BossLevel": 578,
+        "LevelUpATK": 17.672,
+        "LevelUpHP": 17.69,
+        "LevelUpDEF": 17.672,
+        "ID": 578,
+        "Name": null
+    },
+    {
+        "BossLevel": 579,
+        "LevelUpATK": 17.718,
+        "LevelUpHP": 17.736,
+        "LevelUpDEF": 17.718,
+        "ID": 579,
+        "Name": null
+    },
+    {
+        "BossLevel": 580,
+        "LevelUpATK": 17.764,
+        "LevelUpHP": 17.783,
+        "LevelUpDEF": 17.764,
+        "ID": 580,
+        "Name": null
+    },
+    {
+        "BossLevel": 581,
+        "LevelUpATK": 17.81,
+        "LevelUpHP": 17.829,
+        "LevelUpDEF": 17.81,
+        "ID": 581,
+        "Name": null
+    },
+    {
+        "BossLevel": 582,
+        "LevelUpATK": 17.857,
+        "LevelUpHP": 17.875,
+        "LevelUpDEF": 17.857,
+        "ID": 582,
+        "Name": null
+    },
+    {
+        "BossLevel": 583,
+        "LevelUpATK": 17.903,
+        "LevelUpHP": 17.921,
+        "LevelUpDEF": 17.903,
+        "ID": 583,
+        "Name": null
+    },
+    {
+        "BossLevel": 584,
+        "LevelUpATK": 17.949,
+        "LevelUpHP": 17.968,
+        "LevelUpDEF": 17.949,
+        "ID": 584,
+        "Name": null
+    },
+    {
+        "BossLevel": 585,
+        "LevelUpATK": 17.996,
+        "LevelUpHP": 18.014,
+        "LevelUpDEF": 17.996,
+        "ID": 585,
+        "Name": null
+    },
+    {
+        "BossLevel": 586,
+        "LevelUpATK": 18.042,
+        "LevelUpHP": 18.061,
+        "LevelUpDEF": 18.042,
+        "ID": 586,
+        "Name": null
+    },
+    {
+        "BossLevel": 587,
+        "LevelUpATK": 18.089,
+        "LevelUpHP": 18.107,
+        "LevelUpDEF": 18.089,
+        "ID": 587,
+        "Name": null
+    },
+    {
+        "BossLevel": 588,
+        "LevelUpATK": 18.135,
+        "LevelUpHP": 18.154,
+        "LevelUpDEF": 18.135,
+        "ID": 588,
+        "Name": null
+    },
+    {
+        "BossLevel": 589,
+        "LevelUpATK": 18.182,
+        "LevelUpHP": 18.2,
+        "LevelUpDEF": 18.182,
+        "ID": 589,
+        "Name": null
+    },
+    {
+        "BossLevel": 590,
+        "LevelUpATK": 18.228,
+        "LevelUpHP": 18.247,
+        "LevelUpDEF": 18.228,
+        "ID": 590,
+        "Name": null
+    },
+    {
+        "BossLevel": 591,
+        "LevelUpATK": 18.275,
+        "LevelUpHP": 18.294,
+        "LevelUpDEF": 18.275,
+        "ID": 591,
+        "Name": null
+    },
+    {
+        "BossLevel": 592,
+        "LevelUpATK": 18.322,
+        "LevelUpHP": 18.341,
+        "LevelUpDEF": 18.322,
+        "ID": 592,
+        "Name": null
+    },
+    {
+        "BossLevel": 593,
+        "LevelUpATK": 18.369,
+        "LevelUpHP": 18.387,
+        "LevelUpDEF": 18.369,
+        "ID": 593,
+        "Name": null
+    },
+    {
+        "BossLevel": 594,
+        "LevelUpATK": 18.415,
+        "LevelUpHP": 18.434,
+        "LevelUpDEF": 18.415,
+        "ID": 594,
+        "Name": null
+    },
+    {
+        "BossLevel": 595,
+        "LevelUpATK": 18.462,
+        "LevelUpHP": 18.481,
+        "LevelUpDEF": 18.462,
+        "ID": 595,
+        "Name": null
+    },
+    {
+        "BossLevel": 596,
+        "LevelUpATK": 18.509,
+        "LevelUpHP": 18.528,
+        "LevelUpDEF": 18.509,
+        "ID": 596,
+        "Name": null
+    },
+    {
+        "BossLevel": 597,
+        "LevelUpATK": 18.556,
+        "LevelUpHP": 18.575,
+        "LevelUpDEF": 18.556,
+        "ID": 597,
+        "Name": null
+    },
+    {
+        "BossLevel": 598,
+        "LevelUpATK": 18.603,
+        "LevelUpHP": 18.622,
+        "LevelUpDEF": 18.603,
+        "ID": 598,
+        "Name": null
+    },
+    {
+        "BossLevel": 599,
+        "LevelUpATK": 18.65,
+        "LevelUpHP": 18.669,
+        "LevelUpDEF": 18.65,
+        "ID": 599,
+        "Name": null
+    },
+    {
+        "BossLevel": 600,
+        "LevelUpATK": 18.697,
+        "LevelUpHP": 18.716,
+        "LevelUpDEF": 18.697,
+        "ID": 600,
+        "Name": null
+    },
+    {
+        "BossLevel": 601,
+        "LevelUpATK": 18.745,
+        "LevelUpHP": 18.763,
+        "LevelUpDEF": 18.745,
+        "ID": 601,
+        "Name": null
+    },
+    {
+        "BossLevel": 602,
+        "LevelUpATK": 18.792,
+        "LevelUpHP": 18.811,
+        "LevelUpDEF": 18.792,
+        "ID": 602,
+        "Name": null
+    },
+    {
+        "BossLevel": 603,
+        "LevelUpATK": 18.839,
+        "LevelUpHP": 18.858,
+        "LevelUpDEF": 18.839,
+        "ID": 603,
+        "Name": null
+    },
+    {
+        "BossLevel": 604,
+        "LevelUpATK": 18.886,
+        "LevelUpHP": 18.905,
+        "LevelUpDEF": 18.886,
+        "ID": 604,
+        "Name": null
+    },
+    {
+        "BossLevel": 605,
+        "LevelUpATK": 18.934,
+        "LevelUpHP": 18.953,
+        "LevelUpDEF": 18.934,
+        "ID": 605,
+        "Name": null
+    },
+    {
+        "BossLevel": 606,
+        "LevelUpATK": 18.981,
+        "LevelUpHP": 19.0,
+        "LevelUpDEF": 18.981,
+        "ID": 606,
+        "Name": null
+    },
+    {
+        "BossLevel": 607,
+        "LevelUpATK": 19.029,
+        "LevelUpHP": 19.048,
+        "LevelUpDEF": 19.029,
+        "ID": 607,
+        "Name": null
+    },
+    {
+        "BossLevel": 608,
+        "LevelUpATK": 19.076,
+        "LevelUpHP": 19.095,
+        "LevelUpDEF": 19.076,
+        "ID": 608,
+        "Name": null
+    },
+    {
+        "BossLevel": 609,
+        "LevelUpATK": 19.124,
+        "LevelUpHP": 19.143,
+        "LevelUpDEF": 19.124,
+        "ID": 609,
+        "Name": null
+    },
+    {
+        "BossLevel": 610,
+        "LevelUpATK": 19.171,
+        "LevelUpHP": 19.19,
+        "LevelUpDEF": 19.171,
+        "ID": 610,
+        "Name": null
+    },
+    {
+        "BossLevel": 611,
+        "LevelUpATK": 19.219,
+        "LevelUpHP": 19.238,
+        "LevelUpDEF": 19.219,
+        "ID": 611,
+        "Name": null
+    },
+    {
+        "BossLevel": 612,
+        "LevelUpATK": 19.266,
+        "LevelUpHP": 19.286,
+        "LevelUpDEF": 19.266,
+        "ID": 612,
+        "Name": null
+    },
+    {
+        "BossLevel": 613,
+        "LevelUpATK": 19.314,
+        "LevelUpHP": 19.333,
+        "LevelUpDEF": 19.314,
+        "ID": 613,
+        "Name": null
+    },
+    {
+        "BossLevel": 614,
+        "LevelUpATK": 19.362,
+        "LevelUpHP": 19.381,
+        "LevelUpDEF": 19.362,
+        "ID": 614,
+        "Name": null
+    },
+    {
+        "BossLevel": 615,
+        "LevelUpATK": 19.41,
+        "LevelUpHP": 19.429,
+        "LevelUpDEF": 19.41,
+        "ID": 615,
+        "Name": null
+    },
+    {
+        "BossLevel": 616,
+        "LevelUpATK": 19.458,
+        "LevelUpHP": 19.477,
+        "LevelUpDEF": 19.458,
+        "ID": 616,
+        "Name": null
+    },
+    {
+        "BossLevel": 617,
+        "LevelUpATK": 19.506,
+        "LevelUpHP": 19.525,
+        "LevelUpDEF": 19.506,
+        "ID": 617,
+        "Name": null
+    },
+    {
+        "BossLevel": 618,
+        "LevelUpATK": 19.554,
+        "LevelUpHP": 19.573,
+        "LevelUpDEF": 19.554,
+        "ID": 618,
+        "Name": null
+    },
+    {
+        "BossLevel": 619,
+        "LevelUpATK": 19.602,
+        "LevelUpHP": 19.621,
+        "LevelUpDEF": 19.602,
+        "ID": 619,
+        "Name": null
+    },
+    {
+        "BossLevel": 620,
+        "LevelUpATK": 19.65,
+        "LevelUpHP": 19.669,
+        "LevelUpDEF": 19.65,
+        "ID": 620,
+        "Name": null
+    },
+    {
+        "BossLevel": 621,
+        "LevelUpATK": 19.698,
+        "LevelUpHP": 19.717,
+        "LevelUpDEF": 19.698,
+        "ID": 621,
+        "Name": null
+    },
+    {
+        "BossLevel": 622,
+        "LevelUpATK": 19.746,
+        "LevelUpHP": 19.765,
+        "LevelUpDEF": 19.746,
+        "ID": 622,
+        "Name": null
+    },
+    {
+        "BossLevel": 623,
+        "LevelUpATK": 19.794,
+        "LevelUpHP": 19.813,
+        "LevelUpDEF": 19.794,
+        "ID": 623,
+        "Name": null
+    },
+    {
+        "BossLevel": 624,
+        "LevelUpATK": 19.842,
+        "LevelUpHP": 19.862,
+        "LevelUpDEF": 19.842,
+        "ID": 624,
+        "Name": null
+    },
+    {
+        "BossLevel": 625,
+        "LevelUpATK": 19.891,
+        "LevelUpHP": 19.91,
+        "LevelUpDEF": 19.891,
+        "ID": 625,
+        "Name": null
+    },
+    {
+        "BossLevel": 626,
+        "LevelUpATK": 19.939,
+        "LevelUpHP": 19.958,
+        "LevelUpDEF": 19.939,
+        "ID": 626,
+        "Name": null
+    },
+    {
+        "BossLevel": 627,
+        "LevelUpATK": 19.987,
+        "LevelUpHP": 20.007,
+        "LevelUpDEF": 19.987,
+        "ID": 627,
+        "Name": null
+    },
+    {
+        "BossLevel": 628,
+        "LevelUpATK": 20.036,
+        "LevelUpHP": 20.055,
+        "LevelUpDEF": 20.036,
+        "ID": 628,
+        "Name": null
+    },
+    {
+        "BossLevel": 629,
+        "LevelUpATK": 20.084,
+        "LevelUpHP": 20.104,
+        "LevelUpDEF": 20.084,
+        "ID": 629,
+        "Name": null
+    },
+    {
+        "BossLevel": 630,
+        "LevelUpATK": 20.133,
+        "LevelUpHP": 20.152,
+        "LevelUpDEF": 20.133,
+        "ID": 630,
+        "Name": null
+    },
+    {
+        "BossLevel": 631,
+        "LevelUpATK": 20.181,
+        "LevelUpHP": 20.201,
+        "LevelUpDEF": 20.181,
+        "ID": 631,
+        "Name": null
+    },
+    {
+        "BossLevel": 632,
+        "LevelUpATK": 20.23,
+        "LevelUpHP": 20.249,
+        "LevelUpDEF": 20.23,
+        "ID": 632,
+        "Name": null
+    },
+    {
+        "BossLevel": 633,
+        "LevelUpATK": 20.279,
+        "LevelUpHP": 20.298,
+        "LevelUpDEF": 20.279,
+        "ID": 633,
+        "Name": null
+    },
+    {
+        "BossLevel": 634,
+        "LevelUpATK": 20.327,
+        "LevelUpHP": 20.347,
+        "LevelUpDEF": 20.327,
+        "ID": 634,
+        "Name": null
+    },
+    {
+        "BossLevel": 635,
+        "LevelUpATK": 20.376,
+        "LevelUpHP": 20.395,
+        "LevelUpDEF": 20.376,
+        "ID": 635,
+        "Name": null
+    },
+    {
+        "BossLevel": 636,
+        "LevelUpATK": 20.425,
+        "LevelUpHP": 20.444,
+        "LevelUpDEF": 20.425,
+        "ID": 636,
+        "Name": null
+    },
+    {
+        "BossLevel": 637,
+        "LevelUpATK": 20.474,
+        "LevelUpHP": 20.493,
+        "LevelUpDEF": 20.474,
+        "ID": 637,
+        "Name": null
+    },
+    {
+        "BossLevel": 638,
+        "LevelUpATK": 20.522,
+        "LevelUpHP": 20.542,
+        "LevelUpDEF": 20.522,
+        "ID": 638,
+        "Name": null
+    },
+    {
+        "BossLevel": 639,
+        "LevelUpATK": 20.571,
+        "LevelUpHP": 20.591,
+        "LevelUpDEF": 20.571,
+        "ID": 639,
+        "Name": null
+    },
+    {
+        "BossLevel": 640,
+        "LevelUpATK": 20.62,
+        "LevelUpHP": 20.64,
+        "LevelUpDEF": 20.62,
+        "ID": 640,
+        "Name": null
+    },
+    {
+        "BossLevel": 641,
+        "LevelUpATK": 20.669,
+        "LevelUpHP": 20.689,
+        "LevelUpDEF": 20.669,
+        "ID": 641,
+        "Name": null
+    },
+    {
+        "BossLevel": 642,
+        "LevelUpATK": 20.718,
+        "LevelUpHP": 20.738,
+        "LevelUpDEF": 20.718,
+        "ID": 642,
+        "Name": null
+    },
+    {
+        "BossLevel": 643,
+        "LevelUpATK": 20.768,
+        "LevelUpHP": 20.787,
+        "LevelUpDEF": 20.768,
+        "ID": 643,
+        "Name": null
+    },
+    {
+        "BossLevel": 644,
+        "LevelUpATK": 20.817,
+        "LevelUpHP": 20.836,
+        "LevelUpDEF": 20.817,
+        "ID": 644,
+        "Name": null
+    },
+    {
+        "BossLevel": 645,
+        "LevelUpATK": 20.866,
+        "LevelUpHP": 20.886,
+        "LevelUpDEF": 20.866,
+        "ID": 645,
+        "Name": null
+    },
+    {
+        "BossLevel": 646,
+        "LevelUpATK": 20.915,
+        "LevelUpHP": 20.935,
+        "LevelUpDEF": 20.915,
+        "ID": 646,
+        "Name": null
+    },
+    {
+        "BossLevel": 647,
+        "LevelUpATK": 20.965,
+        "LevelUpHP": 20.984,
+        "LevelUpDEF": 20.965,
+        "ID": 647,
+        "Name": null
+    },
+    {
+        "BossLevel": 648,
+        "LevelUpATK": 21.014,
+        "LevelUpHP": 21.034,
+        "LevelUpDEF": 21.014,
+        "ID": 648,
+        "Name": null
+    },
+    {
+        "BossLevel": 649,
+        "LevelUpATK": 21.063,
+        "LevelUpHP": 21.083,
+        "LevelUpDEF": 21.063,
+        "ID": 649,
+        "Name": null
+    },
+    {
+        "BossLevel": 650,
+        "LevelUpATK": 21.113,
+        "LevelUpHP": 21.132,
+        "LevelUpDEF": 21.113,
+        "ID": 650,
+        "Name": null
+    },
+    {
+        "BossLevel": 651,
+        "LevelUpATK": 21.162,
+        "LevelUpHP": 21.182,
+        "LevelUpDEF": 21.162,
+        "ID": 651,
+        "Name": null
+    },
+    {
+        "BossLevel": 652,
+        "LevelUpATK": 21.212,
+        "LevelUpHP": 21.231,
+        "LevelUpDEF": 21.212,
+        "ID": 652,
+        "Name": null
+    },
+    {
+        "BossLevel": 653,
+        "LevelUpATK": 21.261,
+        "LevelUpHP": 21.281,
+        "LevelUpDEF": 21.261,
+        "ID": 653,
+        "Name": null
+    },
+    {
+        "BossLevel": 654,
+        "LevelUpATK": 21.311,
+        "LevelUpHP": 21.331,
+        "LevelUpDEF": 21.311,
+        "ID": 654,
+        "Name": null
+    },
+    {
+        "BossLevel": 655,
+        "LevelUpATK": 21.361,
+        "LevelUpHP": 21.38,
+        "LevelUpDEF": 21.361,
+        "ID": 655,
+        "Name": null
+    },
+    {
+        "BossLevel": 656,
+        "LevelUpATK": 21.41,
+        "LevelUpHP": 21.43,
+        "LevelUpDEF": 21.41,
+        "ID": 656,
+        "Name": null
+    },
+    {
+        "BossLevel": 657,
+        "LevelUpATK": 21.46,
+        "LevelUpHP": 21.48,
+        "LevelUpDEF": 21.46,
+        "ID": 657,
+        "Name": null
+    },
+    {
+        "BossLevel": 658,
+        "LevelUpATK": 21.51,
+        "LevelUpHP": 21.53,
+        "LevelUpDEF": 21.51,
+        "ID": 658,
+        "Name": null
+    },
+    {
+        "BossLevel": 659,
+        "LevelUpATK": 21.56,
+        "LevelUpHP": 21.58,
+        "LevelUpDEF": 21.56,
+        "ID": 659,
+        "Name": null
+    },
+    {
+        "BossLevel": 660,
+        "LevelUpATK": 21.61,
+        "LevelUpHP": 21.629,
+        "LevelUpDEF": 21.61,
+        "ID": 660,
+        "Name": null
+    },
+    {
+        "BossLevel": 661,
+        "LevelUpATK": 21.659,
+        "LevelUpHP": 21.679,
+        "LevelUpDEF": 21.659,
+        "ID": 661,
+        "Name": null
+    },
+    {
+        "BossLevel": 662,
+        "LevelUpATK": 21.709,
+        "LevelUpHP": 21.729,
+        "LevelUpDEF": 21.709,
+        "ID": 662,
+        "Name": null
+    },
+    {
+        "BossLevel": 663,
+        "LevelUpATK": 21.759,
+        "LevelUpHP": 21.779,
+        "LevelUpDEF": 21.759,
+        "ID": 663,
+        "Name": null
+    },
+    {
+        "BossLevel": 664,
+        "LevelUpATK": 21.81,
+        "LevelUpHP": 21.83,
+        "LevelUpDEF": 21.81,
+        "ID": 664,
+        "Name": null
+    },
+    {
+        "BossLevel": 665,
+        "LevelUpATK": 21.86,
+        "LevelUpHP": 21.88,
+        "LevelUpDEF": 21.86,
+        "ID": 665,
+        "Name": null
+    },
+    {
+        "BossLevel": 666,
+        "LevelUpATK": 21.91,
+        "LevelUpHP": 21.93,
+        "LevelUpDEF": 21.91,
+        "ID": 666,
+        "Name": null
+    },
+    {
+        "BossLevel": 667,
+        "LevelUpATK": 21.96,
+        "LevelUpHP": 21.98,
+        "LevelUpDEF": 21.96,
+        "ID": 667,
+        "Name": null
+    },
+    {
+        "BossLevel": 668,
+        "LevelUpATK": 22.01,
+        "LevelUpHP": 22.03,
+        "LevelUpDEF": 22.01,
+        "ID": 668,
+        "Name": null
+    },
+    {
+        "BossLevel": 669,
+        "LevelUpATK": 22.061,
+        "LevelUpHP": 22.081,
+        "LevelUpDEF": 22.061,
+        "ID": 669,
+        "Name": null
+    },
+    {
+        "BossLevel": 670,
+        "LevelUpATK": 22.111,
+        "LevelUpHP": 22.131,
+        "LevelUpDEF": 22.111,
+        "ID": 670,
+        "Name": null
+    },
+    {
+        "BossLevel": 671,
+        "LevelUpATK": 22.161,
+        "LevelUpHP": 22.181,
+        "LevelUpDEF": 22.161,
+        "ID": 671,
+        "Name": null
+    },
+    {
+        "BossLevel": 672,
+        "LevelUpATK": 22.212,
+        "LevelUpHP": 22.232,
+        "LevelUpDEF": 22.212,
+        "ID": 672,
+        "Name": null
+    },
+    {
+        "BossLevel": 673,
+        "LevelUpATK": 22.262,
+        "LevelUpHP": 22.282,
+        "LevelUpDEF": 22.262,
+        "ID": 673,
+        "Name": null
+    },
+    {
+        "BossLevel": 674,
+        "LevelUpATK": 22.313,
+        "LevelUpHP": 22.333,
+        "LevelUpDEF": 22.313,
+        "ID": 674,
+        "Name": null
+    },
+    {
+        "BossLevel": 675,
+        "LevelUpATK": 22.363,
+        "LevelUpHP": 22.384,
+        "LevelUpDEF": 22.363,
+        "ID": 675,
+        "Name": null
+    },
+    {
+        "BossLevel": 676,
+        "LevelUpATK": 22.414,
+        "LevelUpHP": 22.434,
+        "LevelUpDEF": 22.414,
+        "ID": 676,
+        "Name": null
+    },
+    {
+        "BossLevel": 677,
+        "LevelUpATK": 22.465,
+        "LevelUpHP": 22.485,
+        "LevelUpDEF": 22.465,
+        "ID": 677,
+        "Name": null
+    },
+    {
+        "BossLevel": 678,
+        "LevelUpATK": 22.515,
+        "LevelUpHP": 22.536,
+        "LevelUpDEF": 22.515,
+        "ID": 678,
+        "Name": null
+    },
+    {
+        "BossLevel": 679,
+        "LevelUpATK": 22.566,
+        "LevelUpHP": 22.586,
+        "LevelUpDEF": 22.566,
+        "ID": 679,
+        "Name": null
+    },
+    {
+        "BossLevel": 680,
+        "LevelUpATK": 22.617,
+        "LevelUpHP": 22.637,
+        "LevelUpDEF": 22.617,
+        "ID": 680,
+        "Name": null
+    },
+    {
+        "BossLevel": 681,
+        "LevelUpATK": 22.668,
+        "LevelUpHP": 22.688,
+        "LevelUpDEF": 22.668,
+        "ID": 681,
+        "Name": null
+    },
+    {
+        "BossLevel": 682,
+        "LevelUpATK": 22.719,
+        "LevelUpHP": 22.739,
+        "LevelUpDEF": 22.719,
+        "ID": 682,
+        "Name": null
+    },
+    {
+        "BossLevel": 683,
+        "LevelUpATK": 22.769,
+        "LevelUpHP": 22.79,
+        "LevelUpDEF": 22.769,
+        "ID": 683,
+        "Name": null
+    },
+    {
+        "BossLevel": 684,
+        "LevelUpATK": 22.82,
+        "LevelUpHP": 22.841,
+        "LevelUpDEF": 22.82,
+        "ID": 684,
+        "Name": null
+    },
+    {
+        "BossLevel": 685,
+        "LevelUpATK": 22.871,
+        "LevelUpHP": 22.892,
+        "LevelUpDEF": 22.871,
+        "ID": 685,
+        "Name": null
+    },
+    {
+        "BossLevel": 686,
+        "LevelUpATK": 22.922,
+        "LevelUpHP": 22.943,
+        "LevelUpDEF": 22.922,
+        "ID": 686,
+        "Name": null
+    },
+    {
+        "BossLevel": 687,
+        "LevelUpATK": 22.974,
+        "LevelUpHP": 22.994,
+        "LevelUpDEF": 22.974,
+        "ID": 687,
+        "Name": null
+    },
+    {
+        "BossLevel": 688,
+        "LevelUpATK": 23.025,
+        "LevelUpHP": 23.045,
+        "LevelUpDEF": 23.025,
+        "ID": 688,
+        "Name": null
+    },
+    {
+        "BossLevel": 689,
+        "LevelUpATK": 23.076,
+        "LevelUpHP": 23.096,
+        "LevelUpDEF": 23.076,
+        "ID": 689,
+        "Name": null
+    },
+    {
+        "BossLevel": 690,
+        "LevelUpATK": 23.127,
+        "LevelUpHP": 23.148,
+        "LevelUpDEF": 23.127,
+        "ID": 690,
+        "Name": null
+    },
+    {
+        "BossLevel": 691,
+        "LevelUpATK": 23.178,
+        "LevelUpHP": 23.199,
+        "LevelUpDEF": 23.178,
+        "ID": 691,
+        "Name": null
+    },
+    {
+        "BossLevel": 692,
+        "LevelUpATK": 23.23,
+        "LevelUpHP": 23.25,
+        "LevelUpDEF": 23.23,
+        "ID": 692,
+        "Name": null
+    },
+    {
+        "BossLevel": 693,
+        "LevelUpATK": 23.281,
+        "LevelUpHP": 23.302,
+        "LevelUpDEF": 23.281,
+        "ID": 693,
+        "Name": null
+    },
+    {
+        "BossLevel": 694,
+        "LevelUpATK": 23.333,
+        "LevelUpHP": 23.353,
+        "LevelUpDEF": 23.333,
+        "ID": 694,
+        "Name": null
+    },
+    {
+        "BossLevel": 695,
+        "LevelUpATK": 23.384,
+        "LevelUpHP": 23.405,
+        "LevelUpDEF": 23.384,
+        "ID": 695,
+        "Name": null
+    },
+    {
+        "BossLevel": 696,
+        "LevelUpATK": 23.436,
+        "LevelUpHP": 23.456,
+        "LevelUpDEF": 23.436,
+        "ID": 696,
+        "Name": null
+    },
+    {
+        "BossLevel": 697,
+        "LevelUpATK": 23.487,
+        "LevelUpHP": 23.508,
+        "LevelUpDEF": 23.487,
+        "ID": 697,
+        "Name": null
+    },
+    {
+        "BossLevel": 698,
+        "LevelUpATK": 23.539,
+        "LevelUpHP": 23.559,
+        "LevelUpDEF": 23.539,
+        "ID": 698,
+        "Name": null
+    },
+    {
+        "BossLevel": 699,
+        "LevelUpATK": 23.59,
+        "LevelUpHP": 23.611,
+        "LevelUpDEF": 23.59,
+        "ID": 699,
+        "Name": null
+    },
+    {
+        "BossLevel": 700,
+        "LevelUpATK": 23.642,
+        "LevelUpHP": 23.663,
+        "LevelUpDEF": 23.642,
+        "ID": 700,
+        "Name": null
+    },
+    {
+        "BossLevel": 701,
+        "LevelUpATK": 23.694,
+        "LevelUpHP": 23.714,
+        "LevelUpDEF": 23.694,
+        "ID": 701,
+        "Name": null
+    },
+    {
+        "BossLevel": 702,
+        "LevelUpATK": 23.746,
+        "LevelUpHP": 23.766,
+        "LevelUpDEF": 23.746,
+        "ID": 702,
+        "Name": null
+    },
+    {
+        "BossLevel": 703,
+        "LevelUpATK": 23.797,
+        "LevelUpHP": 23.818,
+        "LevelUpDEF": 23.797,
+        "ID": 703,
+        "Name": null
+    },
+    {
+        "BossLevel": 704,
+        "LevelUpATK": 23.849,
+        "LevelUpHP": 23.87,
+        "LevelUpDEF": 23.849,
+        "ID": 704,
+        "Name": null
+    },
+    {
+        "BossLevel": 705,
+        "LevelUpATK": 23.901,
+        "LevelUpHP": 23.922,
+        "LevelUpDEF": 23.901,
+        "ID": 705,
+        "Name": null
+    },
+    {
+        "BossLevel": 706,
+        "LevelUpATK": 23.953,
+        "LevelUpHP": 23.974,
+        "LevelUpDEF": 23.953,
+        "ID": 706,
+        "Name": null
+    },
+    {
+        "BossLevel": 707,
+        "LevelUpATK": 24.005,
+        "LevelUpHP": 24.026,
+        "LevelUpDEF": 24.005,
+        "ID": 707,
+        "Name": null
+    },
+    {
+        "BossLevel": 708,
+        "LevelUpATK": 24.057,
+        "LevelUpHP": 24.078,
+        "LevelUpDEF": 24.057,
+        "ID": 708,
+        "Name": null
+    },
+    {
+        "BossLevel": 709,
+        "LevelUpATK": 24.109,
+        "LevelUpHP": 24.13,
+        "LevelUpDEF": 24.109,
+        "ID": 709,
+        "Name": null
+    },
+    {
+        "BossLevel": 710,
+        "LevelUpATK": 24.161,
+        "LevelUpHP": 24.182,
+        "LevelUpDEF": 24.161,
+        "ID": 710,
+        "Name": null
+    },
+    {
+        "BossLevel": 711,
+        "LevelUpATK": 24.213,
+        "LevelUpHP": 24.234,
+        "LevelUpDEF": 24.213,
+        "ID": 711,
+        "Name": null
+    },
+    {
+        "BossLevel": 712,
+        "LevelUpATK": 24.266,
+        "LevelUpHP": 24.287,
+        "LevelUpDEF": 24.266,
+        "ID": 712,
+        "Name": null
+    },
+    {
+        "BossLevel": 713,
+        "LevelUpATK": 24.318,
+        "LevelUpHP": 24.339,
+        "LevelUpDEF": 24.318,
+        "ID": 713,
+        "Name": null
+    },
+    {
+        "BossLevel": 714,
+        "LevelUpATK": 24.37,
+        "LevelUpHP": 24.391,
+        "LevelUpDEF": 24.37,
+        "ID": 714,
+        "Name": null
+    },
+    {
+        "BossLevel": 715,
+        "LevelUpATK": 24.423,
+        "LevelUpHP": 24.444,
+        "LevelUpDEF": 24.423,
+        "ID": 715,
+        "Name": null
+    },
+    {
+        "BossLevel": 716,
+        "LevelUpATK": 24.475,
+        "LevelUpHP": 24.496,
+        "LevelUpDEF": 24.475,
+        "ID": 716,
+        "Name": null
+    },
+    {
+        "BossLevel": 717,
+        "LevelUpATK": 24.527,
+        "LevelUpHP": 24.548,
+        "LevelUpDEF": 24.527,
+        "ID": 717,
+        "Name": null
+    },
+    {
+        "BossLevel": 718,
+        "LevelUpATK": 24.58,
+        "LevelUpHP": 24.601,
+        "LevelUpDEF": 24.58,
+        "ID": 718,
+        "Name": null
+    },
+    {
+        "BossLevel": 719,
+        "LevelUpATK": 24.632,
+        "LevelUpHP": 24.653,
+        "LevelUpDEF": 24.632,
+        "ID": 719,
+        "Name": null
+    },
+    {
+        "BossLevel": 720,
+        "LevelUpATK": 24.685,
+        "LevelUpHP": 24.706,
+        "LevelUpDEF": 24.685,
+        "ID": 720,
+        "Name": null
+    },
+    {
+        "BossLevel": 721,
+        "LevelUpATK": 24.738,
+        "LevelUpHP": 24.759,
+        "LevelUpDEF": 24.738,
+        "ID": 721,
+        "Name": null
+    },
+    {
+        "BossLevel": 722,
+        "LevelUpATK": 24.79,
+        "LevelUpHP": 24.811,
+        "LevelUpDEF": 24.79,
+        "ID": 722,
+        "Name": null
+    },
+    {
+        "BossLevel": 723,
+        "LevelUpATK": 24.843,
+        "LevelUpHP": 24.864,
+        "LevelUpDEF": 24.843,
+        "ID": 723,
+        "Name": null
+    },
+    {
+        "BossLevel": 724,
+        "LevelUpATK": 24.896,
+        "LevelUpHP": 24.917,
+        "LevelUpDEF": 24.896,
+        "ID": 724,
+        "Name": null
+    },
+    {
+        "BossLevel": 725,
+        "LevelUpATK": 24.948,
+        "LevelUpHP": 24.97,
+        "LevelUpDEF": 24.948,
+        "ID": 725,
+        "Name": null
+    },
+    {
+        "BossLevel": 726,
+        "LevelUpATK": 25.001,
+        "LevelUpHP": 25.022,
+        "LevelUpDEF": 25.001,
+        "ID": 726,
+        "Name": null
+    },
+    {
+        "BossLevel": 727,
+        "LevelUpATK": 25.054,
+        "LevelUpHP": 25.075,
+        "LevelUpDEF": 25.054,
+        "ID": 727,
+        "Name": null
+    },
+    {
+        "BossLevel": 728,
+        "LevelUpATK": 25.107,
+        "LevelUpHP": 25.128,
+        "LevelUpDEF": 25.107,
+        "ID": 728,
+        "Name": null
+    },
+    {
+        "BossLevel": 729,
+        "LevelUpATK": 25.16,
+        "LevelUpHP": 25.181,
+        "LevelUpDEF": 25.16,
+        "ID": 729,
+        "Name": null
+    },
+    {
+        "BossLevel": 730,
+        "LevelUpATK": 25.213,
+        "LevelUpHP": 25.234,
+        "LevelUpDEF": 25.213,
+        "ID": 730,
+        "Name": null
+    },
+    {
+        "BossLevel": 731,
+        "LevelUpATK": 25.266,
+        "LevelUpHP": 25.287,
+        "LevelUpDEF": 25.266,
+        "ID": 731,
+        "Name": null
+    },
+    {
+        "BossLevel": 732,
+        "LevelUpATK": 25.319,
+        "LevelUpHP": 25.34,
+        "LevelUpDEF": 25.319,
+        "ID": 732,
+        "Name": null
+    },
+    {
+        "BossLevel": 733,
+        "LevelUpATK": 25.372,
+        "LevelUpHP": 25.393,
+        "LevelUpDEF": 25.372,
+        "ID": 733,
+        "Name": null
+    },
+    {
+        "BossLevel": 734,
+        "LevelUpATK": 25.425,
+        "LevelUpHP": 25.447,
+        "LevelUpDEF": 25.425,
+        "ID": 734,
+        "Name": null
+    },
+    {
+        "BossLevel": 735,
+        "LevelUpATK": 25.479,
+        "LevelUpHP": 25.5,
+        "LevelUpDEF": 25.479,
+        "ID": 735,
+        "Name": null
+    },
+    {
+        "BossLevel": 736,
+        "LevelUpATK": 25.532,
+        "LevelUpHP": 25.553,
+        "LevelUpDEF": 25.532,
+        "ID": 736,
+        "Name": null
+    },
+    {
+        "BossLevel": 737,
+        "LevelUpATK": 25.585,
+        "LevelUpHP": 25.607,
+        "LevelUpDEF": 25.585,
+        "ID": 737,
+        "Name": null
+    },
+    {
+        "BossLevel": 738,
+        "LevelUpATK": 25.639,
+        "LevelUpHP": 25.66,
+        "LevelUpDEF": 25.639,
+        "ID": 738,
+        "Name": null
+    },
+    {
+        "BossLevel": 739,
+        "LevelUpATK": 25.692,
+        "LevelUpHP": 25.713,
+        "LevelUpDEF": 25.692,
+        "ID": 739,
+        "Name": null
+    },
+    {
+        "BossLevel": 740,
+        "LevelUpATK": 25.745,
+        "LevelUpHP": 25.767,
+        "LevelUpDEF": 25.745,
+        "ID": 740,
+        "Name": null
+    },
+    {
+        "BossLevel": 741,
+        "LevelUpATK": 25.799,
+        "LevelUpHP": 25.82,
+        "LevelUpDEF": 25.799,
+        "ID": 741,
+        "Name": null
+    },
+    {
+        "BossLevel": 742,
+        "LevelUpATK": 25.852,
+        "LevelUpHP": 25.874,
+        "LevelUpDEF": 25.852,
+        "ID": 742,
+        "Name": null
+    },
+    {
+        "BossLevel": 743,
+        "LevelUpATK": 25.906,
+        "LevelUpHP": 25.927,
+        "LevelUpDEF": 25.906,
+        "ID": 743,
+        "Name": null
+    },
+    {
+        "BossLevel": 744,
+        "LevelUpATK": 25.96,
+        "LevelUpHP": 25.981,
+        "LevelUpDEF": 25.96,
+        "ID": 744,
+        "Name": null
+    },
+    {
+        "BossLevel": 745,
+        "LevelUpATK": 26.013,
+        "LevelUpHP": 26.035,
+        "LevelUpDEF": 26.013,
+        "ID": 745,
+        "Name": null
+    },
+    {
+        "BossLevel": 746,
+        "LevelUpATK": 26.067,
+        "LevelUpHP": 26.088,
+        "LevelUpDEF": 26.067,
+        "ID": 746,
+        "Name": null
+    },
+    {
+        "BossLevel": 747,
+        "LevelUpATK": 26.121,
+        "LevelUpHP": 26.142,
+        "LevelUpDEF": 26.121,
+        "ID": 747,
+        "Name": null
+    },
+    {
+        "BossLevel": 748,
+        "LevelUpATK": 26.174,
+        "LevelUpHP": 26.196,
+        "LevelUpDEF": 26.174,
+        "ID": 748,
+        "Name": null
+    },
+    {
+        "BossLevel": 749,
+        "LevelUpATK": 26.228,
+        "LevelUpHP": 26.25,
+        "LevelUpDEF": 26.228,
+        "ID": 749,
+        "Name": null
+    },
+    {
+        "BossLevel": 750,
+        "LevelUpATK": 26.282,
+        "LevelUpHP": 26.304,
+        "LevelUpDEF": 26.282,
+        "ID": 750,
+        "Name": null
+    },
+    {
+        "BossLevel": 751,
+        "LevelUpATK": 26.336,
+        "LevelUpHP": 26.358,
+        "LevelUpDEF": 26.336,
+        "ID": 751,
+        "Name": null
+    },
+    {
+        "BossLevel": 752,
+        "LevelUpATK": 26.39,
+        "LevelUpHP": 26.412,
+        "LevelUpDEF": 26.39,
+        "ID": 752,
+        "Name": null
+    },
+    {
+        "BossLevel": 753,
+        "LevelUpATK": 26.444,
+        "LevelUpHP": 26.466,
+        "LevelUpDEF": 26.444,
+        "ID": 753,
+        "Name": null
+    },
+    {
+        "BossLevel": 754,
+        "LevelUpATK": 26.498,
+        "LevelUpHP": 26.52,
+        "LevelUpDEF": 26.498,
+        "ID": 754,
+        "Name": null
+    },
+    {
+        "BossLevel": 755,
+        "LevelUpATK": 26.552,
+        "LevelUpHP": 26.574,
+        "LevelUpDEF": 26.552,
+        "ID": 755,
+        "Name": null
+    },
+    {
+        "BossLevel": 756,
+        "LevelUpATK": 26.606,
+        "LevelUpHP": 26.628,
+        "LevelUpDEF": 26.606,
+        "ID": 756,
+        "Name": null
+    },
+    {
+        "BossLevel": 757,
+        "LevelUpATK": 26.66,
+        "LevelUpHP": 26.682,
+        "LevelUpDEF": 26.66,
+        "ID": 757,
+        "Name": null
+    },
+    {
+        "BossLevel": 758,
+        "LevelUpATK": 26.715,
+        "LevelUpHP": 26.736,
+        "LevelUpDEF": 26.715,
+        "ID": 758,
+        "Name": null
+    },
+    {
+        "BossLevel": 759,
+        "LevelUpATK": 26.769,
+        "LevelUpHP": 26.791,
+        "LevelUpDEF": 26.769,
+        "ID": 759,
+        "Name": null
+    },
+    {
+        "BossLevel": 760,
+        "LevelUpATK": 26.823,
+        "LevelUpHP": 26.845,
+        "LevelUpDEF": 26.823,
+        "ID": 760,
+        "Name": null
+    },
+    {
+        "BossLevel": 761,
+        "LevelUpATK": 26.877,
+        "LevelUpHP": 26.899,
+        "LevelUpDEF": 26.877,
+        "ID": 761,
+        "Name": null
+    },
+    {
+        "BossLevel": 762,
+        "LevelUpATK": 26.932,
+        "LevelUpHP": 26.954,
+        "LevelUpDEF": 26.932,
+        "ID": 762,
+        "Name": null
+    },
+    {
+        "BossLevel": 763,
+        "LevelUpATK": 26.986,
+        "LevelUpHP": 27.008,
+        "LevelUpDEF": 26.986,
+        "ID": 763,
+        "Name": null
+    },
+    {
+        "BossLevel": 764,
+        "LevelUpATK": 27.041,
+        "LevelUpHP": 27.063,
+        "LevelUpDEF": 27.041,
+        "ID": 764,
+        "Name": null
+    },
+    {
+        "BossLevel": 765,
+        "LevelUpATK": 27.095,
+        "LevelUpHP": 27.117,
+        "LevelUpDEF": 27.095,
+        "ID": 765,
+        "Name": null
+    },
+    {
+        "BossLevel": 766,
+        "LevelUpATK": 27.15,
+        "LevelUpHP": 27.172,
+        "LevelUpDEF": 27.15,
+        "ID": 766,
+        "Name": null
+    },
+    {
+        "BossLevel": 767,
+        "LevelUpATK": 27.204,
+        "LevelUpHP": 27.226,
+        "LevelUpDEF": 27.204,
+        "ID": 767,
+        "Name": null
+    },
+    {
+        "BossLevel": 768,
+        "LevelUpATK": 27.259,
+        "LevelUpHP": 27.281,
+        "LevelUpDEF": 27.259,
+        "ID": 768,
+        "Name": null
+    },
+    {
+        "BossLevel": 769,
+        "LevelUpATK": 27.314,
+        "LevelUpHP": 27.336,
+        "LevelUpDEF": 27.314,
+        "ID": 769,
+        "Name": null
+    },
+    {
+        "BossLevel": 770,
+        "LevelUpATK": 27.368,
+        "LevelUpHP": 27.39,
+        "LevelUpDEF": 27.368,
+        "ID": 770,
+        "Name": null
+    },
+    {
+        "BossLevel": 771,
+        "LevelUpATK": 27.423,
+        "LevelUpHP": 27.445,
+        "LevelUpDEF": 27.423,
+        "ID": 771,
+        "Name": null
+    },
+    {
+        "BossLevel": 772,
+        "LevelUpATK": 27.478,
+        "LevelUpHP": 27.5,
+        "LevelUpDEF": 27.478,
+        "ID": 772,
+        "Name": null
+    },
+    {
+        "BossLevel": 773,
+        "LevelUpATK": 27.533,
+        "LevelUpHP": 27.555,
+        "LevelUpDEF": 27.533,
+        "ID": 773,
+        "Name": null
+    },
+    {
+        "BossLevel": 774,
+        "LevelUpATK": 27.588,
+        "LevelUpHP": 27.61,
+        "LevelUpDEF": 27.588,
+        "ID": 774,
+        "Name": null
+    },
+    {
+        "BossLevel": 775,
+        "LevelUpATK": 27.643,
+        "LevelUpHP": 27.665,
+        "LevelUpDEF": 27.643,
+        "ID": 775,
+        "Name": null
+    },
+    {
+        "BossLevel": 776,
+        "LevelUpATK": 27.698,
+        "LevelUpHP": 27.72,
+        "LevelUpDEF": 27.698,
+        "ID": 776,
+        "Name": null
+    },
+    {
+        "BossLevel": 777,
+        "LevelUpATK": 27.753,
+        "LevelUpHP": 27.775,
+        "LevelUpDEF": 27.753,
+        "ID": 777,
+        "Name": null
+    },
+    {
+        "BossLevel": 778,
+        "LevelUpATK": 27.808,
+        "LevelUpHP": 27.83,
+        "LevelUpDEF": 27.808,
+        "ID": 778,
+        "Name": null
+    },
+    {
+        "BossLevel": 779,
+        "LevelUpATK": 27.863,
+        "LevelUpHP": 27.885,
+        "LevelUpDEF": 27.863,
+        "ID": 779,
+        "Name": null
+    },
+    {
+        "BossLevel": 780,
+        "LevelUpATK": 27.918,
+        "LevelUpHP": 27.94,
+        "LevelUpDEF": 27.918,
+        "ID": 780,
+        "Name": null
+    },
+    {
+        "BossLevel": 781,
+        "LevelUpATK": 27.973,
+        "LevelUpHP": 27.995,
+        "LevelUpDEF": 27.973,
+        "ID": 781,
+        "Name": null
+    },
+    {
+        "BossLevel": 782,
+        "LevelUpATK": 28.028,
+        "LevelUpHP": 28.051,
+        "LevelUpDEF": 28.028,
+        "ID": 782,
+        "Name": null
+    },
+    {
+        "BossLevel": 783,
+        "LevelUpATK": 28.084,
+        "LevelUpHP": 28.106,
+        "LevelUpDEF": 28.084,
+        "ID": 783,
+        "Name": null
+    },
+    {
+        "BossLevel": 784,
+        "LevelUpATK": 28.139,
+        "LevelUpHP": 28.161,
+        "LevelUpDEF": 28.139,
+        "ID": 784,
+        "Name": null
+    },
+    {
+        "BossLevel": 785,
+        "LevelUpATK": 28.194,
+        "LevelUpHP": 28.217,
+        "LevelUpDEF": 28.194,
+        "ID": 785,
+        "Name": null
+    },
+    {
+        "BossLevel": 786,
+        "LevelUpATK": 28.25,
+        "LevelUpHP": 28.272,
+        "LevelUpDEF": 28.25,
+        "ID": 786,
+        "Name": null
+    },
+    {
+        "BossLevel": 787,
+        "LevelUpATK": 28.305,
+        "LevelUpHP": 28.327,
+        "LevelUpDEF": 28.305,
+        "ID": 787,
+        "Name": null
+    },
+    {
+        "BossLevel": 788,
+        "LevelUpATK": 28.361,
+        "LevelUpHP": 28.383,
+        "LevelUpDEF": 28.361,
+        "ID": 788,
+        "Name": null
+    },
+    {
+        "BossLevel": 789,
+        "LevelUpATK": 28.416,
+        "LevelUpHP": 28.439,
+        "LevelUpDEF": 28.416,
+        "ID": 789,
+        "Name": null
+    },
+    {
+        "BossLevel": 790,
+        "LevelUpATK": 28.472,
+        "LevelUpHP": 28.494,
+        "LevelUpDEF": 28.472,
+        "ID": 790,
+        "Name": null
+    },
+    {
+        "BossLevel": 791,
+        "LevelUpATK": 28.527,
+        "LevelUpHP": 28.55,
+        "LevelUpDEF": 28.527,
+        "ID": 791,
+        "Name": null
+    },
+    {
+        "BossLevel": 792,
+        "LevelUpATK": 28.583,
+        "LevelUpHP": 28.605,
+        "LevelUpDEF": 28.583,
+        "ID": 792,
+        "Name": null
+    },
+    {
+        "BossLevel": 793,
+        "LevelUpATK": 28.639,
+        "LevelUpHP": 28.661,
+        "LevelUpDEF": 28.639,
+        "ID": 793,
+        "Name": null
+    },
+    {
+        "BossLevel": 794,
+        "LevelUpATK": 28.695,
+        "LevelUpHP": 28.717,
+        "LevelUpDEF": 28.695,
+        "ID": 794,
+        "Name": null
+    },
+    {
+        "BossLevel": 795,
+        "LevelUpATK": 28.75,
+        "LevelUpHP": 28.773,
+        "LevelUpDEF": 28.75,
+        "ID": 795,
+        "Name": null
+    },
+    {
+        "BossLevel": 796,
+        "LevelUpATK": 28.806,
+        "LevelUpHP": 28.829,
+        "LevelUpDEF": 28.806,
+        "ID": 796,
+        "Name": null
+    },
+    {
+        "BossLevel": 797,
+        "LevelUpATK": 28.862,
+        "LevelUpHP": 28.884,
+        "LevelUpDEF": 28.862,
+        "ID": 797,
+        "Name": null
+    },
+    {
+        "BossLevel": 798,
+        "LevelUpATK": 28.918,
+        "LevelUpHP": 28.94,
+        "LevelUpDEF": 28.918,
+        "ID": 798,
+        "Name": null
+    },
+    {
+        "BossLevel": 799,
+        "LevelUpATK": 28.974,
+        "LevelUpHP": 28.996,
+        "LevelUpDEF": 28.974,
+        "ID": 799,
+        "Name": null
+    },
+    {
+        "BossLevel": 800,
+        "LevelUpATK": 29.03,
+        "LevelUpHP": 29.052,
+        "LevelUpDEF": 29.03,
+        "ID": 800,
+        "Name": null
+    },
+    {
+        "BossLevel": 801,
+        "LevelUpATK": 29.086,
+        "LevelUpHP": 29.108,
+        "LevelUpDEF": 29.086,
+        "ID": 801,
+        "Name": null
+    },
+    {
+        "BossLevel": 802,
+        "LevelUpATK": 29.142,
+        "LevelUpHP": 29.164,
+        "LevelUpDEF": 29.142,
+        "ID": 802,
+        "Name": null
+    },
+    {
+        "BossLevel": 803,
+        "LevelUpATK": 29.198,
+        "LevelUpHP": 29.221,
+        "LevelUpDEF": 29.198,
+        "ID": 803,
+        "Name": null
+    },
+    {
+        "BossLevel": 804,
+        "LevelUpATK": 29.254,
+        "LevelUpHP": 29.277,
+        "LevelUpDEF": 29.254,
+        "ID": 804,
+        "Name": null
+    },
+    {
+        "BossLevel": 805,
+        "LevelUpATK": 29.311,
+        "LevelUpHP": 29.333,
+        "LevelUpDEF": 29.311,
+        "ID": 805,
+        "Name": null
+    },
+    {
+        "BossLevel": 806,
+        "LevelUpATK": 29.367,
+        "LevelUpHP": 29.389,
+        "LevelUpDEF": 29.367,
+        "ID": 806,
+        "Name": null
+    },
+    {
+        "BossLevel": 807,
+        "LevelUpATK": 29.423,
+        "LevelUpHP": 29.446,
+        "LevelUpDEF": 29.423,
+        "ID": 807,
+        "Name": null
+    },
+    {
+        "BossLevel": 808,
+        "LevelUpATK": 29.479,
+        "LevelUpHP": 29.502,
+        "LevelUpDEF": 29.479,
+        "ID": 808,
+        "Name": null
+    },
+    {
+        "BossLevel": 809,
+        "LevelUpATK": 29.536,
+        "LevelUpHP": 29.558,
+        "LevelUpDEF": 29.536,
+        "ID": 809,
+        "Name": null
+    },
+    {
+        "BossLevel": 810,
+        "LevelUpATK": 29.592,
+        "LevelUpHP": 29.615,
+        "LevelUpDEF": 29.592,
+        "ID": 810,
+        "Name": null
+    },
+    {
+        "BossLevel": 811,
+        "LevelUpATK": 29.649,
+        "LevelUpHP": 29.671,
+        "LevelUpDEF": 29.649,
+        "ID": 811,
+        "Name": null
+    },
+    {
+        "BossLevel": 812,
+        "LevelUpATK": 29.705,
+        "LevelUpHP": 29.728,
+        "LevelUpDEF": 29.705,
+        "ID": 812,
+        "Name": null
+    },
+    {
+        "BossLevel": 813,
+        "LevelUpATK": 29.762,
+        "LevelUpHP": 29.784,
+        "LevelUpDEF": 29.762,
+        "ID": 813,
+        "Name": null
+    },
+    {
+        "BossLevel": 814,
+        "LevelUpATK": 29.818,
+        "LevelUpHP": 29.841,
+        "LevelUpDEF": 29.818,
+        "ID": 814,
+        "Name": null
+    },
+    {
+        "BossLevel": 815,
+        "LevelUpATK": 29.875,
+        "LevelUpHP": 29.898,
+        "LevelUpDEF": 29.875,
+        "ID": 815,
+        "Name": null
+    },
+    {
+        "BossLevel": 816,
+        "LevelUpATK": 29.932,
+        "LevelUpHP": 29.954,
+        "LevelUpDEF": 29.932,
+        "ID": 816,
+        "Name": null
+    },
+    {
+        "BossLevel": 817,
+        "LevelUpATK": 29.988,
+        "LevelUpHP": 30.011,
+        "LevelUpDEF": 29.988,
+        "ID": 817,
+        "Name": null
+    },
+    {
+        "BossLevel": 818,
+        "LevelUpATK": 30.045,
+        "LevelUpHP": 30.068,
+        "LevelUpDEF": 30.045,
+        "ID": 818,
+        "Name": null
+    },
+    {
+        "BossLevel": 819,
+        "LevelUpATK": 30.102,
+        "LevelUpHP": 30.124,
+        "LevelUpDEF": 30.102,
+        "ID": 819,
+        "Name": null
+    },
+    {
+        "BossLevel": 820,
+        "LevelUpATK": 30.159,
+        "LevelUpHP": 30.181,
+        "LevelUpDEF": 30.159,
+        "ID": 820,
+        "Name": null
+    },
+    {
+        "BossLevel": 821,
+        "LevelUpATK": 30.215,
+        "LevelUpHP": 30.238,
+        "LevelUpDEF": 30.215,
+        "ID": 821,
+        "Name": null
+    },
+    {
+        "BossLevel": 822,
+        "LevelUpATK": 30.272,
+        "LevelUpHP": 30.295,
+        "LevelUpDEF": 30.272,
+        "ID": 822,
+        "Name": null
+    },
+    {
+        "BossLevel": 823,
+        "LevelUpATK": 30.329,
+        "LevelUpHP": 30.352,
+        "LevelUpDEF": 30.329,
+        "ID": 823,
+        "Name": null
+    },
+    {
+        "BossLevel": 824,
+        "LevelUpATK": 30.386,
+        "LevelUpHP": 30.409,
+        "LevelUpDEF": 30.386,
+        "ID": 824,
+        "Name": null
+    },
+    {
+        "BossLevel": 825,
+        "LevelUpATK": 30.443,
+        "LevelUpHP": 30.466,
+        "LevelUpDEF": 30.443,
+        "ID": 825,
+        "Name": null
+    },
+    {
+        "BossLevel": 826,
+        "LevelUpATK": 30.5,
+        "LevelUpHP": 30.523,
+        "LevelUpDEF": 30.5,
+        "ID": 826,
+        "Name": null
+    },
+    {
+        "BossLevel": 827,
+        "LevelUpATK": 30.558,
+        "LevelUpHP": 30.58,
+        "LevelUpDEF": 30.558,
+        "ID": 827,
+        "Name": null
+    },
+    {
+        "BossLevel": 828,
+        "LevelUpATK": 30.615,
+        "LevelUpHP": 30.638,
+        "LevelUpDEF": 30.615,
+        "ID": 828,
+        "Name": null
+    },
+    {
+        "BossLevel": 829,
+        "LevelUpATK": 30.672,
+        "LevelUpHP": 30.695,
+        "LevelUpDEF": 30.672,
+        "ID": 829,
+        "Name": null
+    },
+    {
+        "BossLevel": 830,
+        "LevelUpATK": 30.729,
+        "LevelUpHP": 30.752,
+        "LevelUpDEF": 30.729,
+        "ID": 830,
+        "Name": null
+    },
+    {
+        "BossLevel": 831,
+        "LevelUpATK": 30.786,
+        "LevelUpHP": 30.809,
+        "LevelUpDEF": 30.786,
+        "ID": 831,
+        "Name": null
+    },
+    {
+        "BossLevel": 832,
+        "LevelUpATK": 30.844,
+        "LevelUpHP": 30.867,
+        "LevelUpDEF": 30.844,
+        "ID": 832,
+        "Name": null
+    },
+    {
+        "BossLevel": 833,
+        "LevelUpATK": 30.901,
+        "LevelUpHP": 30.924,
+        "LevelUpDEF": 30.901,
+        "ID": 833,
+        "Name": null
+    },
+    {
+        "BossLevel": 834,
+        "LevelUpATK": 30.959,
+        "LevelUpHP": 30.982,
+        "LevelUpDEF": 30.959,
+        "ID": 834,
+        "Name": null
+    },
+    {
+        "BossLevel": 835,
+        "LevelUpATK": 31.016,
+        "LevelUpHP": 31.039,
+        "LevelUpDEF": 31.016,
+        "ID": 835,
+        "Name": null
+    },
+    {
+        "BossLevel": 836,
+        "LevelUpATK": 31.073,
+        "LevelUpHP": 31.096,
+        "LevelUpDEF": 31.073,
+        "ID": 836,
+        "Name": null
+    },
+    {
+        "BossLevel": 837,
+        "LevelUpATK": 31.131,
+        "LevelUpHP": 31.154,
+        "LevelUpDEF": 31.131,
+        "ID": 837,
+        "Name": null
+    },
+    {
+        "BossLevel": 838,
+        "LevelUpATK": 31.189,
+        "LevelUpHP": 31.212,
+        "LevelUpDEF": 31.189,
+        "ID": 838,
+        "Name": null
+    },
+    {
+        "BossLevel": 839,
+        "LevelUpATK": 31.246,
+        "LevelUpHP": 31.269,
+        "LevelUpDEF": 31.246,
+        "ID": 839,
+        "Name": null
+    },
+    {
+        "BossLevel": 840,
+        "LevelUpATK": 31.304,
+        "LevelUpHP": 31.327,
+        "LevelUpDEF": 31.304,
+        "ID": 840,
+        "Name": null
+    },
+    {
+        "BossLevel": 841,
+        "LevelUpATK": 31.362,
+        "LevelUpHP": 31.385,
+        "LevelUpDEF": 31.362,
+        "ID": 841,
+        "Name": null
+    },
+    {
+        "BossLevel": 842,
+        "LevelUpATK": 31.419,
+        "LevelUpHP": 31.442,
+        "LevelUpDEF": 31.419,
+        "ID": 842,
+        "Name": null
+    },
+    {
+        "BossLevel": 843,
+        "LevelUpATK": 31.477,
+        "LevelUpHP": 31.5,
+        "LevelUpDEF": 31.477,
+        "ID": 843,
+        "Name": null
+    },
+    {
+        "BossLevel": 844,
+        "LevelUpATK": 31.535,
+        "LevelUpHP": 31.558,
+        "LevelUpDEF": 31.535,
+        "ID": 844,
+        "Name": null
+    },
+    {
+        "BossLevel": 845,
+        "LevelUpATK": 31.593,
+        "LevelUpHP": 31.616,
+        "LevelUpDEF": 31.593,
+        "ID": 845,
+        "Name": null
+    },
+    {
+        "BossLevel": 846,
+        "LevelUpATK": 31.651,
+        "LevelUpHP": 31.674,
+        "LevelUpDEF": 31.651,
+        "ID": 846,
+        "Name": null
+    },
+    {
+        "BossLevel": 847,
+        "LevelUpATK": 31.709,
+        "LevelUpHP": 31.732,
+        "LevelUpDEF": 31.709,
+        "ID": 847,
+        "Name": null
+    },
+    {
+        "BossLevel": 848,
+        "LevelUpATK": 31.767,
+        "LevelUpHP": 31.79,
+        "LevelUpDEF": 31.767,
+        "ID": 848,
+        "Name": null
+    },
+    {
+        "BossLevel": 849,
+        "LevelUpATK": 31.825,
+        "LevelUpHP": 31.848,
+        "LevelUpDEF": 31.825,
+        "ID": 849,
+        "Name": null
+    },
+    {
+        "BossLevel": 850,
+        "LevelUpATK": 31.883,
+        "LevelUpHP": 31.906,
+        "LevelUpDEF": 31.883,
+        "ID": 850,
+        "Name": null
+    },
+    {
+        "BossLevel": 851,
+        "LevelUpATK": 31.941,
+        "LevelUpHP": 31.964,
+        "LevelUpDEF": 31.941,
+        "ID": 851,
+        "Name": null
+    },
+    {
+        "BossLevel": 852,
+        "LevelUpATK": 31.999,
+        "LevelUpHP": 32.022,
+        "LevelUpDEF": 31.999,
+        "ID": 852,
+        "Name": null
+    },
+    {
+        "BossLevel": 853,
+        "LevelUpATK": 32.057,
+        "LevelUpHP": 32.08,
+        "LevelUpDEF": 32.057,
+        "ID": 853,
+        "Name": null
+    },
+    {
+        "BossLevel": 854,
+        "LevelUpATK": 32.115,
+        "LevelUpHP": 32.139,
+        "LevelUpDEF": 32.115,
+        "ID": 854,
+        "Name": null
+    },
+    {
+        "BossLevel": 855,
+        "LevelUpATK": 32.174,
+        "LevelUpHP": 32.197,
+        "LevelUpDEF": 32.174,
+        "ID": 855,
+        "Name": null
+    },
+    {
+        "BossLevel": 856,
+        "LevelUpATK": 32.232,
+        "LevelUpHP": 32.255,
+        "LevelUpDEF": 32.232,
+        "ID": 856,
+        "Name": null
+    },
+    {
+        "BossLevel": 857,
+        "LevelUpATK": 32.29,
+        "LevelUpHP": 32.314,
+        "LevelUpDEF": 32.29,
+        "ID": 857,
+        "Name": null
+    },
+    {
+        "BossLevel": 858,
+        "LevelUpATK": 32.349,
+        "LevelUpHP": 32.372,
+        "LevelUpDEF": 32.349,
+        "ID": 858,
+        "Name": null
+    },
+    {
+        "BossLevel": 859,
+        "LevelUpATK": 32.407,
+        "LevelUpHP": 32.431,
+        "LevelUpDEF": 32.407,
+        "ID": 859,
+        "Name": null
+    },
+    {
+        "BossLevel": 860,
+        "LevelUpATK": 32.466,
+        "LevelUpHP": 32.489,
+        "LevelUpDEF": 32.466,
+        "ID": 860,
+        "Name": null
+    },
+    {
+        "BossLevel": 861,
+        "LevelUpATK": 32.524,
+        "LevelUpHP": 32.548,
+        "LevelUpDEF": 32.524,
+        "ID": 861,
+        "Name": null
+    },
+    {
+        "BossLevel": 862,
+        "LevelUpATK": 32.583,
+        "LevelUpHP": 32.606,
+        "LevelUpDEF": 32.583,
+        "ID": 862,
+        "Name": null
+    },
+    {
+        "BossLevel": 863,
+        "LevelUpATK": 32.641,
+        "LevelUpHP": 32.665,
+        "LevelUpDEF": 32.641,
+        "ID": 863,
+        "Name": null
+    },
+    {
+        "BossLevel": 864,
+        "LevelUpATK": 32.7,
+        "LevelUpHP": 32.723,
+        "LevelUpDEF": 32.7,
+        "ID": 864,
+        "Name": null
+    },
+    {
+        "BossLevel": 865,
+        "LevelUpATK": 32.759,
+        "LevelUpHP": 32.782,
+        "LevelUpDEF": 32.759,
+        "ID": 865,
+        "Name": null
+    },
+    {
+        "BossLevel": 866,
+        "LevelUpATK": 32.817,
+        "LevelUpHP": 32.841,
+        "LevelUpDEF": 32.817,
+        "ID": 866,
+        "Name": null
+    },
+    {
+        "BossLevel": 867,
+        "LevelUpATK": 32.876,
+        "LevelUpHP": 32.9,
+        "LevelUpDEF": 32.876,
+        "ID": 867,
+        "Name": null
+    },
+    {
+        "BossLevel": 868,
+        "LevelUpATK": 32.935,
+        "LevelUpHP": 32.958,
+        "LevelUpDEF": 32.935,
+        "ID": 868,
+        "Name": null
+    },
+    {
+        "BossLevel": 869,
+        "LevelUpATK": 32.994,
+        "LevelUpHP": 33.017,
+        "LevelUpDEF": 32.994,
+        "ID": 869,
+        "Name": null
+    },
+    {
+        "BossLevel": 870,
+        "LevelUpATK": 33.053,
+        "LevelUpHP": 33.076,
+        "LevelUpDEF": 33.053,
+        "ID": 870,
+        "Name": null
+    },
+    {
+        "BossLevel": 871,
+        "LevelUpATK": 33.112,
+        "LevelUpHP": 33.135,
+        "LevelUpDEF": 33.112,
+        "ID": 871,
+        "Name": null
+    },
+    {
+        "BossLevel": 872,
+        "LevelUpATK": 33.171,
+        "LevelUpHP": 33.194,
+        "LevelUpDEF": 33.171,
+        "ID": 872,
+        "Name": null
+    },
+    {
+        "BossLevel": 873,
+        "LevelUpATK": 33.23,
+        "LevelUpHP": 33.253,
+        "LevelUpDEF": 33.23,
+        "ID": 873,
+        "Name": null
+    },
+    {
+        "BossLevel": 874,
+        "LevelUpATK": 33.289,
+        "LevelUpHP": 33.312,
+        "LevelUpDEF": 33.289,
+        "ID": 874,
+        "Name": null
+    },
+    {
+        "BossLevel": 875,
+        "LevelUpATK": 33.348,
+        "LevelUpHP": 33.371,
+        "LevelUpDEF": 33.348,
+        "ID": 875,
+        "Name": null
+    },
+    {
+        "BossLevel": 876,
+        "LevelUpATK": 33.407,
+        "LevelUpHP": 33.43,
+        "LevelUpDEF": 33.407,
+        "ID": 876,
+        "Name": null
+    },
+    {
+        "BossLevel": 877,
+        "LevelUpATK": 33.466,
+        "LevelUpHP": 33.49,
+        "LevelUpDEF": 33.466,
+        "ID": 877,
+        "Name": null
+    },
+    {
+        "BossLevel": 878,
+        "LevelUpATK": 33.525,
+        "LevelUpHP": 33.549,
+        "LevelUpDEF": 33.525,
+        "ID": 878,
+        "Name": null
+    },
+    {
+        "BossLevel": 879,
+        "LevelUpATK": 33.584,
+        "LevelUpHP": 33.608,
+        "LevelUpDEF": 33.584,
+        "ID": 879,
+        "Name": null
+    },
+    {
+        "BossLevel": 880,
+        "LevelUpATK": 33.644,
+        "LevelUpHP": 33.667,
+        "LevelUpDEF": 33.644,
+        "ID": 880,
+        "Name": null
+    },
+    {
+        "BossLevel": 881,
+        "LevelUpATK": 33.703,
+        "LevelUpHP": 33.727,
+        "LevelUpDEF": 33.703,
+        "ID": 881,
+        "Name": null
+    },
+    {
+        "BossLevel": 882,
+        "LevelUpATK": 33.762,
+        "LevelUpHP": 33.786,
+        "LevelUpDEF": 33.762,
+        "ID": 882,
+        "Name": null
+    },
+    {
+        "BossLevel": 883,
+        "LevelUpATK": 33.822,
+        "LevelUpHP": 33.846,
+        "LevelUpDEF": 33.822,
+        "ID": 883,
+        "Name": null
+    },
+    {
+        "BossLevel": 884,
+        "LevelUpATK": 33.881,
+        "LevelUpHP": 33.905,
+        "LevelUpDEF": 33.881,
+        "ID": 884,
+        "Name": null
+    },
+    {
+        "BossLevel": 885,
+        "LevelUpATK": 33.941,
+        "LevelUpHP": 33.965,
+        "LevelUpDEF": 33.941,
+        "ID": 885,
+        "Name": null
+    },
+    {
+        "BossLevel": 886,
+        "LevelUpATK": 34.0,
+        "LevelUpHP": 34.024,
+        "LevelUpDEF": 34.0,
+        "ID": 886,
+        "Name": null
+    },
+    {
+        "BossLevel": 887,
+        "LevelUpATK": 34.06,
+        "LevelUpHP": 34.084,
+        "LevelUpDEF": 34.06,
+        "ID": 887,
+        "Name": null
+    },
+    {
+        "BossLevel": 888,
+        "LevelUpATK": 34.119,
+        "LevelUpHP": 34.143,
+        "LevelUpDEF": 34.119,
+        "ID": 888,
+        "Name": null
+    },
+    {
+        "BossLevel": 889,
+        "LevelUpATK": 34.179,
+        "LevelUpHP": 34.203,
+        "LevelUpDEF": 34.179,
+        "ID": 889,
+        "Name": null
+    },
+    {
+        "BossLevel": 890,
+        "LevelUpATK": 34.239,
+        "LevelUpHP": 34.263,
+        "LevelUpDEF": 34.239,
+        "ID": 890,
+        "Name": null
+    },
+    {
+        "BossLevel": 891,
+        "LevelUpATK": 34.299,
+        "LevelUpHP": 34.322,
+        "LevelUpDEF": 34.299,
+        "ID": 891,
+        "Name": null
+    },
+    {
+        "BossLevel": 892,
+        "LevelUpATK": 34.358,
+        "LevelUpHP": 34.382,
+        "LevelUpDEF": 34.358,
+        "ID": 892,
+        "Name": null
+    },
+    {
+        "BossLevel": 893,
+        "LevelUpATK": 34.418,
+        "LevelUpHP": 34.442,
+        "LevelUpDEF": 34.418,
+        "ID": 893,
+        "Name": null
+    },
+    {
+        "BossLevel": 894,
+        "LevelUpATK": 34.478,
+        "LevelUpHP": 34.502,
+        "LevelUpDEF": 34.478,
+        "ID": 894,
+        "Name": null
+    },
+    {
+        "BossLevel": 895,
+        "LevelUpATK": 34.538,
+        "LevelUpHP": 34.562,
+        "LevelUpDEF": 34.538,
+        "ID": 895,
+        "Name": null
+    },
+    {
+        "BossLevel": 896,
+        "LevelUpATK": 34.598,
+        "LevelUpHP": 34.622,
+        "LevelUpDEF": 34.598,
+        "ID": 896,
+        "Name": null
+    },
+    {
+        "BossLevel": 897,
+        "LevelUpATK": 34.658,
+        "LevelUpHP": 34.682,
+        "LevelUpDEF": 34.658,
+        "ID": 897,
+        "Name": null
+    },
+    {
+        "BossLevel": 898,
+        "LevelUpATK": 34.718,
+        "LevelUpHP": 34.742,
+        "LevelUpDEF": 34.718,
+        "ID": 898,
+        "Name": null
+    },
+    {
+        "BossLevel": 899,
+        "LevelUpATK": 34.778,
+        "LevelUpHP": 34.802,
+        "LevelUpDEF": 34.778,
+        "ID": 899,
+        "Name": null
+    },
+    {
+        "BossLevel": 900,
+        "LevelUpATK": 34.838,
+        "LevelUpHP": 34.862,
+        "LevelUpDEF": 34.838,
+        "ID": 900,
+        "Name": null
+    },
+    {
+        "BossLevel": 901,
+        "LevelUpATK": 34.898,
+        "LevelUpHP": 34.922,
+        "LevelUpDEF": 34.898,
+        "ID": 901,
+        "Name": null
+    },
+    {
+        "BossLevel": 902,
+        "LevelUpATK": 34.958,
+        "LevelUpHP": 34.982,
+        "LevelUpDEF": 34.958,
+        "ID": 902,
+        "Name": null
+    },
+    {
+        "BossLevel": 903,
+        "LevelUpATK": 35.018,
+        "LevelUpHP": 35.043,
+        "LevelUpDEF": 35.018,
+        "ID": 903,
+        "Name": null
+    },
+    {
+        "BossLevel": 904,
+        "LevelUpATK": 35.079,
+        "LevelUpHP": 35.103,
+        "LevelUpDEF": 35.079,
+        "ID": 904,
+        "Name": null
+    },
+    {
+        "BossLevel": 905,
+        "LevelUpATK": 35.139,
+        "LevelUpHP": 35.163,
+        "LevelUpDEF": 35.139,
+        "ID": 905,
+        "Name": null
+    },
+    {
+        "BossLevel": 906,
+        "LevelUpATK": 35.199,
+        "LevelUpHP": 35.224,
+        "LevelUpDEF": 35.199,
+        "ID": 906,
+        "Name": null
+    },
+    {
+        "BossLevel": 907,
+        "LevelUpATK": 35.26,
+        "LevelUpHP": 35.284,
+        "LevelUpDEF": 35.26,
+        "ID": 907,
+        "Name": null
+    },
+    {
+        "BossLevel": 908,
+        "LevelUpATK": 35.32,
+        "LevelUpHP": 35.344,
+        "LevelUpDEF": 35.32,
+        "ID": 908,
+        "Name": null
+    },
+    {
+        "BossLevel": 909,
+        "LevelUpATK": 35.381,
+        "LevelUpHP": 35.405,
+        "LevelUpDEF": 35.381,
+        "ID": 909,
+        "Name": null
+    },
+    {
+        "BossLevel": 910,
+        "LevelUpATK": 35.441,
+        "LevelUpHP": 35.465,
+        "LevelUpDEF": 35.441,
+        "ID": 910,
+        "Name": null
+    },
+    {
+        "BossLevel": 911,
+        "LevelUpATK": 35.502,
+        "LevelUpHP": 35.526,
+        "LevelUpDEF": 35.502,
+        "ID": 911,
+        "Name": null
+    },
+    {
+        "BossLevel": 912,
+        "LevelUpATK": 35.562,
+        "LevelUpHP": 35.586,
+        "LevelUpDEF": 35.562,
+        "ID": 912,
+        "Name": null
+    },
+    {
+        "BossLevel": 913,
+        "LevelUpATK": 35.623,
+        "LevelUpHP": 35.647,
+        "LevelUpDEF": 35.623,
+        "ID": 913,
+        "Name": null
+    },
+    {
+        "BossLevel": 914,
+        "LevelUpATK": 35.683,
+        "LevelUpHP": 35.708,
+        "LevelUpDEF": 35.683,
+        "ID": 914,
+        "Name": null
+    },
+    {
+        "BossLevel": 915,
+        "LevelUpATK": 35.744,
+        "LevelUpHP": 35.768,
+        "LevelUpDEF": 35.744,
+        "ID": 915,
+        "Name": null
+    },
+    {
+        "BossLevel": 916,
+        "LevelUpATK": 35.805,
+        "LevelUpHP": 35.829,
+        "LevelUpDEF": 35.805,
+        "ID": 916,
+        "Name": null
+    },
+    {
+        "BossLevel": 917,
+        "LevelUpATK": 35.866,
+        "LevelUpHP": 35.89,
+        "LevelUpDEF": 35.866,
+        "ID": 917,
+        "Name": null
+    },
+    {
+        "BossLevel": 918,
+        "LevelUpATK": 35.926,
+        "LevelUpHP": 35.951,
+        "LevelUpDEF": 35.926,
+        "ID": 918,
+        "Name": null
+    },
+    {
+        "BossLevel": 919,
+        "LevelUpATK": 35.987,
+        "LevelUpHP": 36.012,
+        "LevelUpDEF": 35.987,
+        "ID": 919,
+        "Name": null
+    },
+    {
+        "BossLevel": 920,
+        "LevelUpATK": 36.048,
+        "LevelUpHP": 36.073,
+        "LevelUpDEF": 36.048,
+        "ID": 920,
+        "Name": null
+    },
+    {
+        "BossLevel": 921,
+        "LevelUpATK": 36.109,
+        "LevelUpHP": 36.134,
+        "LevelUpDEF": 36.109,
+        "ID": 921,
+        "Name": null
+    },
+    {
+        "BossLevel": 922,
+        "LevelUpATK": 36.17,
+        "LevelUpHP": 36.195,
+        "LevelUpDEF": 36.17,
+        "ID": 922,
+        "Name": null
+    },
+    {
+        "BossLevel": 923,
+        "LevelUpATK": 36.231,
+        "LevelUpHP": 36.256,
+        "LevelUpDEF": 36.231,
+        "ID": 923,
+        "Name": null
+    },
+    {
+        "BossLevel": 924,
+        "LevelUpATK": 36.292,
+        "LevelUpHP": 36.317,
+        "LevelUpDEF": 36.292,
+        "ID": 924,
+        "Name": null
+    },
+    {
+        "BossLevel": 925,
+        "LevelUpATK": 36.353,
+        "LevelUpHP": 36.378,
+        "LevelUpDEF": 36.353,
+        "ID": 925,
+        "Name": null
+    },
+    {
+        "BossLevel": 926,
+        "LevelUpATK": 36.414,
+        "LevelUpHP": 36.439,
+        "LevelUpDEF": 36.414,
+        "ID": 926,
+        "Name": null
+    },
+    {
+        "BossLevel": 927,
+        "LevelUpATK": 36.476,
+        "LevelUpHP": 36.5,
+        "LevelUpDEF": 36.476,
+        "ID": 927,
+        "Name": null
+    },
+    {
+        "BossLevel": 928,
+        "LevelUpATK": 36.537,
+        "LevelUpHP": 36.561,
+        "LevelUpDEF": 36.537,
+        "ID": 928,
+        "Name": null
+    },
+    {
+        "BossLevel": 929,
+        "LevelUpATK": 36.598,
+        "LevelUpHP": 36.623,
+        "LevelUpDEF": 36.598,
+        "ID": 929,
+        "Name": null
+    },
+    {
+        "BossLevel": 930,
+        "LevelUpATK": 36.659,
+        "LevelUpHP": 36.684,
+        "LevelUpDEF": 36.659,
+        "ID": 930,
+        "Name": null
+    },
+    {
+        "BossLevel": 931,
+        "LevelUpATK": 36.721,
+        "LevelUpHP": 36.745,
+        "LevelUpDEF": 36.721,
+        "ID": 931,
+        "Name": null
+    },
+    {
+        "BossLevel": 932,
+        "LevelUpATK": 36.782,
+        "LevelUpHP": 36.807,
+        "LevelUpDEF": 36.782,
+        "ID": 932,
+        "Name": null
+    },
+    {
+        "BossLevel": 933,
+        "LevelUpATK": 36.843,
+        "LevelUpHP": 36.868,
+        "LevelUpDEF": 36.843,
+        "ID": 933,
+        "Name": null
+    },
+    {
+        "BossLevel": 934,
+        "LevelUpATK": 36.905,
+        "LevelUpHP": 36.929,
+        "LevelUpDEF": 36.905,
+        "ID": 934,
+        "Name": null
+    },
+    {
+        "BossLevel": 935,
+        "LevelUpATK": 36.966,
+        "LevelUpHP": 36.991,
+        "LevelUpDEF": 36.966,
+        "ID": 935,
+        "Name": null
+    },
+    {
+        "BossLevel": 936,
+        "LevelUpATK": 37.028,
+        "LevelUpHP": 37.053,
+        "LevelUpDEF": 37.028,
+        "ID": 936,
+        "Name": null
+    },
+    {
+        "BossLevel": 937,
+        "LevelUpATK": 37.089,
+        "LevelUpHP": 37.114,
+        "LevelUpDEF": 37.089,
+        "ID": 937,
+        "Name": null
+    },
+    {
+        "BossLevel": 938,
+        "LevelUpATK": 37.151,
+        "LevelUpHP": 37.176,
+        "LevelUpDEF": 37.151,
+        "ID": 938,
+        "Name": null
+    },
+    {
+        "BossLevel": 939,
+        "LevelUpATK": 37.213,
+        "LevelUpHP": 37.237,
+        "LevelUpDEF": 37.213,
+        "ID": 939,
+        "Name": null
+    },
+    {
+        "BossLevel": 940,
+        "LevelUpATK": 37.274,
+        "LevelUpHP": 37.299,
+        "LevelUpDEF": 37.274,
+        "ID": 940,
+        "Name": null
+    },
+    {
+        "BossLevel": 941,
+        "LevelUpATK": 37.336,
+        "LevelUpHP": 37.361,
+        "LevelUpDEF": 37.336,
+        "ID": 941,
+        "Name": null
+    },
+    {
+        "BossLevel": 942,
+        "LevelUpATK": 37.398,
+        "LevelUpHP": 37.423,
+        "LevelUpDEF": 37.398,
+        "ID": 942,
+        "Name": null
+    },
+    {
+        "BossLevel": 943,
+        "LevelUpATK": 37.46,
+        "LevelUpHP": 37.484,
+        "LevelUpDEF": 37.46,
+        "ID": 943,
+        "Name": null
+    },
+    {
+        "BossLevel": 944,
+        "LevelUpATK": 37.522,
+        "LevelUpHP": 37.546,
+        "LevelUpDEF": 37.522,
+        "ID": 944,
+        "Name": null
+    },
+    {
+        "BossLevel": 945,
+        "LevelUpATK": 37.583,
+        "LevelUpHP": 37.608,
+        "LevelUpDEF": 37.583,
+        "ID": 945,
+        "Name": null
+    },
+    {
+        "BossLevel": 946,
+        "LevelUpATK": 37.645,
+        "LevelUpHP": 37.67,
+        "LevelUpDEF": 37.645,
+        "ID": 946,
+        "Name": null
+    },
+    {
+        "BossLevel": 947,
+        "LevelUpATK": 37.707,
+        "LevelUpHP": 37.732,
+        "LevelUpDEF": 37.707,
+        "ID": 947,
+        "Name": null
+    },
+    {
+        "BossLevel": 948,
+        "LevelUpATK": 37.769,
+        "LevelUpHP": 37.794,
+        "LevelUpDEF": 37.769,
+        "ID": 948,
+        "Name": null
+    },
+    {
+        "BossLevel": 949,
+        "LevelUpATK": 37.831,
+        "LevelUpHP": 37.856,
+        "LevelUpDEF": 37.831,
+        "ID": 949,
+        "Name": null
+    },
+    {
+        "BossLevel": 950,
+        "LevelUpATK": 37.893,
+        "LevelUpHP": 37.918,
+        "LevelUpDEF": 37.893,
+        "ID": 950,
+        "Name": null
+    },
+    {
+        "BossLevel": 951,
+        "LevelUpATK": 37.955,
+        "LevelUpHP": 37.98,
+        "LevelUpDEF": 37.955,
+        "ID": 951,
+        "Name": null
+    },
+    {
+        "BossLevel": 952,
+        "LevelUpATK": 38.018,
+        "LevelUpHP": 38.043,
+        "LevelUpDEF": 38.018,
+        "ID": 952,
+        "Name": null
+    },
+    {
+        "BossLevel": 953,
+        "LevelUpATK": 38.08,
+        "LevelUpHP": 38.105,
+        "LevelUpDEF": 38.08,
+        "ID": 953,
+        "Name": null
+    },
+    {
+        "BossLevel": 954,
+        "LevelUpATK": 38.142,
+        "LevelUpHP": 38.167,
+        "LevelUpDEF": 38.142,
+        "ID": 954,
+        "Name": null
+    },
+    {
+        "BossLevel": 955,
+        "LevelUpATK": 38.204,
+        "LevelUpHP": 38.229,
+        "LevelUpDEF": 38.204,
+        "ID": 955,
+        "Name": null
+    },
+    {
+        "BossLevel": 956,
+        "LevelUpATK": 38.267,
+        "LevelUpHP": 38.292,
+        "LevelUpDEF": 38.267,
+        "ID": 956,
+        "Name": null
+    },
+    {
+        "BossLevel": 957,
+        "LevelUpATK": 38.329,
+        "LevelUpHP": 38.354,
+        "LevelUpDEF": 38.329,
+        "ID": 957,
+        "Name": null
+    },
+    {
+        "BossLevel": 958,
+        "LevelUpATK": 38.391,
+        "LevelUpHP": 38.416,
+        "LevelUpDEF": 38.391,
+        "ID": 958,
+        "Name": null
+    },
+    {
+        "BossLevel": 959,
+        "LevelUpATK": 38.454,
+        "LevelUpHP": 38.479,
+        "LevelUpDEF": 38.454,
+        "ID": 959,
+        "Name": null
+    },
+    {
+        "BossLevel": 960,
+        "LevelUpATK": 38.516,
+        "LevelUpHP": 38.541,
+        "LevelUpDEF": 38.516,
+        "ID": 960,
+        "Name": null
+    },
+    {
+        "BossLevel": 961,
+        "LevelUpATK": 38.579,
+        "LevelUpHP": 38.604,
+        "LevelUpDEF": 38.579,
+        "ID": 961,
+        "Name": null
+    },
+    {
+        "BossLevel": 962,
+        "LevelUpATK": 38.641,
+        "LevelUpHP": 38.666,
+        "LevelUpDEF": 38.641,
+        "ID": 962,
+        "Name": null
+    },
+    {
+        "BossLevel": 963,
+        "LevelUpATK": 38.704,
+        "LevelUpHP": 38.729,
+        "LevelUpDEF": 38.704,
+        "ID": 963,
+        "Name": null
+    },
+    {
+        "BossLevel": 964,
+        "LevelUpATK": 38.767,
+        "LevelUpHP": 38.792,
+        "LevelUpDEF": 38.767,
+        "ID": 964,
+        "Name": null
+    },
+    {
+        "BossLevel": 965,
+        "LevelUpATK": 38.829,
+        "LevelUpHP": 38.854,
+        "LevelUpDEF": 38.829,
+        "ID": 965,
+        "Name": null
+    },
+    {
+        "BossLevel": 966,
+        "LevelUpATK": 38.892,
+        "LevelUpHP": 38.917,
+        "LevelUpDEF": 38.892,
+        "ID": 966,
+        "Name": null
+    },
+    {
+        "BossLevel": 967,
+        "LevelUpATK": 38.955,
+        "LevelUpHP": 38.98,
+        "LevelUpDEF": 38.955,
+        "ID": 967,
+        "Name": null
+    },
+    {
+        "BossLevel": 968,
+        "LevelUpATK": 39.017,
+        "LevelUpHP": 39.043,
+        "LevelUpDEF": 39.017,
+        "ID": 968,
+        "Name": null
+    },
+    {
+        "BossLevel": 969,
+        "LevelUpATK": 39.08,
+        "LevelUpHP": 39.105,
+        "LevelUpDEF": 39.08,
+        "ID": 969,
+        "Name": null
+    },
+    {
+        "BossLevel": 970,
+        "LevelUpATK": 39.143,
+        "LevelUpHP": 39.168,
+        "LevelUpDEF": 39.143,
+        "ID": 970,
+        "Name": null
+    },
+    {
+        "BossLevel": 971,
+        "LevelUpATK": 39.206,
+        "LevelUpHP": 39.231,
+        "LevelUpDEF": 39.206,
+        "ID": 971,
+        "Name": null
+    },
+    {
+        "BossLevel": 972,
+        "LevelUpATK": 39.269,
+        "LevelUpHP": 39.294,
+        "LevelUpDEF": 39.269,
+        "ID": 972,
+        "Name": null
+    },
+    {
+        "BossLevel": 973,
+        "LevelUpATK": 39.332,
+        "LevelUpHP": 39.357,
+        "LevelUpDEF": 39.332,
+        "ID": 973,
+        "Name": null
+    },
+    {
+        "BossLevel": 974,
+        "LevelUpATK": 39.395,
+        "LevelUpHP": 39.42,
+        "LevelUpDEF": 39.395,
+        "ID": 974,
+        "Name": null
+    },
+    {
+        "BossLevel": 975,
+        "LevelUpATK": 39.458,
+        "LevelUpHP": 39.483,
+        "LevelUpDEF": 39.458,
+        "ID": 975,
+        "Name": null
+    },
+    {
+        "BossLevel": 976,
+        "LevelUpATK": 39.521,
+        "LevelUpHP": 39.546,
+        "LevelUpDEF": 39.521,
+        "ID": 976,
+        "Name": null
+    },
+    {
+        "BossLevel": 977,
+        "LevelUpATK": 39.584,
+        "LevelUpHP": 39.609,
+        "LevelUpDEF": 39.584,
+        "ID": 977,
+        "Name": null
+    },
+    {
+        "BossLevel": 978,
+        "LevelUpATK": 39.647,
+        "LevelUpHP": 39.673,
+        "LevelUpDEF": 39.647,
+        "ID": 978,
+        "Name": null
+    },
+    {
+        "BossLevel": 979,
+        "LevelUpATK": 39.711,
+        "LevelUpHP": 39.736,
+        "LevelUpDEF": 39.711,
+        "ID": 979,
+        "Name": null
+    },
+    {
+        "BossLevel": 980,
+        "LevelUpATK": 39.774,
+        "LevelUpHP": 39.799,
+        "LevelUpDEF": 39.774,
+        "ID": 980,
+        "Name": null
+    },
+    {
+        "BossLevel": 981,
+        "LevelUpATK": 39.837,
+        "LevelUpHP": 39.862,
+        "LevelUpDEF": 39.837,
+        "ID": 981,
+        "Name": null
+    },
+    {
+        "BossLevel": 982,
+        "LevelUpATK": 39.9,
+        "LevelUpHP": 39.926,
+        "LevelUpDEF": 39.9,
+        "ID": 982,
+        "Name": null
+    },
+    {
+        "BossLevel": 983,
+        "LevelUpATK": 39.964,
+        "LevelUpHP": 39.989,
+        "LevelUpDEF": 39.964,
+        "ID": 983,
+        "Name": null
+    },
+    {
+        "BossLevel": 984,
+        "LevelUpATK": 40.027,
+        "LevelUpHP": 40.053,
+        "LevelUpDEF": 40.027,
+        "ID": 984,
+        "Name": null
+    },
+    {
+        "BossLevel": 985,
+        "LevelUpATK": 40.091,
+        "LevelUpHP": 40.116,
+        "LevelUpDEF": 40.091,
+        "ID": 985,
+        "Name": null
+    },
+    {
+        "BossLevel": 986,
+        "LevelUpATK": 40.154,
+        "LevelUpHP": 40.179,
+        "LevelUpDEF": 40.154,
+        "ID": 986,
+        "Name": null
+    },
+    {
+        "BossLevel": 987,
+        "LevelUpATK": 40.218,
+        "LevelUpHP": 40.243,
+        "LevelUpDEF": 40.218,
+        "ID": 987,
+        "Name": null
+    },
+    {
+        "BossLevel": 988,
+        "LevelUpATK": 40.281,
+        "LevelUpHP": 40.307,
+        "LevelUpDEF": 40.281,
+        "ID": 988,
+        "Name": null
+    },
+    {
+        "BossLevel": 989,
+        "LevelUpATK": 40.345,
+        "LevelUpHP": 40.37,
+        "LevelUpDEF": 40.345,
+        "ID": 989,
+        "Name": null
+    },
+    {
+        "BossLevel": 990,
+        "LevelUpATK": 40.408,
+        "LevelUpHP": 40.434,
+        "LevelUpDEF": 40.408,
+        "ID": 990,
+        "Name": null
+    },
+    {
+        "BossLevel": 991,
+        "LevelUpATK": 40.472,
+        "LevelUpHP": 40.498,
+        "LevelUpDEF": 40.472,
+        "ID": 991,
+        "Name": null
+    },
+    {
+        "BossLevel": 992,
+        "LevelUpATK": 40.536,
+        "LevelUpHP": 40.561,
+        "LevelUpDEF": 40.536,
+        "ID": 992,
+        "Name": null
+    },
+    {
+        "BossLevel": 993,
+        "LevelUpATK": 40.599,
+        "LevelUpHP": 40.625,
+        "LevelUpDEF": 40.599,
+        "ID": 993,
+        "Name": null
+    },
+    {
+        "BossLevel": 994,
+        "LevelUpATK": 40.663,
+        "LevelUpHP": 40.689,
+        "LevelUpDEF": 40.663,
+        "ID": 994,
+        "Name": null
+    },
+    {
+        "BossLevel": 995,
+        "LevelUpATK": 40.727,
+        "LevelUpHP": 40.753,
+        "LevelUpDEF": 40.727,
+        "ID": 995,
+        "Name": null
+    },
+    {
+        "BossLevel": 996,
+        "LevelUpATK": 40.791,
+        "LevelUpHP": 40.817,
+        "LevelUpDEF": 40.791,
+        "ID": 996,
+        "Name": null
+    },
+    {
+        "BossLevel": 997,
+        "LevelUpATK": 40.855,
+        "LevelUpHP": 40.88,
+        "LevelUpDEF": 40.855,
+        "ID": 997,
+        "Name": null
+    },
+    {
+        "BossLevel": 998,
+        "LevelUpATK": 40.919,
+        "LevelUpHP": 40.944,
+        "LevelUpDEF": 40.919,
+        "ID": 998,
+        "Name": null
+    },
+    {
+        "BossLevel": 999,
+        "LevelUpATK": 40.983,
+        "LevelUpHP": 41.008,
+        "LevelUpDEF": 40.983,
+        "ID": 999,
+        "Name": null
+    },
+    {
+        "BossLevel": 1000,
+        "LevelUpATK": 41.047,
+        "LevelUpHP": 41.072,
+        "LevelUpDEF": 41.047,
+        "ID": 1000,
+        "Name": null
+    }
+]

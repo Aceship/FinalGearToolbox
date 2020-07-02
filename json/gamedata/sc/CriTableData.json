@@ -5247,6 +5247,86 @@
         "Name": "技能-召唤"
     },
     {
+<<<<<<< HEAD
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA01_SK1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008140,
+        "Name": "EVA01-技能"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA01_SK2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008150,
+        "Name": "EVA01-激光"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA_Shield1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008160,
+        "Name": "EVA00-护盾1"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA_Shield2",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008170,
+        "Name": "EVA00-护盾2"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA02_Spray",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008180,
+        "Name": "EVA02-喷射"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA02_Shoot",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008190,
+        "Name": "EVA02-发射"
+    },
+    {
+        "Description": "",
+        "GroupTag": "角色",
+        "CueSheet": "SK",
+        "CueName": "SK_EVA06_SK1",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 550008200,
+        "Name": "EVA06-技能"
+    },
+    {
+=======
+>>>>>>> parent of 269e0ad... sc 1130100
         "Description": "瞬闪-出现",
         "GroupTag": "一体机/01白鸦",
         "CueSheet": "SP",

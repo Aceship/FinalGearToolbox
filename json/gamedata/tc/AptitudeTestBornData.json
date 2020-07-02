@@ -1,7 +1,7 @@
 [
     {
         "StageWeight": 70,
-        "BornBuff": 0,
+        "BornBuff": "无",
         "BuffEffect": [
             0
         ],
@@ -12,7 +12,7 @@
     },
     {
         "StageWeight": 15,
-        "BornBuff": 0,
+        "BornBuff": "无",
         "BuffEffect": [
             30001200
         ],
@@ -23,7 +23,7 @@
     },
     {
         "StageWeight": 10,
-        "BornBuff": 0,
+        "BornBuff": "无",
         "BuffEffect": [
             30001201
         ],
@@ -34,7 +34,7 @@
     },
     {
         "StageWeight": 5,
-        "BornBuff": 0,
+        "BornBuff": "无",
         "BuffEffect": [
             30001202
         ],

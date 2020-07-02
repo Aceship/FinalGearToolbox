@@ -1,6 +1,6 @@
 [
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12325",
         "Effect": "12340",
         "Dialog": "12355",
@@ -11,7 +11,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12326",
         "Effect": "12341",
         "Dialog": "12356",
@@ -22,7 +22,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12327",
         "Effect": "12342",
         "Dialog": "12357",
@@ -33,7 +33,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12328",
         "Effect": "12343",
         "Dialog": "12358",
@@ -44,7 +44,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12329",
         "Effect": "12344",
         "Dialog": "12359",
@@ -55,7 +55,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12330",
         "Effect": "12345",
         "Dialog": "12360",
@@ -66,7 +66,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12331",
         "Effect": "12346",
         "Dialog": "12361",
@@ -77,7 +77,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12332",
         "Effect": "12347",
         "Dialog": "12362",
@@ -88,7 +88,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12333",
         "Effect": "12348",
         "Dialog": "12363",
@@ -99,7 +99,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12334",
         "Effect": "12349",
         "Dialog": "12364",
@@ -110,7 +110,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12335",
         "Effect": "12350",
         "Dialog": "12365",
@@ -121,7 +121,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12336",
         "Effect": "12351",
         "Dialog": "12366",
@@ -132,7 +132,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12337",
         "Effect": "12352",
         "Dialog": "12367",
@@ -143,7 +143,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12338",
         "Effect": "12353",
         "Dialog": "12368",
@@ -154,7 +154,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12339",
         "Effect": "12354",
         "Dialog": "12369",
@@ -165,7 +165,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "0",
         "Effect": "0",
         "Dialog": "0",
@@ -176,7 +176,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "0",
         "Effect": "0",
         "Dialog": "0",
@@ -187,7 +187,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "0",
         "Effect": "0",
         "Dialog": "0",
@@ -198,7 +198,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "12719",
         "Effect": "12720",
         "Dialog": "0",
@@ -209,7 +209,7 @@
         "Name": null
     },
     {
-        "ChristmasEventType": 0,
+        "ChristmasEventType": "无",
         "Description": "0",
         "Effect": "0",
         "Dialog": "0",

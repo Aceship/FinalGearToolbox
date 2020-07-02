@@ -32,7 +32,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000000",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -90,13 +90,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000000,
         "Name": null
     },
@@ -133,7 +133,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000001",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -191,13 +191,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000001,
         "Name": null
     },
@@ -234,7 +234,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000002",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -308,13 +308,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000002,
         "Name": null
     },
@@ -351,7 +351,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000010",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -409,7 +409,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -458,7 +458,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000010,
         "Name": null
     },
@@ -495,7 +495,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000020",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -517,7 +517,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -652,7 +652,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000020,
         "Name": null
     },
@@ -689,7 +689,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000030",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -747,7 +747,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -796,7 +796,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000030,
         "Name": null
     },
@@ -833,7 +833,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000031",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -891,7 +891,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -940,7 +940,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000031,
         "Name": null
     },
@@ -977,7 +977,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000032",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -999,7 +999,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -1090,7 +1090,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000032,
         "Name": null
     },
@@ -1127,7 +1127,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000040",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -1185,7 +1185,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -1234,7 +1234,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000040,
         "Name": null
     },
@@ -1271,7 +1271,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000041",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -1347,13 +1347,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000041,
         "Name": null
     },
@@ -1390,7 +1390,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000042",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -1448,7 +1448,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -1497,7 +1497,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000042,
         "Name": null
     },
@@ -1534,7 +1534,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000043",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -1608,7 +1608,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -1743,7 +1743,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000043,
         "Name": null
     },
@@ -1780,7 +1780,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000070",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -1853,7 +1853,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -1892,7 +1892,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000070,
         "Name": null
     },
@@ -1929,7 +1929,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000071",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -1987,7 +1987,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2036,7 +2036,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000071,
         "Name": null
     },
@@ -2073,7 +2073,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000072",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2095,7 +2095,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2186,7 +2186,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000072,
         "Name": null
     },
@@ -2223,7 +2223,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000080",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2351,13 +2351,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000080,
         "Name": null
     },
@@ -2394,7 +2394,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000081",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2452,7 +2452,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2501,7 +2501,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000081,
         "Name": null
     },
@@ -2538,7 +2538,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000082",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2596,7 +2596,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2645,7 +2645,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000082,
         "Name": null
     },
@@ -2682,7 +2682,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000090",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -2755,7 +2755,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2826,7 +2826,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000090,
         "Name": null
     },
@@ -2863,7 +2863,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000091",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2885,7 +2885,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -2934,7 +2934,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000091,
         "Name": null
     },
@@ -2971,7 +2971,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000092",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -2993,7 +2993,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3042,7 +3042,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000092,
         "Name": null
     },
@@ -3079,7 +3079,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000100",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3137,7 +3137,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3186,7 +3186,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000100,
         "Name": null
     },
@@ -3223,7 +3223,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000110",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3281,7 +3281,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3330,7 +3330,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000110,
         "Name": null
     },
@@ -3367,7 +3367,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000111",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3389,7 +3389,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3564,7 +3564,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000111,
         "Name": null
     },
@@ -3601,7 +3601,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000112",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3659,7 +3659,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3708,7 +3708,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000112,
         "Name": null
     },
@@ -3745,7 +3745,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000120",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3803,7 +3803,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3852,7 +3852,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000120,
         "Name": null
     },
@@ -3889,7 +3889,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000121",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -3947,7 +3947,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -3996,7 +3996,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000121,
         "Name": null
     },
@@ -4033,7 +4033,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000122",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4091,7 +4091,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4140,7 +4140,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000122,
         "Name": null
     },
@@ -4177,7 +4177,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000130",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4235,7 +4235,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4284,7 +4284,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000130,
         "Name": null
     },
@@ -4321,7 +4321,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000140",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4379,7 +4379,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4428,7 +4428,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000140,
         "Name": null
     },
@@ -4465,7 +4465,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000141",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4523,7 +4523,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4572,7 +4572,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000141,
         "Name": null
     },
@@ -4609,7 +4609,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000142",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4631,7 +4631,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4722,7 +4722,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000142,
         "Name": null
     },
@@ -4759,7 +4759,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000150",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -4780,13 +4780,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000150,
         "Name": null
     },
@@ -4823,7 +4823,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000160",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4845,7 +4845,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -4936,7 +4936,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000160,
         "Name": null
     },
@@ -4973,7 +4973,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000170",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -4995,7 +4995,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -5044,7 +5044,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000170,
         "Name": null
     },
@@ -5081,7 +5081,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000171",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5139,7 +5139,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -5188,7 +5188,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000171,
         "Name": null
     },
@@ -5225,7 +5225,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000172",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5299,7 +5299,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -5354,7 +5354,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000172,
         "Name": null
     },
@@ -5391,7 +5391,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000180",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5449,7 +5449,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -5498,7 +5498,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000180,
         "Name": null
     },
@@ -5535,7 +5535,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000181",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5593,7 +5593,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -5642,7 +5642,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000181,
         "Name": null
     },
@@ -5679,7 +5679,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000182",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5753,13 +5753,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000182,
         "Name": null
     },
@@ -5796,7 +5796,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000200",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5870,13 +5870,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000200,
         "Name": null
     },
@@ -5913,7 +5913,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000201",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -5935,7 +5935,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -6068,7 +6068,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000201,
         "Name": null
     },
@@ -6105,7 +6105,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000202",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -6179,7 +6179,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -6282,7 +6282,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000202,
         "Name": null
     },
@@ -6319,7 +6319,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000210",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -6393,13 +6393,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000210,
         "Name": null
     },
@@ -6436,7 +6436,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000211",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -6494,7 +6494,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -6543,7 +6543,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000211,
         "Name": null
     },
@@ -6580,7 +6580,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000212",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -6653,13 +6653,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000212,
         "Name": null
     },
@@ -6696,7 +6696,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000220",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -6769,7 +6769,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -6824,7 +6824,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000220,
         "Name": null
     },
@@ -6861,7 +6861,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000230",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -6919,7 +6919,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -6968,7 +6968,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000230,
         "Name": null
     },
@@ -7005,7 +7005,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000240",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7079,13 +7079,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000240,
         "Name": null
     },
@@ -7122,7 +7122,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000250",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7196,13 +7196,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000250,
         "Name": null
     },
@@ -7239,7 +7239,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000270",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7313,13 +7313,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000270,
         "Name": null
     },
@@ -7356,7 +7356,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000271",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -7429,13 +7429,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000271,
         "Name": null
     },
@@ -7472,7 +7472,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000272",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7494,7 +7494,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -7585,7 +7585,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000272,
         "Name": null
     },
@@ -7622,7 +7622,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000280",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7680,7 +7680,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -7729,7 +7729,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000280,
         "Name": null
     },
@@ -7766,7 +7766,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000290",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7788,7 +7788,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -7879,7 +7879,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000290,
         "Name": null
     },
@@ -7916,7 +7916,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000291",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -7974,7 +7974,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8023,7 +8023,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000291,
         "Name": null
     },
@@ -8060,7 +8060,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000292",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8082,7 +8082,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8173,7 +8173,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000292,
         "Name": null
     },
@@ -8210,7 +8210,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000300",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8268,7 +8268,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8317,7 +8317,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000300,
         "Name": null
     },
@@ -8354,7 +8354,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000310",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8412,7 +8412,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8461,7 +8461,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000310,
         "Name": null
     },
@@ -8498,7 +8498,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000320",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -8519,13 +8519,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000320,
         "Name": null
     },
@@ -8562,7 +8562,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000330",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8620,7 +8620,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8669,7 +8669,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000330,
         "Name": null
     },
@@ -8706,7 +8706,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000340",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -8727,13 +8727,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000340,
         "Name": null
     },
@@ -8770,7 +8770,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000350",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8828,7 +8828,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -8877,7 +8877,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000350,
         "Name": null
     },
@@ -8914,7 +8914,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000370",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -8972,7 +8972,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9021,7 +9021,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000370,
         "Name": null
     },
@@ -9058,7 +9058,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000380",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9132,7 +9132,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9171,7 +9171,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000380,
         "Name": null
     },
@@ -9208,7 +9208,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000381",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9266,7 +9266,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9315,7 +9315,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000381,
         "Name": null
     },
@@ -9352,7 +9352,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000382",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9374,7 +9374,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9423,7 +9423,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000382,
         "Name": null
     },
@@ -9460,7 +9460,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000390",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9518,7 +9518,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9567,7 +9567,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000390,
         "Name": null
     },
@@ -9604,7 +9604,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000400",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9662,7 +9662,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9711,7 +9711,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000400,
         "Name": null
     },
@@ -9748,7 +9748,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000410",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -9770,7 +9770,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -9819,7 +9819,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000410,
         "Name": null
     },
@@ -9856,7 +9856,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000420",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -9929,13 +9929,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000420,
         "Name": null
     },
@@ -9972,7 +9972,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000430",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10030,7 +10030,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -10079,7 +10079,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000430,
         "Name": null
     },
@@ -10116,7 +10116,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000440",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10138,7 +10138,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -10187,7 +10187,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000440,
         "Name": null
     },
@@ -10224,7 +10224,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000450",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10352,13 +10352,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000450,
         "Name": null
     },
@@ -10395,7 +10395,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000470",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10453,7 +10453,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -10502,7 +10502,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000470,
         "Name": null
     },
@@ -10539,7 +10539,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000480",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -10612,13 +10612,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000480,
         "Name": null
     },
@@ -10655,7 +10655,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000490",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10713,7 +10713,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -10762,7 +10762,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000490,
         "Name": null
     },
@@ -10799,7 +10799,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000491",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10857,7 +10857,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -10906,7 +10906,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000491,
         "Name": null
     },
@@ -10943,7 +10943,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000492",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -10965,7 +10965,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11056,7 +11056,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000492,
         "Name": null
     },
@@ -11093,7 +11093,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000500",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -11166,13 +11166,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000500,
         "Name": null
     },
@@ -11209,7 +11209,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000510",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -11267,7 +11267,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11316,7 +11316,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000510,
         "Name": null
     },
@@ -11353,7 +11353,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000520",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -11427,7 +11427,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11498,7 +11498,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000520,
         "Name": null
     },
@@ -11535,7 +11535,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000530",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -11575,7 +11575,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11624,7 +11624,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000530,
         "Name": null
     },
@@ -11661,7 +11661,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000550",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -11719,7 +11719,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11768,7 +11768,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000550,
         "Name": null
     },
@@ -11805,7 +11805,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000560",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -11845,7 +11845,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -11984,7 +11984,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000560,
         "Name": null
     },
@@ -12021,7 +12021,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000580",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12079,7 +12079,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12128,7 +12128,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000580,
         "Name": null
     },
@@ -12165,7 +12165,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000590",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12223,7 +12223,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12272,7 +12272,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000590,
         "Name": null
     },
@@ -12309,7 +12309,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000600",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12331,7 +12331,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12380,7 +12380,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000600,
         "Name": null
     },
@@ -12417,7 +12417,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000610",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12439,7 +12439,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12488,7 +12488,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000610,
         "Name": null
     },
@@ -12525,7 +12525,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000630",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12547,7 +12547,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12638,7 +12638,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000630,
         "Name": null
     },
@@ -12652,7 +12652,7 @@
         },
         "preview1": "Preview_Leg_000640_InLeg",
         "previewBounds1": {
-            "x": -0.1359911,
+            "x": -0.1359909,
             "y": 2.338955,
             "z": 3.871945,
             "w": 5.071485
@@ -12665,8 +12665,8 @@
             "w": 0.0
         },
         "bodyPosition": {
-            "x": 0.05514951,
-            "y": 5.01998
+            "x": 0.04790848,
+            "y": 3.368989
         },
         "reflectOffestTex": null,
         "EquipName": "",
@@ -12675,7 +12675,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000640",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001
@@ -12697,7 +12697,7 @@
                         "run": [
                             {
                                 "positionBone": "",
-                                "extraSotingOrder": 0,
+                                "extraSotingOrder": 1,
                                 "followBoneRotation": false,
                                 "followDirection": false,
                                 "resourceIDs": [],
@@ -12748,7 +12748,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12787,7 +12787,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000640,
         "Name": null
     },
@@ -12824,7 +12824,7 @@
         "balabaLevel": 0,
         "isAllInOne": false,
         "prefab": "Leg_000650",
-        "movieChannel": 0,
+        "movieChannel": "通道0",
         "shieldBoomEff": null,
         "clips": [
             890100001,
@@ -12882,7 +12882,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -12931,7 +12931,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23000650,
         "Name": null
     },
@@ -12968,7 +12968,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000000",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -12989,13 +12989,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010000,
         "Name": null
     },
@@ -13032,7 +13032,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000010",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13088,13 +13088,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010010,
         "Name": null
     },
@@ -13131,7 +13131,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000011",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13187,13 +13187,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010011,
         "Name": null
     },
@@ -13230,7 +13230,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000012",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13286,19 +13286,23 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010012,
         "Name": null
     },
     {
         "UseSpineArea": true,
         "hurtProtectData": {
+<<<<<<< HEAD
+            "stableValuePerHit": 50,
+            "duration": 5.0,
+=======
             "stableValuePerHit": 80,
             "duration": 1.0,
             "attenuationTime": 1.0,
@@ -13329,7 +13333,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000020",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13350,7 +13354,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -13525,7 +13529,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010020,
         "Name": null
     },
@@ -13534,6 +13538,7 @@
         "hurtProtectData": {
             "stableValuePerHit": 80,
             "duration": 1.0,
+>>>>>>> parent of 269e0ad... sc 1130100
             "attenuationTime": 1.0,
             "attenuationSpeed": 40.0
         },
@@ -13562,7 +13567,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000021",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13583,7 +13588,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -13758,7 +13763,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010021,
         "Name": null
     },
@@ -13795,7 +13800,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000022",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -13816,7 +13821,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -13991,7 +13996,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010022,
         "Name": null
     },
@@ -14028,7 +14033,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000023",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14049,7 +14054,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14224,7 +14229,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010023,
         "Name": null
     },
@@ -14261,7 +14266,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000030",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14282,7 +14287,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14331,7 +14336,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010030,
         "Name": null
     },
@@ -14368,7 +14373,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000031",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14389,7 +14394,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14438,7 +14443,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010031,
         "Name": null
     },
@@ -14475,7 +14480,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000032",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14496,7 +14501,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14545,7 +14550,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010032,
         "Name": null
     },
@@ -14582,7 +14587,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000033",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14603,7 +14608,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14652,7 +14657,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010033,
         "Name": null
     },
@@ -14689,7 +14694,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000034",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14710,7 +14715,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14759,7 +14764,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010034,
         "Name": null
     },
@@ -14796,7 +14801,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000040",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14817,7 +14822,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14866,7 +14871,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010040,
         "Name": null
     },
@@ -14903,7 +14908,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000050",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -14924,7 +14929,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -14973,7 +14978,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010050,
         "Name": null
     },
@@ -15010,7 +15015,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000051",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15031,7 +15036,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -15080,7 +15085,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010051,
         "Name": null
     },
@@ -15117,7 +15122,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000052",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15138,7 +15143,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -15187,7 +15192,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010052,
         "Name": null
     },
@@ -15224,7 +15229,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000060",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15280,13 +15285,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010060,
         "Name": null
     },
@@ -15323,7 +15328,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000070",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15344,13 +15349,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010070,
         "Name": null
     },
@@ -15387,7 +15392,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000071",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15408,13 +15413,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010071,
         "Name": null
     },
@@ -15451,7 +15456,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000080",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15472,7 +15477,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -15563,7 +15568,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010080,
         "Name": null
     },
@@ -15600,7 +15605,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000081",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15621,7 +15626,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -15712,7 +15717,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010081,
         "Name": null
     },
@@ -15749,7 +15754,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000090",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -15805,7 +15810,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -15908,7 +15913,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010090,
         "Name": null
     },
@@ -15945,7 +15950,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000100",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16001,13 +16006,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010100,
         "Name": null
     },
@@ -16044,7 +16049,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000101",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16100,13 +16105,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010101,
         "Name": null
     },
@@ -16143,7 +16148,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000102",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16199,13 +16204,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010102,
         "Name": null
     },
@@ -16242,7 +16247,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000110",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16298,13 +16303,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010110,
         "Name": null
     },
@@ -16341,7 +16346,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000120",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16397,13 +16402,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010120,
         "Name": null
     },
@@ -16440,7 +16445,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000130",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16479,7 +16484,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -16528,7 +16533,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010130,
         "Name": null
     },
@@ -16565,7 +16570,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000150",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16586,7 +16591,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -16761,7 +16766,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010150,
         "Name": null
     },
@@ -16798,7 +16803,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000151",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -16819,7 +16824,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -16994,7 +16999,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010151,
         "Name": null
     },
@@ -17031,7 +17036,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000160",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17052,13 +17057,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010160,
         "Name": null
     },
@@ -17095,7 +17100,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000170",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17169,13 +17174,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010170,
         "Name": null
     },
@@ -17212,7 +17217,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000171",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17286,13 +17291,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010171,
         "Name": null
     },
@@ -17329,7 +17334,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000172",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17403,13 +17408,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010172,
         "Name": null
     },
@@ -17446,7 +17451,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000173",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17520,13 +17525,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010173,
         "Name": null
     },
@@ -17563,7 +17568,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000190",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17607,13 +17612,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010190,
         "Name": null
     },
@@ -17650,7 +17655,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000190",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17694,13 +17699,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010192,
         "Name": null
     },
@@ -17737,7 +17742,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000190",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17781,13 +17786,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010193,
         "Name": null
     },
@@ -17824,7 +17829,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000210",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17880,13 +17885,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010210,
         "Name": null
     },
@@ -17923,7 +17928,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000210",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -17979,13 +17984,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010211,
         "Name": null
     },
@@ -18022,7 +18027,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000210",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18078,13 +18083,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010212,
         "Name": null
     },
@@ -18121,7 +18126,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000220",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18177,13 +18182,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010220,
         "Name": null
     },
@@ -18220,7 +18225,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000230",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18241,7 +18246,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18332,7 +18337,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010230,
         "Name": null
     },
@@ -18369,7 +18374,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000231",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18390,7 +18395,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18481,7 +18486,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010231,
         "Name": null
     },
@@ -18518,7 +18523,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000240",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18539,7 +18544,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18588,7 +18593,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010240,
         "Name": null
     },
@@ -18625,7 +18630,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000240",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18646,7 +18651,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18695,7 +18700,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010241,
         "Name": null
     },
@@ -18732,7 +18737,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000240",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18753,7 +18758,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18802,7 +18807,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010242,
         "Name": null
     },
@@ -18839,7 +18844,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000240",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18860,7 +18865,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -18909,7 +18914,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010243,
         "Name": null
     },
@@ -18946,7 +18951,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000240",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -18967,7 +18972,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19016,7 +19021,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010244,
         "Name": null
     },
@@ -19053,7 +19058,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000250",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19074,13 +19079,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010250,
         "Name": null
     },
@@ -19117,7 +19122,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000250",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19138,13 +19143,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010251,
         "Name": null
     },
@@ -19181,7 +19186,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000260",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19202,7 +19207,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19251,7 +19256,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010260,
         "Name": null
     },
@@ -19288,7 +19293,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000270",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19309,7 +19314,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19358,7 +19363,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010270,
         "Name": null
     },
@@ -19395,7 +19400,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000271",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19416,7 +19421,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19465,7 +19470,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010271,
         "Name": null
     },
@@ -19502,7 +19507,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000272",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19523,7 +19528,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19572,7 +19577,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010272,
         "Name": null
     },
@@ -19609,7 +19614,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000280",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19630,7 +19635,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -19679,7 +19684,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010280,
         "Name": null
     },
@@ -19716,7 +19721,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000290",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19772,13 +19777,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010290,
         "Name": null
     },
@@ -19815,7 +19820,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000310",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19871,13 +19876,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010310,
         "Name": null
     },
@@ -19914,7 +19919,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000320",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -19970,13 +19975,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010320,
         "Name": null
     },
@@ -20013,7 +20018,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000321",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20069,13 +20074,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010321,
         "Name": null
     },
@@ -20112,7 +20117,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000330",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20133,7 +20138,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -20182,7 +20187,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010330,
         "Name": null
     },
@@ -20219,7 +20224,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000331",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20240,7 +20245,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -20289,7 +20294,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010331,
         "Name": null
     },
@@ -20326,7 +20331,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000340",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20382,13 +20387,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010340,
         "Name": null
     },
@@ -20425,7 +20430,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000350",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20481,13 +20486,13 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010350,
         "Name": null
     },
@@ -20524,7 +20529,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000370",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20545,13 +20550,13 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010370,
         "Name": null
     },
@@ -20588,7 +20593,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000380",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20609,7 +20614,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -20658,7 +20663,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010380,
         "Name": null
     },
@@ -20695,7 +20700,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000390",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20751,7 +20756,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -20806,7 +20811,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010390,
         "Name": null
     },
@@ -20843,7 +20848,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000391",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -20899,7 +20904,7 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -20954,7 +20959,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010391,
         "Name": null
     },
@@ -20991,7 +20996,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000410",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -21012,7 +21017,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -21061,7 +21066,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010410,
         "Name": null
     },
@@ -21098,7 +21103,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000420",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -21119,7 +21124,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -21168,7 +21173,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010420,
         "Name": null
     },
@@ -21205,7 +21210,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000450",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -21226,7 +21231,7 @@
                     "effectDatas": {}
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [
@@ -21317,7 +21322,7 @@
         ],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
         "ID": 23010450,
         "Name": null
     },
@@ -21354,7 +21359,7 @@
         "balabaLevel": 0,
         "isAllInOne": true,
         "prefab": "Armor_000460",
-        "movieChannel": 1,
+        "movieChannel": "通道1",
         "shieldBoomEff": null,
         "clips": [
             890100003
@@ -21410,14 +21415,18 @@
                     }
                 },
                 "scriptType": null,
-                "type": 0
+                "type": "Move"
             }
         ],
         "eventEffectDatas": [],
         "skills": [],
         "passiveSkillIDs": [],
-        "type": 0,
+        "type": "None",
+<<<<<<< HEAD
+        "ID": 23010510,
+=======
         "ID": 23010460,
+>>>>>>> parent of 269e0ad... sc 1130100
         "Name": null
     }
 ]

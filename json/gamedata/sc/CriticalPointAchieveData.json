@@ -1,7 +1,7 @@
 [
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 1,
@@ -27,7 +27,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 2,
@@ -53,7 +53,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 3,
@@ -79,7 +79,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 4,
@@ -105,7 +105,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 5,
@@ -131,7 +131,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 6,
@@ -157,7 +157,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 7,
@@ -183,7 +183,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 8,
@@ -209,7 +209,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 9,
@@ -235,7 +235,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 10,
@@ -261,7 +261,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 11,
@@ -287,7 +287,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 12,
@@ -313,7 +313,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 13,
@@ -339,7 +339,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 14,
@@ -365,7 +365,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 15,
@@ -391,7 +391,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 16,
@@ -417,7 +417,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 17,
@@ -443,7 +443,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 18,
@@ -469,7 +469,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 19,
@@ -495,7 +495,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 20,
@@ -521,7 +521,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 21,
@@ -547,7 +547,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 22,
@@ -573,7 +573,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 23,
@@ -599,7 +599,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 24,
@@ -625,7 +625,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 25,
@@ -651,7 +651,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 26,
@@ -677,7 +677,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 27,
@@ -703,7 +703,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 28,
@@ -729,7 +729,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 29,
@@ -755,7 +755,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 30,
@@ -781,7 +781,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 30,
@@ -807,7 +807,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 30,
@@ -833,7 +833,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图3",
         "AchieveGroup": 30,
@@ -859,7 +859,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图4",
         "AchieveGroup": 30,
@@ -885,7 +885,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图5",
         "AchieveGroup": 30,
@@ -911,7 +911,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图1",
         "AchieveGroup": 30,
@@ -937,7 +937,7 @@
     },
     {
         "ActivityID": 11,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "左侧图2",
         "AchieveGroup": 30,
@@ -963,7 +963,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 1,
@@ -989,7 +989,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 2,
@@ -1015,7 +1015,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 3,
@@ -1041,7 +1041,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 4,
@@ -1067,7 +1067,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 5,
@@ -1093,7 +1093,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 6,
@@ -1106,7 +1106,7 @@
         "CriticalPointAchieveDesc": "12255",
         "ItemReward": [
             [
-                13300043,
+                13200226,
                 1
             ],
             [
@@ -1119,7 +1119,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 7,
@@ -1132,8 +1132,8 @@
         "CriticalPointAchieveDesc": "12256",
         "ItemReward": [
             [
-                13300042,
-                1
+                13200226,
+                3
             ],
             [
                 10100041,
@@ -1145,7 +1145,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 8,
@@ -1171,7 +1171,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 9,
@@ -1184,8 +1184,8 @@
         "CriticalPointAchieveDesc": "12258",
         "ItemReward": [
             [
-                13300044,
-                1
+                13200226,
+                5
             ],
             [
                 10100041,
@@ -1197,7 +1197,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 10,
@@ -1210,8 +1210,8 @@
         "CriticalPointAchieveDesc": "12691",
         "ItemReward": [
             [
-                13300041,
-                1
+                13200226,
+                10
             ],
             [
                 10100041,
@@ -1223,7 +1223,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 11,
@@ -1249,7 +1249,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 12,
@@ -1275,7 +1275,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "17_通关",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 13,
@@ -1301,7 +1301,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 14,
@@ -1327,7 +1327,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 15,
@@ -1353,7 +1353,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 16,
@@ -1379,7 +1379,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 17,
@@ -1405,7 +1405,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 18,
@@ -1431,7 +1431,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 19,
@@ -1457,7 +1457,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 20,
@@ -1483,7 +1483,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 21,
@@ -1509,7 +1509,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 22,
@@ -1535,7 +1535,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 23,
@@ -1561,7 +1561,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 24,
@@ -1587,7 +1587,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 25,
@@ -1613,7 +1613,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_renwu",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 26,
@@ -1626,12 +1626,12 @@
         "CriticalPointAchieveDesc": "12698",
         "ItemReward": [
             [
-                11300007,
-                1
-            ],
-            [
                 10100041,
                 50
+            ],
+            [
+                15010064,
+                1
             ]
         ],
         "ID": 63,
@@ -1639,7 +1639,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 27,
@@ -1658,6 +1658,10 @@
             [
                 10100041,
                 50
+            ],
+            [
+                18000006,
+                5
             ]
         ],
         "ID": 64,
@@ -1665,7 +1669,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 28,
@@ -1684,6 +1688,10 @@
             [
                 10100041,
                 50
+            ],
+            [
+                18000006,
+                10
             ]
         ],
         "ID": 65,
@@ -1691,7 +1699,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_gonghui",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 29,
@@ -1704,12 +1712,12 @@
         "CriticalPointAchieveDesc": "12241",
         "ItemReward": [
             [
-                15010064,
-                1
-            ],
-            [
                 10100041,
                 50
+            ],
+            [
+                18000013,
+                1
             ]
         ],
         "ID": 66,
@@ -1717,7 +1725,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1743,7 +1751,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1769,7 +1777,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1795,7 +1803,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1821,7 +1829,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1847,7 +1855,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1873,7 +1881,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,
@@ -1899,7 +1907,7 @@
     },
     {
         "ActivityID": 18,
-        "CriticalPointAchieveType": 0,
+        "CriticalPointAchieveType": "无",
         "CriticalPointAchieveIcon": "icon_yueduhuodong",
         "CriticalPointAchieveBg": "",
         "AchieveGroup": 30,

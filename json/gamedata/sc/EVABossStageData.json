@@ -1,0 +1,49 @@
+[
+    {
+        "OpenTime": [
+            1,
+            3
+        ],
+        "SimpleLvl": 8086,
+        "NormalLvl": 8087,
+        "HardLvl": 8088,
+        "MainDesc": "第3使徒推测",
+        "ID": 1,
+        "Name": null
+    },
+    {
+        "OpenTime": [
+            2,
+            4
+        ],
+        "SimpleLvl": 8089,
+        "NormalLvl": 8090,
+        "HardLvl": 8091,
+        "MainDesc": "第4使徒推测",
+        "ID": 2,
+        "Name": null
+    },
+    {
+        "OpenTime": [
+            5,
+            6
+        ],
+        "SimpleLvl": 8092,
+        "NormalLvl": 8093,
+        "HardLvl": 8094,
+        "MainDesc": "第9使徒推测",
+        "ID": 3,
+        "Name": null
+    },
+    {
+        "OpenTime": [
+            0
+        ],
+        "SimpleLvl": 8095,
+        "NormalLvl": 8096,
+        "HardLvl": 8097,
+        "MainDesc": "第10使徒推测",
+        "ID": 4,
+        "Name": null
+    }
+]

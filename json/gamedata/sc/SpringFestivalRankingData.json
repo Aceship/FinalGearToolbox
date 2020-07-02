@@ -1,6 +1,6 @@
 [
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "1;1",
         "FontSize": 45,
         "RankingAward": [],
@@ -8,7 +8,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "2;2",
         "FontSize": 45,
         "RankingAward": [],
@@ -16,7 +16,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "3;3",
         "FontSize": 45,
         "RankingAward": [],
@@ -24,7 +24,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "4;10",
         "FontSize": 22,
         "RankingAward": [],
@@ -32,7 +32,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "11;50",
         "FontSize": 22,
         "RankingAward": [],
@@ -40,7 +40,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "51;100",
         "FontSize": 22,
         "RankingAward": [],
@@ -48,7 +48,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "101;200",
         "FontSize": 22,
         "RankingAward": [],
@@ -56,7 +56,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "201;300",
         "FontSize": 22,
         "RankingAward": [],
@@ -64,7 +64,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "301;500",
         "FontSize": 22,
         "RankingAward": [],
@@ -72,7 +72,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "501;1000",
         "FontSize": 14,
         "RankingAward": [],
@@ -80,7 +80,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "1001;10000",
         "FontSize": 14,
         "RankingAward": [],
@@ -88,7 +88,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "1;1",
         "FontSize": 45,
         "RankingAward": [
@@ -117,7 +117,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "2;2",
         "FontSize": 45,
         "RankingAward": [
@@ -146,7 +146,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "3;3",
         "FontSize": 45,
         "RankingAward": [
@@ -175,7 +175,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "4;10",
         "FontSize": 22,
         "RankingAward": [
@@ -204,7 +204,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "11;50",
         "FontSize": 22,
         "RankingAward": [
@@ -233,7 +233,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "51;100",
         "FontSize": 22,
         "RankingAward": [
@@ -262,7 +262,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "101;200",
         "FontSize": 22,
         "RankingAward": [
@@ -291,7 +291,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "201;300",
         "FontSize": 22,
         "RankingAward": [
@@ -320,7 +320,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "301;500",
         "FontSize": 22,
         "RankingAward": [
@@ -349,7 +349,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "501;1000",
         "FontSize": 14,
         "RankingAward": [
@@ -374,7 +374,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "1001;10000",
         "FontSize": 14,
         "RankingAward": [
@@ -399,7 +399,7 @@
         "Name": null
     },
     {
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "Ranking": "10001;1000000",
         "FontSize": 12,
         "RankingAward": [

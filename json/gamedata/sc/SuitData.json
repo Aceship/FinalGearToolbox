@@ -748,16 +748,20 @@
         "SuitName": "3206",
         "SuitType": 2,
         "SuitWeaponID": [
-            2302112
+            2302112,
+            230211201
         ],
         "SuitChestID": [
-            2302122
+            2302122,
+            230212201
         ],
         "SuitLegID": [
-            2302132
+            2302132,
+            230213201
         ],
         "SuitBackpackID": [
-            2302142
+            2302142,
+            230214201
         ],
         "SuitGirlID": [
             21
@@ -870,16 +874,20 @@
         "SuitName": "3208",
         "SuitType": 2,
         "SuitWeaponID": [
-            2306412
+            2306412,
+            230641201
         ],
         "SuitChestID": [
-            2306422
+            2306422,
+            230642201
         ],
         "SuitLegID": [
-            2306432
+            2306432,
+            230643201
         ],
         "SuitBackpackID": [
-            2306442
+            2306442,
+            230644201
         ],
         "SuitGirlID": [
             64
@@ -1443,16 +1451,20 @@
         "SuitName": "11810",
         "SuitType": 2,
         "SuitWeaponID": [
-            2308013
+            2308013,
+            230801301
         ],
         "SuitChestID": [
-            2308021
+            2308021,
+            230802101
         ],
         "SuitLegID": [
-            2308031
+            2308031,
+            230803101
         ],
         "SuitBackpackID": [
-            2308041
+            2308041,
+            230804101
         ],
         "SuitGirlID": [
             80
@@ -2443,7 +2455,7 @@
             ],
             "propertys": null
         },
-        "Suit4Desc": "14700",
+        "Suit4Desc": "4992",
         "Suit5Add": {
             "keys": [
                 95
@@ -2466,5 +2478,390 @@
         "ArmorRate": 8,
         "ID": 303601,
         "Name": "套装数据"
+<<<<<<< HEAD
+    },
+    {
+        "SuitName": "18107",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2311001,
+            231100101
+        ],
+        "SuitChestID": [
+            2311002,
+            231100201
+        ],
+        "SuitLegID": [
+            2311003,
+            231100301
+        ],
+        "SuitBackpackID": [
+            2311004,
+            231100401
+        ],
+        "SuitGirlID": [
+            110
+        ],
+        "Suit2Add": {
+            "keys": [
+                23
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "18309",
+        "Suit4Add": {
+            "keys": [
+                68
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "18310",
+        "Suit5Add": {
+            "keys": [
+                108
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "17788",
+        "MachineArmorID": 11001,
+        "WidgetCamp": 8,
+        "Designer": "18112",
+        "Manufacturer": "18113",
+        "Disc": "18114",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 8,
+        "ID": 311001,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "18108",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2311101,
+            231110101
+        ],
+        "SuitChestID": [
+            2311102,
+            231110201
+        ],
+        "SuitLegID": [
+            2311103,
+            231110301
+        ],
+        "SuitBackpackID": [
+            2311104,
+            231110401
+        ],
+        "SuitGirlID": [
+            111
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "14698",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "13507",
+        "Suit5Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit5Desc": "17789",
+        "MachineArmorID": 11101,
+        "WidgetCamp": 8,
+        "Designer": "18112",
+        "Manufacturer": "18113",
+        "Disc": "18114",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 8,
+        "HitRate": 8,
+        "ArmorRate": 8,
+        "ID": 311101,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "18109",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2311201,
+            231120101
+        ],
+        "SuitChestID": [
+            2311202,
+            231120201
+        ],
+        "SuitLegID": [
+            2311203,
+            231120301
+        ],
+        "SuitBackpackID": [
+            2311204,
+            231120401
+        ],
+        "SuitGirlID": [
+            112
+        ],
+        "Suit2Add": {
+            "keys": [
+                59
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "17896",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "13507",
+        "Suit5Add": {
+            "keys": [
+                27
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "17787",
+        "MachineArmorID": 11201,
+        "WidgetCamp": 8,
+        "Designer": "18112",
+        "Manufacturer": "18113",
+        "Disc": "18114",
+        "HpRate": 8,
+        "AtkRate": 9,
+        "DodgeRate": 9,
+        "HitRate": 9,
+        "ArmorRate": 9,
+        "ID": 311201,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "18110",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2311301,
+            231130101
+        ],
+        "SuitChestID": [
+            2311302,
+            231130201
+        ],
+        "SuitLegID": [
+            2311303,
+            231130301
+        ],
+        "SuitBackpackID": [
+            2311304,
+            231130401
+        ],
+        "SuitGirlID": [
+            113
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "14698",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "13507",
+        "Suit5Add": {
+            "keys": null,
+            "values": null,
+            "propertys": null
+        },
+        "Suit5Desc": "17790",
+        "MachineArmorID": 11301,
+        "WidgetCamp": 8,
+        "Designer": "18112",
+        "Manufacturer": "18113",
+        "Disc": "18114",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 9,
+        "ID": 311301,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "18111",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2311401,
+            231140101
+        ],
+        "SuitChestID": [
+            2311402,
+            231140201
+        ],
+        "SuitLegID": [
+            2311403,
+            231140301
+        ],
+        "SuitBackpackID": [
+            2311404,
+            231140401
+        ],
+        "SuitGirlID": [
+            114
+        ],
+        "Suit2Add": {
+            "keys": [
+                54
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "14698",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "13507",
+        "Suit5Add": {
+            "keys": [
+                59
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "17784",
+        "MachineArmorID": 11401,
+        "WidgetCamp": 8,
+        "Designer": "18112",
+        "Manufacturer": "18113",
+        "Disc": "18114",
+        "HpRate": 9,
+        "AtkRate": 9,
+        "DodgeRate": 8,
+        "HitRate": 7,
+        "ArmorRate": 8,
+        "ID": 311401,
+        "Name": "套装数据"
+    },
+    {
+        "SuitName": "18523",
+        "SuitType": 2,
+        "SuitWeaponID": [
+            2309501,
+            230950101
+        ],
+        "SuitChestID": [
+            2309502,
+            230950201
+        ],
+        "SuitLegID": [
+            2309503,
+            230950301
+        ],
+        "SuitBackpackID": [
+            2309504,
+            230950401
+        ],
+        "SuitGirlID": [
+            95
+        ],
+        "Suit2Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit2Desc": "11815",
+        "Suit4Add": {
+            "keys": [
+                65
+            ],
+            "values": [
+                0.05
+            ],
+            "propertys": null
+        },
+        "Suit4Desc": "13507",
+        "Suit5Add": {
+            "keys": [
+                59
+            ],
+            "values": [
+                0.1
+            ],
+            "propertys": null
+        },
+        "Suit5Desc": "17783",
+        "MachineArmorID": 9501,
+        "WidgetCamp": 6,
+        "Designer": "18520",
+        "Manufacturer": "18521",
+        "Disc": "18522",
+        "HpRate": 9,
+        "AtkRate": 10,
+        "DodgeRate": 10,
+        "HitRate": 10,
+        "ArmorRate": 10,
+        "ID": 309501,
+        "Name": "套装数据"
+=======
+>>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

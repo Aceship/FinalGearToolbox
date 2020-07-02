@@ -231,8 +231,8 @@
     },
     {
         "BannerName": "8907",
-        "OpenTime": "2019/12/26 14:30:00",
-        "CloseTime": "2020/1/9 13:59:59",
+        "OpenTime": "2020/6/25 14:30:00",
+        "CloseTime": "2020/7/2 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity46",
         "LinkPage": 3,
@@ -241,8 +241,8 @@
     },
     {
         "BannerName": "8906",
-        "OpenTime": "2019/12/26 14:30:00",
-        "CloseTime": "2020/1/9 13:59:59",
+        "OpenTime": "2020/6/25 14:30:00",
+        "CloseTime": "2020/7/2 13:59:59",
         "Device": 0,
         "PictureName": "gameActivity47",
         "LinkPage": 4,
@@ -510,6 +510,108 @@
         "Name": null
     },
     {
+        "BannerName": "17909",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity89",
+        "LinkPage": 3,
+        "ID": 105,
+        "Name": null
+    },
+    {
+        "BannerName": "17910",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity90",
+        "LinkPage": 4,
+        "ID": 106,
+        "Name": null
+    },
+    {
+        "BannerName": "17911",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity91",
+        "LinkPage": 4,
+        "ID": 107,
+        "Name": null
+    },
+    {
+<<<<<<< HEAD
+        "BannerName": "18331",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity97",
+        "LinkPage": 3,
+        "ID": 111,
+        "Name": null
+    },
+    {
+        "BannerName": "18333",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity98",
+        "LinkPage": 4,
+        "ID": 113,
+        "Name": null
+    },
+    {
+        "BannerName": "18335",
+        "OpenTime": "2020/7/16 14:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity100",
+        "LinkPage": 3,
+        "ID": 119,
+        "Name": null
+    },
+    {
+        "BannerName": "18337",
+        "OpenTime": "2020/7/16 14:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity101",
+        "LinkPage": 4,
+        "ID": 121,
+        "Name": null
+    },
+    {
+        "BannerName": "18593",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/16 13:59:59",
+=======
+        "BannerName": "16926",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+>>>>>>> parent of 269e0ad... sc 1130100
+        "Device": 0,
+        "PictureName": "gameActivity94",
+        "LinkPage": 1,
+        "ID": 111,
+        "Name": null
+    },
+    {
+<<<<<<< HEAD
+        "BannerName": "18594",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/16 13:59:59",
+=======
+        "BannerName": "16927",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+>>>>>>> parent of 269e0ad... sc 1130100
+        "Device": 0,
+        "PictureName": "gameActivity95",
+        "LinkPage": 1,
+        "ID": 112,
+        "Name": null
+    },
+    {
         "BannerName": "1073",
         "OpenTime": "",
         "CloseTime": "",
@@ -741,8 +843,8 @@
     },
     {
         "BannerName": "8907",
-        "OpenTime": "2019/12/26 14:30:00",
-        "CloseTime": "2020/1/9 13:59:59",
+        "OpenTime": "2020/6/25 14:30:00",
+        "CloseTime": "2020/7/2 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity46",
         "LinkPage": 3,
@@ -751,8 +853,8 @@
     },
     {
         "BannerName": "8906",
-        "OpenTime": "2019/12/26 14:30:00",
-        "CloseTime": "2020/1/9 13:59:59",
+        "OpenTime": "2020/6/25 14:30:00",
+        "CloseTime": "2020/7/2 13:59:59",
         "Device": 1,
         "PictureName": "gameActivity47",
         "LinkPage": 4,
@@ -1017,6 +1119,132 @@
         "PictureName": "gameActivity93",
         "LinkPage": 1,
         "ID": 104,
+        "Name": null
+    },
+    {
+        "BannerName": "17835",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity89",
+        "LinkPage": 3,
+        "ID": 108,
+        "Name": null
+    },
+    {
+        "BannerName": "17836",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity90",
+        "LinkPage": 4,
+        "ID": 109,
+        "Name": null
+    },
+    {
+        "BannerName": "17837",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity91",
+        "LinkPage": 4,
+        "ID": 110,
+        "Name": null
+    },
+    {
+<<<<<<< HEAD
+        "BannerName": "18331",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity97",
+        "LinkPage": 3,
+        "ID": 115,
+        "Name": null
+    },
+    {
+        "BannerName": "18333",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity98",
+        "LinkPage": 4,
+        "ID": 117,
+        "Name": null
+    },
+    {
+        "BannerName": "18335",
+        "OpenTime": "2020/7/16 14:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity100",
+        "LinkPage": 3,
+        "ID": 123,
+        "Name": null
+    },
+    {
+        "BannerName": "18337",
+        "OpenTime": "2020/7/16 14:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity101",
+        "LinkPage": 4,
+        "ID": 125,
+        "Name": null
+    },
+    {
+        "BannerName": "18593",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/16 13:59:59",
+=======
+        "BannerName": "16926",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+>>>>>>> parent of 269e0ad... sc 1130100
+        "Device": 1,
+        "PictureName": "gameActivity94",
+        "LinkPage": 1,
+        "ID": 113,
+        "Name": null
+    },
+    {
+<<<<<<< HEAD
+        "BannerName": "18594",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/16 13:59:59",
+=======
+        "BannerName": "16927",
+        "OpenTime": "2020/6/11 14:30:00",
+        "CloseTime": "2020/6/25 13:59:59",
+>>>>>>> parent of 269e0ad... sc 1130100
+        "Device": 1,
+        "PictureName": "gameActivity95",
+        "LinkPage": 1,
+<<<<<<< HEAD
+        "ID": 130,
+        "Name": null
+    },
+    {
+        "BannerName": "18768",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 0,
+        "PictureName": "gameActivity96",
+        "LinkPage": 17,
+        "ID": 131,
+        "Name": null
+    },
+    {
+        "BannerName": "18768",
+        "OpenTime": "2020/7/2 11:30:00",
+        "CloseTime": "2020/7/30 13:59:59",
+        "Device": 1,
+        "PictureName": "gameActivity96",
+        "LinkPage": 17,
+        "ID": 132,
+=======
+        "ID": 114,
+>>>>>>> parent of 269e0ad... sc 1130100
         "Name": null
     }
 ]

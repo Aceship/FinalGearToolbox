@@ -88,5 +88,95 @@
         "DiamondNum": 200,
         "ID": 15,
         "Name": null
+    },
+    {
+        "ReflashNum": 1,
+        "DiamondNum": 30,
+        "ID": 16,
+        "Name": null
+    },
+    {
+        "ReflashNum": 2,
+        "DiamondNum": 40,
+        "ID": 17,
+        "Name": null
+    },
+    {
+        "ReflashNum": 3,
+        "DiamondNum": 50,
+        "ID": 18,
+        "Name": null
+    },
+    {
+        "ReflashNum": 4,
+        "DiamondNum": 60,
+        "ID": 19,
+        "Name": null
+    },
+    {
+        "ReflashNum": 5,
+        "DiamondNum": 70,
+        "ID": 20,
+        "Name": null
+    },
+    {
+        "ReflashNum": 6,
+        "DiamondNum": 80,
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "ReflashNum": 7,
+        "DiamondNum": 90,
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "ReflashNum": 8,
+        "DiamondNum": 100,
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "ReflashNum": 9,
+        "DiamondNum": 110,
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "ReflashNum": 10,
+        "DiamondNum": 120,
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "ReflashNum": 11,
+        "DiamondNum": 130,
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "ReflashNum": 12,
+        "DiamondNum": 250,
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "ReflashNum": 13,
+        "DiamondNum": 250,
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "ReflashNum": 14,
+        "DiamondNum": 250,
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "ReflashNum": 15,
+        "DiamondNum": 250,
+        "ID": 30,
+        "Name": null
     }
 ]

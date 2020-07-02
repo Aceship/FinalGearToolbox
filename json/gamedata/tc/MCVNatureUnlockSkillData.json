@@ -19403,7 +19403,7 @@
         "GirlID": 98,
         "NatureID": 1,
         "NatureLevel": 2,
-        "SkillID": 201021,
+        "SkillID": 0,
         "ID": 2426,
         "Name": null
     },
@@ -19411,7 +19411,7 @@
         "GirlID": 98,
         "NatureID": 1,
         "NatureLevel": 5,
-        "SkillID": 201022,
+        "SkillID": 0,
         "ID": 2427,
         "Name": null
     },
@@ -19419,7 +19419,7 @@
         "GirlID": 98,
         "NatureID": 1,
         "NatureLevel": 8,
-        "SkillID": 201023,
+        "SkillID": 0,
         "ID": 2428,
         "Name": null
     },
@@ -19427,7 +19427,7 @@
         "GirlID": 98,
         "NatureID": 1,
         "NatureLevel": 10,
-        "SkillID": 201024,
+        "SkillID": 0,
         "ID": 2429,
         "Name": null
     },
@@ -19435,7 +19435,7 @@
         "GirlID": 98,
         "NatureID": 1,
         "NatureLevel": 12,
-        "SkillID": 201025,
+        "SkillID": 0,
         "ID": 2430,
         "Name": null
     },
@@ -19443,7 +19443,7 @@
         "GirlID": 98,
         "NatureID": 2,
         "NatureLevel": 2,
-        "SkillID": 402031,
+        "SkillID": 0,
         "ID": 2431,
         "Name": null
     },
@@ -19451,7 +19451,7 @@
         "GirlID": 98,
         "NatureID": 2,
         "NatureLevel": 5,
-        "SkillID": 402032,
+        "SkillID": 0,
         "ID": 2432,
         "Name": null
     },
@@ -19459,7 +19459,7 @@
         "GirlID": 98,
         "NatureID": 2,
         "NatureLevel": 8,
-        "SkillID": 402033,
+        "SkillID": 0,
         "ID": 2433,
         "Name": null
     },
@@ -19467,7 +19467,7 @@
         "GirlID": 98,
         "NatureID": 2,
         "NatureLevel": 10,
-        "SkillID": 402034,
+        "SkillID": 0,
         "ID": 2434,
         "Name": null
     },
@@ -19475,7 +19475,7 @@
         "GirlID": 98,
         "NatureID": 2,
         "NatureLevel": 12,
-        "SkillID": 402035,
+        "SkillID": 0,
         "ID": 2435,
         "Name": null
     },
@@ -19483,7 +19483,7 @@
         "GirlID": 98,
         "NatureID": 3,
         "NatureLevel": 2,
-        "SkillID": 403111,
+        "SkillID": 0,
         "ID": 2436,
         "Name": null
     },
@@ -19491,7 +19491,7 @@
         "GirlID": 98,
         "NatureID": 3,
         "NatureLevel": 5,
-        "SkillID": 403112,
+        "SkillID": 0,
         "ID": 2437,
         "Name": null
     },
@@ -19499,7 +19499,7 @@
         "GirlID": 98,
         "NatureID": 3,
         "NatureLevel": 8,
-        "SkillID": 403113,
+        "SkillID": 0,
         "ID": 2438,
         "Name": null
     },
@@ -19507,7 +19507,7 @@
         "GirlID": 98,
         "NatureID": 3,
         "NatureLevel": 10,
-        "SkillID": 403114,
+        "SkillID": 0,
         "ID": 2439,
         "Name": null
     },
@@ -19515,7 +19515,7 @@
         "GirlID": 98,
         "NatureID": 3,
         "NatureLevel": 12,
-        "SkillID": 403115,
+        "SkillID": 0,
         "ID": 2440,
         "Name": null
     },
@@ -19523,7 +19523,7 @@
         "GirlID": 98,
         "NatureID": 4,
         "NatureLevel": 2,
-        "SkillID": 501211,
+        "SkillID": 0,
         "ID": 2441,
         "Name": null
     },
@@ -19531,7 +19531,7 @@
         "GirlID": 98,
         "NatureID": 4,
         "NatureLevel": 5,
-        "SkillID": 501212,
+        "SkillID": 0,
         "ID": 2442,
         "Name": null
     },
@@ -19539,7 +19539,7 @@
         "GirlID": 98,
         "NatureID": 4,
         "NatureLevel": 8,
-        "SkillID": 501213,
+        "SkillID": 0,
         "ID": 2443,
         "Name": null
     },
@@ -19547,7 +19547,7 @@
         "GirlID": 98,
         "NatureID": 4,
         "NatureLevel": 10,
-        "SkillID": 501214,
+        "SkillID": 0,
         "ID": 2444,
         "Name": null
     },
@@ -19555,7 +19555,7 @@
         "GirlID": 98,
         "NatureID": 4,
         "NatureLevel": 12,
-        "SkillID": 501215,
+        "SkillID": 0,
         "ID": 2445,
         "Name": null
     },
@@ -19563,7 +19563,7 @@
         "GirlID": 98,
         "NatureID": 5,
         "NatureLevel": 2,
-        "SkillID": 501711,
+        "SkillID": 0,
         "ID": 2446,
         "Name": null
     },
@@ -19571,7 +19571,7 @@
         "GirlID": 98,
         "NatureID": 5,
         "NatureLevel": 5,
-        "SkillID": 501712,
+        "SkillID": 0,
         "ID": 2447,
         "Name": null
     },
@@ -19579,7 +19579,7 @@
         "GirlID": 98,
         "NatureID": 5,
         "NatureLevel": 8,
-        "SkillID": 501713,
+        "SkillID": 0,
         "ID": 2448,
         "Name": null
     },
@@ -19587,7 +19587,7 @@
         "GirlID": 98,
         "NatureID": 5,
         "NatureLevel": 10,
-        "SkillID": 501714,
+        "SkillID": 0,
         "ID": 2449,
         "Name": null
     },
@@ -19595,7 +19595,7 @@
         "GirlID": 98,
         "NatureID": 5,
         "NatureLevel": 12,
-        "SkillID": 501715,
+        "SkillID": 0,
         "ID": 2450,
         "Name": null
     },
@@ -19603,7 +19603,7 @@
         "GirlID": 99,
         "NatureID": 1,
         "NatureLevel": 2,
-        "SkillID": 503291,
+        "SkillID": 0,
         "ID": 2451,
         "Name": null
     },
@@ -19611,7 +19611,7 @@
         "GirlID": 99,
         "NatureID": 1,
         "NatureLevel": 5,
-        "SkillID": 503292,
+        "SkillID": 0,
         "ID": 2452,
         "Name": null
     },
@@ -19619,7 +19619,7 @@
         "GirlID": 99,
         "NatureID": 1,
         "NatureLevel": 8,
-        "SkillID": 503293,
+        "SkillID": 0,
         "ID": 2453,
         "Name": null
     },
@@ -19627,7 +19627,7 @@
         "GirlID": 99,
         "NatureID": 1,
         "NatureLevel": 10,
-        "SkillID": 503294,
+        "SkillID": 0,
         "ID": 2454,
         "Name": null
     },
@@ -19635,7 +19635,7 @@
         "GirlID": 99,
         "NatureID": 1,
         "NatureLevel": 12,
-        "SkillID": 503295,
+        "SkillID": 0,
         "ID": 2455,
         "Name": null
     },
@@ -19643,7 +19643,7 @@
         "GirlID": 99,
         "NatureID": 2,
         "NatureLevel": 2,
-        "SkillID": 503211,
+        "SkillID": 0,
         "ID": 2456,
         "Name": null
     },
@@ -19651,7 +19651,7 @@
         "GirlID": 99,
         "NatureID": 2,
         "NatureLevel": 5,
-        "SkillID": 503212,
+        "SkillID": 0,
         "ID": 2457,
         "Name": null
     },
@@ -19659,7 +19659,7 @@
         "GirlID": 99,
         "NatureID": 2,
         "NatureLevel": 8,
-        "SkillID": 503213,
+        "SkillID": 0,
         "ID": 2458,
         "Name": null
     },
@@ -19667,7 +19667,7 @@
         "GirlID": 99,
         "NatureID": 2,
         "NatureLevel": 10,
-        "SkillID": 503214,
+        "SkillID": 0,
         "ID": 2459,
         "Name": null
     },
@@ -19675,7 +19675,7 @@
         "GirlID": 99,
         "NatureID": 2,
         "NatureLevel": 12,
-        "SkillID": 503215,
+        "SkillID": 0,
         "ID": 2460,
         "Name": null
     },
@@ -19683,7 +19683,7 @@
         "GirlID": 99,
         "NatureID": 3,
         "NatureLevel": 2,
-        "SkillID": 403011,
+        "SkillID": 0,
         "ID": 2461,
         "Name": null
     },
@@ -19691,7 +19691,7 @@
         "GirlID": 99,
         "NatureID": 3,
         "NatureLevel": 5,
-        "SkillID": 403012,
+        "SkillID": 0,
         "ID": 2462,
         "Name": null
     },
@@ -19699,7 +19699,7 @@
         "GirlID": 99,
         "NatureID": 3,
         "NatureLevel": 8,
-        "SkillID": 403013,
+        "SkillID": 0,
         "ID": 2463,
         "Name": null
     },
@@ -19707,7 +19707,7 @@
         "GirlID": 99,
         "NatureID": 3,
         "NatureLevel": 10,
-        "SkillID": 403014,
+        "SkillID": 0,
         "ID": 2464,
         "Name": null
     },
@@ -19715,7 +19715,7 @@
         "GirlID": 99,
         "NatureID": 3,
         "NatureLevel": 12,
-        "SkillID": 403015,
+        "SkillID": 0,
         "ID": 2465,
         "Name": null
     },
@@ -19723,7 +19723,7 @@
         "GirlID": 99,
         "NatureID": 4,
         "NatureLevel": 2,
-        "SkillID": 503371,
+        "SkillID": 0,
         "ID": 2466,
         "Name": null
     },
@@ -19731,7 +19731,7 @@
         "GirlID": 99,
         "NatureID": 4,
         "NatureLevel": 5,
-        "SkillID": 503372,
+        "SkillID": 0,
         "ID": 2467,
         "Name": null
     },
@@ -19739,7 +19739,7 @@
         "GirlID": 99,
         "NatureID": 4,
         "NatureLevel": 8,
-        "SkillID": 503373,
+        "SkillID": 0,
         "ID": 2468,
         "Name": null
     },
@@ -19747,7 +19747,7 @@
         "GirlID": 99,
         "NatureID": 4,
         "NatureLevel": 10,
-        "SkillID": 503374,
+        "SkillID": 0,
         "ID": 2469,
         "Name": null
     },
@@ -19755,7 +19755,7 @@
         "GirlID": 99,
         "NatureID": 4,
         "NatureLevel": 12,
-        "SkillID": 503375,
+        "SkillID": 0,
         "ID": 2470,
         "Name": null
     },
@@ -19763,7 +19763,7 @@
         "GirlID": 99,
         "NatureID": 5,
         "NatureLevel": 2,
-        "SkillID": 203021,
+        "SkillID": 0,
         "ID": 2471,
         "Name": null
     },
@@ -19771,7 +19771,7 @@
         "GirlID": 99,
         "NatureID": 5,
         "NatureLevel": 5,
-        "SkillID": 203022,
+        "SkillID": 0,
         "ID": 2472,
         "Name": null
     },
@@ -19779,7 +19779,7 @@
         "GirlID": 99,
         "NatureID": 5,
         "NatureLevel": 8,
-        "SkillID": 203023,
+        "SkillID": 0,
         "ID": 2473,
         "Name": null
     },
@@ -19787,7 +19787,7 @@
         "GirlID": 99,
         "NatureID": 5,
         "NatureLevel": 10,
-        "SkillID": 203024,
+        "SkillID": 0,
         "ID": 2474,
         "Name": null
     },
@@ -19795,7 +19795,7 @@
         "GirlID": 99,
         "NatureID": 5,
         "NatureLevel": 12,
-        "SkillID": 203025,
+        "SkillID": 0,
         "ID": 2475,
         "Name": null
     },
@@ -21597,6 +21597,2206 @@
         "NatureLevel": 12,
         "SkillID": 503195,
         "ID": 2700,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 503311,
+        "ID": 2701,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 503312,
+        "ID": 2702,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 503313,
+        "ID": 2703,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 503314,
+        "ID": 2704,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 503315,
+        "ID": 2705,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 402041,
+        "ID": 2706,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 402042,
+        "ID": 2707,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 402043,
+        "ID": 2708,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 402044,
+        "ID": 2709,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 402045,
+        "ID": 2710,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403111,
+        "ID": 2711,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403112,
+        "ID": 2712,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403113,
+        "ID": 2713,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403114,
+        "ID": 2714,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403115,
+        "ID": 2715,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 202021,
+        "ID": 2716,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 202022,
+        "ID": 2717,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 202023,
+        "ID": 2718,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 202024,
+        "ID": 2719,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 202025,
+        "ID": 2720,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 404051,
+        "ID": 2721,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 404052,
+        "ID": 2722,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 404053,
+        "ID": 2723,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 404054,
+        "ID": 2724,
+        "Name": null
+    },
+    {
+        "GirlID": 116,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 404055,
+        "ID": 2725,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 503171,
+        "ID": 2726,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 503172,
+        "ID": 2727,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 503173,
+        "ID": 2728,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 503174,
+        "ID": 2729,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 503175,
+        "ID": 2730,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 503251,
+        "ID": 2731,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 503252,
+        "ID": 2732,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 503253,
+        "ID": 2733,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 503254,
+        "ID": 2734,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 503255,
+        "ID": 2735,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403101,
+        "ID": 2736,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403102,
+        "ID": 2737,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403103,
+        "ID": 2738,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403104,
+        "ID": 2739,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403105,
+        "ID": 2740,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 202011,
+        "ID": 2741,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 202012,
+        "ID": 2742,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 202013,
+        "ID": 2743,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 202014,
+        "ID": 2744,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 202015,
+        "ID": 2745,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 201021,
+        "ID": 2746,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 201022,
+        "ID": 2747,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 201023,
+        "ID": 2748,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 201024,
+        "ID": 2749,
+        "Name": null
+    },
+    {
+        "GirlID": 117,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 201025,
+        "ID": 2750,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 503391,
+        "ID": 2751,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 503392,
+        "ID": 2752,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 503393,
+        "ID": 2753,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 503394,
+        "ID": 2754,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 503395,
+        "ID": 2755,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 503471,
+        "ID": 2756,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 503472,
+        "ID": 2757,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 503473,
+        "ID": 2758,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 503474,
+        "ID": 2759,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 503475,
+        "ID": 2760,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403101,
+        "ID": 2761,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403102,
+        "ID": 2762,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403103,
+        "ID": 2763,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403104,
+        "ID": 2764,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403105,
+        "ID": 2765,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 403111,
+        "ID": 2766,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 403112,
+        "ID": 2767,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 403113,
+        "ID": 2768,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 403114,
+        "ID": 2769,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 403115,
+        "ID": 2770,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 402011,
+        "ID": 2771,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 402012,
+        "ID": 2772,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 402013,
+        "ID": 2773,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 402014,
+        "ID": 2774,
+        "Name": null
+    },
+    {
+        "GirlID": 119,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 402015,
+        "ID": 2775,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 403131,
+        "ID": 2776,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 403132,
+        "ID": 2777,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 403133,
+        "ID": 2778,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 403134,
+        "ID": 2779,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 403135,
+        "ID": 2780,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 503311,
+        "ID": 2781,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 503312,
+        "ID": 2782,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 503313,
+        "ID": 2783,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 503314,
+        "ID": 2784,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 503315,
+        "ID": 2785,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 404051,
+        "ID": 2786,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 404052,
+        "ID": 2787,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 404053,
+        "ID": 2788,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 404054,
+        "ID": 2789,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 404055,
+        "ID": 2790,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 503241,
+        "ID": 2791,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 503242,
+        "ID": 2792,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 503243,
+        "ID": 2793,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 503244,
+        "ID": 2794,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 503245,
+        "ID": 2795,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 201011,
+        "ID": 2796,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 201012,
+        "ID": 2797,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 201013,
+        "ID": 2798,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 201014,
+        "ID": 2799,
+        "Name": null
+    },
+    {
+        "GirlID": 120,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 201015,
+        "ID": 2800,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 402041,
+        "ID": 2801,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 402042,
+        "ID": 2802,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 402043,
+        "ID": 2803,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 402044,
+        "ID": 2804,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 402045,
+        "ID": 2805,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 402031,
+        "ID": 2806,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 402032,
+        "ID": 2807,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 402033,
+        "ID": 2808,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 402034,
+        "ID": 2809,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 402035,
+        "ID": 2810,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 503151,
+        "ID": 2811,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 503152,
+        "ID": 2812,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 503153,
+        "ID": 2813,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 503154,
+        "ID": 2814,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 503155,
+        "ID": 2815,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 202011,
+        "ID": 2816,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 202012,
+        "ID": 2817,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 202013,
+        "ID": 2818,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 202014,
+        "ID": 2819,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 202015,
+        "ID": 2820,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 503231,
+        "ID": 2821,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 503232,
+        "ID": 2822,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 503233,
+        "ID": 2823,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 503234,
+        "ID": 2824,
+        "Name": null
+    },
+    {
+        "GirlID": 121,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 503235,
+        "ID": 2825,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 502311,
+        "ID": 2826,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 502312,
+        "ID": 2827,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 502313,
+        "ID": 2828,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 502314,
+        "ID": 2829,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 502315,
+        "ID": 2830,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 502211,
+        "ID": 2831,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 502212,
+        "ID": 2832,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 502213,
+        "ID": 2833,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 502214,
+        "ID": 2834,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 502215,
+        "ID": 2835,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403061,
+        "ID": 2836,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403062,
+        "ID": 2837,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403063,
+        "ID": 2838,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403064,
+        "ID": 2839,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403065,
+        "ID": 2840,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 202021,
+        "ID": 2841,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 202022,
+        "ID": 2842,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 202023,
+        "ID": 2843,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 202024,
+        "ID": 2844,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 202025,
+        "ID": 2845,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 401041,
+        "ID": 2846,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 401042,
+        "ID": 2847,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 401043,
+        "ID": 2848,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 401044,
+        "ID": 2849,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 401045,
+        "ID": 2850,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 404051,
+        "ID": 2851,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 404052,
+        "ID": 2852,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 404053,
+        "ID": 2853,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 404054,
+        "ID": 2854,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 404055,
+        "ID": 2855,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 402011,
+        "ID": 2856,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 402012,
+        "ID": 2857,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 402013,
+        "ID": 2858,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 402014,
+        "ID": 2859,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 402015,
+        "ID": 2860,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403011,
+        "ID": 2861,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403012,
+        "ID": 2862,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403013,
+        "ID": 2863,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403014,
+        "ID": 2864,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403015,
+        "ID": 2865,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 503541,
+        "ID": 2866,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 503542,
+        "ID": 2867,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 503543,
+        "ID": 2868,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 503544,
+        "ID": 2869,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 503545,
+        "ID": 2870,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 503291,
+        "ID": 2871,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 503292,
+        "ID": 2872,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 503293,
+        "ID": 2873,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 503294,
+        "ID": 2874,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 503295,
+        "ID": 2875,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 401021,
+        "ID": 2876,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 401022,
+        "ID": 2877,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 401023,
+        "ID": 2878,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 401024,
+        "ID": 2879,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 401025,
+        "ID": 2880,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 402031,
+        "ID": 2881,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 402032,
+        "ID": 2882,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 402033,
+        "ID": 2883,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 402034,
+        "ID": 2884,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 402035,
+        "ID": 2885,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403061,
+        "ID": 2886,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403062,
+        "ID": 2887,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403063,
+        "ID": 2888,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403064,
+        "ID": 2889,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403065,
+        "ID": 2890,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 501711,
+        "ID": 2891,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 501712,
+        "ID": 2892,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 501713,
+        "ID": 2893,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 501714,
+        "ID": 2894,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 501715,
+        "ID": 2895,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 401041,
+        "ID": 2896,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 401042,
+        "ID": 2897,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 401043,
+        "ID": 2898,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 401044,
+        "ID": 2899,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 401045,
+        "ID": 2900,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 401011,
+        "ID": 2901,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 401012,
+        "ID": 2902,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 401013,
+        "ID": 2903,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 401014,
+        "ID": 2904,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 401015,
+        "ID": 2905,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 501111,
+        "ID": 2906,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 501112,
+        "ID": 2907,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 501113,
+        "ID": 2908,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 501114,
+        "ID": 2909,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 501115,
+        "ID": 2910,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403011,
+        "ID": 2911,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403012,
+        "ID": 2912,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403013,
+        "ID": 2913,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403014,
+        "ID": 2914,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403015,
+        "ID": 2915,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 202011,
+        "ID": 2916,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 202012,
+        "ID": 2917,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 202013,
+        "ID": 2918,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 202014,
+        "ID": 2919,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 202015,
+        "ID": 2920,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 201011,
+        "ID": 2921,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 201012,
+        "ID": 2922,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 201013,
+        "ID": 2923,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 201014,
+        "ID": 2924,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 201015,
+        "ID": 2925,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 404021,
+        "ID": 2926,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 404022,
+        "ID": 2927,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 404023,
+        "ID": 2928,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 404024,
+        "ID": 2929,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 404025,
+        "ID": 2930,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 503571,
+        "ID": 2931,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 503572,
+        "ID": 2932,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 503573,
+        "ID": 2933,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 503574,
+        "ID": 2934,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 503575,
+        "ID": 2935,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403131,
+        "ID": 2936,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403132,
+        "ID": 2937,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403133,
+        "ID": 2938,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403134,
+        "ID": 2939,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403135,
+        "ID": 2940,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 503601,
+        "ID": 2941,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 503602,
+        "ID": 2942,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 503603,
+        "ID": 2943,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 503604,
+        "ID": 2944,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 503605,
+        "ID": 2945,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 201021,
+        "ID": 2946,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 201022,
+        "ID": 2947,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 201023,
+        "ID": 2948,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 201024,
+        "ID": 2949,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 201025,
+        "ID": 2950,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 1,
+        "NatureLevel": 2,
+        "SkillID": 404041,
+        "ID": 2951,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 1,
+        "NatureLevel": 5,
+        "SkillID": 404042,
+        "ID": 2952,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 1,
+        "NatureLevel": 8,
+        "SkillID": 404043,
+        "ID": 2953,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 1,
+        "NatureLevel": 10,
+        "SkillID": 404044,
+        "ID": 2954,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 1,
+        "NatureLevel": 12,
+        "SkillID": 404045,
+        "ID": 2955,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 2,
+        "NatureLevel": 2,
+        "SkillID": 404051,
+        "ID": 2956,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 2,
+        "NatureLevel": 5,
+        "SkillID": 404052,
+        "ID": 2957,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 2,
+        "NatureLevel": 8,
+        "SkillID": 404053,
+        "ID": 2958,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 2,
+        "NatureLevel": 10,
+        "SkillID": 404054,
+        "ID": 2959,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 2,
+        "NatureLevel": 12,
+        "SkillID": 404055,
+        "ID": 2960,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 3,
+        "NatureLevel": 2,
+        "SkillID": 403121,
+        "ID": 2961,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 3,
+        "NatureLevel": 5,
+        "SkillID": 403122,
+        "ID": 2962,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 3,
+        "NatureLevel": 8,
+        "SkillID": 403123,
+        "ID": 2963,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 3,
+        "NatureLevel": 10,
+        "SkillID": 403124,
+        "ID": 2964,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 3,
+        "NatureLevel": 12,
+        "SkillID": 403125,
+        "ID": 2965,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 4,
+        "NatureLevel": 2,
+        "SkillID": 503271,
+        "ID": 2966,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 4,
+        "NatureLevel": 5,
+        "SkillID": 503272,
+        "ID": 2967,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 4,
+        "NatureLevel": 8,
+        "SkillID": 503273,
+        "ID": 2968,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 4,
+        "NatureLevel": 10,
+        "SkillID": 503274,
+        "ID": 2969,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 4,
+        "NatureLevel": 12,
+        "SkillID": 503275,
+        "ID": 2970,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 5,
+        "NatureLevel": 2,
+        "SkillID": 503371,
+        "ID": 2971,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 5,
+        "NatureLevel": 5,
+        "SkillID": 503372,
+        "ID": 2972,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 5,
+        "NatureLevel": 8,
+        "SkillID": 503373,
+        "ID": 2973,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 5,
+        "NatureLevel": 10,
+        "SkillID": 503374,
+        "ID": 2974,
+        "Name": null
+    },
+    {
+        "GirlID": 118,
+        "NatureID": 5,
+        "NatureLevel": 12,
+        "SkillID": 503375,
+        "ID": 2975,
         "Name": null
     },
     {

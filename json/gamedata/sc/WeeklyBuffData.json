@@ -2,7 +2,7 @@
     {
         "BuffName": "8885",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             10
@@ -18,7 +18,7 @@
     {
         "BuffName": "8886",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             20
@@ -34,7 +34,7 @@
     {
         "BuffName": "8887",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             30
@@ -50,7 +50,7 @@
     {
         "BuffName": "8888",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             11410004,
             25,
@@ -72,7 +72,7 @@
     {
         "BuffName": "8889",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             11410004,
             50,
@@ -94,7 +94,7 @@
     {
         "BuffName": "8885",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             10
@@ -110,7 +110,7 @@
     {
         "BuffName": "8886",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             20
@@ -126,7 +126,7 @@
     {
         "BuffName": "8887",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             10400000,
             30
@@ -142,7 +142,7 @@
     {
         "BuffName": "8888",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             11410004,
             25,
@@ -164,7 +164,7 @@
     {
         "BuffName": "8889",
         "BuffType": 0,
-        "BuffParameterType": 0,
+        "BuffParameterType": "无",
         "BuffParameter": [
             11410004,
             50,

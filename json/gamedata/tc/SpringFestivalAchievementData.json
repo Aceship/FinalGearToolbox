@@ -1,7 +1,7 @@
 [
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 1,
         "PreAchievementID": 0,
@@ -24,7 +24,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 2,
         "PreAchievementID": 0,
@@ -47,7 +47,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 3,
         "PreAchievementID": 0,
@@ -70,7 +70,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 4,
         "PreAchievementID": 0,
@@ -93,7 +93,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 5,
         "PreAchievementID": 0,
@@ -116,7 +116,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 1,
         "AchieveArray": 6,
         "PreAchievementID": 0,
@@ -139,7 +139,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 1,
         "PreAchievementID": 0,
@@ -162,7 +162,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 2,
         "PreAchievementID": 0,
@@ -185,7 +185,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 3,
         "PreAchievementID": 0,
@@ -208,7 +208,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 4,
         "PreAchievementID": 0,
@@ -231,7 +231,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 5,
         "PreAchievementID": 0,
@@ -254,7 +254,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 2,
         "AchieveArray": 6,
         "PreAchievementID": 0,
@@ -277,7 +277,7 @@
     },
     {
         "ActivityID": 13,
-        "SpringFestivalActivityType": 0,
+        "SpringFestivalActivityType": "击杀",
         "AchieveGroup": 0,
         "AchieveArray": 0,
         "PreAchievementID": 0,

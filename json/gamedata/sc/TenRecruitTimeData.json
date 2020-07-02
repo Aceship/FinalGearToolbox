@@ -312,6 +312,86 @@
         "Name": "17129"
     },
     {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2020/6/11 14:30:00",
+        "IosCloseTime": "2020/6/25 13:59:59",
+        "AndOpenTime": "2020/6/11 14:30:00",
+        "AndCloseTime": "2020/6/25 13:59:59",
+        "ResourceName": "120,limitRecruitRight24,RecruitRight24,SquareHead_Pilot_001200",
+        "ListOrder": 1,
+        "LibraryID": 26,
+        "ID": 10027,
+        "Name": "17137"
+    },
+    {
+        "RecruitActivityType": 1,
+<<<<<<< HEAD
+        "IosOpenTime": "2020/7/2 11:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/2 11:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "110,limitRecruitRight26,RecruitRight26,SquareHead_Pilot_001100",
+        "ListOrder": 1,
+        "LibraryID": 29,
+        "ID": 10028,
+        "Name": "17791"
+    },
+    {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2020/7/2 11:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/2 11:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "111,limitRecruitRight25,RecruitRight25,SquareHead_Pilot_001110",
+        "ListOrder": 1,
+        "LibraryID": 30,
+        "ID": 10029,
+        "Name": "17792"
+    },
+    {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2020/7/16 14:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/16 14:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "112,limitRecruitRight27,RecruitRight27,SquareHead_Pilot_001120",
+        "ListOrder": 1,
+        "LibraryID": 31,
+        "ID": 10030,
+        "Name": "17793"
+    },
+    {
+        "RecruitActivityType": 1,
+        "IosOpenTime": "2020/7/16 14:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/16 14:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "114,limitRecruitRight28,RecruitRight28,SquareHead_Pilot_001140",
+        "ListOrder": 1,
+        "LibraryID": 32,
+        "ID": 10031,
+        "Name": "17795"
+    },
+    {
+        "RecruitActivityType": 4,
+        "IosOpenTime": "2020/7/16 14:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/16 14:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "120,FreeRecruitRight1,FreeRecruitRight1,SquareHead_Pilot_001200",
+=======
+        "IosOpenTime": "2020/6/25 14:30:00",
+        "IosCloseTime": "2020/7/2 13:59:59",
+        "AndOpenTime": "2020/6/25 14:30:00",
+        "AndCloseTime": "2020/7/2 13:59:59",
+        "ResourceName": "80,limitRecruitRight14,RecruitRight14,SquareHead_Pilot_000800",
+>>>>>>> parent of 269e0ad... sc 1130100
+        "ListOrder": 1,
+        "LibraryID": 33,
+        "ID": 10032,
+        "Name": "11713"
+    },
+    {
         "RecruitActivityType": 2,
         "IosOpenTime": "2019/7/16 00:00:00",
         "IosCloseTime": "2019/7/30 13:59:59",
@@ -598,5 +678,89 @@
         "LibraryID": 20029,
         "ID": 20024,
         "Name": "17165"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2020/6/11 14:30:00",
+        "IosCloseTime": "2020/6/25 13:59:59",
+        "AndOpenTime": "2020/6/11 14:30:00",
+        "AndCloseTime": "2020/6/25 13:59:59",
+        "ResourceName": "120,limitDevelopRight23,DevelopRight23,SquareHead_Pilot_001200",
+        "ListOrder": 1,
+        "LibraryID": 20030,
+        "ID": 20025,
+        "Name": "17158"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2020/6/11 14:30:00",
+        "IosCloseTime": "2020/6/25 13:59:59",
+        "AndOpenTime": "2020/6/11 14:30:00",
+        "AndCloseTime": "2020/6/25 13:59:59",
+        "ResourceName": "36,limitDevelopRight24,DevelopRight24,SquareHead_Pilot_000360",
+        "ListOrder": 1,
+        "LibraryID": 20031,
+        "ID": 20026,
+        "Name": "17267"
+    },
+    {
+        "RecruitActivityType": 2,
+<<<<<<< HEAD
+        "IosOpenTime": "2020/7/2 11:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/2 11:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "110,limitDevelopRight26,DevelopRight28,EVA_big_Machina0",
+        "ListOrder": 1,
+        "LibraryID": 20032,
+        "ID": 20027,
+        "Name": "18107"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2020/7/2 11:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/2 11:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "111,limitDevelopRight25,DevelopRight27,EVA_big_Machina2",
+        "ListOrder": 1,
+        "LibraryID": 20033,
+        "ID": 20028,
+        "Name": "18108"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2020/7/16 14:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/16 14:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "112,limitDevelopRight27,DevelopRight29,SquareHead_Pilot_001120",
+        "ListOrder": 1,
+        "LibraryID": 20034,
+        "ID": 20029,
+        "Name": "18109"
+    },
+    {
+        "RecruitActivityType": 2,
+        "IosOpenTime": "2020/7/16 14:30:00",
+        "IosCloseTime": "2020/7/30 13:59:59",
+        "AndOpenTime": "2020/7/16 14:30:00",
+        "AndCloseTime": "2020/7/30 13:59:59",
+        "ResourceName": "114,limitDevelopRight28,DevelopRight30,SquareHead_Pilot_001140",
+        "ListOrder": 1,
+        "LibraryID": 20035,
+        "ID": 20030,
+        "Name": "18111"
+=======
+        "IosOpenTime": "2020/6/25 14:30:00",
+        "IosCloseTime": "2020/7/2 13:59:59",
+        "AndOpenTime": "2020/6/25 14:30:00",
+        "AndCloseTime": "2020/7/2 13:59:59",
+        "ResourceName": "80,limitDevelopRight12,DevelopRight12,SquareHead_Pilot_000800",
+        "ListOrder": 1,
+        "LibraryID": 20018,
+        "ID": 20031,
+        "Name": "11810"
+>>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

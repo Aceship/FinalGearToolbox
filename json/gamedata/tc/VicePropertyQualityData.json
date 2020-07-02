@@ -62,5 +62,37 @@
         "Max": 1.0,
         "ID": 8,
         "Name": null
+    },
+    {
+        "QualityCountType": 103,
+        "WidgetQualityType": 0,
+        "Min": 0.1,
+        "Max": 0.3,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "QualityCountType": 103,
+        "WidgetQualityType": 1,
+        "Min": 0.3,
+        "Max": 0.5,
+        "ID": 10,
+        "Name": null
+    },
+    {
+        "QualityCountType": 103,
+        "WidgetQualityType": 2,
+        "Min": 0.3,
+        "Max": 0.5,
+        "ID": 11,
+        "Name": null
+    },
+    {
+        "QualityCountType": 103,
+        "WidgetQualityType": 3,
+        "Min": 0.3,
+        "Max": 0.5,
+        "ID": 12,
+        "Name": null
     }
 ]

@@ -46,5 +46,37 @@
         "PriceGrowPara": 16.0,
         "ID": 6,
         "Name": null
+    },
+    {
+        "PriceGrowID": 102,
+        "BuyLower": 0,
+        "BuyUpper": 20,
+        "PriceGrowPara": 1.0,
+        "ID": 7,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 102,
+        "BuyLower": 21,
+        "BuyUpper": 60,
+        "PriceGrowPara": 2.0,
+        "ID": 8,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 102,
+        "BuyLower": 61,
+        "BuyUpper": 80,
+        "PriceGrowPara": 3.0,
+        "ID": 9,
+        "Name": null
+    },
+    {
+        "PriceGrowID": 102,
+        "BuyLower": 81,
+        "BuyUpper": 999999999,
+        "PriceGrowPara": 4.0,
+        "ID": 10,
+        "Name": null
     }
 ]
