@@ -893,12 +893,23 @@
     {
         "Description": "",
         "GroupTag": "武器/射击",
+        "CueSheet": "SK",
+        "CueName": "atk_000670",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 200040400,
+        "Name": "狙击枪-能量"
+    },
+    {
+        "Description": "",
+        "GroupTag": "武器/射击",
         "CueSheet": "WP",
         "CueName": "WP_Shoot_SpniperRifle_Laser",
         "Loop": false,
         "Volume": 1.0,
         "Pitch": 0,
-        "ID": 200040400,
+        "ID": 200040410,
         "Name": "狙击枪-能量-轻"
     },
     {
@@ -2181,6 +2192,17 @@
         "Description": "",
         "GroupTag": "击中",
         "CueSheet": "HIT",
+        "CueName": "HIT_Energy_Breakdown",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300110010,
+        "Name": "能量爆点-击穿"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中",
+        "CueSheet": "HIT",
         "CueName": "HIT_Elec",
         "Loop": false,
         "Volume": 1.0,
@@ -2729,6 +2751,17 @@
     },
     {
         "Description": "",
+        "GroupTag": "击中/爆炸",
+        "CueSheet": "HIT",
+        "CueName": "HIT_EVA_Boom",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300410100,
+        "Name": "爆炸-EVA02"
+    },
+    {
+        "Description": "",
         "GroupTag": "击中/其他",
         "CueSheet": "HIT",
         "CueName": "hitg_000270",
@@ -2825,6 +2858,17 @@
         "Pitch": 0,
         "ID": 300508000,
         "Name": "砸地-重"
+    },
+    {
+        "Description": "",
+        "GroupTag": "击中/其他",
+        "CueSheet": "HIT",
+        "CueName": "HIT_EVA_Impact",
+        "Loop": false,
+        "Volume": 1.0,
+        "Pitch": 0,
+        "ID": 300509000,
+        "Name": "砸地-EVA05"
     },
     {
         "Description": "",
@@ -5247,7 +5291,6 @@
         "Name": "技能-召唤"
     },
     {
-<<<<<<< HEAD
         "Description": "",
         "GroupTag": "角色",
         "CueSheet": "SK",
@@ -5325,8 +5368,6 @@
         "Name": "EVA06-技能"
     },
     {
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "Description": "瞬闪-出现",
         "GroupTag": "一体机/01白鸦",
         "CueSheet": "SP",
@@ -7462,14 +7503,14 @@
     },
     {
         "Description": "",
-        "GroupTag": "BGM/界面",
-        "CueSheet": "BGM_UI_Login",
-        "CueName": "BGM_UI_Login",
+        "GroupTag": "剧情音效",
+        "CueSheet": "StorySE",
+        "CueName": "StorySE_SeaWave",
         "Loop": true,
         "Volume": 1.0,
         "Pitch": 0,
-        "ID": 900010000,
-        "Name": "UI-标题界面"
+        "ID": 700100170,
+        "Name": "海浪"
     },
     {
         "Description": "",

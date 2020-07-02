@@ -27577,6 +27577,1500 @@
     },
     {
         "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951110.0
+        ],
+        "ID": 10951110,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951120.0
+        ],
+        "ID": 10951120,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951130.0
+        ],
+        "ID": 10951130,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951140.0
+        ],
+        "ID": 10951140,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951150.0
+        ],
+        "ID": 10951150,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951210.0
+        ],
+        "ID": 10951210,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951220.0
+        ],
+        "ID": 10951220,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951230.0
+        ],
+        "ID": 10951230,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951240.0
+        ],
+        "ID": 10951240,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951250.0
+        ],
+        "ID": 10951250,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951310.0
+        ],
+        "ID": 10951310,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951320.0
+        ],
+        "ID": 10951320,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951330.0
+        ],
+        "ID": 10951330,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951340.0
+        ],
+        "ID": 10951340,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951350.0
+        ],
+        "ID": 10951350,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951311.0
+        ],
+        "ID": 10951311,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951321.0
+        ],
+        "ID": 10951321,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951331.0
+        ],
+        "ID": 10951331,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951341.0
+        ],
+        "ID": 10951341,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951351.0
+        ],
+        "ID": 10951351,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            10951311.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            10951311.0
+        ],
+        "ID": 10951312,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            10951321.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            10951321.0
+        ],
+        "ID": 10951322,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            10951331.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            10951331.0
+        ],
+        "ID": 10951332,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            10951341.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            10951341.0
+        ],
+        "ID": 10951342,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            10951351.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            10951351.0
+        ],
+        "ID": 10951352,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951410.0
+        ],
+        "ID": 10951410,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951420.0
+        ],
+        "ID": 10951420,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951430.0
+        ],
+        "ID": 10951430,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951440.0
+        ],
+        "ID": 10951440,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            10951450.0
+        ],
+        "ID": 10951450,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951110.0
+        ],
+        "ID": 90951110,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            90951110.0
+        ],
+        "SkillTriggerProb": 0.5,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951111.0
+        ],
+        "ID": 90951111,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            90951110.0
+        ],
+        "SkillTriggerProb": 0.6,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951111.0
+        ],
+        "ID": 90951121,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            90951110.0
+        ],
+        "SkillTriggerProb": 0.7,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951111.0
+        ],
+        "ID": 90951131,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            90951110.0
+        ],
+        "SkillTriggerProb": 0.8,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951111.0
+        ],
+        "ID": 90951141,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            90951110.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951111.0
+        ],
+        "ID": 90951151,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951210.0
+        ],
+        "ID": 90951210,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951220.0
+        ],
+        "ID": 90951220,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951230.0
+        ],
+        "ID": 90951230,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951240.0
+        ],
+        "ID": 90951240,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951250.0
+        ],
+        "ID": 90951250,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951310.0
+        ],
+        "ID": 90951310,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951320.0
+        ],
+        "ID": 90951320,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951330.0
+        ],
+        "ID": 90951330,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951340.0
+        ],
+        "ID": 90951340,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951350.0
+        ],
+        "ID": 90951350,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951311.0
+        ],
+        "ID": 90951311,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951321.0
+        ],
+        "ID": 90951321,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951331.0
+        ],
+        "ID": 90951331,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951341.0
+        ],
+        "ID": 90951341,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951351.0
+        ],
+        "ID": 90951351,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951312.0
+        ],
+        "ID": 90951312,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951322.0
+        ],
+        "ID": 90951322,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951332.0
+        ],
+        "ID": 90951332,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951342.0
+        ],
+        "ID": 90951342,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951352.0
+        ],
+        "ID": 90951352,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951313.0
+        ],
+        "ID": 90951313,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951323.0
+        ],
+        "ID": 90951323,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951333.0
+        ],
+        "ID": 90951333,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951343.0
+        ],
+        "ID": 90951343,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            1.0,
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951353.0
+        ],
+        "ID": 90951353,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951310.0,
+            90951311.0,
+            90951312.0,
+            90951313.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951314.0
+        ],
+        "ID": 90951314,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951320.0,
+            90951321.0,
+            90951322.0,
+            90951323.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951324.0
+        ],
+        "ID": 90951324,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951330.0,
+            90951331.0,
+            90951332.0,
+            90951333.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951334.0
+        ],
+        "ID": 90951334,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951340.0,
+            90951341.0,
+            90951342.0,
+            90951343.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951344.0
+        ],
+        "ID": 90951344,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951350.0,
+            90951351.0,
+            90951352.0,
+            90951353.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951354.0
+        ],
+        "ID": 90951354,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951314.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            90951314.0
+        ],
+        "ID": 90951315,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951324.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            90951324.0
+        ],
+        "ID": 90951325,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951334.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            90951334.0
+        ],
+        "ID": 90951335,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951344.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            90951344.0
+        ],
+        "ID": 90951345,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90951354.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            90951354.0
+        ],
+        "ID": 90951355,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 28,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 5,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951411.0
+        ],
+        "ID": 90951411,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 10,
+        "EffectImpactCondition": 28,
+        "SkillTriggerrPara": [
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951410.0
+        ],
+        "ID": 90951410,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 10,
+        "EffectImpactCondition": 28,
+        "SkillTriggerrPara": [
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951420.0
+        ],
+        "ID": 90951420,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 10,
+        "EffectImpactCondition": 28,
+        "SkillTriggerrPara": [
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951430.0
+        ],
+        "ID": 90951430,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 10,
+        "EffectImpactCondition": 28,
+        "SkillTriggerrPara": [
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951440.0
+        ],
+        "ID": 90951440,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 10,
+        "EffectImpactCondition": 28,
+        "SkillTriggerrPara": [
+            4.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            90951450.0
+        ],
+        "ID": 90951450,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
         "EffectTriggerEvent": 4,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
@@ -36524,14 +38018,15 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
         ],
-        "ID": 11161110,
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101110.0
+        ],
+        "ID": 11101110,
         "Name": null
     },
     {
@@ -36542,14 +38037,15 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
         ],
-        "ID": 11161120,
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101120.0
+        ],
+        "ID": 11101120,
         "Name": null
     },
     {
@@ -36560,14 +38056,15 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
         ],
-        "ID": 11161130,
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101130.0
+        ],
+        "ID": 11101130,
         "Name": null
     },
     {
@@ -36578,14 +38075,15 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
         ],
-        "ID": 11161140,
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101140.0
+        ],
+        "ID": 11101140,
         "Name": null
     },
     {
@@ -36596,14 +38094,110 @@
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
         ],
-        "ID": 11161150,
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101150.0
+        ],
+        "ID": 11101150,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
+        ],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101111.0
+        ],
+        "ID": 11101111,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
+        ],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101121.0
+        ],
+        "ID": 11101121,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
+        ],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101131.0
+        ],
+        "ID": 11101131,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
+        ],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101141.0
+        ],
+        "ID": 11101141,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 15,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [
+            0
+        ],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            11101151.0
+        ],
+        "ID": 11101151,
         "Name": null
     },
     {
@@ -36618,9 +38212,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161111.0
+            11101113.0
         ],
-        "ID": 11161111,
+        "ID": 11101113,
         "Name": null
     },
     {
@@ -36635,9 +38229,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161121.0
+            11101123.0
         ],
-        "ID": 11161121,
+        "ID": 11101123,
         "Name": null
     },
     {
@@ -36652,9 +38246,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161131.0
+            11101133.0
         ],
-        "ID": 11161131,
+        "ID": 11101133,
         "Name": null
     },
     {
@@ -36669,9 +38263,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161141.0
+            11101143.0
         ],
-        "ID": 11161141,
+        "ID": 11101143,
         "Name": null
     },
     {
@@ -36686,9 +38280,199 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161151.0
+            11101153.0
         ],
-        "ID": 11161151,
+        "ID": 11101153,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101110.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101111.0
+        ],
+        "ID": 11101112,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101120.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101121.0
+        ],
+        "ID": 11101122,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101130.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101131.0
+        ],
+        "ID": 11101132,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101140.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101141.0
+        ],
+        "ID": 11101142,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101150.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101151.0
+        ],
+        "ID": 11101152,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101110.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101113.0
+        ],
+        "ID": 11101114,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101120.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101123.0
+        ],
+        "ID": 11101124,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101130.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101133.0
+        ],
+        "ID": 11101134,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101140.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101143.0
+        ],
+        "ID": 11101144,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101150.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            11101153.0
+        ],
+        "ID": 11101154,
         "Name": null
     },
     {
@@ -36703,9 +38487,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161210.0
+            11101210.0
         ],
-        "ID": 11161210,
+        "ID": 11101210,
         "Name": null
     },
     {
@@ -36720,9 +38504,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161220.0
+            11101220.0
         ],
-        "ID": 11161220,
+        "ID": 11101220,
         "Name": null
     },
     {
@@ -36737,9 +38521,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161230.0
+            11101230.0
         ],
-        "ID": 11161230,
+        "ID": 11101230,
         "Name": null
     },
     {
@@ -36754,9 +38538,9 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161240.0
+            11101240.0
         ],
-        "ID": 11161240,
+        "ID": 11101240,
         "Name": null
     },
     {
@@ -36771,19 +38555,19 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            11161250.0
+            11101250.0
         ],
-        "ID": 11161250,
+        "ID": 11101250,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 2,
+        "EffectTriggerEvent": 3,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.05,
+        "SkillTriggerProb": 0.3,
         "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -36791,17 +38575,17 @@
             0.0,
             100.0
         ],
-        "ID": 11161310,
+        "ID": 11101310,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 2,
+        "EffectTriggerEvent": 3,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.06,
+        "SkillTriggerProb": 0.35,
         "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -36809,17 +38593,17 @@
             0.0,
             100.0
         ],
-        "ID": 11161320,
+        "ID": 11101320,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 2,
+        "EffectTriggerEvent": 3,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.07,
+        "SkillTriggerProb": 0.4,
         "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -36827,17 +38611,17 @@
             0.0,
             100.0
         ],
-        "ID": 11161330,
+        "ID": 11101330,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 2,
+        "EffectTriggerEvent": 3,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.08,
+        "SkillTriggerProb": 0.45,
         "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -36845,17 +38629,17 @@
             0.0,
             100.0
         ],
-        "ID": 11161340,
+        "ID": 11101340,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 2,
+        "EffectTriggerEvent": 3,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
+        "SkillTriggerProb": 0.5,
         "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -36863,434 +38647,106 @@
             0.0,
             100.0
         ],
-        "ID": 11161350,
+        "ID": 11101350,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 1,
+        "EffectTriggerEvent": 27,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
+        "SkillTriggerProb": 0.3,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 38,
+        "AddEffectType": 4,
         "AddEffectPara": [
-            0.5,
-            11161410.0,
-            0.3,
-            11161412.0
+            0.0,
+            100.0
         ],
-        "ID": 11161410,
+        "ID": 11101311,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 1,
+        "EffectTriggerEvent": 27,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
+        "SkillTriggerProb": 0.35,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 38,
+        "AddEffectType": 4,
         "AddEffectPara": [
-            0.55,
-            11161420.0,
-            0.35,
-            11161422.0
+            0.0,
+            100.0
         ],
-        "ID": 11161420,
+        "ID": 11101321,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 1,
+        "EffectTriggerEvent": 27,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
+        "SkillTriggerProb": 0.4,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 38,
+        "AddEffectType": 4,
         "AddEffectPara": [
-            0.6,
-            11161430.0,
-            0.4,
-            11161432.0
+            0.0,
+            100.0
         ],
-        "ID": 11161430,
+        "ID": 11101331,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 1,
+        "EffectTriggerEvent": 27,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
+        "SkillTriggerProb": 0.45,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 38,
+        "AddEffectType": 4,
         "AddEffectPara": [
-            0.65,
-            11161440.0,
-            0.45,
-            11161442.0
+            0.0,
+            100.0
         ],
-        "ID": 11161440,
+        "ID": 11101341,
         "Name": null
     },
     {
         "SkillType": 2,
-        "EffectTriggerEvent": 1,
+        "EffectTriggerEvent": 27,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
+        "SkillTriggerProb": 0.5,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 2000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 38,
+        "AddEffectType": 4,
         "AddEffectPara": [
-            0.7,
-            11161450.0,
-            0.5,
-            11161452.0
+            0.0,
+            100.0
         ],
-        "ID": 11161450,
+        "ID": 11101351,
         "Name": null
     },
     {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9917.0,
-            21.0,
-            0.5,
-            25.0,
-            0.5,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            64.0,
-            1.0,
-            90.0,
-            1.0
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101110.0
         ],
-        "ID": 91161110,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9917.0,
-            21.0,
-            0.5,
-            25.0,
-            0.6,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            64.0,
-            1.0,
-            90.0,
-            1.0
-        ],
-        "ID": 91161120,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9917.0,
-            21.0,
-            0.5,
-            25.0,
-            0.7,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            64.0,
-            1.0,
-            90.0,
-            1.0
-        ],
-        "ID": 91161130,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9917.0,
-            21.0,
-            0.5,
-            25.0,
-            0.8,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            64.0,
-            1.0,
-            90.0,
-            1.0
-        ],
-        "ID": 91161140,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9917.0,
-            21.0,
-            0.5,
-            25.0,
-            1.0,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            64.0,
-            1.0,
-            90.0,
-            1.0
-        ],
-        "ID": 91161150,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9918.0,
-            21.0,
-            1.1,
-            29.0,
-            1.0,
-            45.0,
-            1.0,
-            55.0,
-            1.0,
-            60.0,
-            1.0,
-            62.0,
-            1.0,
-            67.0,
-            1.0,
-            91.0,
-            1.0
-        ],
-        "ID": 91161111,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9918.0,
-            21.0,
-            1.2,
-            29.0,
-            1.0,
-            45.0,
-            1.0,
-            55.0,
-            1.0,
-            60.0,
-            1.0,
-            62.0,
-            1.0,
-            67.0,
-            1.0,
-            91.0,
-            1.0
-        ],
-        "ID": 91161121,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9918.0,
-            21.0,
-            1.3,
-            29.0,
-            1.0,
-            45.0,
-            1.0,
-            55.0,
-            1.0,
-            60.0,
-            1.0,
-            62.0,
-            1.0,
-            67.0,
-            1.0,
-            91.0,
-            1.0
-        ],
-        "ID": 91161131,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9918.0,
-            21.0,
-            1.4,
-            29.0,
-            1.0,
-            45.0,
-            1.0,
-            55.0,
-            1.0,
-            60.0,
-            1.0,
-            62.0,
-            1.0,
-            67.0,
-            1.0,
-            91.0,
-            1.0
-        ],
-        "ID": 91161141,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            9918.0,
-            21.0,
-            1.5,
-            29.0,
-            1.0,
-            45.0,
-            1.0,
-            55.0,
-            1.0,
-            60.0,
-            1.0,
-            62.0,
-            1.0,
-            67.0,
-            1.0,
-            91.0,
-            1.0
-        ],
-        "ID": 91161151,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -37298,16 +38754,18 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            91161112.0
+            11101410.0
         ],
-        "ID": 91161112,
+        "ID": 11101410,
         "Name": null
     },
     {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101120.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -37315,16 +38773,18 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            91161122.0
+            11101420.0
         ],
-        "ID": 91161122,
+        "ID": 11101420,
         "Name": null
     },
     {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101130.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -37332,16 +38792,18 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            91161132.0
+            11101430.0
         ],
-        "ID": 91161132,
+        "ID": 11101430,
         "Name": null
     },
     {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101140.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -37349,16 +38811,18 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            91161142.0
+            11101440.0
         ],
-        "ID": 91161142,
+        "ID": 11101440,
         "Name": null
     },
     {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            11101150.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -37366,693 +38830,16 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-            91161152.0
+            11101450.0
         ],
-        "ID": 91161152,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91161210.0
-        ],
-        "ID": 91161210,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91161220.0
-        ],
-        "ID": 91161220,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91161230.0
-        ],
-        "ID": 91161230,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91161240.0
-        ],
-        "ID": 91161240,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91161250.0
-        ],
-        "ID": 91161250,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.15,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 91161310,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.16,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            105.0
-        ],
-        "ID": 91161320,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.17,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            110.0
-        ],
-        "ID": 91161330,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.18,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            115.0
-        ],
-        "ID": 91161340,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            120.0
-        ],
-        "ID": 91161350,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.7
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.1
-        ],
-        "ID": 91161410,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.75
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.2
-        ],
-        "ID": 91161420,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.8
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.3
-        ],
-        "ID": 91161430,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.85
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.4
-        ],
-        "ID": 91161440,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.9
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.5
-        ],
-        "ID": 91161450,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.5
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.2
-        ],
-        "ID": 91161411,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.55
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.3
-        ],
-        "ID": 91161421,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.6
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.4
-        ],
-        "ID": 91161431,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.65
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.5
-        ],
-        "ID": 91161441,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.7
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            65.0,
-            0.6
-        ],
-        "ID": 91161451,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.3
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            54.0,
-            0.1,
-            59.0,
-            0.1
-        ],
-        "ID": 91161412,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.35
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            54.0,
-            0.1,
-            59.0,
-            0.1
-        ],
-        "ID": 91161422,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.4
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            54.0,
-            0.1,
-            59.0,
-            0.1
-        ],
-        "ID": 91161432,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.45
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            54.0,
-            0.1,
-            59.0,
-            0.1
-        ],
-        "ID": 91161442,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.5
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 3,
-        "AddEffectPara": [
-            54.0,
-            0.1,
-            59.0,
-            0.1
-        ],
-        "ID": 91161452,
+        "ID": 11101450,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
+        "EffectTriggerEvent": 26,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
-        ],
-        "ID": 11171110,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
-        ],
-        "ID": 11171120,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
-        ],
-        "ID": 11171130,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
-        ],
-        "ID": 11171140,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0
-        ],
-        "ID": 11171150,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171111.0
-        ],
-        "ID": 11171111,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171121.0
-        ],
-        "ID": 11171121,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171131.0
-        ],
-        "ID": 11171131,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171141.0
-        ],
-        "ID": 11171141,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171151.0
-        ],
-        "ID": 11171151,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -38060,20 +38847,49 @@
         "EffectTargetParam": [
             0
         ],
-        "AddEffectType": 1,
+        "AddEffectType": 23,
         "AddEffectPara": [
-            11171210.0
+            91101197.0,
+            91101196.0,
+            91101110.0,
+            91101111.0,
+            91101112.0,
+            91101113.0,
+            91101114.0,
+            91101120.0,
+            91101121.0,
+            91101122.0,
+            91101123.0,
+            91101124.0,
+            91101130.0,
+            91101131.0,
+            91101132.0,
+            91101133.0,
+            91101134.0,
+            91101140.0,
+            91101141.0,
+            91101142.0,
+            91101143.0,
+            91101144.0,
+            91101150.0,
+            91101151.0,
+            91101152.0,
+            91101153.0,
+            91101154.0,
+            91101160.0,
+            91101161.0,
+            91101162.0,
+            91101163.0,
+            91101164.0
         ],
-        "ID": 11171210,
+        "ID": 91101110,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
         "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
+        "SkillTriggerrPara": [],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -38081,20 +38897,49 @@
         "EffectTargetParam": [
             0
         ],
-        "AddEffectType": 1,
+        "AddEffectType": 23,
         "AddEffectPara": [
-            11171220.0
+            91101197.0,
+            91101196.0,
+            91101110.0,
+            91101111.0,
+            91101112.0,
+            91101113.0,
+            91101114.0,
+            91101120.0,
+            91101121.0,
+            91101122.0,
+            91101123.0,
+            91101124.0,
+            91101130.0,
+            91101131.0,
+            91101132.0,
+            91101133.0,
+            91101134.0,
+            91101140.0,
+            91101141.0,
+            91101142.0,
+            91101143.0,
+            91101144.0,
+            91101150.0,
+            91101151.0,
+            91101152.0,
+            91101153.0,
+            91101154.0,
+            91101160.0,
+            91101161.0,
+            91101162.0,
+            91101163.0,
+            91101164.0
         ],
-        "ID": 11171220,
+        "ID": 91101120,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
         "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
+        "SkillTriggerrPara": [],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -38102,20 +38947,49 @@
         "EffectTargetParam": [
             0
         ],
-        "AddEffectType": 1,
+        "AddEffectType": 23,
         "AddEffectPara": [
-            11171230.0
+            91101197.0,
+            91101196.0,
+            91101110.0,
+            91101111.0,
+            91101112.0,
+            91101113.0,
+            91101114.0,
+            91101120.0,
+            91101121.0,
+            91101122.0,
+            91101123.0,
+            91101124.0,
+            91101130.0,
+            91101131.0,
+            91101132.0,
+            91101133.0,
+            91101134.0,
+            91101140.0,
+            91101141.0,
+            91101142.0,
+            91101143.0,
+            91101144.0,
+            91101150.0,
+            91101151.0,
+            91101152.0,
+            91101153.0,
+            91101154.0,
+            91101160.0,
+            91101161.0,
+            91101162.0,
+            91101163.0,
+            91101164.0
         ],
-        "ID": 11171230,
+        "ID": 91101130,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
         "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
+        "SkillTriggerrPara": [],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -38123,20 +38997,49 @@
         "EffectTargetParam": [
             0
         ],
-        "AddEffectType": 1,
+        "AddEffectType": 23,
         "AddEffectPara": [
-            11171240.0
+            91101197.0,
+            91101196.0,
+            91101110.0,
+            91101111.0,
+            91101112.0,
+            91101113.0,
+            91101114.0,
+            91101120.0,
+            91101121.0,
+            91101122.0,
+            91101123.0,
+            91101124.0,
+            91101130.0,
+            91101131.0,
+            91101132.0,
+            91101133.0,
+            91101134.0,
+            91101140.0,
+            91101141.0,
+            91101142.0,
+            91101143.0,
+            91101144.0,
+            91101150.0,
+            91101151.0,
+            91101152.0,
+            91101153.0,
+            91101154.0,
+            91101160.0,
+            91101161.0,
+            91101162.0,
+            91101163.0,
+            91101164.0
         ],
-        "ID": 11171240,
+        "ID": 91101140,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
         "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
+        "SkillTriggerrPara": [],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
@@ -38144,1123 +39047,620 @@
         "EffectTargetParam": [
             0
         ],
-        "AddEffectType": 1,
+        "AddEffectType": 23,
         "AddEffectPara": [
-            11171250.0
+            91101197.0,
+            91101196.0,
+            91101110.0,
+            91101111.0,
+            91101112.0,
+            91101113.0,
+            91101114.0,
+            91101120.0,
+            91101121.0,
+            91101122.0,
+            91101123.0,
+            91101124.0,
+            91101130.0,
+            91101131.0,
+            91101132.0,
+            91101133.0,
+            91101134.0,
+            91101140.0,
+            91101141.0,
+            91101142.0,
+            91101143.0,
+            91101144.0,
+            91101150.0,
+            91101151.0,
+            91101152.0,
+            91101153.0,
+            91101154.0,
+            91101160.0,
+            91101161.0,
+            91101162.0,
+            91101163.0,
+            91101164.0
         ],
-        "ID": 11171250,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171310.0
-        ],
-        "ID": 11171310,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171320.0
-        ],
-        "ID": 11171320,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171330.0
-        ],
-        "ID": 11171330,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171340.0
-        ],
-        "ID": 11171340,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11171350.0
-        ],
-        "ID": 11171350,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171410,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171420,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171430,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171440,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171450,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
-        "SkillTriggerrPara": [
-            0.0,
-            0.3
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171411,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
-        "SkillTriggerrPara": [
-            0.0,
-            0.35
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171421,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
-        "SkillTriggerrPara": [
-            0.0,
-            0.4
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171431,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
-        "SkillTriggerrPara": [
-            0.0,
-            0.45
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171441,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
-        "SkillTriggerrPara": [
-            0.0,
-            0.5
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 11171451,
+        "ID": 91101150,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
-        "EffectTargetParam": [],
-        "AddEffectType": 11,
-        "AddEffectPara": [
-            22.0,
-            100000.0,
-            25.0,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            49.0,
-            1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            65.0,
             1.0
         ],
-        "ID": 91171110,
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101110.0,
+            91101140.0
+        ],
+        "ID": 91101111,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
+        "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 11,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            22.0,
-            100000.0,
-            25.0,
-            1.16,
-            49.0,
+            91101120.0,
+            91101150.0
+        ],
+        "ID": 91101121,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            53.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101130.0,
+            91101160.0
+        ],
+        "ID": 91101131,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            57.0,
-            1.0,
-            65.0,
             1.0
         ],
-        "ID": 91171120,
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101120.0,
+            91101150.0,
+            91101198.0
+        ],
+        "ID": 91101141,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
+        "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 11,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            22.0,
-            100000.0,
-            25.0,
-            1.33,
-            49.0,
+            91101130.0,
+            91101160.0,
+            91101198.0
+        ],
+        "ID": 91101151,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            65.0,
             1.0
         ],
-        "ID": 91171130,
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101111.0,
+            91101141.0
+        ],
+        "ID": 91101112,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
+        "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 11,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            22.0,
-            100000.0,
-            25.0,
-            1.5,
-            49.0,
+            91101121.0,
+            91101151.0
+        ],
+        "ID": 91101122,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            53.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101131.0,
+            91101161.0
+        ],
+        "ID": 91101132,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            57.0,
-            1.0,
-            65.0,
             1.0
         ],
-        "ID": 91171140,
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101121.0,
+            91101151.0,
+            91101198.0
+        ],
+        "ID": 91101142,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-        "EffectTargetType": 0,
+        "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 11,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            22.0,
-            100000.0,
-            25.0,
-            1.83,
-            49.0,
+            91101131.0,
+            91101161.0,
+            91101198.0
+        ],
+        "ID": 91101152,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
             1.0,
-            53.0,
-            1.0,
-            57.0,
-            1.0,
-            65.0,
             1.0
         ],
-        "ID": 91171150,
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101112.0,
+            91101142.0
+        ],
+        "ID": 91101113,
         "Name": null
     },
     {
         "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171111.0
-        ],
-        "ID": 91171111,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171121.0
-        ],
-        "ID": 91171121,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171131.0
-        ],
-        "ID": 91171131,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171141.0
-        ],
-        "ID": 91171141,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171151.0
-        ],
-        "ID": 91171151,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171111.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171112,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171121.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171122,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171131.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171132,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171141.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171142,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171151.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171152,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171210.0
-        ],
-        "ID": 91171210,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171220.0
-        ],
-        "ID": 91171220,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171230.0
-        ],
-        "ID": 91171230,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171240.0
-        ],
-        "ID": 91171240,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            3000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171250.0
-        ],
-        "ID": 91171250,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171310.0
-        ],
-        "ID": 91171310,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171320.0
-        ],
-        "ID": 91171320,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171330.0
-        ],
-        "ID": 91171330,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171340.0
-        ],
-        "ID": 91171340,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 1,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            91171350.0
-        ],
-        "ID": 91171350,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171111.0
-        ],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 34,
-        "AddEffectPara": [
-            91171111.0
-        ],
-        "ID": 91171311,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171121.0
-        ],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 34,
-        "AddEffectPara": [
-            91171121.0
-        ],
-        "ID": 91171321,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171131.0
-        ],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 34,
-        "AddEffectPara": [
-            91171131.0
-        ],
-        "ID": 91171331,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171141.0
-        ],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 34,
-        "AddEffectPara": [
-            91171141.0
-        ],
-        "ID": 91171341,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 15,
-        "SkillTriggerrPara": [
-            91171151.0
-        ],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": true,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 34,
-        "AddEffectPara": [
-            91171151.0
-        ],
-        "ID": 91171351,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171410,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171420,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171430,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171440,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 20,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171450,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.8
+            91101198.0,
+            1.0,
+            2.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101122.0,
+            91101152.0
         ],
-        "ID": 91171411,
+        "ID": 91101123,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.8
+            91101198.0,
+            1.0,
+            3.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101132.0,
+            91101162.0
         ],
-        "ID": 91171421,
+        "ID": 91101133,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.8
+            91101198.0,
+            1.0,
+            1.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101122.0,
+            91101152.0,
+            91101198.0
         ],
-        "ID": 91171431,
+        "ID": 91101143,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.8
+            91101198.0,
+            1.0,
+            2.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101132.0,
+            91101162.0,
+            91101198.0
         ],
-        "ID": 91171441,
+        "ID": 91101153,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 2,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.8
+            91101198.0,
+            1.0,
+            1.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101113.0,
+            91101143.0
         ],
-        "ID": 91171451,
+        "ID": 91101114,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.5
+            91101198.0,
+            1.0,
+            2.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-        "AddEffectType": 21,
+        "AddEffectType": 1,
         "AddEffectPara": [
-            2.0,
-            100.0
+            91101123.0,
+            91101153.0
         ],
-        "ID": 91171412,
+        "ID": 91101124,
         "Name": null
     },
     {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
         "SkillTriggerrPara": [
             0.0,
-            0.55
+            91101198.0,
+            1.0,
+            3.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
-<<<<<<< HEAD
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101133.0,
+            91101163.0
+        ],
+        "ID": 91101134,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101123.0,
+            91101153.0,
+            91101198.0
+        ],
+        "ID": 91101144,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101133.0,
+            91101163.0,
+            91101198.0
+        ],
+        "ID": 91101154,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101114.0,
+            91101144.0
+        ],
+        "ID": 91101115,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101124.0,
+            91101154.0
+        ],
+        "ID": 91101125,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101134.0,
+            91101164.0
+        ],
+        "ID": 91101135,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101124.0,
+            91101154.0,
+            91101198.0
+        ],
+        "ID": 91101145,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            91101198.0,
+            1.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
             91101134.0,
@@ -39355,34 +39755,70 @@
         "EffectTargetType": 9,
         "EffectTargetParam": [],
         "AddEffectType": 12,
-=======
-        "AddEffectType": 21,
->>>>>>> parent of 269e0ad... sc 1130100
         "AddEffectPara": [
-            2.0,
-            100.0
+            25.0,
+            0.7,
+            0.0,
+            0.0,
+            0.0,
+            0.0
         ],
-        "ID": 91171422,
+        "ID": 91101146,
         "Name": null
     },
     {
-<<<<<<< HEAD
         "SkillType": 1,
         "EffectTriggerEvent": 27,
         "EffectImpactCondition": 15,
-=======
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
->>>>>>> parent of 269e0ad... sc 1130100
         "SkillTriggerrPara": [
-            0.0,
-            0.6
+            91101134.0
         ],
         "SkillTriggerProb": 1.0,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
-<<<<<<< HEAD
+        "EffectTargetType": 9,
+        "EffectTargetParam": [],
+        "AddEffectType": 12,
+        "AddEffectPara": [
+            25.0,
+            0.75,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "ID": 91101156,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            51100010.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 4,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91101193.0
+        ],
+        "ID": 91101190,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 26,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            51100020.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
         "EffectTargetType": 4,
         "EffectTargetParam": [],
         "AddEffectType": 1,
@@ -50608,699 +51044,6 @@
         "SkillTriggerProb": 0.1,
         "AddSkillProb": false,
         "SkillTriggerCD": 6000,
-=======
->>>>>>> parent of 269e0ad... sc 1130100
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171432,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.7
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171442,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 1,
-        "SkillTriggerrPara": [
-            0.0,
-            0.8
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 21,
-        "AddEffectPara": [
-            2.0,
-            100.0
-        ],
-        "ID": 91171452,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191110.0
-        ],
-        "ID": 11191110,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191120.0
-        ],
-        "ID": 11191120,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191130.0
-        ],
-        "ID": 11191130,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191140.0
-        ],
-        "ID": 11191140,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 15,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191150.0
-        ],
-        "ID": 11191150,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 2,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 11191210,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 2,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 8000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 11191220,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 2,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 6000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 11191230,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 2,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 4000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 11191240,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 2,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 2000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            100.0
-        ],
-        "ID": 11191250,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 6,
-        "EffectTargetParam": [
-            1
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191310.0
-        ],
-        "ID": 11191310,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 6,
-        "EffectTargetParam": [
-            1
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191320.0
-        ],
-        "ID": 11191320,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 6,
-        "EffectTargetParam": [
-            1
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191330.0
-        ],
-        "ID": 11191330,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 6,
-        "EffectTargetParam": [
-            1
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191340.0
-        ],
-        "ID": 11191340,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.2,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 6,
-        "EffectTargetParam": [
-            1
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191350.0
-        ],
-        "ID": 11191350,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191410.0
-        ],
-        "ID": 11191410,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191420.0
-        ],
-        "ID": 11191420,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191430.0
-        ],
-        "ID": 11191430,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191440.0
-        ],
-        "ID": 11191440,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191450.0
-        ],
-        "ID": 11191450,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191411.0
-        ],
-        "ID": 11191411,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191421.0
-        ],
-        "ID": 11191421,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191431.0
-        ],
-        "ID": 11191431,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191441.0
-        ],
-        "ID": 11191441,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 5,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [
-            30000.0
-        ],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 5,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 1,
-        "AddEffectPara": [
-            11191451.0
-        ],
-        "ID": 11191451,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 1,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 39,
-        "AddEffectPara": [
-            91191110.0,
-            1.0,
-            91191111.0,
-            4.0,
-            91191112.0,
-            8.0,
-            91191113.0
-        ],
-        "ID": 91191110,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 1,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 39,
-        "AddEffectPara": [
-            91191120.0,
-            1.0,
-            91191121.0,
-            4.0,
-            91191122.0,
-            8.0,
-            91191123.0
-        ],
-        "ID": 91191120,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 1,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 39,
-        "AddEffectPara": [
-            91191130.0,
-            1.0,
-            91191131.0,
-            4.0,
-            91191132.0,
-            8.0,
-            91191133.0
-        ],
-        "ID": 91191130,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 1,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 39,
-        "AddEffectPara": [
-            91191140.0,
-            1.0,
-            91191141.0,
-            4.0,
-            91191142.0,
-            8.0,
-            91191143.0
-        ],
-        "ID": 91191140,
-        "Name": null
-    },
-    {
-        "SkillType": 1,
-        "EffectTriggerEvent": 4,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 1.0,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 0,
-        "EffectTargetType": 1,
-        "EffectTargetParam": [
-            0
-        ],
-        "AddEffectType": 39,
-        "AddEffectPara": [
-            91191150.0,
-            1.0,
-            91191151.0,
-            4.0,
-            91191152.0,
-            8.0,
-            91191153.0
-        ],
-        "ID": 91191150,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 24,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 10000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            150.0
-        ],
-        "ID": 91191210,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 24,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 8000,
-        "EffectTargetType": 2,
-        "EffectTargetParam": [],
-        "AddEffectType": 4,
-        "AddEffectPara": [
-            0.0,
-            150.0
-        ],
-        "ID": 91191220,
-        "Name": null
-    },
-    {
-        "SkillType": 2,
-        "EffectTriggerEvent": 24,
-        "EffectImpactCondition": 0,
-        "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
-        "AddSkillProb": false,
-        "SkillTriggerCD": 6000,
         "EffectTargetType": 2,
         "EffectTargetParam": [],
         "AddEffectType": 4,
@@ -52990,6 +52733,101 @@
     },
     {
         "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            91201210.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201211.0
+        ],
+        "ID": 91201211,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            91201220.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201221.0
+        ],
+        "ID": 91201221,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            91201230.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201231.0
+        ],
+        "ID": 91201231,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            91201240.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201241.0
+        ],
+        "ID": 91201241,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 17,
+        "EffectImpactCondition": 13,
+        "SkillTriggerrPara": [
+            91201250.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201251.0
+        ],
+        "ID": 91201251,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
         "EffectTriggerEvent": 5,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [
@@ -53386,6 +53224,101 @@
             0.0
         ],
         "ID": 91201451,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            91201410.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201412.0
+        ],
+        "ID": 91201412,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            91201420.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201422.0
+        ],
+        "ID": 91201422,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            91201430.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201432.0
+        ],
+        "ID": 91201432,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            91201440.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201442.0
+        ],
+        "ID": 91201442,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            91201450.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 8,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            91201452.0
+        ],
+        "ID": 91201452,
         "Name": null
     },
     {
@@ -58068,11 +58001,7 @@
         "EffectTargetParam": [],
         "AddEffectType": 1,
         "AddEffectPara": [
-<<<<<<< HEAD
-            50200030.0
-=======
             30001314.0
->>>>>>> parent of 269e0ad... sc 1130100
         ],
         "ID": 30001311,
         "Name": null
@@ -58220,6 +58149,108 @@
     },
     {
         "SkillType": 2,
+        "EffectTriggerEvent": 0,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 4,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001332.0
+        ],
+        "ID": 30001319,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 0,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 4,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001333.0
+        ],
+        "ID": 30001320,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 3,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.15,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 1,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001325.0
+        ],
+        "ID": 30001321,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 3,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 1,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001326.0
+        ],
+        "ID": 30001322,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 3,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 1,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001327.0
+        ],
+        "ID": 30001323,
+        "Name": null
+    },
+    {
+        "SkillType": 1,
+        "EffectTriggerEvent": 3,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 1,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            30001331.0
+        ],
+        "ID": 30001324,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
         "EffectTriggerEvent": 2,
         "EffectImpactCondition": 0,
         "SkillTriggerrPara": [],
@@ -58249,9 +58280,27 @@
         "AddEffectType": 4,
         "AddEffectPara": [
             0.0,
-            500.0
+            350.0
         ],
         "ID": 50640020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 2,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.1,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 30000,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 4,
+        "AddEffectPara": [
+            0.0,
+            500.0
+        ],
+        "ID": 50640030,
         "Name": null
     },
     {
@@ -58293,15 +58342,15 @@
         "AddEffectType": 25,
         "AddEffectPara": [
             90921211.0,
-            2.0,
+            3.0,
             90921221.0,
-            2.0,
+            3.0,
             90921231.0,
-            2.0,
+            3.0,
             90921241.0,
-            2.0,
+            3.0,
             90921251.0,
-            2.0
+            3.0
         ],
         "ID": 50920020,
         "Name": null
@@ -58319,15 +58368,15 @@
         "AddEffectType": 25,
         "AddEffectPara": [
             90921211.0,
-            3.0,
+            5.0,
             90921221.0,
-            3.0,
+            5.0,
             90921231.0,
-            3.0,
+            5.0,
             90921241.0,
-            3.0,
+            5.0,
             90921251.0,
-            3.0
+            5.0
         ],
         "ID": 50920030,
         "Name": null
@@ -58368,6 +58417,23 @@
     },
     {
         "SkillType": 2,
+        "EffectTriggerEvent": 6,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.05,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51080030.0
+        ],
+        "ID": 51080030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
         "EffectTriggerEvent": 4,
         "EffectImpactCondition": 26,
         "SkillTriggerrPara": [],
@@ -58396,10 +58462,28 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2.0,
+            1.7,
             100.0
         ],
         "ID": 51080021,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": true,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            2.0,
+            100.0
+        ],
+        "ID": 51080031,
         "Name": null
     },
     {
@@ -58444,10 +58528,34 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2.0,
+            1.7,
             100.0
         ],
         "ID": 50470020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90471410.0,
+            90471420.0,
+            90471430.0,
+            90471440.0,
+            90471450.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            2.0,
+            100.0
+        ],
+        "ID": 50470030,
         "Name": null
     },
     {
@@ -58473,7 +58581,7 @@
         "EffectTriggerEvent": 4,
         "EffectImpactCondition": 26,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
+        "SkillTriggerProb": 0.075,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
@@ -58484,6 +58592,24 @@
             100.0
         ],
         "ID": 50330020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.1,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            2.0,
+            100.0
+        ],
+        "ID": 50330030,
         "Name": null
     },
     {
@@ -58529,9 +58655,33 @@
         "AddEffectType": 13,
         "AddEffectPara": [
             65.0,
-            0.0025
+            0.00175
         ],
         "ID": 50600020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 19,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [
+            90601410.0,
+            90601420.0,
+            90601430.0,
+            90601440.0,
+            90601450.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 13,
+        "AddEffectPara": [
+            65.0,
+            0.0025
+        ],
+        "ID": 50600030,
         "Name": null
     },
     {
@@ -58556,7 +58706,7 @@
         "EffectTriggerEvent": 4,
         "EffectImpactCondition": 26,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
+        "SkillTriggerProb": 0.15,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
@@ -58573,7 +58723,7 @@
         "EffectTriggerEvent": 4,
         "EffectImpactCondition": 26,
         "SkillTriggerrPara": [],
-        "SkillTriggerProb": 0.1,
+        "SkillTriggerProb": 0.2,
         "AddSkillProb": false,
         "SkillTriggerCD": 0,
         "EffectTargetType": 2,
@@ -58617,6 +58767,23 @@
             50200020.0
         ],
         "ID": 50200020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            50200030.0
+        ],
+        "ID": 50200030,
         "Name": null
     },
     {
@@ -58728,10 +58895,33 @@
         "EffectTargetParam": [],
         "AddEffectType": 21,
         "AddEffectPara": [
-            2.0,
+            1.7,
             100.0
         ],
         "ID": 50800020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 10,
+        "SkillTriggerrPara": [
+            0.0,
+            90801110.0,
+            4.0,
+            20.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            2.0,
+            100.0
+        ],
+        "ID": 50800030,
         "Name": null
     },
     {
@@ -58749,6 +58939,510 @@
             59000010.0
         ],
         "ID": 59000010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            59000020.0
+        ],
+        "ID": 59000020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            59000030.0
+        ],
+        "ID": 59000030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51100010.0
+        ],
+        "ID": 51100010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51100020.0
+        ],
+        "ID": 51100020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51100030.0
+        ],
+        "ID": 51100030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 6,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.3,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 2000,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 43,
+        "AddEffectPara": [
+            91111112.0,
+            -5.0
+        ],
+        "ID": 51110010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 6,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.5,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 2000,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 43,
+        "AddEffectPara": [
+            91111112.0,
+            -7.0
+        ],
+        "ID": 51110020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 6,
+        "EffectImpactCondition": 0,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 0.7,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 2000,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 43,
+        "AddEffectPara": [
+            91111112.0,
+            -10.0
+        ],
+        "ID": 51110030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 25,
+        "AddEffectPara": [
+            91121110.0,
+            10.0,
+            91121120.0,
+            10.0,
+            91121130.0,
+            10.0,
+            91121140.0,
+            10.0,
+            91121150.0,
+            10.0,
+            91121410.0,
+            10.0,
+            91121420.0,
+            10.0,
+            91121430.0,
+            10.0,
+            91121440.0,
+            10.0,
+            91121450.0,
+            10.0
+        ],
+        "ID": 51120010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 23,
+        "AddEffectPara": [
+            91121259.0
+        ],
+        "ID": 51120020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51120011.0
+        ],
+        "ID": 51120030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51120021.0
+        ],
+        "ID": 51120031,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            51120031.0
+        ],
+        "ID": 51120032,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            51120011.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            1.5,
+            100.0
+        ],
+        "ID": 51120040,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            51120021.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            2.0,
+            100.0
+        ],
+        "ID": 51120041,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 4,
+        "EffectImpactCondition": 15,
+        "SkillTriggerrPara": [
+            51120031.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 21,
+        "AddEffectPara": [
+            3.0,
+            100.0
+        ],
+        "ID": 51120042,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 25,
+        "AddEffectPara": [
+            91131411.0,
+            2.0,
+            91131421.0,
+            2.0,
+            91131431.0,
+            2.0,
+            91131441.0,
+            2.0,
+            91131451.0,
+            2.0,
+            8113010.0,
+            2.0
+        ],
+        "ID": 51130010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 25,
+        "AddEffectPara": [
+            91131411.0,
+            4.0,
+            91131421.0,
+            4.0,
+            91131431.0,
+            4.0,
+            91131441.0,
+            4.0,
+            91131451.0,
+            4.0,
+            8113010.0,
+            4.0
+        ],
+        "ID": 51130020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 25,
+        "AddEffectPara": [
+            91131411.0,
+            6.0,
+            91131421.0,
+            6.0,
+            91131431.0,
+            6.0,
+            91131441.0,
+            6.0,
+            91131451.0,
+            6.0,
+            8113010.0,
+            6.0
+        ],
+        "ID": 51130030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 36,
+        "AddEffectPara": [
+            91141112.0,
+            3.0
+        ],
+        "ID": 51140010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 36,
+        "AddEffectPara": [
+            91141112.0,
+            5.0
+        ],
+        "ID": 51140020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 26,
+        "SkillTriggerrPara": [],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 36,
+        "AddEffectPara": [
+            91141112.0,
+            10.0
+        ],
+        "ID": 51140030,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            3.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            50950010.0
+        ],
+        "ID": 50950010,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            2.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            50950010.0
+        ],
+        "ID": 50950020,
+        "Name": null
+    },
+    {
+        "SkillType": 2,
+        "EffectTriggerEvent": 1,
+        "EffectImpactCondition": 29,
+        "SkillTriggerrPara": [
+            4.0,
+            4.0,
+            1.0
+        ],
+        "SkillTriggerProb": 1.0,
+        "AddSkillProb": false,
+        "SkillTriggerCD": 0,
+        "EffectTargetType": 2,
+        "EffectTargetParam": [],
+        "AddEffectType": 1,
+        "AddEffectPara": [
+            50950010.0
+        ],
+        "ID": 50950030,
         "Name": null
     }
 ]

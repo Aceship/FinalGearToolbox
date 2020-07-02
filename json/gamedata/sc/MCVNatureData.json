@@ -3393,5 +3393,180 @@
         "MaxLevel": 12,
         "ID": 485,
         "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 486,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 487,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 488,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 489,
+        "Name": null
+    },
+    {
+        "GirlID": 110,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 490,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 491,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 492,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 493,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 494,
+        "Name": null
+    },
+    {
+        "GirlID": 111,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 495,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 496,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 497,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 498,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 499,
+        "Name": null
+    },
+    {
+        "GirlID": 112,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 500,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 501,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 502,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 503,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 504,
+        "Name": null
+    },
+    {
+        "GirlID": 113,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 505,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 1,
+        "MaxLevel": 12,
+        "ID": 506,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 2,
+        "MaxLevel": 12,
+        "ID": 507,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 3,
+        "MaxLevel": 12,
+        "ID": 508,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 4,
+        "MaxLevel": 12,
+        "ID": 509,
+        "Name": null
+    },
+    {
+        "GirlID": 114,
+        "NatureID": 5,
+        "MaxLevel": 12,
+        "ID": 510,
+        "Name": null
     }
 ]

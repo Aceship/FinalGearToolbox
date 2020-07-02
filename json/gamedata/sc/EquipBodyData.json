@@ -4886,7 +4886,6 @@
         "type": "None",
         "ID": 24000650,
         "Name": null
-<<<<<<< HEAD
     },
     {
         "bulletResistance": 1.4,
@@ -5095,7 +5094,5 @@
         "type": "None",
         "ID": 24000690,
         "Name": null
-=======
->>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

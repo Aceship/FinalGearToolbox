@@ -26434,181 +26434,6 @@
     {
         "WidgetSN": "8133",
         "WidgetCamp": "Arita",
-<<<<<<< HEAD
-=======
-        "EquipType": "None",
-        "EquipSubType": "突击武器",
-        "SuitID": 308001,
-        "WeightType": "无",
-        "FeatureSkill": [],
-        "DistanceType": "前排",
-        "Clip": 9999,
-        "ReloadType": "AutoReload",
-        "ReloadTime": 1332,
-        "ReloadRecover": 9999,
-        "AccumulatingTime": 0,
-        "ShootInterval": 0,
-        "AttackSpeed": 1.0,
-        "WeaponSpeed": 2.18,
-        "Trigger": 0.46,
-        "BulletlAggRatio": [
-            0.37
-        ],
-        "BulletAggValue": 0,
-        "InjuryAddEffectType": "无",
-        "InjuryAddEffectPara": [],
-        "Disc": "11800",
-        "Model": 21000470,
-        "Icon": "Parts_Arm_000470",
-        "Icon_Large": "L_Arm_000470",
-        "Background": "ItemBack",
-        "DropMonsterID": [
-            0
-        ],
-        "WidgetArea": [
-            0
-        ],
-        "PropertyType": 3,
-        "PropertyPara1": "",
-        "PropertyPara2": [],
-        "SuitType": 3,
-        "WidgetIntroID": 2308013,
-        "ID": 230801301,
-        "Name": "11784"
-    },
-    {
-        "WidgetSN": "8133",
-        "WidgetCamp": "Arita",
-        "EquipType": "Body",
-        "EquipSubType": "轻型输出胸甲",
-        "SuitID": 308001,
-        "WeightType": "轻",
-        "FeatureSkill": [],
-        "DistanceType": "无",
-        "Clip": 0,
-        "ReloadType": "AutoReload",
-        "ReloadTime": 0,
-        "ReloadRecover": 0,
-        "AccumulatingTime": 0,
-        "ShootInterval": 0,
-        "AttackSpeed": 0.0,
-        "WeaponSpeed": 0.0,
-        "Trigger": 0.0,
-        "BulletlAggRatio": [
-            0.0
-        ],
-        "BulletAggValue": 0,
-        "InjuryAddEffectType": "无",
-        "InjuryAddEffectPara": [],
-        "Disc": "11801",
-        "Model": 24000470,
-        "Icon": "Parts_Body_000470",
-        "Icon_Large": "L_Body_000470",
-        "Background": "ItemBack",
-        "DropMonsterID": [
-            0
-        ],
-        "WidgetArea": [
-            0
-        ],
-        "PropertyType": 3,
-        "PropertyPara1": "",
-        "PropertyPara2": [],
-        "SuitType": 3,
-        "WidgetIntroID": 2308021,
-        "ID": 230802101,
-        "Name": "11785"
-    },
-    {
-        "WidgetSN": "8133",
-        "WidgetCamp": "Arita",
-        "EquipType": "Pilot",
-        "EquipSubType": "轻型输出腿甲",
-        "SuitID": 308001,
-        "WeightType": "轻",
-        "FeatureSkill": [],
-        "DistanceType": "无",
-        "Clip": 0,
-        "ReloadType": "AutoReload",
-        "ReloadTime": 0,
-        "ReloadRecover": 0,
-        "AccumulatingTime": 0,
-        "ShootInterval": 0,
-        "AttackSpeed": 0.0,
-        "WeaponSpeed": 0.0,
-        "Trigger": 0.0,
-        "BulletlAggRatio": [
-            0.0
-        ],
-        "BulletAggValue": 0,
-        "InjuryAddEffectType": "无",
-        "InjuryAddEffectPara": [],
-        "Disc": "11802",
-        "Model": 23000470,
-        "Icon": "Parts_Leg_000470",
-        "Icon_Large": "L_Leg_000470",
-        "Background": "ItemBack",
-        "DropMonsterID": [
-            0
-        ],
-        "WidgetArea": [
-            0
-        ],
-        "PropertyType": 3,
-        "PropertyPara1": "",
-        "PropertyPara2": [],
-        "SuitType": 3,
-        "WidgetIntroID": 2308031,
-        "ID": 230803101,
-        "Name": "11786"
-    },
-    {
-        "WidgetSN": "8133",
-        "WidgetCamp": "Arita",
-        "EquipType": "Arm",
-        "EquipSubType": "轻型输出挂载",
-        "SuitID": 308001,
-        "WeightType": "轻",
-        "FeatureSkill": [],
-        "DistanceType": "无",
-        "Clip": 0,
-        "ReloadType": "AutoReload",
-        "ReloadTime": 0,
-        "ReloadRecover": 0,
-        "AccumulatingTime": 0,
-        "ShootInterval": 0,
-        "AttackSpeed": 0.0,
-        "WeaponSpeed": 0.0,
-        "Trigger": 0.0,
-        "BulletlAggRatio": [
-            0.0
-        ],
-        "BulletAggValue": 0,
-        "InjuryAddEffectType": "无",
-        "InjuryAddEffectPara": [],
-        "Disc": "11803",
-        "Model": 22000470,
-        "Icon": "Parts_Bag_000470",
-        "Icon_Large": "L_Bag_000470",
-        "Background": "ItemBack",
-        "DropMonsterID": [
-            0
-        ],
-        "WidgetArea": [
-            0
-        ],
-        "PropertyType": 3,
-        "PropertyPara1": "",
-        "PropertyPara2": [],
-        "SuitType": 3,
-        "WidgetIntroID": 2308041,
-        "ID": 230804101,
-        "Name": "11787"
-    },
-    {
-        "WidgetSN": "8133",
-        "WidgetCamp": "Haxel",
->>>>>>> parent of 269e0ad... sc 1130100
         "EquipType": "None",
         "EquipSubType": "突击武器",
         "SuitID": 308001,
@@ -36616,7 +36441,6 @@
         "WidgetIntroID": 2300141,
         "ID": 230014107,
         "Name": "5029"
-<<<<<<< HEAD
     },
     {
         "WidgetSN": "8133",
@@ -38577,7 +38401,5 @@
         "WidgetIntroID": 2311404,
         "ID": 231140401,
         "Name": "18086"
-=======
->>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

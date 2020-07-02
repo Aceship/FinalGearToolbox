@@ -5,24 +5,24 @@
         "ActivityOpenContent": [
             [
                 0.0,
-                0.1
-            ],
-            [
-                1.0,
-                0.1
+                1.0
             ],
             [
                 2.0,
-                0.1
+                1.0
             ],
             [
-                3.0,
-                0.1
+                4.0,
+                9999.0
+            ],
+            [
+                5.0,
+                7000.0
             ]
         ],
         "MapArea": 0,
-        "ActivityOpenTime": "2029/9/30 14:30:00",
-        "ActivityCloseTime": "2029/10/30 13:59:59",
+        "ActivityOpenTime": "2020/7/2 12:00:00",
+        "ActivityCloseTime": "2020/7/30 13:59:59",
         "ActivityIcon": "80000002",
         "MercenaryCorpsIcon": "62000019",
         "PilotIcon": "62000022",

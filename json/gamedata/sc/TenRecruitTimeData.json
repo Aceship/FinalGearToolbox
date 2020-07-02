@@ -314,9 +314,9 @@
     {
         "RecruitActivityType": 1,
         "IosOpenTime": "2020/6/11 14:30:00",
-        "IosCloseTime": "2020/6/25 13:59:59",
+        "IosCloseTime": "2020/6/11 13:59:59",
         "AndOpenTime": "2020/6/11 14:30:00",
-        "AndCloseTime": "2020/6/25 13:59:59",
+        "AndCloseTime": "2020/6/11 13:59:59",
         "ResourceName": "120,limitRecruitRight24,RecruitRight24,SquareHead_Pilot_001200",
         "ListOrder": 1,
         "LibraryID": 26,
@@ -325,7 +325,6 @@
     },
     {
         "RecruitActivityType": 1,
-<<<<<<< HEAD
         "IosOpenTime": "2020/7/2 11:30:00",
         "IosCloseTime": "2020/7/30 13:59:59",
         "AndOpenTime": "2020/7/2 11:30:00",
@@ -379,17 +378,10 @@
         "AndOpenTime": "2020/7/16 14:30:00",
         "AndCloseTime": "2020/7/30 13:59:59",
         "ResourceName": "120,FreeRecruitRight1,FreeRecruitRight1,SquareHead_Pilot_001200",
-=======
-        "IosOpenTime": "2020/6/25 14:30:00",
-        "IosCloseTime": "2020/7/2 13:59:59",
-        "AndOpenTime": "2020/6/25 14:30:00",
-        "AndCloseTime": "2020/7/2 13:59:59",
-        "ResourceName": "80,limitRecruitRight14,RecruitRight14,SquareHead_Pilot_000800",
->>>>>>> parent of 269e0ad... sc 1130100
         "ListOrder": 1,
         "LibraryID": 33,
         "ID": 10032,
-        "Name": "11713"
+        "Name": "17805"
     },
     {
         "RecruitActivityType": 2,
@@ -682,9 +674,9 @@
     {
         "RecruitActivityType": 2,
         "IosOpenTime": "2020/6/11 14:30:00",
-        "IosCloseTime": "2020/6/25 13:59:59",
+        "IosCloseTime": "2020/6/11 13:59:59",
         "AndOpenTime": "2020/6/11 14:30:00",
-        "AndCloseTime": "2020/6/25 13:59:59",
+        "AndCloseTime": "2020/6/11 13:59:59",
         "ResourceName": "120,limitDevelopRight23,DevelopRight23,SquareHead_Pilot_001200",
         "ListOrder": 1,
         "LibraryID": 20030,
@@ -694,9 +686,9 @@
     {
         "RecruitActivityType": 2,
         "IosOpenTime": "2020/6/11 14:30:00",
-        "IosCloseTime": "2020/6/25 13:59:59",
+        "IosCloseTime": "2020/6/11 13:59:59",
         "AndOpenTime": "2020/6/11 14:30:00",
-        "AndCloseTime": "2020/6/25 13:59:59",
+        "AndCloseTime": "2020/6/11 13:59:59",
         "ResourceName": "36,limitDevelopRight24,DevelopRight24,SquareHead_Pilot_000360",
         "ListOrder": 1,
         "LibraryID": 20031,
@@ -705,7 +697,6 @@
     },
     {
         "RecruitActivityType": 2,
-<<<<<<< HEAD
         "IosOpenTime": "2020/7/2 11:30:00",
         "IosCloseTime": "2020/7/30 13:59:59",
         "AndOpenTime": "2020/7/2 11:30:00",
@@ -751,16 +742,5 @@
         "LibraryID": 20035,
         "ID": 20030,
         "Name": "18111"
-=======
-        "IosOpenTime": "2020/6/25 14:30:00",
-        "IosCloseTime": "2020/7/2 13:59:59",
-        "AndOpenTime": "2020/6/25 14:30:00",
-        "AndCloseTime": "2020/7/2 13:59:59",
-        "ResourceName": "80,limitDevelopRight12,DevelopRight12,SquareHead_Pilot_000800",
-        "ListOrder": 1,
-        "LibraryID": 20018,
-        "ID": 20031,
-        "Name": "11810"
->>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

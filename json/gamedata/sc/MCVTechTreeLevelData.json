@@ -11088,5 +11088,1237 @@
         "Effect": 20185,
         "ID": 30405,
         "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4001,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30011,
+        "ID": 40011,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4001,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30012,
+        "ID": 40012,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4001,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30013,
+        "ID": 40013,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4001,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30014,
+        "ID": 40014,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4001,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30015,
+        "ID": 40015,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4002,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30151,
+        "ID": 40021,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4002,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30152,
+        "ID": 40022,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4002,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30153,
+        "ID": 40023,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4002,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30154,
+        "ID": 40024,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4002,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30155,
+        "ID": 40025,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4003,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30051,
+        "ID": 40031,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4003,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30052,
+        "ID": 40032,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4003,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30053,
+        "ID": 40033,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4003,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30054,
+        "ID": 40034,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4003,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30055,
+        "ID": 40035,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4004,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30021,
+        "ID": 40041,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4004,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30022,
+        "ID": 40042,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4004,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30023,
+        "ID": 40043,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4005,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30161,
+        "ID": 40051,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4005,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30162,
+        "ID": 40052,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4005,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30163,
+        "ID": 40053,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4006,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30061,
+        "ID": 40061,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4006,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30062,
+        "ID": 40062,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4006,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30063,
+        "ID": 40063,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4007,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30131,
+        "ID": 40071,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4007,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30132,
+        "ID": 40072,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4007,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30133,
+        "ID": 40073,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4007,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30134,
+        "ID": 40074,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4007,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30135,
+        "ID": 40075,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4008,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30091,
+        "ID": 40081,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4008,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30092,
+        "ID": 40082,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4008,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30093,
+        "ID": 40083,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4008,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30094,
+        "ID": 40084,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4008,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30095,
+        "ID": 40085,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4009,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30031,
+        "ID": 40091,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4009,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30032,
+        "ID": 40092,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4009,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30033,
+        "ID": 40093,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4009,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30034,
+        "ID": 40094,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4009,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30035,
+        "ID": 40095,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4010,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30141,
+        "ID": 40101,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4010,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30142,
+        "ID": 40102,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4010,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30143,
+        "ID": 40103,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4011,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30101,
+        "ID": 40111,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4011,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30102,
+        "ID": 40112,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4011,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30103,
+        "ID": 40113,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4012,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30171,
+        "ID": 40121,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4012,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30172,
+        "ID": 40122,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4012,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30173,
+        "ID": 40123,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4012,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30174,
+        "ID": 40124,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4012,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30175,
+        "ID": 40125,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4013,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30191,
+        "ID": 40131,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4013,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30192,
+        "ID": 40132,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4013,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30193,
+        "ID": 40133,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4013,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30194,
+        "ID": 40134,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4013,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30195,
+        "ID": 40135,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4014,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30211,
+        "ID": 40141,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4014,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30212,
+        "ID": 40142,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4014,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30213,
+        "ID": 40143,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4014,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30214,
+        "ID": 40144,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4014,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30215,
+        "ID": 40145,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4015,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30181,
+        "ID": 40151,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4015,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30182,
+        "ID": 40152,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4015,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30183,
+        "ID": 40153,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4016,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30201,
+        "ID": 40161,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4016,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30202,
+        "ID": 40162,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4016,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30203,
+        "ID": 40163,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4017,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30221,
+        "ID": 40171,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4017,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30222,
+        "ID": 40172,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4017,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30223,
+        "ID": 40173,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4018,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30111,
+        "ID": 40181,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4018,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30112,
+        "ID": 40182,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4018,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30113,
+        "ID": 40183,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4018,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30114,
+        "ID": 40184,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4018,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30115,
+        "ID": 40185,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4019,
+        "ItemCost": [
+            [
+                13700012,
+                5
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30071,
+        "ID": 40191,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4019,
+        "ItemCost": [
+            [
+                13700012,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30072,
+        "ID": 40192,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4019,
+        "ItemCost": [
+            [
+                13700012,
+                15
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30073,
+        "ID": 40193,
+        "Name": null
+    },
+    {
+        "TechLevel": 4,
+        "TechId": 4019,
+        "ItemCost": [
+            [
+                13700012,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30074,
+        "ID": 40194,
+        "Name": null
+    },
+    {
+        "TechLevel": 5,
+        "TechId": 4019,
+        "ItemCost": [
+            [
+                13700012,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30075,
+        "ID": 40195,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4020,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30081,
+        "ID": 40201,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4020,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30082,
+        "ID": 40202,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4020,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30083,
+        "ID": 40203,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4021,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30121,
+        "ID": 40211,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4021,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30122,
+        "ID": 40212,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4021,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30123,
+        "ID": 40213,
+        "Name": null
+    },
+    {
+        "TechLevel": 1,
+        "TechId": 4022,
+        "ItemCost": [
+            [
+                13700013,
+                10
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30041,
+        "ID": 40221,
+        "Name": null
+    },
+    {
+        "TechLevel": 2,
+        "TechId": 4022,
+        "ItemCost": [
+            [
+                13700013,
+                20
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30042,
+        "ID": 40222,
+        "Name": null
+    },
+    {
+        "TechLevel": 3,
+        "TechId": 4022,
+        "ItemCost": [
+            [
+                13700013,
+                30
+            ]
+        ],
+        "MCVlevel": 0,
+        "Effect": 30043,
+        "ID": 40223,
+        "Name": null
     }
 ]

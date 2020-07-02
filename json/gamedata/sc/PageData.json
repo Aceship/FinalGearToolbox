@@ -646,5 +646,17 @@
         "PageType": "SpringFestivalPage",
         "ID": 108,
         "Name": null
+    },
+    {
+        "PageName": "EVA外部界面",
+        "PageType": "EVAActivityPage",
+        "ID": 109,
+        "Name": null
+    },
+    {
+        "PageName": "EVA关卡第一章",
+        "PageType": "EVAStagePage",
+        "ID": 110,
+        "Name": null
     }
 ]

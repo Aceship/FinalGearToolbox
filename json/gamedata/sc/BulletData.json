@@ -34246,7 +34246,7 @@
         "hitTimes": 0.0,
         "beatBackData": {
             "BackSpeed": {
-                "x": 45.0,
+                "x": 40.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -34270,392 +34270,18 @@
     },
     {
         "type": "枪械",
-        "attackType": "群攻",
+        "attackType": "单体",
         "prefab": {
-            "asset": "01子弹_实弹狙击（怪物）",
+            "asset": "01子弹_实弹手枪（Z轴4）",
             "scale": 1.0
         },
         "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": {
             "speed": {
-                "x": 200.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹狙击 ",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 1.5,
-        "beatBackData": {
-            "BackSpeed": {
                 "x": 60.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000001,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴6）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110010
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000002,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴2）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 0.2,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 0.6
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000003,
-        "Name": null
-    },
-    {
-        "type": "炮弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_炸弹",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -60.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 40.0,
-                "y": 5.0,
-                "z": 0.0
-            },
-            "range": 40.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.4
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（大）",
-                "scale": 1.4
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 30.0,
-                "y": 30.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720100009
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 720110000,
-        "deathAnimationDatas": [],
-        "ID": 40000006,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000007,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "06子弹_隐形（Z轴3）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 1.0,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -50.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 100.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.4
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（大）",
-                "scale": 1.4
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 50.0,
-                "y": 50.0,
-                "z": 0.0
-            },
-            "Damping": 200,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110001
-        ],
-        "unitShake": 720100003,
-        "targetUnitShake": 720110000,
-        "deathAnimationDatas": [],
-        "ID": 40000008,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_实弹机枪（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 30.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -34708,19 +34334,196 @@
         "unitShake": 0,
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
-        "ID": 40000009,
+        "ID": 20000526,
         "Name": null
     },
     {
         "type": "近战",
         "attackType": "单体",
         "prefab": {
-            "asset": "05子弹_近战（Z轴6Y0.5）",
+            "asset": "05子弹_近战（Z轴6）",
             "scale": 1.0
         },
         "damage": 0,
         "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [
+            {
+                "asset": "03受击_钝器_肉质",
+                "scale": 1.0
+            }
+        ],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000527,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴6）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.5,
+        "hurtEffectTime": 0.5,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000528,
+        "Name": null
+    },
+    {
+        "type": "炮弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "01子弹_实弹重炮（Z轴7）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 0.5,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [
+            {
+                "asset": "05受击_火炮爆炸",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [
+            {
+                "asset": "01其他_拖尾火星（实弹）",
+                "scale": 1.0
+            }
+        ],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 50.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110013,
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000529,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴8）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": null,
         "hitSparkExtraSortingOrder": 0,
@@ -34739,7 +34542,7 @@
         "hitTimes": 0.0,
         "beatBackData": {
             "BackSpeed": {
-                "x": 0.0,
+                "x": 10.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -34748,27 +34551,79 @@
             "bombMode": false,
             "dragMode": false,
             "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
+            "freezingDurationEnemy": 0.05
         },
         "followBulletDirection": true,
         "bombMode": false,
-        "screenShakeIDs": [],
+        "screenShakeIDs": [
+            720110004
+        ],
         "unitShake": 0,
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
-        "ID": 40000010,
+        "ID": 20000530,
         "Name": null
     },
     {
         "type": "近战",
-        "attackType": "单体",
+        "attackType": "群攻",
         "prefab": {
             "asset": "05子弹_近战（Z轴8）",
             "scale": 1.0
         },
         "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000531,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴8）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": null,
         "hitSparkExtraSortingOrder": 0,
@@ -34787,42 +34642,227 @@
         "hitTimes": 0.0,
         "beatBackData": {
             "BackSpeed": {
-                "x": 20.0,
-                "y": 35.0,
+                "x": 100.0,
+                "y": 0.0,
                 "z": 0.0
             },
             "Damping": 500,
             "confuseTime": 0.0,
             "bombMode": false,
             "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.1
         },
-        "followBulletDirection": false,
+        "followBulletDirection": true,
         "bombMode": false,
         "screenShakeIDs": [
-            720110010
+            720110005
         ],
         "unitShake": 0,
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
-        "ID": 40000011,
+        "ID": 20000532,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -100.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 100.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光大（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "05受击_EVA初号机攻击判断",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "05受击_EVA初号机攻击判断",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110017
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000533,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴8）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 30.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000534,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴8）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 30.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000535,
         "Name": null
     },
     {
         "type": "枪械",
-        "attackType": "群攻",
+        "attackType": "单体",
         "prefab": {
-            "asset": "01子弹_实弹狙击（怪物）",
-            "scale": 0.8
+            "asset": "01子弹_EVA二号机机枪",
+            "scale": 1.0
         },
         "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": {
             "speed": {
-                "x": 200.0,
+                "x": 80.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -34840,129 +34880,25 @@
         "hitSparkExtraSortingOrder": 0,
         "hitSpark": [
             {
-                "asset": "01受击_实弹狙击 ",
-                "scale": 0.8
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_狙击拖尾",
-                "scale": 0.8
-            },
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 0.8
-            }
-        ],
-        "hitTimes": 1.5,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000012,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
+                "asset": "01受击_实弹枪械",
                 "scale": 1.0
             }
         ],
         "hitFleshSpark": [],
         "hitThoughtSpark": null,
         "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 500.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 600,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000013,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
+        "hitGroundEffectIDs": [
             {
-                "asset": "03受击_钝器",
-                "scale": 1.0
+                "asset": "01受击_实弹枪械（地面）",
+                "scale": 0.6
             }
         ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
         "explodeEffect": [],
         "trailEffects": [],
-        "hitTimes": 0.0,
+        "hitTimes": 0.1,
         "beatBackData": {
             "BackSpeed": {
-                "x": 2.0,
+                "x": 5.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -34975,175 +34911,23 @@
         },
         "followBulletDirection": true,
         "bombMode": false,
-        "screenShakeIDs": [
-            57000001
-        ],
+        "screenShakeIDs": [],
         "unitShake": 0,
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
-        "ID": 40000014,
+        "ID": 20000536,
         "Name": null
     },
     {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": -2.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            57000001
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000015,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 60.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            57000002
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000016,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": -20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            57000002
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000017,
-        "Name": null
-    },
-    {
-        "type": "炮弹",
+        "type": "枪械",
         "attackType": "群攻",
         "prefab": {
-            "asset": "01子弹_实弹重炮",
-            "scale": 0.5
+            "asset": "01子弹_EVA二号机技能机枪",
+            "scale": 1.0
         },
         "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": {
             "speed": {
@@ -35151,13 +34935,345 @@
                 "y": 0.0,
                 "z": 0.0
             },
-            "range": 25.0,
+            "range": 0.0,
             "followSpeedRotation": true,
             "startSpeedRatio": 1.0,
             "randomSpeed": {
                 "x": 0.0,
                 "y": 0.0,
-                "z": 10.0
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹枪械",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA二号机地面1",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000537,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "01子弹_EVA二号机技能机枪",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹枪械",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000538,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "01子弹_EVA二号机技能机枪",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹枪械",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 10.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000539,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形2（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 30.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹枪械",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA二号机爆炸",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "01受击_EVA二号机爆炸",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.2
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110020
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000540,
+        "Name": null
+    },
+    {
+        "type": "激光",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "04激光_EVA初号机离子炮",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光大（青）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110024
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 20000541,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "01子弹_EVA明日香机枪",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
             },
             "scriptType": null,
             "type": "静止"
@@ -35167,23 +35283,18 @@
         "hitFleshSpark": [],
         "hitThoughtSpark": null,
         "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [
+        "hitGroundEffectIDs": [
             {
-                "asset": "05受击_实弹爆炸（大）",
-                "scale": 0.3
+                "asset": "01受击_实弹枪械（地面）",
+                "scale": 0.6
             }
         ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 0.5
-            }
-        ],
-        "hitTimes": 0.1,
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
         "beatBackData": {
             "BackSpeed": {
-                "x": 50.0,
+                "x": 5.0,
                 "y": 0.0,
                 "z": 0.0
             },
@@ -35191,45 +35302,45 @@
             "confuseTime": 0.0,
             "bombMode": false,
             "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
         },
         "followBulletDirection": true,
         "bombMode": false,
-        "screenShakeIDs": [
-            720110004
-        ],
+        "screenShakeIDs": [],
         "unitShake": 0,
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
-        "ID": 40000018,
+        "ID": 20000542,
         "Name": null
     },
     {
         "type": "炸弹",
         "attackType": "群攻",
         "prefab": {
-            "asset": "01子弹_榴弹（方舟制式）",
-            "scale": 1.3
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
         },
         "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
         "delayTriggerTime": 0.0,
         "bulletMoveComponentData": {
-            "acceleration": -100.0,
-            "offest": {
-                "x": -1.0,
-                "y": 0.0,
-                "z": -1.0
+            "acceleration": {
+                "x": 0.0,
+                "y": -100.0,
+                "z": 0.0
             },
-            "followSpeed": 0.0,
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
             "speed": {
                 "x": 100.0,
                 "y": 0.0,
                 "z": 0.0
             },
-            "range": 45.0,
+            "range": 100.0,
             "followSpeedRotation": true,
             "startSpeedRatio": 1.0,
             "randomSpeed": {
@@ -35247,123 +35358,25 @@
                 "scale": 1.0
             }
         ],
-        "hitFleshSpark": null,
+        "hitFleshSpark": [],
         "hitThoughtSpark": null,
-        "blockEffectIDs": [
-            null
-        ],
+        "blockEffectIDs": [],
         "hitGroundEffectIDs": [
             {
-                "asset": "05受击_实弹爆炸（地面）",
+                "asset": "01受击_EVA明日香技能（攻击判断）",
                 "scale": 1.0
             }
         ],
         "explodeEffect": [
             {
-                "asset": "05受击_实弹爆炸（地面）",
+                "asset": "01受击_EVA明日香技能（攻击判断）",
                 "scale": 1.0
             }
         ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 1.0,
+        "trailEffects": [],
+        "hitTimes": 0.0,
         "beatBackData": {
             "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": null,
-        "ID": 40000019,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_榴弹（方舟制式）",
-            "scale": 1.3
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": -100.0,
-            "offest": {
-                "x": 1.0,
-                "y": 0.0,
-                "z": -1.0
-            },
-            "followSpeed": 0.0,
-            "speed": {
-                "x": 100.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 45.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": null,
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [
-            null
-        ],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-<<<<<<< HEAD
                 "x": 0.0,
                 "y": 0.0,
                 "z": 0.0
@@ -37191,2403 +37204,6 @@
         "beatBackData": {
             "BackSpeed": {
                 "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": null,
-        "ID": 40000020,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_榴弹（方舟制式）",
-            "scale": 1.3
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": -100.0,
-            "offest": {
-                "x": -1.0,
-                "y": 0.0,
-                "z": 1.0
-            },
-            "followSpeed": 0.0,
-            "speed": {
-                "x": 100.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 45.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": null,
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [
-            null
-        ],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": null,
-        "ID": 40000021,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_榴弹（方舟制式）",
-            "scale": 1.3
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": -100.0,
-            "offest": {
-                "x": 1.0,
-                "y": 0.0,
-                "z": 1.0
-            },
-            "followSpeed": 0.0,
-            "speed": {
-                "x": 100.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 45.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": null,
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [
-            null
-        ],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（地面）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": null,
-        "ID": 40000022,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "06子弹_隐形（Z轴3）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 200.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_BOSS埃伊菲技能爆炸（摩托车）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_BOSS埃伊菲技能爆炸（摩托车）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000023,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_实弹机枪",
-            "scale": 0.7
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 30.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "01受击_实弹枪械（地面）",
-                "scale": 0.6
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000024,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "06子弹_隐形（Z轴3）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 1.0,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -50.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 100.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面自爆精英）",
-                "scale": 0.5
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（地面自爆精英）",
-                "scale": 0.5
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110010
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000025,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_实弹手枪",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "01受击_实弹枪械（地面）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000026,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000027,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000028,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "06子弹_隐形（Z轴3）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 1.0,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -50.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 100.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_实弹爆炸（地面自爆精英Blur）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（地面自爆精英Blur）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110011
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000029,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000030,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000031,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_实弹手枪",
-            "scale": 0.8
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 0.7
-            }
-        ],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000032,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000033,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴6）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000034,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴6）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 300,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.2
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000035,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴6）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹散弹",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110004
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000036,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴6）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000037,
-        "Name": null
-    },
-    {
-        "type": "炮弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "02子弹_刻耳柏洛斯火焰炮",
-            "scale": 1.3
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [
-            {
-                "asset": "05受击_实弹爆炸（大）",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110004
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000038,
-        "Name": null
-    },
-    {
-        "type": "激光",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "02子弹_刻耳柏洛斯苍炎",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹散弹",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000039,
-        "Name": null
-    },
-    {
-        "type": "炮弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "02子弹_刻耳柏洛斯技能炮",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [
-            {
-                "asset": "05受击_刻耳柏洛斯技能爆炸",
-                "scale": 1.3
-            }
-        ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（暗黑）",
-                "scale": 2.0
-            }
-        ],
-        "hitTimes": 1.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 60.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.1,
-            "freezingDurationEnemy": 0.1
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000040,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_水晶子弹",
-            "scale": 2.2
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "02受击_水晶（地面）",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（能量）",
-                "scale": 1.5
-            }
-        ],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000041,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_水晶子弹",
-            "scale": 1.8
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "02受击_水晶（地面）",
-                "scale": 0.85
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（能量）",
-                "scale": 1.5
-            }
-        ],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000042,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_水晶子弹",
-            "scale": 2.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 50.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "02受击_水晶（地面）",
-                "scale": 0.8
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（能量）",
-                "scale": 1.5
-            }
-        ],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000043,
-        "Name": null
-    },
-    {
-        "type": "炸弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "06子弹_隐形（Z轴3）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -50.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 100.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_水晶地烧",
-                "scale": 1.0
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_水晶地烧",
-                "scale": 1.0
-            }
-        ],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": false,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000044,
-        "Name": null
-    },
-    {
-        "type": "激光",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "04激光_持续火柱",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": true,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110007
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000045,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_实弹狙击（怪物）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 200.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹狙击 ",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [
-            {
-                "asset": "01其他_狙击拖尾",
-                "scale": 1.0
-            },
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 1.5,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 60.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000046,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "02子弹_能量手枪（蓝）",
-            "scale": 0.6
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "02受击_能量枪械（蓝）",
-                "scale": 0.6
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "02受击_能量枪械蓝（地面）",
-                "scale": 0.6
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000047,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.5,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110004
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000048,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "02子弹_能量机枪（蓝）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 80.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "02受击_能量枪械（蓝）",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "02受击_能量枪械蓝（地面）",
-                "scale": 0.6
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000049,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110004
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000050,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": -250.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": true,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000051,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴24）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_钝器",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 20.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110006
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000052,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴4）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 40.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110005
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000053,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（Z轴8）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 90.0,
-                "y": 10.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110008
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000054,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_弩箭子弹",
-            "scale": 0.75
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 80.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "01受击_实弹枪械（地面）",
-                "scale": 0.8
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000055,
-        "Name": null
-    },
-    {
-        "type": "枪械",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "01子弹_弩箭子弹",
-            "scale": 0.75
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.3,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "speed": {
-                "x": 80.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "range": 0.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "01受击_实弹枪械（地面）",
-                "scale": 0.6
-            }
-        ],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 5.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 500,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.0,
-            "freezingDurationEnemy": 0.0
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000056,
-        "Name": null
-    },
-    {
-        "type": "近战",
-        "attackType": "单体",
-        "prefab": {
-            "asset": "05子弹_近战（帝国地方军_突击专用）",
-            "scale": 1.0
-        },
-        "damage": 0,
-        "hurtEffectLevel": 1.0,
-        "hurtEffectTime": 0.15,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": null,
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "03受击_切割",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": [],
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [],
-        "hitGroundEffectIDs": [],
-        "explodeEffect": [],
-        "trailEffects": [],
-        "hitTimes": 0.0,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 10.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "Damping": 1000,
-            "confuseTime": 0.0,
-            "bombMode": false,
-            "dragMode": false,
-            "freezingDurationSelf": 0.05,
-            "freezingDurationEnemy": 0.05
-        },
-        "followBulletDirection": true,
-        "bombMode": false,
-        "screenShakeIDs": [
-            720110003
-        ],
-        "unitShake": 0,
-        "targetUnitShake": 0,
-        "deathAnimationDatas": [],
-        "ID": 40000057,
-        "Name": null
-    },
-    {
-        "type": "炮弹",
-        "attackType": "群攻",
-        "prefab": {
-            "asset": "01子弹_榴弹（橘黄）",
-            "scale": 0.6
-        },
-        "damage": 0,
-        "hurtEffectLevel": 2.0,
-        "hurtEffectTime": 0.5,
-        "delayTriggerTime": 0.0,
-        "bulletMoveComponentData": {
-            "acceleration": {
-                "x": 0.0,
-                "y": -100.0,
-                "z": 0.0
-            },
-            "maxSpeed": 0.0,
-            "randomRotateSpeed": 0.0,
-            "randomRotateSpeedChangeTime": 0.0,
-            "randomRotateSpeedChangeTimeRND": 0.0,
-            "speed": {
-                "x": 40.0,
-                "y": 8.0,
-                "z": 0.0
-            },
-            "range": 40.0,
-            "followSpeedRotation": true,
-            "startSpeedRatio": 1.0,
-            "randomSpeed": {
-                "x": 0.0,
-                "y": 0.0,
-                "z": 0.0
-            },
-            "scriptType": null,
-            "type": "静止"
-        },
-        "hitSparkExtraSortingOrder": 0,
-        "hitSpark": [
-            {
-                "asset": "01受击_实弹枪械",
-                "scale": 1.0
-            }
-        ],
-        "hitFleshSpark": null,
-        "hitThoughtSpark": null,
-        "blockEffectIDs": [
-            null
-        ],
-        "hitGroundEffectIDs": [
-            {
-                "asset": "05受击_投射爆炸（艾达近战炸弹）",
-                "scale": 1.5
-            }
-        ],
-        "explodeEffect": [
-            {
-                "asset": "05受击_火炮爆炸",
-                "scale": 1.2
-            }
-        ],
-        "trailEffects": [
-            {
-                "asset": "01其他_拖尾火星（实弹）",
-                "scale": 1.0
-            }
-        ],
-        "hitTimes": 0.1,
-        "beatBackData": {
-            "BackSpeed": {
-                "x": 50.0,
-=======
-                "x": 10.0,
->>>>>>> parent of 269e0ad... sc 1130100
                 "y": 0.0,
                 "z": 0.0
             },
@@ -56176,6 +53792,1815 @@
         "targetUnitShake": 0,
         "deathAnimationDatas": [],
         "ID": 40000286,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "10子弹_56傀儡章节_枪",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 30.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_能量枪械（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "02受击_能量枪械紫（地面）",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 5.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 1000,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000290,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "10子弹_56傀儡章节_狙击",
+            "scale": 0.8
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 0.5,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 200.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹狙击 ",
+                "scale": 0.8
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [
+            {
+                "asset": "01其他_狙击拖尾",
+                "scale": 0.8
+            },
+            {
+                "asset": "01其他_拖尾火星（实弹）",
+                "scale": 0.8
+            }
+        ],
+        "hitTimes": 0.5,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 60.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.05,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000291,
+        "Name": null
+    },
+    {
+        "type": "枪械",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "10子弹_57傀儡2章节_机枪",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "speed": {
+                "x": 80.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 0.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_能量枪械（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "02受击_能量枪械紫（地面）",
+                "scale": 0.6
+            }
+        ],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 0,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000292,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "02子弹_岩石投射炮弹",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 0.5,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": -100.0,
+            "offest": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "followSpeed": 0.0,
+            "speed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 45.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": null,
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [
+            null
+        ],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "10受击_57傀儡2章节_投射",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "10受击_57傀儡2章节_投射",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 0,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": null,
+        "ID": 40000293,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴10）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000294,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 1.0,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 100.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA第九使徒地面圈",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "01受击_EVA第九使徒地面圈",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 1.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": true,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": false,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110010
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000295,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_电磁",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": -100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": true,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000296,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_电磁",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 1000,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000297,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴20）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（蓝）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000298,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴20）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光大（蓝）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000299,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴4）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 0,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000300,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴4）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 0,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000301,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.05,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000302,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴6）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.0
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000303,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴12）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.05,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000304,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "单体",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴12）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.05,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000305,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴10）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000306,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴10）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": -100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": true,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000307,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴10）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000308,
+        "Name": null
+    },
+    {
+        "type": "激光",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "04激光_EVA第四使徒激光",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 200.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 600,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000309,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000310,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000311,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 1.0,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 100.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA第十使徒十字爆炸",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "01受击_EVA第十使徒十字爆炸",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 1.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": true,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.1
+        },
+        "followBulletDirection": false,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110010
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000312,
+        "Name": null
+    },
+    {
+        "type": "激光",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "04激光_EVA冲锋傀儡激光紫",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 600,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000313,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴10）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（紫）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000314,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.15,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -100.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 0.0,
+                "y": -80.0,
+                "z": 0.0
+            },
+            "range": 100.0,
+            "followSpeedRotation": false,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "01受击_实弹枪械",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": null,
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [
+            null
+        ],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA第三使徒地面冲击",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "01受击_EVA第三使徒地面冲击",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 0.1,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 15.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": false,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110016
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": null,
+        "ID": 40000315,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴60）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（黄）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000316,
+        "Name": null
+    },
+    {
+        "type": "激光",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "04激光_EVA第三使徒激光炮",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "02受击_激光小（黄）",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 600,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110004
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000317,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000318,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_切割",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 40.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000319,
+        "Name": null
+    },
+    {
+        "type": "炸弹",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "06子弹_隐形（Z轴3）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 2.0,
+        "hurtEffectTime": 1.0,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": {
+            "acceleration": {
+                "x": 0.0,
+                "y": -50.0,
+                "z": 0.0
+            },
+            "maxSpeed": 0.0,
+            "randomRotateSpeed": 0.0,
+            "randomRotateSpeedChangeTime": 0.0,
+            "randomRotateSpeedChangeTimeRND": 0.0,
+            "speed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "range": 100.0,
+            "followSpeedRotation": true,
+            "startSpeedRatio": 1.0,
+            "randomSpeed": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "scriptType": null,
+            "type": "静止"
+        },
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [
+            {
+                "asset": "01受击_EVA第十使徒十字爆炸",
+                "scale": 1.0
+            }
+        ],
+        "explodeEffect": [
+            {
+                "asset": "01受击_EVA第十使徒十字爆炸",
+                "scale": 1.0
+            }
+        ],
+        "trailEffects": [],
+        "hitTimes": 1.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 20.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": true,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.1
+        },
+        "followBulletDirection": false,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110010
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000320,
+        "Name": null
+    },
+    {
+        "type": "近战",
+        "attackType": "群攻",
+        "prefab": {
+            "asset": "05子弹_近战（Z轴15）",
+            "scale": 1.0
+        },
+        "damage": 0,
+        "hurtEffectLevel": 1.0,
+        "hurtEffectTime": 0.3,
+        "delayTriggerTime": 0.0,
+        "bulletMoveComponentData": null,
+        "hitSparkExtraSortingOrder": 0,
+        "hitSpark": [
+            {
+                "asset": "03受击_钝器",
+                "scale": 1.0
+            }
+        ],
+        "hitFleshSpark": [],
+        "hitThoughtSpark": null,
+        "blockEffectIDs": [],
+        "hitGroundEffectIDs": [],
+        "explodeEffect": [],
+        "trailEffects": [],
+        "hitTimes": 0.0,
+        "beatBackData": {
+            "BackSpeed": {
+                "x": 100.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Damping": 500,
+            "confuseTime": 0.0,
+            "bombMode": false,
+            "dragMode": false,
+            "freezingDurationSelf": 0.0,
+            "freezingDurationEnemy": 0.05
+        },
+        "followBulletDirection": true,
+        "bombMode": false,
+        "screenShakeIDs": [
+            720110005
+        ],
+        "unitShake": 0,
+        "targetUnitShake": 0,
+        "deathAnimationDatas": [],
+        "ID": 40000321,
         "Name": null
     }
 ]

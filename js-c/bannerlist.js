@@ -181,10 +181,10 @@ function ListBanner() {
                 var suitListArray = []
                 if(currRec.GirlList){
                     var suitList = currRec.GirlList.split(",")
-                    console.log(suitList)
+                    // console.log(suitList)
                     suitList.forEach(element => {
                         var suitCheck = element.split(";")
-                        console.log(suitCheck)
+                        // console.log(suitCheck)
                         var suitCheck2 = suitCheck[1]?suitCheck[1]:suitCheck[0]
                         var currgirl = db.girlData.find(search=>search.SuitID == suitCheck2)
                         if(currgirl){
@@ -203,20 +203,21 @@ function ListBanner() {
                 var randomFull = []
                 filterRandomNormal.forEach(element => {
                     var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
-                    randomNormal.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
+                    randomNormal.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
+                    // console.log(currwidget)
                 });
                 if(filterRandomFull.length>0){
                     filterRandomFull.forEach(element => {
                         var currwidget = db.widgetData.find(search=> search.ID==element.StuffID )
 
-                        randomFull.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
+                        randomFull.push(`<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget)}/${currwidget.Icon}.png" title='${db.cnLang[currwidget.Name]}'> `)
                     });
                 }
 
                 var checkTime = db.tenRecruitTimeData.find(search=>search.LibraryID==currRec.ID)
                 
                 
-                console.log(checkTime)
+                // console.log(checkTime)
                 mechPartsHtml.push(`
                 <div style='text-align:center'>
                     <div class='fg-mechDevBanner-container fg-border' style='background:#00225533'>
@@ -280,7 +281,7 @@ function ListBanner() {
         var closeTime = new Date(timedata.AndCloseTime)
         var timeState = openTime<= Date.now()? closeTime> Date.now()?'Ongoing':'Finished' :'Upcoming'
 
-        console.log(`Schedule: ${openTime.toLocaleDateString()} - ${closeTime.toLocaleDateString()} ` +timeState)
+        // console.log(`Schedule: ${openTime.toLocaleDateString()} - ${closeTime.toLocaleDateString()} ` +timeState)
         sortedTime.push({openTime:openTime,closeTime:closeTime,timeState:timeState,detail:timedata})
     });
 
@@ -296,7 +297,7 @@ function ListBanner() {
         var timedata = timeEvent.detail
         if(timedata.RecruitActivityType==2){
             var recruitsData = htmlcontent2.find(search=>search.ID==timedata.LibraryID)
-            console.log(recruitsData)
+            // console.log(recruitsData)
             switch (timeEvent.timeState) {
                 case 'Ongoing': htmlOngoing.push(recruitsData.html.join(''));break;
                 case 'Finished': htmlFinished.push(recruitsData.html.join(''));break;
@@ -344,12 +345,12 @@ function CreateTenBanner2(){
         var closeTime = new Date(timedata.AndCloseTime)
         var timeState = openTime<= Date.now()? closeTime> Date.now()?'Ongoing':'Finished' :'Upcoming'
 
-        console.log(`Schedule: ${openTime.toLocaleDateString()} - ${closeTime.toLocaleDateString()} ` +timeState)
+        // console.log(`Schedule: ${openTime.toLocaleDateString()} - ${closeTime.toLocaleDateString()} ` +timeState)
         sortedTime.push({openTime:openTime,closeTime:closeTime,timeState:timeState,detail:timedata})
     });
 
     sortedTime = sortedTime.sort((a,b)=> b.openTime-a.openTime)
-    console.log(sortedTime)
+    // console.log(sortedTime)
 
 
     var htmlFinished =[]
@@ -361,7 +362,7 @@ function CreateTenBanner2(){
         var timedata = timeEvent.detail
         if(timedata.RecruitActivityType==1){
             var recruitsData = db.tenRecruitData.filter(search=>search.TenRecruitID==timedata.LibraryID)
-            console.log(recruitsData)
+            // console.log(recruitsData)
             if(recruitsData){
                 
                 var openTime = timeEvent.openTime
@@ -508,7 +509,7 @@ function CreateTenBanner2(){
         htmlCompiled.push(`<div class='fg-header fg-border' style='background:#22AA55;color:#000000;padding:10px'>Ongoing Banner</div>`)
         htmlCompiled.push(htmlOngoing.join(""))
     }
-    console.log(htmlUpcoming)
+    // console.log(htmlUpcoming)
     if(htmlUpcoming!=''){
         htmlCompiled.push(`<div class='fg-header fg-border' style='background:#2255AA;color:#000000;padding:10px'>Upcoming Banner</div>`)
         htmlCompiled.push(htmlUpcoming.join(""))
@@ -655,20 +656,23 @@ function CreateTenBanner2(){
 //     $("#tenpull").html(htmlcontent.join(""))
 // }
 function EquipType(n){
-    switch(n){
-        case 0 : return "arm"
-        case 1 : return "body"
-        case 2 : return "leg"
-        case 3 : return "bag"
-        case 4 : return "item"
-        default: return n 
+    
+    var type = n.Icon.split("_")[1]
+    // console.log(type)
+    switch(type){
+        case "Arm" : return "arm"
+        case "Body" : return "body"
+        case "Leg" : return "leg"
+        case "Bag" : return "bag"
+        case "Item" : return "item"
+        default: return type
     }
 }
 
 // function RarityImg(n){
 //     switch(n){
 //         case 0 :
-//         case "N" : return `<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget.EquipType)}/${currwidget.Icon}.png"> `
+//         case "N" : return `<img style="height:40px;padding:1px" src="./img/equippartsicon/${EquipType(currwidget)}/${currwidget.Icon}.png"> `
 //     }
 // }
 

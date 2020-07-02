@@ -118,5 +118,65 @@
         "CueSheet": "BGM_EV_Spring",
         "ID": 20,
         "Name": null
+    },
+    {
+        "PageName": "EVA外部界面",
+        "CueSheet": "BGM_Evelynn_ActivityEntrance",
+        "ID": 21,
+        "Name": null
+    },
+    {
+        "PageName": "EVA关卡第一章",
+        "CueSheet": "BGM_Margaret_Battle_3",
+        "ID": 22,
+        "Name": null
+    },
+    {
+        "PageName": "EVA关卡第二章",
+        "CueSheet": "BGM_Evelynn_Battle_3",
+        "ID": 23,
+        "Name": null
+    },
+    {
+        "PageName": "EVA关卡第三章",
+        "CueSheet": "BGM_Margaret_Battle_4",
+        "ID": 24,
+        "Name": null
+    },
+    {
+        "PageName": "EVA关卡第四章",
+        "CueSheet": "BGM_Margaret_Battle_3_Boss",
+        "ID": 25,
+        "Name": null
+    },
+    {
+        "PageName": "EVABOSS战斗",
+        "CueSheet": "BGM_DAYBREAKERS",
+        "ID": 26,
+        "Name": null
+    },
+    {
+        "PageName": "EVA小怪战斗第一章",
+        "CueSheet": "BGM_Margaret_Battle_3",
+        "ID": 27,
+        "Name": null
+    },
+    {
+        "PageName": "EVA小怪战斗第二章",
+        "CueSheet": "BGM_Evelynn_Battle_3",
+        "ID": 28,
+        "Name": null
+    },
+    {
+        "PageName": "EVA小怪战斗第三章",
+        "CueSheet": "BGM_Margaret_Battle_4",
+        "ID": 29,
+        "Name": null
+    },
+    {
+        "PageName": "EVA小怪战斗第四章",
+        "CueSheet": "BGM_Margaret_Battle_3_Boss",
+        "ID": 30,
+        "Name": null
     }
 ]

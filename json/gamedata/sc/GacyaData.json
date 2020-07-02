@@ -58,5 +58,155 @@
         "ShowGirl": "3304,spine_Pilot_000333;4803,spine_Pilot_000482;8202,spine_Pilot_000821;2403,spine_Pilot_000242",
         "ID": 1004,
         "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 1,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 5,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1005,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 2,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 6,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1006,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 3,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 7,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1007,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 4,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 8,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1008,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 5,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 9,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1009,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 6,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 10,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1010,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 7,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 11,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1011,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 8,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 12,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1012,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 9,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 13,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1013,
+        "Name": null
+    },
+    {
+        "BikiniGacyaType": "无",
+        "ActivityID": 19,
+        "GacyaName": "2233",
+        "Number": 10,
+        "OnceNeed": [
+            13700002,
+            1
+        ],
+        "GacyaRandom": 14,
+        "ResourceName": "",
+        "ShowGirl": "",
+        "ID": 1014,
+        "Name": null
     }
 ]

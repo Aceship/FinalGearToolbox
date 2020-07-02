@@ -126514,7 +126514,7 @@
         "ValueClassify": 751916,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.2225,
+            2.1,
             0.0725,
             1.0,
             1.0,
@@ -126538,7 +126538,7 @@
         "ValueClassify": 751917,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.6289,
+            3.5,
             0.0751,
             1.0,
             1.0,
@@ -126562,7 +126562,7 @@
         "ValueClassify": 751918,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.0722,
+            4.41,
             0.0779,
             1.0,
             1.0,
@@ -126586,7 +126586,7 @@
         "ValueClassify": 751919,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.517,
+            0.252,
             0.0805,
             1.0,
             1.0,
@@ -126601,7 +126601,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5271,
         "Name": null
@@ -126610,7 +126611,7 @@
         "ValueClassify": 751920,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.0069,
+            0.175,
             0.0834,
             1.0,
             1.0,
@@ -126625,7 +126626,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008,
+            14110009
         ],
         "ID": 5272,
         "Name": null
@@ -126634,7 +126637,7 @@
         "ValueClassify": 751921,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.4898,
+            5.25,
             0.0859,
             1.0,
             1.0,
@@ -126649,7 +126652,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5273,
         "Name": null
@@ -126658,7 +126662,7 @@
         "ValueClassify": 751922,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.991,
+            8.75,
             0.0883,
             1.0,
             1.0,
@@ -126673,7 +126677,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5274,
         "Name": null
@@ -126682,7 +126687,7 @@
         "ValueClassify": 751923,
         "ValueLevel": 0,
         "MonsterPara": [
-            7.5279,
+            11.025,
             0.0909,
             1.0,
             1.0,
@@ -126697,7 +126702,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5275,
         "Name": null
@@ -126706,7 +126712,7 @@
         "ValueClassify": 751924,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.0657,
+            0.63,
             0.0933,
             1.0,
             1.0,
@@ -126721,7 +126727,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5276,
         "Name": null
@@ -126730,7 +126737,7 @@
         "ValueClassify": 751925,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.6473,
+            0.4375,
             0.096,
             1.0,
             1.0,
@@ -126745,7 +126752,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008,
+            14110009
         ],
         "ID": 5277,
         "Name": null
@@ -126754,7 +126763,7 @@
         "ValueClassify": 751926,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.2211,
+            18.0,
             0.0983,
             1.0,
             1.0,
@@ -126769,7 +126778,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5278,
         "Name": null
@@ -126778,7 +126788,7 @@
         "ValueClassify": 751927,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.813,
+            30.0,
             0.1006,
             1.0,
             1.0,
@@ -126793,7 +126803,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5279,
         "Name": null
@@ -126802,7 +126813,7 @@
         "ValueClassify": 751928,
         "ValueLevel": 0,
         "MonsterPara": [
-            10.4391,
+            37.8,
             0.1031,
             1.0,
             1.0,
@@ -126817,7 +126828,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5280,
         "Name": null
@@ -126826,13 +126838,8 @@
         "ValueClassify": 751929,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             10.0,
             0.4,
-=======
-            11.0661,
-            0.1052,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -126846,7 +126853,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008
         ],
         "ID": 5281,
         "Name": null
@@ -126855,13 +126863,8 @@
         "ValueClassify": 751930,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             15.0,
             0.45,
-=======
-            11.7361,
-            0.1079,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -126875,7 +126878,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110006,
-            14110007
+            14110007,
+            14110008,
+            14110009
         ],
         "ID": 5282,
         "Name": null
@@ -127236,7 +127241,7 @@
         "ValueClassify": 751946,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.2225,
+            2.1,
             0.0725,
             1.0,
             1.0,
@@ -127260,7 +127265,7 @@
         "ValueClassify": 751947,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.6289,
+            3.5,
             0.0751,
             1.0,
             1.0,
@@ -127284,7 +127289,7 @@
         "ValueClassify": 751948,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.0722,
+            1.47,
             0.0779,
             1.0,
             1.0,
@@ -127308,7 +127313,7 @@
         "ValueClassify": 751949,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.517,
+            0.1008,
             0.0805,
             1.0,
             1.0,
@@ -127323,7 +127328,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5301,
         "Name": null
@@ -127332,7 +127338,7 @@
         "ValueClassify": 751950,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.0069,
+            1.68,
             0.0834,
             1.0,
             1.0,
@@ -127347,7 +127353,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002,
+            14110009
         ],
         "ID": 5302,
         "Name": null
@@ -127356,7 +127364,7 @@
         "ValueClassify": 751951,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.4898,
+            5.25,
             0.0859,
             1.0,
             1.0,
@@ -127371,7 +127379,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5303,
         "Name": null
@@ -127380,7 +127389,7 @@
         "ValueClassify": 751952,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.991,
+            8.75,
             0.0883,
             1.0,
             1.0,
@@ -127395,7 +127404,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5304,
         "Name": null
@@ -127404,7 +127414,7 @@
         "ValueClassify": 751953,
         "ValueLevel": 0,
         "MonsterPara": [
-            7.5279,
+            3.675,
             0.0909,
             1.0,
             1.0,
@@ -127419,7 +127429,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5305,
         "Name": null
@@ -127428,7 +127439,7 @@
         "ValueClassify": 751954,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.0657,
+            0.252,
             0.0933,
             1.0,
             1.0,
@@ -127443,7 +127454,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5306,
         "Name": null
@@ -127452,7 +127464,7 @@
         "ValueClassify": 751955,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.6473,
+            4.2,
             0.096,
             1.0,
             1.0,
@@ -127467,7 +127479,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002,
+            14110009
         ],
         "ID": 5307,
         "Name": null
@@ -127476,7 +127490,7 @@
         "ValueClassify": 751956,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.2211,
+            18.0,
             0.0983,
             1.0,
             1.0,
@@ -127491,7 +127505,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5308,
         "Name": null
@@ -127500,7 +127515,7 @@
         "ValueClassify": 751957,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.813,
+            30.0,
             0.1006,
             1.0,
             1.0,
@@ -127515,7 +127530,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5309,
         "Name": null
@@ -127524,7 +127540,7 @@
         "ValueClassify": 751958,
         "ValueLevel": 0,
         "MonsterPara": [
-            10.4391,
+            12.6,
             0.1031,
             1.0,
             1.0,
@@ -127539,7 +127555,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5310,
         "Name": null
@@ -127548,13 +127565,8 @@
         "ValueClassify": 751959,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             4.0,
             0.4,
-=======
-            11.0661,
-            0.1052,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -127568,7 +127580,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002
         ],
         "ID": 5311,
         "Name": null
@@ -127577,13 +127590,8 @@
         "ValueClassify": 751960,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             135.0,
             0.45,
-=======
-            11.7361,
-            0.1079,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -127597,7 +127605,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110000,
-            14110001
+            14110001,
+            14110002,
+            14110009
         ],
         "ID": 5312,
         "Name": null
@@ -127958,7 +127968,7 @@
         "ValueClassify": 751976,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.2225,
+            0.7,
             0.0725,
             1.0,
             1.0,
@@ -127982,7 +127992,7 @@
         "ValueClassify": 751977,
         "ValueLevel": 0,
         "MonsterPara": [
-            4.6289,
+            1.155,
             0.0751,
             1.0,
             1.0,
@@ -128006,7 +128016,7 @@
         "ValueClassify": 751978,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.0722,
+            0.875,
             0.0779,
             1.0,
             1.0,
@@ -128030,7 +128040,7 @@
         "ValueClassify": 751979,
         "ValueLevel": 0,
         "MonsterPara": [
-            5.517,
+            0.252,
             0.0805,
             1.0,
             1.0,
@@ -128045,7 +128055,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5331,
         "Name": null
@@ -128054,7 +128065,7 @@
         "ValueClassify": 751980,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.0069,
+            0.175,
             0.0834,
             1.0,
             1.0,
@@ -128069,7 +128080,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005,
+            14110009
         ],
         "ID": 5332,
         "Name": null
@@ -128078,7 +128091,7 @@
         "ValueClassify": 751981,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.4898,
+            1.75,
             0.0859,
             1.0,
             1.0,
@@ -128093,7 +128106,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5333,
         "Name": null
@@ -128102,7 +128116,7 @@
         "ValueClassify": 751982,
         "ValueLevel": 0,
         "MonsterPara": [
-            6.991,
+            2.8875,
             0.0883,
             1.0,
             1.0,
@@ -128117,7 +128131,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5334,
         "Name": null
@@ -128126,7 +128141,7 @@
         "ValueClassify": 751983,
         "ValueLevel": 0,
         "MonsterPara": [
-            7.5279,
+            2.1875,
             0.0909,
             1.0,
             1.0,
@@ -128141,7 +128156,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5335,
         "Name": null
@@ -128150,7 +128166,7 @@
         "ValueClassify": 751984,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.0657,
+            0.63,
             0.0933,
             1.0,
             1.0,
@@ -128165,7 +128181,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5336,
         "Name": null
@@ -128174,7 +128191,7 @@
         "ValueClassify": 751985,
         "ValueLevel": 0,
         "MonsterPara": [
-            8.6473,
+            0.4375,
             0.096,
             1.0,
             1.0,
@@ -128189,7 +128206,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005,
+            14110009
         ],
         "ID": 5337,
         "Name": null
@@ -128198,7 +128217,7 @@
         "ValueClassify": 751986,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.2211,
+            6.0,
             0.0983,
             1.0,
             1.0,
@@ -128213,7 +128232,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5338,
         "Name": null
@@ -128222,7 +128242,7 @@
         "ValueClassify": 751987,
         "ValueLevel": 0,
         "MonsterPara": [
-            9.813,
+            9.9,
             0.1006,
             1.0,
             1.0,
@@ -128237,7 +128257,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5339,
         "Name": null
@@ -128246,7 +128267,7 @@
         "ValueClassify": 751988,
         "ValueLevel": 0,
         "MonsterPara": [
-            10.4391,
+            7.5,
             0.1031,
             1.0,
             1.0,
@@ -128261,7 +128282,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5340,
         "Name": null
@@ -128270,13 +128292,8 @@
         "ValueClassify": 751989,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             10.0,
             0.4,
-=======
-            11.0661,
-            0.1052,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -128290,7 +128307,8 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005
         ],
         "ID": 5341,
         "Name": null
@@ -128299,13 +128317,8 @@
         "ValueClassify": 751990,
         "ValueLevel": 0,
         "MonsterPara": [
-<<<<<<< HEAD
             15.0,
             0.45,
-=======
-            11.7361,
-            0.1079,
->>>>>>> parent of 269e0ad... sc 1130100
             1.0,
             1.0,
             1.0
@@ -128319,7 +128332,9 @@
         "FirstDrop": 0,
         "AwardProview": [
             14110003,
-            14110004
+            14110004,
+            14110005,
+            14110009
         ],
         "ID": 5342,
         "Name": null
@@ -128601,7 +128616,6 @@
         "AwardProview": [],
         "ID": 5355,
         "Name": null
-<<<<<<< HEAD
     },
     {
         "ValueClassify": 753000,
@@ -130366,7 +130380,5 @@
         "AwardProview": [],
         "ID": 5439,
         "Name": null
-=======
->>>>>>> parent of 269e0ad... sc 1130100
     }
 ]

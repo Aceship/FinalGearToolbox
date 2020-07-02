@@ -675,7 +675,7 @@
         "Name": "17914"
     },
     {
-        "Description": "12303",
+        "Description": "18498",
         "Icon": "82020040",
         "Background": "",
         "ItemClassify": 0,
@@ -695,8 +695,80 @@
         "ComposeNeedAmount": 0,
         "SortingPrior": 0,
         "ShopID": [],
-        "ID": 10100126,
-        "Name": "12301"
+        "ID": 10100053,
+        "Name": "18494"
+    },
+    {
+        "Description": "18499",
+        "Icon": "82020040",
+        "Background": "",
+        "ItemClassify": 0,
+        "ItemType": 0,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": false,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 0,
+        "UsedGetPara": [],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 2147483647,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 10100054,
+        "Name": "18495"
+    },
+    {
+        "Description": "18500",
+        "Icon": "82020040",
+        "Background": "",
+        "ItemClassify": 0,
+        "ItemType": 0,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": false,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 0,
+        "UsedGetPara": [],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 2147483647,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 10100055,
+        "Name": "18496"
+    },
+    {
+        "Description": "18501",
+        "Icon": "82020040",
+        "Background": "",
+        "ItemClassify": 0,
+        "ItemType": 0,
+        "IsCountBag": false,
+        "ItemQualityType": 2,
+        "IfCanUse": false,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 0,
+        "UsedGetPara": [],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 2147483647,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 10100056,
+        "Name": "18497"
     },
     {
         "Description": "12303",
@@ -1012,7 +1084,7 @@
     },
     {
         "Description": "17230",
-        "Icon": "80000008",
+        "Icon": "82020348",
         "Background": "",
         "ItemClassify": 0,
         "ItemType": 0,
@@ -4341,7 +4413,6 @@
         "Name": "17147"
     },
     {
-<<<<<<< HEAD
         "Description": "18344",
         "Icon": "84001100",
         "Background": "",
@@ -4472,8 +4543,6 @@
         "Name": "18343"
     },
     {
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "Description": "16817",
         "Icon": "83000010",
         "Background": "",
@@ -6802,7 +6871,6 @@
         "Name": "17153"
     },
     {
-<<<<<<< HEAD
         "Description": "17817",
         "Icon": "83001100",
         "Background": "",
@@ -6923,8 +6991,6 @@
         "Name": "17816"
     },
     {
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "Description": "3434",
         "Icon": "81000089",
         "Background": "",
@@ -9580,7 +9646,7 @@
         "IsCountBag": true,
         "ItemQualityType": 3,
         "IfCanUse": true,
-        "IfCanAutoUse": true,
+        "IfCanAutoUse": false,
         "UsePrice": [],
         "UsedGetType": 5,
         "UsedGetPara": [
@@ -9597,6 +9663,33 @@
         "ShopID": [],
         "ID": 15011602,
         "Name": "17810"
+    },
+    {
+        "Description": "18544",
+        "Icon": "84001111",
+        "Background": "",
+        "ItemClassify": 2,
+        "ItemType": 11,
+        "IsCountBag": true,
+        "ItemQualityType": 3,
+        "IfCanUse": true,
+        "IfCanAutoUse": false,
+        "UsePrice": [],
+        "UsedGetType": 5,
+        "UsedGetPara": [
+            11102,
+            880
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 15,
+        "ShopID": [],
+        "ID": 15011102,
+        "Name": "18543"
     },
     {
         "Description": "3476",
@@ -9729,7 +9822,6 @@
         "Name": "9040"
     },
     {
-<<<<<<< HEAD
         "Description": "18556",
         "Icon": "82020355",
         "Background": "",
@@ -10054,8 +10146,6 @@
         "Name": "18553"
     },
     {
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "Description": "3480",
         "Icon": "81000111",
         "Background": "",
@@ -40585,7 +40675,6 @@
         "Name": "2988"
     },
     {
-<<<<<<< HEAD
         "Description": "17938",
         "Icon": "82020333",
         "Background": "",
@@ -43150,15 +43239,41 @@
     {
         "Description": "17976",
         "Icon": "82020019",
-=======
-        "Description": "13996",
-        "Icon": "Parts_Arm_000470",
->>>>>>> parent of 269e0ad... sc 1130100
         "Background": "",
-        "ItemClassify": 2,
+        "ItemClassify": 3,
         "ItemType": 6,
+        "IsCountBag": false,
+        "ItemQualityType": 3,
+        "IfCanUse": true,
+        "IfCanAutoUse": true,
+        "UsePrice": [],
+        "UsedGetType": 2,
+        "UsedGetPara": [
+            11600125,
+            1,
+            10800008,
+            1,
+            10400000,
+            500000
+        ],
+        "IfCanSall": false,
+        "Price": 0,
+        "OverlyingLimit": 1,
+        "IfCanCompose": false,
+        "ComposeGet": 0,
+        "ComposeNeedAmount": 0,
+        "SortingPrior": 0,
+        "ShopID": [],
+        "ID": 19900021,
+        "Name": "17973"
+    },
+    {
+        "Description": "18541",
+        "Icon": "82020361",
+        "Background": "",
+        "ItemClassify": 3,
+        "ItemType": 14,
         "IsCountBag": true,
-<<<<<<< HEAD
         "ItemQualityType": 3,
         "IfCanUse": false,
         "IfCanAutoUse": false,
@@ -43276,15 +43391,20 @@
         "ItemClassify": 3,
         "ItemType": 6,
         "IsCountBag": false,
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "ItemQualityType": 2,
         "IfCanUse": true,
         "IfCanAutoUse": true,
         "UsePrice": [],
-        "UsedGetType": 4,
+        "UsedGetType": 2,
         "UsedGetPara": [
-            7140540
+            14110002,
+            8,
+            14110005,
+            8,
+            14110008,
+            12,
+            14110009,
+            1
         ],
         "IfCanSall": false,
         "Price": 0,
@@ -43292,34 +43412,34 @@
         "IfCanCompose": false,
         "ComposeGet": 0,
         "ComposeNeedAmount": 0,
-        "SortingPrior": 20,
+        "SortingPrior": 0,
         "ShopID": [],
-<<<<<<< HEAD
         "ID": 13710007,
         "Name": "16944"
     },
     {
         "Description": "18599",
         "Icon": "82020362",
-=======
-        "ID": 13310045,
-        "Name": "11784"
-    },
-    {
-        "Description": "13997",
-        "Icon": "Parts_Body_000470",
->>>>>>> parent of 269e0ad... sc 1130100
         "Background": "",
-        "ItemClassify": 2,
+        "ItemClassify": 3,
         "ItemType": 6,
-        "IsCountBag": true,
+        "IsCountBag": false,
         "ItemQualityType": 2,
         "IfCanUse": true,
         "IfCanAutoUse": true,
         "UsePrice": [],
-        "UsedGetType": 4,
+        "UsedGetType": 2,
         "UsedGetPara": [
-            7140541
+            14110002,
+            8,
+            14110005,
+            8,
+            14110008,
+            12,
+            14110009,
+            1,
+            12900008,
+            1
         ],
         "IfCanSall": false,
         "Price": 0,
@@ -43327,34 +43447,34 @@
         "IfCanCompose": false,
         "ComposeGet": 0,
         "ComposeNeedAmount": 0,
-        "SortingPrior": 20,
+        "SortingPrior": 0,
         "ShopID": [],
-<<<<<<< HEAD
         "ID": 13710008,
         "Name": "18559"
     },
     {
         "Description": "18599",
         "Icon": "82020365",
-=======
-        "ID": 13310046,
-        "Name": "11785"
-    },
-    {
-        "Description": "13998",
-        "Icon": "Parts_Leg_000470",
->>>>>>> parent of 269e0ad... sc 1130100
         "Background": "",
-        "ItemClassify": 2,
+        "ItemClassify": 3,
         "ItemType": 6,
-        "IsCountBag": true,
+        "IsCountBag": false,
         "ItemQualityType": 2,
         "IfCanUse": true,
         "IfCanAutoUse": true,
         "UsePrice": [],
-        "UsedGetType": 4,
+        "UsedGetType": 2,
         "UsedGetPara": [
-            7140542
+            14110002,
+            8,
+            14110005,
+            8,
+            14110008,
+            12,
+            14110009,
+            1,
+            12900011,
+            1
         ],
         "IfCanSall": false,
         "Price": 0,
@@ -43362,32 +43482,22 @@
         "IfCanCompose": false,
         "ComposeGet": 0,
         "ComposeNeedAmount": 0,
-        "SortingPrior": 20,
+        "SortingPrior": 0,
         "ShopID": [],
-<<<<<<< HEAD
         "ID": 13710009,
         "Name": "18565"
     },
     {
         "Description": "18599",
         "Icon": "82020366",
-=======
-        "ID": 13310047,
-        "Name": "11786"
-    },
-    {
-        "Description": "13999",
-        "Icon": "Parts_Bag_000470",
->>>>>>> parent of 269e0ad... sc 1130100
         "Background": "",
-        "ItemClassify": 2,
+        "ItemClassify": 3,
         "ItemType": 6,
-        "IsCountBag": true,
+        "IsCountBag": false,
         "ItemQualityType": 2,
         "IfCanUse": true,
         "IfCanAutoUse": true,
         "UsePrice": [],
-<<<<<<< HEAD
         "UsedGetType": 2,
         "UsedGetPara": [
             14110002,
@@ -43548,11 +43658,11 @@
         "IfCanAutoUse": false,
         "UsePrice": [],
         "UsedGetType": 2,
-=======
-        "UsedGetType": 4,
->>>>>>> parent of 269e0ad... sc 1130100
         "UsedGetPara": [
-            7140543
+            13700016,
+            75,
+            13700017,
+            75
         ],
         "IfCanSall": false,
         "Price": 0,
@@ -43560,9 +43670,8 @@
         "IfCanCompose": false,
         "ComposeGet": 0,
         "ComposeNeedAmount": 0,
-        "SortingPrior": 20,
+        "SortingPrior": 0,
         "ShopID": [],
-<<<<<<< HEAD
         "ID": 13700030,
         "Name": "18697"
     },
@@ -43992,8 +44101,6 @@
         "ComposeNeedAmount": 0,
         "SortingPrior": 20,
         "ShopID": [],
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "ID": 13310048,
         "Name": "11787"
     }

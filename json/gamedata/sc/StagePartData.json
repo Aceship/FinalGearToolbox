@@ -11770,7 +11770,6 @@
     {
         "isTest": false,
         "useMapScene": true,
-<<<<<<< HEAD
         "scene": "正式场景/EVA1_1第三新东京",
         "icon": "远程部队-炮灰",
         "backGroundIcon": null,
@@ -20035,8 +20034,6 @@
     {
         "isTest": false,
         "useMapScene": true,
-=======
->>>>>>> parent of 269e0ad... sc 1130100
         "scene": "正式场景/1_2山峰_模拟训练",
         "icon": "近战部队-炮灰",
         "backGroundIcon": null,

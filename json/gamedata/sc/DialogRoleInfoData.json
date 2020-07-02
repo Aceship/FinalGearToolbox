@@ -988,6 +988,58 @@
         "Name": null
     },
     {
+        "dialogRoleName": "17791",
+        "roleImgPath": "spine_Pilot_001100",
+        "roleSpinePath": "spine_Pilot_001100",
+        "headImgPath": "Head_Pilot_001100",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1100,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "17792",
+        "roleImgPath": "spine_Pilot_001110",
+        "roleSpinePath": "spine_Pilot_001110",
+        "headImgPath": "Head_Pilot_001110",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1110,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "17793",
+        "roleImgPath": "spine_Pilot_001120",
+        "roleSpinePath": "spine_Pilot_001120",
+        "headImgPath": "Head_Pilot_001120",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1120,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "17794",
+        "roleImgPath": "spine_Pilot_001130",
+        "roleSpinePath": "spine_Pilot_001130",
+        "headImgPath": "Head_Pilot_001130",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 1130,
+        "Name": null
+    },
+    {
         "dialogRoleName": "15256",
         "roleImgPath": "spine_Pilot_001170",
         "roleSpinePath": "spine_Pilot_001170",
@@ -1206,6 +1258,19 @@
         "sortingOrder": 0,
         "offse_pos_y": 0.0,
         "ID": 902030,
+        "Name": null
+    },
+    {
+        "dialogRoleName": "蛋糕",
+        "roleImgPath": "spine_Pilot_cake",
+        "roleSpinePath": "spine_Pilot_cake",
+        "headImgPath": "spine_Pilot_cake",
+        "faceImgPath": null,
+        "faceDis": null,
+        "faceIndex": null,
+        "sortingOrder": 0,
+        "offse_pos_y": 0.0,
+        "ID": 902031,
         "Name": null
     }
 ]
